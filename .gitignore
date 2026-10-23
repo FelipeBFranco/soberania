@@ -1,0 +1,14 @@
+# exports do packwiz
+*.zip
+*.mrpack
+
+# jars nunca entram no repositório
+*.jar
+
+# instância local de teste
+.packwiz/
+run/
+
+# sistema
+Thumbs.db
+.DS_Store

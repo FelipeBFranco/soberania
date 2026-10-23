@@ -1,0 +1,20 @@
+{
+  "entity.tensura_neb.carrion": "Carrion",
+  "entity.tensura_neb.luminous_valentine": "Luminous Valentine",
+  "entity.tensura_neb.rimuru_clone": "Clone do Rimuru",
+  "entity.tensura_neb.rimuru_ogre_fight": "Rimuru Tempest",
+  "entity.tensura_neb.veldora": "Veldora Tempest",
+  "item.tensura_neb.carrion_spawn_egg": "Ovo de Invocação de Carrion",
+  "item.tensura_neb.luminous_valentine_spawn_egg": "Ovo de Invocação de Luminous Valentine",
+  "item.tensura_neb.night_rose": "Rosa Noturna",
+  "item.tensura_neb.rimuru_clone_spawn_egg": "Ovo de Invocação de Clone do Rimuru",
+  "item.tensura_neb.rimuru_ogre_fight_spawn_egg": "Ovo de Invocação de Rimuru Tempest",
+  "item.tensura_neb.veldora_spawn_egg": "Ovo de Invocação de Veldora Tempest",
+  "item.tensura_neb.white_tiger_azure_dragon_halberd": "Alabarda do Tigre Branco e Dragão Azul",
+  "tensura.advancements.lion_king.description": "Derrote Carrion.",
+  "tensura.advancements.lion_king.title": "O Rei Leão",
+  "tensura.advancements.monster_ruler.description": "Derrote Rimuru.",
+  "tensura.advancements.monster_ruler.title": "O Governante dos Monstros",
+  "tensura.advancements.queen_of_nightmares.description": "Derrote Luminous Valentine.",
+  "tensura.advancements.queen_of_nightmares.title": "A Rainha dos Pesadelos"
+}

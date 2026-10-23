@@ -1,0 +1,24 @@
+{
+  "name": "Retorno das Miríades de Espadas",
+  "category": "mortal_cultivation:skills",
+  "icon": "mortal_cultivation:textures/skill/extra/myriad_swords_return.png",
+  "sortnum": 13,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Todas as Espadas Prestam Homenagem",
+      "text": "Espadas descem em seis correntes, perseguem a mira do conjurador, atravessam seu alvo e se voltam para outro ataque.$(br2)$(bold)Tipo:$() Habilidade Extra$(br)$(bold)Origem:$() Decifre um Livro Ancestral e estude um Manual do Retorno das Miríades de Espadas"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "mortal_cultivation:myriad_swords_return_manual",
+      "title": "Mantendo a Arte",
+      "text": "Segure a tecla da habilidade para conjurar e solte-a para parar. Manter a arte consome $(bold)2.000 magículas por segundo$(); ela não pode continuar sem energia suficiente. A formação contém 60 espadas divididas em seis correntes circulantes."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Mira e Dano",
+      "text": "A mira pode travar em uma criatura válida sem obstrução a até cerca de 48 blocos de distância. Os ataques começam após aproximadamente 0,9 segundos de mira estável, causando então $(bold)8 de dano$() cerca de uma vez a cada 2 ticks. Golpes sucessivos ignoram a invulnerabilidade normal de dano, produzindo uma cadeia densa de acertos."
+    }
+  ]
+}

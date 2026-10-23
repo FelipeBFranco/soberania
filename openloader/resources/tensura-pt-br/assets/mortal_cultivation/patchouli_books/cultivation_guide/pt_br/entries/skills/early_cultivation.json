@@ -1,0 +1,16 @@
+{
+  "name": "Cultivo Inicial",
+  "category": "mortal_cultivation:skills",
+  "icon": "mortal_cultivation:textures/skill/intrinsic/early.png",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Um ataque básico de cultivo que condensa magículas em uma pequena bola de fogo e a lança ao longo da sua linha de visão."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)Tipo:$() Habilidade Intrínseca$(br)$(bold)Custo:$() 50 magículas$(br)$(bold)Tempo de Recarga:$() 8 segundos$(br2)A bola de fogo voa rapidamente, explode ao atingir uma entidade ou bloco, tem um poder de explosão de cerca de 2, e causa dano de fogo em acertos diretos. Ela também explode após cerca de 5 segundos ou por volta de 50 blocos percorridos."
+    }
+  ]
+}

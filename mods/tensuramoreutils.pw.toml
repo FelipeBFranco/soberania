@@ -1,0 +1,13 @@
+name = "TensuraMoreUtils"
+filename = "tensuramoreutils-1.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c0dc85ff39eb49da087522d717264297cfcd0aaf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8487999
+project-id = 1544812

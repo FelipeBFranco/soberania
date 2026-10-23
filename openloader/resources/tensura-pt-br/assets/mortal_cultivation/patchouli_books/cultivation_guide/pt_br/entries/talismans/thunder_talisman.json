@@ -1,0 +1,13 @@
+{
+  "name": "Talismã dos Cinco Trovões",
+  "category": "mortal_cultivation:talismans",
+  "icon": "mortal_cultivation:thunder_talisman",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mortal_cultivation:thunder_talisman",
+      "text": "Invoca um trovão celestial para atingir inimigos com um poder devastador.$(br2)$(bold)Uso:$() Clique direito para arremessar. Ao acertar, provoca um raio que causa um dano de área massivo."
+    }
+  ]
+}

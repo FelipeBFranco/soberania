@@ -1,0 +1,18 @@
+{
+  "name": "Carvão de Essência e Combustíveis",
+  "category": "mortal_cultivation:alchemy",
+  "icon": "mortal_cultivation:prime_essence_charcoal",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Carvão de Essência e Combustíveis",
+      "text": "A Fornalha de Alquimia aceita qualquer item queimável como combustível, mas diferentes Carvões de Essência oferecem $(bold)multiplicadores de velocidade$() diferentes, reduzindo bastante o tempo de criação.$(br2)Combustíveis normais (carvão mineral, carvão vegetal, etc.) têm um multiplicador de velocidade de 1.0x, fornecendo apenas a velocidade básica de criação.$(br2)Abaixo estão os bônus de velocidade de cada tipo:"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Visão Geral de Velocidade",
+      "text": "O progresso de cozimento avança atualmente em velocidade inteira, descartando frações decimais. Os padrões efetivos são:$(li)$(bold)Carvão de Essência de Lama$() — $(#090)1x$()$(li)$(bold)Carvão de Essência Amarela$() — $(#990)1x$()$(li)$(bold)Carvão de Essência Negra$() — $(#666)1x$()$(li)$(bold)Carvão de Essência do Vazio$() — $(#909)2x$()$(li)$(bold)Carvão de Essência Primordial$() — $(#f60)5x$()$(li)$(bold)Cristal Explosivo$() — $(#f00)10x$()$(br2)O Carvão de Essência Primordial reduz uma Pílula de Estabelecimento de Fundação de 30 minutos para cerca de 6 minutos. Configure os valores em mortal_cultivation-alchemy_furnace.toml."
+    }
+  ]
+}

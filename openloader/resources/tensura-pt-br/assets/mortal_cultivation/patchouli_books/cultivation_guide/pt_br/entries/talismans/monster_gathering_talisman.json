@@ -1,0 +1,13 @@
+{
+  "name": "Talismã de Reunião de Monstros",
+  "category": "mortal_cultivation:talismans",
+  "icon": "mortal_cultivation:monster_gathering_talisman",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mortal_cultivation:monster_gathering_talisman",
+      "text": "Reúne mobs e os controla.$(br2)$(bold)Uso:$() Clique direito para arremessar e posicionar. Atrai mobs próximos até a posição do talismã.$(br2)$(bold)Recuperar:$() Shift+Clique direito com a mão vazia para pegá-lo de volta."
+    }
+  ]
+}

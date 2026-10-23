@@ -1,0 +1,21 @@
+{
+  "name": "Pílula de Estabelecimento de Fundação",
+  "category": "mortal_cultivation:pills",
+  "icon": "mortal_cultivation:foundation_building_pill",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mortal_cultivation:foundation_building_pill",
+      "text": "A primeira pílula no caminho do cultivo.$(br2)$(bold)Efeito:$() Uma condição necessária para evoluir de $(bold)Humano$() para $(bold)Estabelecimento de Fundação$().$(br2)$(bold)Requisitos de Evolução:$()$(li)Pontos de Existência (EP) >= 2000$(li)Consuma 1 Pílula de Estabelecimento de Fundação$(br2)Clique direito para consumir."
+    },
+    {
+      "type": "mortal_cultivation:alchemy_recipe",
+      "item1": "tensura:monster_leather_b#3",
+      "item2": "tensura:high_quality_magic_crystal#2",
+      "item3": "minecraft:ghast_tear",
+      "output": "mortal_cultivation:foundation_building_pill",
+      "time": "$(bold)Crafting Time:$() 30 min"
+    }
+  ]
+}

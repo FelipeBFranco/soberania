@@ -1,0 +1,24 @@
+{
+  "name": "Fornalha de Alquimia",
+  "category": "mortal_cultivation:alchemy",
+  "icon": "mortal_cultivation:alchemy_furnace",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mortal_cultivation:alchemy_furnace_crafting",
+      "title": "Criação",
+      "text": "Crie com lingotes de cobre, blocos de cobre, um alto-forno e fragmentos de Minério de Magipedra. Quando posicionada, forma automaticamente uma estrutura de 2 blocos de altura."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Como Usar",
+      "text": "A Fornalha de Alquimia possui 7 slots:$(br2)$(bold)Slots de Material (3 à esquerda):$() O tipo do ingrediente e a quantidade em cada pilha devem corresponder exatamente. Os três slots não têm ordem, mas materiais extras invalidam a receita.$(br2)$(bold)Slot de Combustível (1 embaixo):$() Adicione qualquer item queimável. Shift+clique direito insere o combustível rapidamente.$(br2)$(bold)Slots de Saída (3 à direita):$() As pílulas prontas aparecem aqui."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Aceleração",
+      "text": "$(bold)1. Prodígio da Alquimia$()$(br)Ative a habilidade e permaneça perto da fornalha:$(br2)$(li)Normal — o tempo de cozimento é reduzido pela metade (alcance efetivo de cerca de 5 blocos)$(li)Dominada — o tempo de cozimento cai para 10% (alcance efetivo de cerca de 10 blocos)$(br2)$(bold)2. Raiz Espiritual do Fogo$()$(br)Um jogador com raiz de Fogo em um raio de cerca de 5 blocos adiciona um multiplicador de ×0,8 no tempo de cozimento, acumulando com a habilidade.$(br2)$(bold)3. Combustíveis Especiais$()$(br)Veja \"Carvão de Essência e Combustíveis\"."
+    }
+  ]
+}

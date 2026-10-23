@@ -1,0 +1,24 @@
+{
+  "name": "Grande Sábio",
+  "category": "mortal_cultivation:skills",
+  "icon": "mortal_cultivation:textures/skill/unique/great_sage.png",
+  "sortnum": 24,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "A forma evoluída da Travessura dominada, combinando Gêmeo Celestial, Desafiar, Caminhante das Nuvens, Fúria Primal e Mentira Branca."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)Tipo:$() Habilidade Extra$(br)$(bold)Custo de Obtenção:$() 130000 MP$(br)$(bold)Custo de Aprendizado:$() 3000$(br)$(bold)Maestria Máxima:$() 2500$(br2)Gêmeo Celestial invoca um clone mais forte e tem tempo de recarga de 12 minutos. Se o gêmeo já existir, use agachado para se teleportar até ele, com tempo de recarga de teleporte de 10 segundos. O clone copia seus dados e ganha Autorregeneração, dano dobrado, vida dobrada, resistência e absorção."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Desafiar custa 30000 MP, concede cerca de 10 segundos de quase invulnerabilidade e também afeta seu gêmeo. Quando termina, o dano acumulado se transforma em absorção a um valor de 1,5x; o tempo de recarga é de 5 minutos. Caminhante das Nuvens custa 1% das magículas máximas base para iniciar, concede voo em alta velocidade e invisibilidade, e tem tempo de recarga de 50 segundos."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Fúria Primal custa 1% das magículas máximas base para iniciar, equipa temporariamente o Ruyi Jingu Bang, dobra o ataque, a vida e a velocidade, e concede os efeitos Força e Velocidade. Mentira Branca custa 15000 MP e dura 5 minutos: sem um jogador alvo, ela o esconde; com um jogador alvo, ela o disfarça e copia temporariamente uma habilidade que você não possui. A habilidade copiada é removida quando o efeito termina. O tempo de recarga é de 5 minutos."
+    }
+  ]
+}

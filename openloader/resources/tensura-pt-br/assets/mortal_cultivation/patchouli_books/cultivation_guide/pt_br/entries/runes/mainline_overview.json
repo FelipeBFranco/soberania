@@ -1,0 +1,23 @@
+{
+  "name": "Progressão das Ruínas",
+  "category": "mortal_cultivation:rune_mysteries",
+  "icon": "mortal_cultivation:ancient_stele",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Um Legado Perdido",
+      "text": "Essa progressão gira em torno de ruínas, runas e livros ancestrais. Prepare $(item)Óculos Espirituais$() e um $(item)Orbe de Reflexo$() vazio antes de procurar uma gruta com estela subterrânea.$(br2)Somente os óculos revelam runas ocultas e permitem que o orbe funcione em uma estela."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Rota Completa",
+      "text": "$(li)Reúna runas de uma estela$(li)Extraia e armazene-as em uma Mesa de Runas$(li)Encontre Páginas Rasgadas em baús de ruínas$(li)Analise-as para obter um Livro Ancestral$(li)Gaste runas para girar seu arranjo$(li)Conecte a rede e receba um manual aleatório"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Dois Recursos",
+      "text": "A decifração precisa de dois recursos separados:$(br2)$(bold)Páginas Rasgadas$() alimentam a produção de Livros Ancestrais, enquanto $(bold)runas$() pagam pelas rotações em seu arranjo.$(br2)Coletar apenas um deles não permite concluir a progressão, então reúna os dois enquanto explora."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Manuais Perdidos",
+  "category": "mortal_cultivation:rune_mysteries",
+  "icon": "mortal_cultivation:sword_flight_manual",
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Recompensas da Decifração",
+      "text": "Cada Livro Ancestral decifrado tem a mesma chance de se tornar um destes manuais:$(li)Manual do Voo pela Espada$(li)Manual de Ruptura e Reconstrução$(li)Manual do Retorno das Miríades de Espadas$(li)Cânone Supremo da Alquimia$(br2)Esses manuais não aparecem diretamente em baús de saque no mundo."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "mortal_cultivation:sword_flight_manual",
+      "title": "Manual do Voo pela Espada",
+      "text": "Clique direito para aprender a habilidade extra Voo pela Espada. Um estudo bem-sucedido consome o manual fora do modo Criativo. Um jogador que já conhece a habilidade não o consome novamente."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "mortal_cultivation:myriad_swords_return_manual",
+      "title": "Retorno das Miríades de Espadas",
+      "text": "Clique direito para aprender a habilidade extra Retorno das Miríades de Espadas. Um estudo bem-sucedido consome o manual fora do modo Criativo. Um jogador que já conhece a habilidade não o consome novamente."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "mortal_cultivation:break_and_rebuild_manual",
+      "title": "Ruptura e Reconstrução",
+      "text": "Uma arte de restauração dos meridianos destinada à raça Habitante do Ermo. Quando suas condições são atendidas, clicar com o botão direito no manual remove esse estado quebrado e abre um caminho de cultivo."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "mortal_cultivation:the_supreme_alchemy_canon",
+      "title": "Cânone Supremo da Alquimia",
+      "text": "Clique direito para compreender o Prodígio da Alquimia. Se a habilidade já for conhecida, o estudo aumenta sua maestria até que seja totalmente dominada."
+    }
+  ]
+}

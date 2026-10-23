@@ -1,0 +1,29 @@
+{
+  "name": "Talismãs da Mesa do Erudito",
+  "category": "mortal_cultivation:talismans",
+  "icon": "mortal_cultivation:brush_and_ink",
+  "sortnum": -1,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mortal_cultivation:brush_and_ink",
+      "title": "Pincel e Tinta",
+      "text": "Combine um Pincel com Tinta de Sangue de Cinábrio, em uma receita sem formato fixo. O Pincel e Tinta resultante tem 20 de durabilidade e é a ferramenta dedicada à página de Criação de Talismãs da Mesa do Erudito."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Criação de Talismãs",
+      "text": "Clique direito em uma Mesa do Erudito e mude para Criação de Talismãs. Coloque o Pincel e Tinta no slot de ferramenta inferior esquerdo e organize os ingredientes nos sete slots em anel. O centro mostra uma prévia do resultado somente quando todas as posições correspondem a uma receita."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Materiais e Durabilidade",
+      "text": "Retirar o resultado central consome um item de cada slot de receita ocupado. Fazer $(item)Papel de Talismã$() não danifica o Pincel e Tinta; cada talismã concluído custa 1 de durabilidade.$(br2)JEI e EMI exibem todos os layouts de sete slots e sua ordem exata."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Duas Interfaces de Talismãs",
+      "text": "Esta entrada descreve apenas a página da Mesa do Erudito. A habilidade mais antiga Mestre dos Talismãs ainda abre uma interface separada, que aceita um Pincel e Tinta de Sangue de Cinábrio individualmente e segue suas próprias regras de ferramentas."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Orbe de Reflexo",
+  "category": "mortal_cultivation:rune_mysteries",
+  "icon": "mortal_cultivation:zhao_ying_zhu",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mortal_cultivation:zhao_ying_zhu",
+      "title": "Coletando a Inscrição",
+      "text": "Enquanto usa os Óculos Espirituais, clique direito em uma Estela Ancestral com um Orbe de Reflexo vazio. A coleta não pode começar sem os óculos, se o orbe já estiver cheio, ou enquanto a estela estiver ocupada."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Capacidade de Runas",
+      "text": "Um orbe cheio carrega $(bold)100 runas$(). O orbe tem 5 de durabilidade; cada extração concluída em uma Mesa de Runas consome 1 de durabilidade, e o orbe desaparece quando os cinco usos são esgotados."
+    }
+  ]
+}

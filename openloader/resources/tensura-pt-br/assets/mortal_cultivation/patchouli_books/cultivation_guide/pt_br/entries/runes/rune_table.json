@@ -1,0 +1,24 @@
+{
+  "name": "Mesa de Runas",
+  "category": "mortal_cultivation:rune_mysteries",
+  "icon": "mortal_cultivation:rune_table",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mortal_cultivation:rune_table",
+      "title": "Criando uma Mesa de Runas",
+      "text": "A Mesa de Runas extrai e armazena runas de Orbes de Reflexo dourados. Clique direito no bloco para abrir seu slot de orbe e o visor de armazenamento."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Extraindo Runas",
+      "text": "Coloque um orbe dourado cheio no slot. Ele se eleva acima da mesa e a extração começa. Depois de cerca de 5 minutos, a mesa ganha 100 runas e o orbe perde 1 de durabilidade. Ele volta a ficar azul enquanto ainda tiver durabilidade, mas é consumido após sua quinta extração."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Capacidade e Pausa",
+      "text": "Uma Mesa de Runas armazena até 500 runas."
+    }
+  ]
+}

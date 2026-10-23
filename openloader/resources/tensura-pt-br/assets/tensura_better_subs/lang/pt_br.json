@@ -1,0 +1,17 @@
+{
+  "tooltip.tensura_better_subs.humanoid_menu.skill_button": "Abrir Habilidades",
+  "tensura.skill.mode.thought_communication.skills": "Menu de Status",
+  "tensura.skill.mode.thought_communication.select_subordinate": "Selecionar Subordinado",
+  "tensura.skill.mode.thought_communication.use_skill": "Usar Habilidade",
+  "tensura_better_subs.skill.subordinate_acquire_skill": "%s adquiriu %s através de %s.",
+  "tensura_better_subs.skill.request_skill_use_failure": "%s falhou ao usar %s",
+  "tensura_better_subs.skill.request_skill_use_successful": "%s usou %s com sucesso",
+  "tensura_better_subs.targeting.sub_selected": "%s selecionado",
+  "tensura_better_subs.main_menu.health": "Vida: %s/%s",
+  "tensura_better_subs.main_menu.spiritual_health.short": "HP Espiritual: %s/%s",
+  "tensura_better_subs.main_menu.spiritual_health": "Vida Espiritual: %s/%s",
+  "tensura_better_subs.skill_grant_menu": "Concessão de Habilidade",
+  "tensura_better_subs.ability_selection.magicule_cost": "Custo de Magículas: %s",
+  "tensura_better_subs.skill_source.learning": "aprendizado",
+  "tensura_better_subs.skill_source.food_chain": "Cadeia Alimentar"
+}

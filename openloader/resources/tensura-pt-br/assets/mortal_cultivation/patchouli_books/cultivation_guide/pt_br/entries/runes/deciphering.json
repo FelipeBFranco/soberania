@@ -1,0 +1,23 @@
+{
+  "name": "Decifrando o Arranjo",
+  "category": "mortal_cultivation:rune_mysteries",
+  "icon": "mortal_cultivation:ancient_book",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Começando",
+      "text": "Coloque um Livro Ancestral em Decifrar para começar a decifrá-lo e romper seu arranjo."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Girando as Runas",
+      "text": "$(bold)Clique esquerdo$() em uma runa para girá-la no sentido anti-horário.$(br)$(bold)Clique direito$() para girá-la no sentido horário.$(br2)Cada rotação válida consome de 3 a 8 runas aleatórias da mesa próxima."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Regras de Conexão",
+      "text": "O tabuleiro contém um arranjo 6x4. Toda abertura deve se alinhar com a célula vizinha, e todas as runas devem formar uma única rede completa a partir do centro do arranjo.$(br2)Os caminhos conectados exibem uma luz dourada fluindo. Uma lacuna, uma conexão unilateral ou um ramo isolado significam que o arranjo não foi resolvido."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Pílula de Refinamento do Vazio",
+  "category": "mortal_cultivation:pills",
+  "icon": "mortal_cultivation:void_refinement_pill",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mortal_cultivation:void_refinement_pill",
+      "text": "Uma pílula maravilhosa condensada a partir da essência do vazio, ajudando os cultivadores a romper o gargalo do Refinamento do Vazio.$(br2)$(bold)Efeito:$() Uma condição necessária para evoluir de $(bold)Refinamento do Vazio$() para $(bold)Unificação$().$(br2)$(bold)Requisitos de Evolução:$()$(li)Pontos de Existência (EP) >= 200.000$(li)Consuma 1 Pílula de Refinamento do Vazio$(br2)Clique direito para consumir."
+    },
+    {
+      "type": "mortal_cultivation:alchemy_recipe",
+      "item1": "tensura:dragon_essence#8",
+      "item2": "tensura:elemental_essence#8",
+      "item3": "tensura:unicorn_horn#8",
+      "output": "mortal_cultivation:void_refinement_pill",
+      "time": "$(bold)Crafting Time:$() 120 min"
+    }
+  ]
+}

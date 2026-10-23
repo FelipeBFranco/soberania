@@ -1,0 +1,9 @@
+{
+  "foxablazeaqzl_wiki.menu.skill_intro": "Arquivo de Habilidades",
+  "foxablazeaqzl_wiki.menu.adventure_archive": "Arquivo de Aventuras",
+  "foxablazeaqzl_wiki.menu.item_archive": "Arquivo de Itens",
+  "foxablazeaqzl_wiki.placeholder": "Espaço Reservado",
+  "foxablazeaqzl_wiki.sub_ability.open": "[Wiki]",
+  "foxablazeaqzl_wiki.command.missing_skills.success": "Exportadas %s habilidades da wiki ausentes para %s",
+  "foxablazeaqzl_wiki.command.missing_skills.failure": "Falha ao exportar habilidades da wiki ausentes para %s"
+}

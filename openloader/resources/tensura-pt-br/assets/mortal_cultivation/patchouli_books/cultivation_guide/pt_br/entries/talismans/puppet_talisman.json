@@ -1,0 +1,13 @@
+{
+  "name": "Talismã de Marionete",
+  "category": "mortal_cultivation:talismans",
+  "icon": "mortal_cultivation:puppet_talisman",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mortal_cultivation:puppet_talisman",
+      "text": "A terrível Arte das Marionetes do Sul.$(br2)$(bold)Uso:$() Clique direito em um mob para consumir magículas e assumir o controle do alvo.$(br2)$(bold)Restrição:$() O alvo não pode ser poderoso demais e não pode já estar domesticado."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Pílula do Núcleo Estelar",
+  "category": "mortal_cultivation:pills",
+  "icon": "mortal_cultivation:stellar_core_pill",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mortal_cultivation:stellar_core_pill",
+      "text": "Uma poderosa pílula de fortalecimento que aproveita o poder das estrelas.$(br2)$(bold)Efeito:$() Concede os seguintes efeitos por 3 minutos:$(li)Força III$(li)Resistência I$(li)Absorção II$(br2)$(bold)Tempo de Recarga:$() 10 minutos$(br2)$(bold)Nota:$() Pílula de suporte em combate, não usada para evolução de raça. Clique direito para consumir."
+    },
+    {
+      "type": "mortal_cultivation:alchemy_recipe",
+      "item1": "tensura:enchanted_silver_apple",
+      "item2": "minecraft:enchanted_golden_apple",
+      "item3": "tensura:low_potion",
+      "output": "mortal_cultivation:stellar_core_pill",
+      "time": "$(bold)Crafting Time:$() 30 min"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "gui.tensura_trepu.evolution_requirements": "Requisitos de Evolução",
+  "gui.tensura_trepu.evolution_requirements.wastelander_to_human.elixir": "Consumir Elixir de Purificação Celestial",
+  "gui.tensura_trepu.evolution_requirements.wastelander_to_human.mindscape": "Vença o desafio do Reino dos Sonhos após dormir à noite",
+  "gui.tensura_trepu.evolution_requirements.wastelander_to_human.manual": "Use o Manual de Quebra e Reconstrução",
+  "gui.tensura_trepu.evolution_requirements.angel_to_tengu": "Possua um Okami",
+  "tooltip.tensura_trepu.gear_evolution_remaining": "Precisa de %sEP para evoluir para %s"
+}

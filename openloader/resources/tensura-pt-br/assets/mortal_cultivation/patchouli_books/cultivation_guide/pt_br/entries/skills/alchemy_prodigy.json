@@ -1,0 +1,16 @@
+{
+  "name": "Prodígio da Alquimia",
+  "category": "mortal_cultivation:skills",
+  "icon": "mortal_cultivation:textures/skill/unique/alchemy_prodigy.png",
+  "sortnum": 22,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Um controle preciso reduz o tempo de refino e estabiliza a formação das pílulas. Esta habilidade melhora as Fornalhas de Alquimia próximas."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)Tipo:$() Habilidade Extra$(br)$(bold)Entrada:$() Pressione a tecla da habilidade para ativar ou desativar$(br)$(bold)Custo:$() Nenhum$(br2)Enquanto ativada, ela altera dinamicamente as Fornalhas de Alquimia próximas: em um raio de cerca de 5 blocos, a habilidade normal reduz o tempo total de cozimento para 50%; quando dominada, o alcance chega a cerca de 10 blocos e reduz o tempo para 10%. Sair do alcance ou desativar a habilidade restaura o total original, preservando o progresso proporcional."
+    }
+  ]
+}

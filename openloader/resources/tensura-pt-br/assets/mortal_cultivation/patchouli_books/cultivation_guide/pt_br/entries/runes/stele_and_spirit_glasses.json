@@ -1,0 +1,25 @@
+{
+  "name": "Óculos Espirituais e Grutas",
+  "category": "mortal_cultivation:rune_mysteries",
+  "icon": "mortal_cultivation:spirit_glasses",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mortal_cultivation:spirit_glasses",
+      "title": "Criando os Óculos Espirituais",
+      "text": "Clique direito nos óculos para equipá-los no slot de cabeça."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Encontrando uma Gruta",
+      "text": "Grutas com estelas geram de forma esparsa no subsolo do Overworld, com uma média de cerca de uma a cada 1.200 blocos. Elas só aparecem em chunks recém-gerados.$(br2)Não há entrada artificial; explore cavernas subterrâneas ou escave a rocha ao redor."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "mortal_cultivation:ancient_stele",
+      "title": "Estela Ancestral",
+      "text": "Cada gruta tem uma poça, uma ilha central, camadas de terra e musgo, Bagas Brilhantes no teto e uma estela em seu centro.$(br2)A estela não pode ser minerada com uma picareta. Use os Óculos Espirituais para ver suas runas douradas tênues."
+    }
+  ]
+}

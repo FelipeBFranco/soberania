@@ -1,0 +1,18 @@
+{
+  "name": "Habitante do Ermo",
+  "category": "mortal_cultivation:races",
+  "icon": "minecraft:barrier",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Habitante do Ermo",
+      "text": "Habitantes do Ermo não podem passar por nenhuma evolução. Somente reparando seus meridianos por meios especiais podem iniciar o caminho do cultivo.$(br2)Aqui estão três formas de se tornar Humano:"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Métodos de Transformação",
+      "text": "$(li)$(bold)Elixir de Purificação Celestial$()$(br)Consumi-lo transforma você diretamente na raça Humano.$(br2)$(li)$(bold)Desafio do Reino dos Sonhos$()$(br)Ao dormir à noite, há uma chance de entrar em um Reino dos Sonhos. Derrote o Esqueleto Wither para ter sucesso e se tornar Humano.$(br2)$(li)$(bold)Manual de Ruptura e Reconstrução$()$(br)Uma possível recompensa ao decifrar um Livro Ancestral em uma Mesa do Erudito. Clique direito nele para se tornar Humano."
+    }
+  ]
+}

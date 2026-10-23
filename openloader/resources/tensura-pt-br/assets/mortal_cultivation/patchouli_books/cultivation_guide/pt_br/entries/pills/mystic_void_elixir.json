@@ -1,0 +1,21 @@
+{
+  "name": "Elixir Místico do Vazio",
+  "category": "mortal_cultivation:pills",
+  "icon": "mortal_cultivation:mystic_void_elixir",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mortal_cultivation:mystic_void_elixir",
+      "text": "Uma pílula misteriosa que ressoa com o vazio, concedendo uma percepção profunda sobre a natureza da realidade.$(br2)$(bold)Efeito:$() Uma condição necessária para evoluir de $(bold)Transformação Espiritual$() para $(bold)Refinamento do Vazio$().$(br2)$(bold)Requisitos de Evolução:$()$(li)Pontos de Existência (EP) >= 100.000$(li)Consuma 1 Elixir Místico do Vazio$(br2)Clique direito para consumir."
+    },
+    {
+      "type": "mortal_cultivation:alchemy_recipe",
+      "item1": "mortal_cultivation:localized_fantasy_term",
+      "item2": "tensura:elemental_essence#2",
+      "item3": "tensura:royal_blood#3",
+      "output": "mortal_cultivation:mystic_void_elixir",
+      "time": "$(bold)Crafting Time:$() 45 min$(br)$(italic)Note: Cinnabar Blood Ink has both a shapeless crafting recipe and an Alchemy Furnace recipe.$()"
+    }
+  ]
+}

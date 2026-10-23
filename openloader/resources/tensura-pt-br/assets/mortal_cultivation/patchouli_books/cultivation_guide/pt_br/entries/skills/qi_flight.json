@@ -1,0 +1,16 @@
+{
+  "name": "Voo de Qi",
+  "category": "mortal_cultivation:skills",
+  "icon": "mortal_cultivation:textures/skill/unique/qi_flight.png",
+  "sortnum": 21,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Controle a energia espiritual dentro do seu corpo para voar livremente pelo ar."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)Tipo:$() Habilidade Extra$(br)$(bold)Obtenção:$() Não pode ser desbloqueada automaticamente por EP; deve ser obtida por outros meios$(br)$(bold)Entrada:$() Pressione a tecla da habilidade para alternar o voo$(br)$(bold)Custo:$() 1,5 magícula por ativação, sem consumo contínuo$(br2)Quando ativado no chão com espaço livre acima, ele primeiro eleva você 1 bloco e então ativa o voo em alta velocidade. Pressione novamente para desativá-lo. Cada ativação tem tempo de recarga de 3 segundos."
+    }
+  ]
+}

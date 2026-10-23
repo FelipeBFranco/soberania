@@ -1,0 +1,7 @@
+{
+  "tr_unique_monsters.skill.appraisal_eye": "Olho de Avaliação",
+  "tr_unique_monsters.skill.appraisal_eye.description": "Revela presenças ocultas e analisa entidades distantes.",
+  "tr_unique_monsters.skill.mode.appraisal_eye.scan": "Varredura",
+  "tr_unique_monsters.skill.mode.appraisal_eye.remote_analysis": "Análise Remota",
+  "tr_unique_monsters.deny.unique.tameable": "§cVocê não pode domesticar um mob único"
+}

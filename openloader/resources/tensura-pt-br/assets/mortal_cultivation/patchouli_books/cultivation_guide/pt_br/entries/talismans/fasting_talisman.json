@@ -1,0 +1,13 @@
+{
+  "name": "Talismã do Jejum",
+  "category": "mortal_cultivation:talismans",
+  "icon": "mortal_cultivation:fasting_talisman",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mortal_cultivation:fasting_talisman",
+      "text": "Nenhuma ativação é necessária. Enquanto um Talismã do Jejum estiver em qualquer lugar do seu inventário ou em qualquer uma das mãos, ele mantém continuamente a fome e a saturação cheias.$(br2)Ele tem 25 de durabilidade e perde 1 de durabilidade por minuto enquanto ativo, desaparecendo quando esgotado."
+    }
+  ]
+}

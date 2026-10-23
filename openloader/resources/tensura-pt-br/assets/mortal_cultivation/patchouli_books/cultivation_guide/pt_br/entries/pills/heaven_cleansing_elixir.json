@@ -1,0 +1,21 @@
+{
+  "name": "Elixir de Purificação Celestial",
+  "category": "mortal_cultivation:pills",
+  "icon": "mortal_cultivation:heaven_cleansing_elixir",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mortal_cultivation:heaven_cleansing_elixir",
+      "text": "Purifica os meridianos, eliminando impurezas do sistema do cultivador.$(br2)$(bold)Efeito Especial:$() A raça $(bold)Habitante do Ermo$() pode se transformar na raça $(bold)Humano$() ao ser consumida, desbloqueando o caminho do cultivo!$(br2)Esta é uma das três formas de um Habitante do Ermo escapar de seu destino.$(br2)Clique direito para consumir."
+    },
+    {
+      "type": "mortal_cultivation:alchemy_recipe",
+      "item1": "tensura:element_core_empty",
+      "item2": "tensura:vacuumed_magic_bottle_of_water",
+      "item3": "minecraft:air",
+      "output": "mortal_cultivation:heaven_cleansing_elixir",
+      "time": "$(bold)Crafting Time:$() 15 min"
+    }
+  ]
+}

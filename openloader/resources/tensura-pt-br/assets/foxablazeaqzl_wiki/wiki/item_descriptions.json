@@ -1,0 +1,3136 @@
+{
+  "generated_from": "https://tensura.wiki.gg/wiki/Items",
+  "imported_pages": [
+    "https://tensura.wiki.gg/wiki/Items/Consumables",
+    "https://tensura.wiki.gg/wiki/Items/Mob_Drops",
+    "https://tensura.wiki.gg/wiki/Items/Schematics",
+    "https://tensura.wiki.gg/wiki/Items/Misc"
+  ],
+  "excluded_pages": [
+    "https://tensura.wiki.gg/wiki/Items/Gear",
+    "https://tensura.wiki.gg/wiki/Items/Armours"
+  ],
+  "entry_count": 130,
+  "entries": [
+    {
+      "id": "raw_blade_tiger_meat",
+      "item_id": "tensura:raw_blade_tiger_meat",
+      "source": "tensura",
+      "wiki_page": "Raw Blade Tiger Meat",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Consumables",
+      "category": {
+        "page": "Items/Consumables",
+        "en": "Consumíveis",
+        "zh": "消耗品"
+      },
+      "section": {
+        "en": "Cru",
+        "zh": "生食"
+      },
+      "name": {
+        "zh_cn": "生刃虎肉",
+        "en_us": "Carne Crua de Tigre Lâmina"
+      },
+      "description": {
+        "zh_cn": "来源：击杀孤刃虎掉落。\n\n用途：可直接食用，也可烹饪为熟刃虎肉。",
+        "en_us": "Obtenção:\nDropado por Tigre Lâmina.\n\nUso:\nPode ser comido diretamente ou cozido em Filé de Tigre Lâmina."
+      }
+    },
+    {
+      "id": "raw_armorsaurus_meat",
+      "item_id": "tensura:raw_armorsaurus_meat",
+      "source": "tensura",
+      "wiki_page": "Raw Armorsaurus Meat",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Consumables",
+      "category": {
+        "page": "Items/Consumables",
+        "en": "Consumíveis",
+        "zh": "消耗品"
+      },
+      "section": {
+        "en": "Cru",
+        "zh": "生食"
+      },
+      "name": {
+        "zh_cn": "生铠甲龙肉",
+        "en_us": "Carne de Armorsaurus Crua"
+      },
+      "description": {
+        "zh_cn": "来源：击杀铠龙掉落。\n\n用途：可直接食用，也可烹饪为熟铠甲龙肉。",
+        "en_us": "Obtenção:\nDropado por Armorsaurus.\n\nUso:\nPode ser comido diretamente ou cozido em Carne de Armorsaurus Cozida."
+      }
+    },
+    {
+      "id": "cattledeer_beef",
+      "item_id": "tensura:cattledeer_beef",
+      "source": "tensura",
+      "wiki_page": "Cattledeer Beef",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Consumables",
+      "category": {
+        "page": "Items/Consumables",
+        "en": "Consumíveis",
+        "zh": "消耗品"
+      },
+      "section": {
+        "en": "Cru",
+        "zh": "生食"
+      },
+      "name": {
+        "zh_cn": "生牛鹿肉",
+        "en_us": "Carne de Cattlegado"
+      },
+      "description": {
+        "zh_cn": "来源：击杀牛鹿掉落。\n\n用途：可直接食用，也可烹饪为熟牛鹿肉。",
+        "en_us": "Obtenção:\nDropado por Cattlegado.\n\nUso:\nPode ser comido diretamente ou cozido em Bife de Cattlegado."
+      }
+    },
+    {
+      "id": "raw_charybdis_meat",
+      "item_id": "tensura:raw_charybdis_meat",
+      "source": "tensura",
+      "wiki_page": "Raw Charybdis Meat",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Consumables",
+      "category": {
+        "page": "Items/Consumables",
+        "en": "Consumíveis",
+        "zh": "消耗品"
+      },
+      "section": {
+        "en": "Cru",
+        "zh": "生食"
+      },
+      "name": {
+        "zh_cn": "生卡律布狄斯肉",
+        "en_us": "Carne Crua de Charybdis"
+      },
+      "description": {
+        "zh_cn": "来源：击杀暴风大妖涡掉落。\n\n用途：可直接食用，也可烹饪为熟卡律布狄斯肉。",
+        "en_us": "Obtenção:\nDropado por Charybdis.\n\nUso:\nPode ser comido diretamente ou cozido em Carne Cozida de Charybdis."
+      }
+    },
+    {
+      "id": "giant_ant_leg",
+      "item_id": "tensura:giant_ant_leg",
+      "source": "tensura",
+      "wiki_page": "Giant Ant Leg",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Consumables",
+      "category": {
+        "page": "Items/Consumables",
+        "en": "Consumíveis",
+        "zh": "消耗品"
+      },
+      "section": {
+        "en": "Cru",
+        "zh": "生食"
+      },
+      "name": {
+        "zh_cn": "巨蚁腿",
+        "en_us": "Perna de Formiga Gigante"
+      },
+      "description": {
+        "zh_cn": "来源：击杀巨大妖蚁掉落。\n\n用途：可直接食用，也可烹饪为熟巨蚁腿。",
+        "en_us": "Obtenção:\nDropado por Formiga Gigante.\n\nUso:\nPode ser comido diretamente ou cozido em Perna de Formiga Gigante Cozida."
+      }
+    },
+    {
+      "id": "raw_giant_bat_meat",
+      "item_id": "tensura:raw_giant_bat_meat",
+      "source": "tensura",
+      "wiki_page": "Raw Giant Bat Meat",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Consumables",
+      "category": {
+        "page": "Items/Consumables",
+        "en": "Consumíveis",
+        "zh": "消耗品"
+      },
+      "section": {
+        "en": "Cru",
+        "zh": "生食"
+      },
+      "name": {
+        "zh_cn": "生巨蝙蝠肉",
+        "en_us": "Carne Crua de Morcego Gigante"
+      },
+      "description": {
+        "zh_cn": "来源：击杀巨大蝙蝠掉落。\n\n用途：可直接食用，也可烹饪为熟巨蝙蝠肉。",
+        "en_us": "Obtenção:\nDropado por Morcego Gigante.\n\nUso:\nPode ser comido diretamente ou cozido em Carne Cozida de Morcego Gigante."
+      }
+    },
+    {
+      "id": "knight_spider_leg",
+      "item_id": "tensura:knight_spider_leg",
+      "source": "tensura",
+      "wiki_page": "Knight Spider Leg",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Consumables",
+      "category": {
+        "page": "Items/Consumables",
+        "en": "Consumíveis",
+        "zh": "消耗品"
+      },
+      "section": {
+        "en": "Cru",
+        "zh": "生食"
+      },
+      "name": {
+        "zh_cn": "骑士蜘蛛腿",
+        "en_us": "Perna de Aranha Cavaleiro"
+      },
+      "description": {
+        "zh_cn": "来源：击杀枪脚铠蜘蛛掉落。\n\n用途：可直接食用，也可烹饪为熟骑士蜘蛛腿。",
+        "en_us": "Obtenção:\nDropado por Aranha Cavaleiro.\n\nUso:\nPode ser comido diretamente ou cozido em Perna de Aranha Cavaleiro Cozida."
+      }
+    },
+    {
+      "id": "raw_megalodon_meat",
+      "item_id": "tensura:raw_megalodon_meat",
+      "source": "tensura",
+      "wiki_page": "Raw Megalodon Meat",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Consumables",
+      "category": {
+        "page": "Items/Consumables",
+        "en": "Consumíveis",
+        "zh": "消耗品"
+      },
+      "section": {
+        "en": "Cru",
+        "zh": "生食"
+      },
+      "name": {
+        "zh_cn": "生巨齿鲨肉",
+        "en_us": "Carne Crua de Megalodon"
+      },
+      "description": {
+        "zh_cn": "来源：击杀泳空巨鲨掉落。\n\n用途：可直接食用，也可烹饪为熟巨齿鲨肉。",
+        "en_us": "Obtenção:\nDropado por Megalodon.\n\nUso:\nPode ser comido diretamente ou cozido em Carne Cozida de Megalodon."
+      }
+    },
+    {
+      "id": "raw_serpent_meat",
+      "item_id": "tensura:raw_serpent_meat",
+      "source": "tensura",
+      "wiki_page": "Raw Serpent Meat",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Consumables",
+      "category": {
+        "page": "Items/Consumables",
+        "en": "Consumíveis",
+        "zh": "消耗品"
+      },
+      "section": {
+        "en": "Cru",
+        "zh": "生食"
+      },
+      "name": {
+        "zh_cn": "生巨蛇肉",
+        "en_us": "Carne Crua de Serpente"
+      },
+      "description": {
+        "zh_cn": "来源：击杀岚蛇掉落。\n\n用途：可直接食用，也可烹饪为熟巨蛇肉。",
+        "en_us": "Obtenção:\nDropado por Serpente da Tempestade.\n\nUso:\nPode ser comido diretamente ou cozido em Carne Cozida de Serpente."
+      }
+    },
+    {
+      "id": "raw_spear_toro_meat",
+      "item_id": "tensura:raw_spear_toro_meat",
+      "source": "tensura",
+      "wiki_page": "Raw Spear Toro Meat",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Consumables",
+      "category": {
+        "page": "Items/Consumables",
+        "en": "Consumíveis",
+        "zh": "消耗品"
+      },
+      "section": {
+        "en": "Cru",
+        "zh": "生食"
+      },
+      "name": {
+        "zh_cn": "生枪刺鱼肉",
+        "en_us": "Carne Crua de Spear Toro"
+      },
+      "description": {
+        "zh_cn": "来源：击杀枪头铠鱼掉落。\n\n用途：可直接食用，也可烹饪为熟枪刺鱼肉。",
+        "en_us": "Obtenção:\nDropado por Toro Lança.\n\nUso:\nPode ser comido diretamente ou cozido em Carne de Toro Lança Cozida."
+      }
+    },
+    {
+      "id": "spear_toro_fin",
+      "item_id": "tensura:spear_toro_fin",
+      "source": "tensura",
+      "wiki_page": "Spear Toro Fin",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Consumables",
+      "category": {
+        "page": "Items/Consumables",
+        "en": "Consumíveis",
+        "zh": "消耗品"
+      },
+      "section": {
+        "en": "Cru",
+        "zh": "生食"
+      },
+      "name": {
+        "zh_cn": "枪刺鱼鳍",
+        "en_us": "Barbatana de Spear Toro"
+      },
+      "description": {
+        "zh_cn": "来源：击杀枪头铠鱼掉落。\n\n用途：可直接食用，也可烹饪为熟枪刺鱼鳍。",
+        "en_us": "Obtenção:\nDropado por Toro Lança.\n\nUso:\nPode ser comido diretamente ou cozido em Barbatana de Toro Lança Cozida."
+      }
+    },
+    {
+      "id": "raw_sissie_meat",
+      "item_id": "tensura:raw_sissie_meat",
+      "source": "tensura",
+      "wiki_page": "Raw Sissie Meat",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Consumables",
+      "category": {
+        "page": "Items/Consumables",
+        "en": "Consumíveis",
+        "zh": "消耗品"
+      },
+      "section": {
+        "en": "Cru",
+        "zh": "生食"
+      },
+      "name": {
+        "zh_cn": "生希希肉",
+        "en_us": "Carne Crua de Sissie"
+      },
+      "description": {
+        "zh_cn": "来源：击杀希希掉落。\n\n用途：可直接食用，也可烹饪为熟希希肉。",
+        "en_us": "Obtenção:\nDropado por Sissie.\n\nUso:\nPode ser comido diretamente ou cozido em Carne Cozida de Sissie."
+      }
+    },
+    {
+      "id": "sissie_fin",
+      "item_id": "tensura:sissie_fin",
+      "source": "tensura",
+      "wiki_page": "Sissie Fin",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Consumables",
+      "category": {
+        "page": "Items/Consumables",
+        "en": "Consumíveis",
+        "zh": "消耗品"
+      },
+      "section": {
+        "en": "Cru",
+        "zh": "生食"
+      },
+      "name": {
+        "zh_cn": "希希鳍",
+        "en_us": "Barbatana de Sissie"
+      },
+      "description": {
+        "zh_cn": "来源：击杀希希掉落。\n\n用途：可直接食用，也可烹饪为熟希希鳍。",
+        "en_us": "Obtenção:\nDropado por Sissie.\n\nUso:\nPode ser comido diretamente ou cozido em Barbatana de Sissie Cozida."
+      }
+    },
+    {
+      "id": "blade_tiger_steak",
+      "item_id": "tensura:blade_tiger_steak",
+      "source": "tensura",
+      "wiki_page": "Blade Tiger Steak",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Consumables",
+      "category": {
+        "page": "Items/Consumables",
+        "en": "Consumíveis",
+        "zh": "消耗品"
+      },
+      "section": {
+        "en": "Cozido",
+        "zh": "熟食"
+      },
+      "name": {
+        "zh_cn": "熟刃虎肉",
+        "en_us": "Filé de Tigre Lâmina"
+      },
+      "description": {
+        "zh_cn": "来源：由生刃虎肉烹饪获得。\n\n用途：可直接食用。",
+        "en_us": "Obtenção:\nCozinhe Carne Crua de Tigre Lâmina em uma fogueira, fornalha, defumador ou bloco similar.\n\nUso:\nPode ser comido diretamente."
+      }
+    },
+    {
+      "id": "cooked_armorsaurus_meat",
+      "item_id": "tensura:cooked_armorsaurus_meat",
+      "source": "tensura",
+      "wiki_page": "Cooked Armorsaurus Meat",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Consumables",
+      "category": {
+        "page": "Items/Consumables",
+        "en": "Consumíveis",
+        "zh": "消耗品"
+      },
+      "section": {
+        "en": "Cozido",
+        "zh": "熟食"
+      },
+      "name": {
+        "zh_cn": "熟铠甲龙肉",
+        "en_us": "Carne de Armorsaurus Cozida"
+      },
+      "description": {
+        "zh_cn": "来源：由生铠甲龙肉烹饪获得。\n\n用途：可直接食用。",
+        "en_us": "Obtenção:\nCozinhe Carne de Armorsaurus Crua em uma fogueira, fornalha, defumador ou bloco similar.\n\nUso:\nPode ser comido diretamente."
+      }
+    },
+    {
+      "id": "cattledeer_steak",
+      "item_id": "tensura:cattledeer_steak",
+      "source": "tensura",
+      "wiki_page": "Cattledeer Steak",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Consumables",
+      "category": {
+        "page": "Items/Consumables",
+        "en": "Consumíveis",
+        "zh": "消耗品"
+      },
+      "section": {
+        "en": "Cozido",
+        "zh": "熟食"
+      },
+      "name": {
+        "zh_cn": "熟牛鹿肉",
+        "en_us": "Bife de Cattlegado"
+      },
+      "description": {
+        "zh_cn": "来源：由生牛鹿肉烹饪获得。\n\n用途：可直接食用。",
+        "en_us": "Obtenção:\nCozinhe Carne de Cattlegado em uma fogueira, fornalha, defumador ou bloco similar.\n\nUso:\nPode ser comido diretamente."
+      }
+    },
+    {
+      "id": "cooked_charybdis_meat",
+      "item_id": "tensura:cooked_charybdis_meat",
+      "source": "tensura",
+      "wiki_page": "Cooked Charybdis Meat",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Consumables",
+      "category": {
+        "page": "Items/Consumables",
+        "en": "Consumíveis",
+        "zh": "消耗品"
+      },
+      "section": {
+        "en": "Cozido",
+        "zh": "熟食"
+      },
+      "name": {
+        "zh_cn": "熟卡律布狄斯肉",
+        "en_us": "Carne Cozida de Charybdis"
+      },
+      "description": {
+        "zh_cn": "来源：由生卡律布狄斯肉烹饪获得。\n\n用途：可直接食用。",
+        "en_us": "Obtenção:\nCozinhe Carne Crua de Charybdis em uma fogueira, fornalha, defumador ou bloco similar.\n\nUso:\nPode ser comido diretamente."
+      }
+    },
+    {
+      "id": "cooked_giant_ant_leg",
+      "item_id": "tensura:cooked_giant_ant_leg",
+      "source": "tensura",
+      "wiki_page": "Cooked Giant Ant Leg",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Consumables",
+      "category": {
+        "page": "Items/Consumables",
+        "en": "Consumíveis",
+        "zh": "消耗品"
+      },
+      "section": {
+        "en": "Cozido",
+        "zh": "熟食"
+      },
+      "name": {
+        "zh_cn": "熟巨蚁腿",
+        "en_us": "Perna de Formiga Gigante Cozida"
+      },
+      "description": {
+        "zh_cn": "来源：由巨蚁腿烹饪获得。\n\n用途：可直接食用。",
+        "en_us": "Obtenção:\nCozinhe Perna de Formiga Gigante em uma fogueira, fornalha, defumador ou bloco similar.\n\nUso:\nPode ser comido diretamente."
+      }
+    },
+    {
+      "id": "cooked_giant_bat_meat",
+      "item_id": "tensura:cooked_giant_bat_meat",
+      "source": "tensura",
+      "wiki_page": "Cooked Giant Bat Meat",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Consumables",
+      "category": {
+        "page": "Items/Consumables",
+        "en": "Consumíveis",
+        "zh": "消耗品"
+      },
+      "section": {
+        "en": "Cozido",
+        "zh": "熟食"
+      },
+      "name": {
+        "zh_cn": "熟巨蝙蝠肉",
+        "en_us": "Carne Cozida de Morcego Gigante"
+      },
+      "description": {
+        "zh_cn": "来源：由生巨蝙蝠肉烹饪获得。\n\n用途：可直接食用。",
+        "en_us": "Obtenção:\nCozinhe Carne Crua de Morcego Gigante em uma fogueira, fornalha, defumador ou bloco similar.\n\nUso:\nPode ser comido diretamente."
+      }
+    },
+    {
+      "id": "cooked_knight_spider_leg",
+      "item_id": "tensura:cooked_knight_spider_leg",
+      "source": "tensura",
+      "wiki_page": "Cooked Knight Spider Leg",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Consumables",
+      "category": {
+        "page": "Items/Consumables",
+        "en": "Consumíveis",
+        "zh": "消耗品"
+      },
+      "section": {
+        "en": "Cozido",
+        "zh": "熟食"
+      },
+      "name": {
+        "zh_cn": "熟骑士蜘蛛腿",
+        "en_us": "Perna de Aranha Cavaleiro Cozida"
+      },
+      "description": {
+        "zh_cn": "来源：由骑士蜘蛛腿烹饪获得。\n\n用途：可直接食用。",
+        "en_us": "Obtenção:\nCozinhe Perna de Aranha Cavaleiro em uma fogueira, fornalha, defumador ou bloco similar.\n\nUso:\nPode ser comido diretamente."
+      }
+    },
+    {
+      "id": "cooked_megalodon_meat",
+      "item_id": "tensura:cooked_megalodon_meat",
+      "source": "tensura",
+      "wiki_page": "Cooked Megalodon Meat",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Consumables",
+      "category": {
+        "page": "Items/Consumables",
+        "en": "Consumíveis",
+        "zh": "消耗品"
+      },
+      "section": {
+        "en": "Cozido",
+        "zh": "熟食"
+      },
+      "name": {
+        "zh_cn": "熟巨齿鲨肉",
+        "en_us": "Carne Cozida de Megalodon"
+      },
+      "description": {
+        "zh_cn": "来源：由生巨齿鲨肉烹饪获得。\n\n用途：可直接食用。",
+        "en_us": "Obtenção:\nCozinhe Carne Crua de Megalodon em uma fogueira, fornalha, defumador ou bloco similar.\n\nUso:\nPode ser comido diretamente."
+      }
+    },
+    {
+      "id": "cooked_serpent_meat",
+      "item_id": "tensura:cooked_serpent_meat",
+      "source": "tensura",
+      "wiki_page": "Cooked Serpent Meat",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Consumables",
+      "category": {
+        "page": "Items/Consumables",
+        "en": "Consumíveis",
+        "zh": "消耗品"
+      },
+      "section": {
+        "en": "Cozido",
+        "zh": "熟食"
+      },
+      "name": {
+        "zh_cn": "熟巨蛇肉",
+        "en_us": "Carne Cozida de Serpente"
+      },
+      "description": {
+        "zh_cn": "来源：由生巨蛇肉烹饪获得。\n\n用途：可直接食用。",
+        "en_us": "Obtenção:\nCozinhe Carne Crua de Serpente em uma fogueira, fornalha, defumador ou bloco similar.\n\nUso:\nPode ser comido diretamente."
+      }
+    },
+    {
+      "id": "cooked_spear_toro_meat",
+      "item_id": "tensura:cooked_spear_toro_meat",
+      "source": "tensura",
+      "wiki_page": "Cooked Spear Toro Meat",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Consumables",
+      "category": {
+        "page": "Items/Consumables",
+        "en": "Consumíveis",
+        "zh": "消耗品"
+      },
+      "section": {
+        "en": "Cozido",
+        "zh": "熟食"
+      },
+      "name": {
+        "zh_cn": "熟枪刺鱼肉",
+        "en_us": "Carne de Toro Lança Cozida"
+      },
+      "description": {
+        "zh_cn": "来源：由生枪刺鱼肉烹饪获得。\n\n用途：可直接食用。",
+        "en_us": "Obtenção:\nCozinhe Carne Crua de Spear Toro em uma fogueira, fornalha, defumador ou bloco similar.\n\nUso:\nPode ser comido diretamente."
+      }
+    },
+    {
+      "id": "cooked_spear_toro_fin",
+      "item_id": "tensura:cooked_spear_toro_fin",
+      "source": "tensura",
+      "wiki_page": "Cooked Spear Toro Fin",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Consumables",
+      "category": {
+        "page": "Items/Consumables",
+        "en": "Consumíveis",
+        "zh": "消耗品"
+      },
+      "section": {
+        "en": "Cozido",
+        "zh": "熟食"
+      },
+      "name": {
+        "zh_cn": "熟枪刺鱼鳍",
+        "en_us": "Barbatana de Toro Lança Cozida"
+      },
+      "description": {
+        "zh_cn": "来源：由枪刺鱼鳍烹饪获得。\n\n用途：可直接食用。",
+        "en_us": "Obtenção:\nCozinhe Barbatana de Toro Lança em uma fogueira, fornalha, defumador ou bloco similar.\n\nUso:\nPode ser comido diretamente."
+      }
+    },
+    {
+      "id": "cooked_sissie_meat",
+      "item_id": "tensura:cooked_sissie_meat",
+      "source": "tensura",
+      "wiki_page": "Cooked Sissie Meat",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Consumables",
+      "category": {
+        "page": "Items/Consumables",
+        "en": "Consumíveis",
+        "zh": "消耗品"
+      },
+      "section": {
+        "en": "Cozido",
+        "zh": "熟食"
+      },
+      "name": {
+        "zh_cn": "熟希希肉",
+        "en_us": "Carne Cozida de Sissie"
+      },
+      "description": {
+        "zh_cn": "来源：由生希希肉烹饪获得。\n\n用途：可直接食用。",
+        "en_us": "Obtenção:\nCozinhe Carne Crua de Sissie em uma fogueira, fornalha, defumador ou bloco similar.\n\nUso:\nPode ser comido diretamente."
+      }
+    },
+    {
+      "id": "cooked_sissie_fin",
+      "item_id": "tensura:cooked_sissie_fin",
+      "source": "tensura",
+      "wiki_page": "Cooked Sissie Fin",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Consumables",
+      "category": {
+        "page": "Items/Consumables",
+        "en": "Consumíveis",
+        "zh": "消耗品"
+      },
+      "section": {
+        "en": "Cozido",
+        "zh": "熟食"
+      },
+      "name": {
+        "zh_cn": "熟希希鳍",
+        "en_us": "Barbatana de Sissie Cozida"
+      },
+      "description": {
+        "zh_cn": "来源：由希希鳍烹饪获得。\n\n用途：可直接食用。",
+        "en_us": "Obtenção:\nCozinhe Barbatana de Sissie em uma fogueira, fornalha, defumador ou bloco similar.\n\nUso:\nPode ser comido diretamente."
+      }
+    },
+    {
+      "id": "magic_bottle",
+      "item_id": "tensura:magic_bottle",
+      "source": "tensura",
+      "wiki_page": "Magic Bottle",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Consumables",
+      "category": {
+        "page": "Items/Consumables",
+        "en": "Consumíveis",
+        "zh": "消耗品"
+      },
+      "section": {
+        "en": "Bebidas",
+        "zh": "饮品"
+      },
+      "name": {
+        "zh_cn": "魔法瓶",
+        "en_us": "Frasco Mágico"
+      },
+      "description": {
+        "zh_cn": "来源：使用玻璃和魔晶石合成。\n\n用途：右键水源会变成水魔法瓶，之后可配合希波库特酿造药水。",
+        "en_us": "Obtenção:\n===Criação===\nReceita de criação.\nReceita de criação.\nReceita de criação.\n\nUso:\nClique com o botão direito na água transforma o Frasco Mágico em um(a)  que por sua vez pode ser usado para preparar poções com hipokute (exemplo:  )"
+      }
+    },
+    {
+      "id": "magic_bottle_of_water",
+      "item_id": "tensura:magic_bottle_of_water",
+      "source": "tensura",
+      "wiki_page": "Magic Bottle of Water",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Consumables",
+      "category": {
+        "page": "Items/Consumables",
+        "en": "Consumíveis",
+        "zh": "消耗品"
+      },
+      "section": {
+        "en": "Bebidas",
+        "zh": "饮品"
+      },
+      "name": {
+        "zh_cn": "水魔法瓶",
+        "en_us": "Frasco Mágico de Água"
+      },
+      "description": {
+        "zh_cn": "来源：手持魔法瓶右键水源获得。\n\n用途：可加热为真空水魔法瓶，也可作为低级药水或高级药水的酿造基底。",
+        "en_us": "Obtenção:\nClique com o botão direito na água usando um Frasco Mágico vazio.\n\nUso:\nPode ser aquecido em um Frasco Mágico de Água Selada ou usado como base de preparo para Poção Fraca e Poção Superior."
+      }
+    },
+    {
+      "id": "vacuumed_magic_bottle_of_water",
+      "item_id": "tensura:vacuumed_magic_bottle_of_water",
+      "source": "tensura",
+      "wiki_page": "Vacuumed Magic Bottle of Water",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Consumables",
+      "category": {
+        "page": "Items/Consumables",
+        "en": "Consumíveis",
+        "zh": "消耗品"
+      },
+      "section": {
+        "en": "Bebidas",
+        "zh": "饮品"
+      },
+      "name": {
+        "zh_cn": "真空水魔法瓶",
+        "en_us": "Frasco Mágico de Água Selada"
+      },
+      "description": {
+        "zh_cn": "来源：将水魔法瓶放入营火、熔炉等方块加热获得。\n\n用途：可作为高级药水或完全药水的酿造基底。",
+        "en_us": "Obtenção:\nAqueça um Frasco Mágico de Água em uma fogueira, fornalha, defumador ou bloco similar.\n\nUso:\nUsado como base de preparo para Poção Superior e Poção Completa."
+      }
+    },
+    {
+      "id": "low_potion",
+      "item_id": "tensura:low_potion",
+      "source": "tensura",
+      "wiki_page": "Low Potion",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Consumables",
+      "category": {
+        "page": "Items/Consumables",
+        "en": "Consumíveis",
+        "zh": "消耗品"
+      },
+      "section": {
+        "en": "Bebidas",
+        "zh": "饮品"
+      },
+      "name": {
+        "zh_cn": "低级药水",
+        "en_us": "Poção Fraca"
+      },
+      "description": {
+        "zh_cn": "来源：用水魔法瓶和希波库特酿造获得。\n\n用途：恢复33%HP和100魔素。",
+        "en_us": "Obtenção:\nPrepare um Frasco Mágico de Água com Hipokute.\n\nUso:\nRestaura 33% de HP e 100 magículas."
+      }
+    },
+    {
+      "id": "high_potion",
+      "item_id": "tensura:high_potion",
+      "source": "tensura",
+      "wiki_page": "High Potion",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Consumables",
+      "category": {
+        "page": "Items/Consumables",
+        "en": "Consumíveis",
+        "zh": "消耗品"
+      },
+      "section": {
+        "en": "Bebidas",
+        "zh": "饮品"
+      },
+      "name": {
+        "zh_cn": "高级药水",
+        "en_us": "Poção Superior"
+      },
+      "description": {
+        "zh_cn": "来源：用水魔法瓶或真空水魔法瓶和希波库特酿造获得。\n\n用途：恢复66%HP和1000魔素。",
+        "en_us": "Obtenção:\nPrepare um Frasco Mágico de Água ou um Frasco Mágico de Água Selada com Hipokute.\n\nUso:\nRestaura 66% de HP e 1.000 magículas."
+      }
+    },
+    {
+      "id": "full_potion",
+      "item_id": "tensura:full_potion",
+      "source": "tensura",
+      "wiki_page": "Full Potion",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Consumables",
+      "category": {
+        "page": "Items/Consumables",
+        "en": "Consumíveis",
+        "zh": "消耗品"
+      },
+      "section": {
+        "en": "Bebidas",
+        "zh": "饮品"
+      },
+      "name": {
+        "zh_cn": "完全药水",
+        "en_us": "Poção Completa"
+      },
+      "description": {
+        "zh_cn": "来源：用真空水魔法瓶和希波库特酿造获得。\n\n用途：恢复99%HP和10000魔素。",
+        "en_us": "Obtenção:\nPrepare um Frasco Mágico de Água Selada com Hipokute.\n\nUso:\nRestaura 99% de HP e 10.000 magículas."
+      }
+    },
+    {
+      "id": "dubious_food",
+      "item_id": "tensura:dubious_food",
+      "source": "tensura",
+      "wiki_page": "Dubious Food",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Consumables",
+      "category": {
+        "page": "Items/Consumables",
+        "en": "Consumíveis",
+        "zh": "消耗品"
+      },
+      "section": {
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "name": {
+        "zh_cn": "可疑的食物",
+        "en_us": "Comida Duvidosa"
+      },
+      "description": {
+        "zh_cn": "来源：合成获得。\n\n用途：食用后每种效果各有80%概率触发，包括剧毒、中毒III、麻痹、饥饿II、缓慢II、虚弱、失明、反胃和挖掘疲劳II。",
+        "en_us": "Obtenção:\nCriação.\n\nUso:\nAo ser comido, cada efeito listado tem 80%chance de ser ativado: Veneno Fatal, Veneno III, Paralisia, Fome II, Lentidão II, Fraqueza, Cegueira, Náusea e Exaustão II."
+      }
+    },
+    {
+      "id": "chilled_slime",
+      "item_id": "tensura:chilled_slime",
+      "source": "tensura",
+      "wiki_page": "Chilled Slime",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Consumables",
+      "category": {
+        "page": "Items/Consumables",
+        "en": "Consumíveis",
+        "zh": "消耗品"
+      },
+      "section": {
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "name": {
+        "zh_cn": "冷冻黏液球",
+        "en_us": "Lodo Congelado"
+      },
+      "description": {
+        "zh_cn": "来源：在寒冷生物群系击杀史莱姆获得，也可通过合成获得。\n\n用途：作为黏液相关合成材料。",
+        "en_us": "Obtenção:\nDropado por Slimes derrotados em biomas frios. Também pode ser obtido por criação.\n\nUso:\nUsado como material de criação relacionado a slimes."
+      }
+    },
+    {
+      "id": "silver_apple",
+      "item_id": "tensura:silver_apple",
+      "source": "tensura",
+      "wiki_page": "Silver Apple",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Consumables",
+      "category": {
+        "page": "Items/Consumables",
+        "en": "Consumíveis",
+        "zh": "消耗品"
+      },
+      "section": {
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "name": {
+        "zh_cn": "银苹果",
+        "en_us": "Maçã de Prata"
+      },
+      "description": {
+        "zh_cn": "来源：通过合成或锻造获得。\n\n用途：食用后获得魔素再生和急迫效果，也可继续制作附魔银苹果或可疑的食物。",
+        "en_us": "Obtenção:\n===Criação===\nReceita de criação.\n===Forja===\nReceita de forja.\n\nUso:\n===Consumo===\nAo ser consumida, concede os efeitos Regeneração de Magículas por 60 segundos e Pressa por 120 segundos.\n===Criação===\nReceita de criação.\nReceita de criação.\nReceita de forja."
+      }
+    },
+    {
+      "id": "enchanted_silver_apple",
+      "item_id": "tensura:enchanted_silver_apple",
+      "source": "tensura",
+      "wiki_page": "Enchanted Silver Apple",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Consumables",
+      "category": {
+        "page": "Items/Consumables",
+        "en": "Consumíveis",
+        "zh": "消耗品"
+      },
+      "section": {
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "name": {
+        "zh_cn": "附魔银苹果",
+        "en_us": "Maçã de Prata Encantada"
+      },
+      "description": {
+        "zh_cn": "来源：由银苹果和魔银锭继续合成或锻造获得。\n\n用途：高级食物，效果以游戏内物品为准。",
+        "en_us": "Obtenção:\n===Criação===\nReceita de criação.\n===Forja===\nPara criar, você precisa de uma Bancada de Ferraria.\nReceita de forja.\n\nUso:\n===Consumo===\nAo ser consumida, concede os efeitos Regeneração de Magículas 4 por 60 segundos, Pressa 2 por 120 segundos e Resistência 1 por 5 minutos."
+      }
+    },
+    {
+      "id": "low_quality_magic_crystal",
+      "item_id": "tensura:low_quality_magic_crystal",
+      "source": "tensura",
+      "wiki_page": "Low Quality Magic Crystal",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Mob_Drops",
+      "category": {
+        "page": "Items/Mob Drops",
+        "en": "Drops de Mobs",
+        "zh": "生物掉落"
+      },
+      "section": {
+        "en": "Cristais Mágicos",
+        "zh": "魔晶石"
+      },
+      "name": {
+        "zh_cn": "低级魔晶石",
+        "en_us": "Cristal Mágico de Baixa Qualidade"
+      },
+      "description": {
+        "zh_cn": "来源：0-2999EP生物掉落：牛鹿、龙孔雀、巨大鳕鱼、巨大三文鱼、猎犬、陆地鱼、独眼猫头鹰、史莱姆；也可通过合成或锻造获得。\n\n用途：可用吸收&溶解立即恢复1000魔素，也可用于合成、锻造和交易。",
+        "en_us": "Obtenção:\nDropado por mobs com 0-2999 EP: Cattlegado, Pavão Dragão, Bacalhau Gigante, Salmão Gigante, Cão de Caça, Peixe Terrestre, Coruja de Um Olho, Slime. Também pode ser obtido por criação ou forja.\n\nUso:\nAbsorver e Dissolver restaura 1000 magículas instantaneamente. Também usado para criação, forja e comércio."
+      }
+    },
+    {
+      "id": "medium_quality_magic_crystal",
+      "item_id": "tensura:medium_quality_magic_crystal",
+      "source": "tensura",
+      "wiki_page": "Medium Quality Magic Crystal",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Mob_Drops",
+      "category": {
+        "page": "Items/Mob Drops",
+        "en": "Drops de Mobs",
+        "zh": "生物掉落"
+      },
+      "section": {
+        "en": "Cristais Mágicos",
+        "zh": "魔晶石"
+      },
+      "name": {
+        "zh_cn": "中级魔晶石",
+        "en_us": "Cristal Mágico de Qualidade Média"
+      },
+      "description": {
+        "zh_cn": "来源：3000-8999EP生物掉落：水蛙、铠龙、犬魔、土之野兽、黑暗蜘蛛、牙狼族、龙孔雀、邪恶蜈蚣、羽蛇、巨大妖蚁、巨大蝙蝠、巨大熊、地狱蠋、地狱蛾、独角熊、独角兔、彷徨蜥蜴、长手蜥蜴、火炎蜥蜴、独角兽、有翼猫；也可通过合成或锻造获得。\n\n用途：可用吸收&溶解立即恢复2500魔素，也可用于合成、锻造和交易。",
+        "en_us": "Obtenção:\nDropado por mobs com 3000-8999 EP: Rã Aquática, Armorsaurus, Barghest, Gnomo Bestial, Aranha Negra, Lobo Temível, Pavão Dragão, Centopeia Maligna, Serpente Alada, Formiga Gigante, Morcego Gigante, Urso Gigante, Lagarta Infernal, Mariposa Infernal, Urso com Chifres, Coelho com Chifres, Lagarto Flutuante, Lagarto Sanguessuga, Salamandra, Unicórnio, Gato Alado. Também pode ser obtido por criação ou forja.\n\nUso:\nAbsorver e Dissolver restaura 2500 magículas instantaneamente. Também usado para criação, forja e comércio."
+      }
+    },
+    {
+      "id": "high_quality_magic_crystal",
+      "item_id": "tensura:high_quality_magic_crystal",
+      "source": "tensura",
+      "wiki_page": "High Quality Magic Crystal",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Mob_Drops",
+      "category": {
+        "page": "Items/Mob Drops",
+        "en": "Drops de Mobs",
+        "zh": "生物掉落"
+      },
+      "section": {
+        "en": "Cristais Mágicos",
+        "zh": "魔晶石"
+      },
+      "name": {
+        "zh_cn": "高级魔晶石",
+        "en_us": "Cristal Mágico de Alta Qualidade"
+      },
+      "description": {
+        "zh_cn": "来源：9000EP以上生物掉落：阿卡什、暴风大妖涡、伊芙利特、猪头帝、风之少女、水之圣女、土之骑士、军团蜂、孤刃虎、枪脚铠蜘蛛、泳空巨鲨、金属性史莱姆、希希、枪头铠鱼、岚蛇；也可通过合成获得。\n\n用途：可用吸收&溶解立即恢复5000魔素，也可用于合成、锻造和交易。",
+        "en_us": "Obtenção:\nDropado por mobs com 9000 EP ou mais: Akash, Charybdis, Ifrit, Lorde Orc, Sylphide, Ondina, Gnomo de Guerra, Vespa de Batalha, Tigre Lâmina, Aranha Cavaleiro, Megalodon, Slime Metálico, Sissie, Toro Lança, Serpente da Tempestade. Também pode ser obtido por criação.\n\nUso:\nAbsorver e Dissolver restaura 5000 magículas instantaneamente. Também usado para criação, forja e comércio."
+      }
+    },
+    {
+      "id": "monster_leather_d",
+      "item_id": "tensura:monster_leather_d",
+      "source": "tensura",
+      "wiki_page": "Monster Leather (D)",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Mob_Drops",
+      "category": {
+        "page": "Items/Mob Drops",
+        "en": "Drops de Mobs",
+        "zh": "生物掉落"
+      },
+      "section": {
+        "en": "Couro de Monstro",
+        "zh": "魔物皮革"
+      },
+      "name": {
+        "zh_cn": "魔物皮革（D）",
+        "en_us": "Couro de Monstro (D)"
+      },
+      "description": {
+        "zh_cn": "来源：猎犬、牛鹿掉落。\n\n用途：用于制作装备、图纸或其他材料。",
+        "en_us": "Obtenção:\nDropado por Cão de Caça e Cattlegado.\n\nUso:\nUsado para equipamentos, esquemas e outros materiais."
+      }
+    },
+    {
+      "id": "monster_leather_c",
+      "item_id": "tensura:monster_leather_c",
+      "source": "tensura",
+      "wiki_page": "Monster Leather (C)",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Mob_Drops",
+      "category": {
+        "page": "Items/Mob Drops",
+        "en": "Drops de Mobs",
+        "zh": "生物掉落"
+      },
+      "section": {
+        "en": "Couro de Monstro",
+        "zh": "魔物皮革"
+      },
+      "name": {
+        "zh_cn": "魔物皮革（C）",
+        "en_us": "Couro de Monstro (C)"
+      },
+      "description": {
+        "zh_cn": "来源：犬魔、牙狼族、巨大熊、独角熊、独角兔、彷徨蜥蜴、长手蜥蜴掉落。\n\n用途：用于制作装备、图纸或其他材料。",
+        "en_us": "Obtenção:\nDropado por Barghest, Lobo Temível, Urso Gigante, Urso com Chifres, Coelho com Chifres, Lagarto Flutuante e Lagarto Sanguessuga.\n\nUso:\nUsado para equipamentos, esquemas e outros materiais."
+      }
+    },
+    {
+      "id": "monster_leather_b",
+      "item_id": "tensura:monster_leather_b",
+      "source": "tensura",
+      "wiki_page": "Monster Leather (B)",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Mob_Drops",
+      "category": {
+        "page": "Items/Mob Drops",
+        "en": "Drops de Mobs",
+        "zh": "生物掉落"
+      },
+      "section": {
+        "en": "Couro de Monstro",
+        "zh": "魔物皮革"
+      },
+      "name": {
+        "zh_cn": "魔物皮革（B）",
+        "en_us": "Couro de Monstro (B)"
+      },
+      "description": {
+        "zh_cn": "来源：独角兽掉落。\n\n用途：用于制作B级魔物皮革装备，也可与12个绿宝石向2级装备匠交易魔物皮革装备图纸。",
+        "en_us": "Obtenção:\nDropado por Unicórnio.\n\nUso:\nUsado para equipamentos de Couro de Monstro Rank B e pode ser trocado com 12 Esmeraldas em um Ferreiro de Equipamentos nível 2 por Esquema de Equipamento de Couro de Monstro."
+      }
+    },
+    {
+      "id": "monster_leather_a",
+      "item_id": "tensura:monster_leather_a",
+      "source": "tensura",
+      "wiki_page": "Monster Leather (A)",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Mob_Drops",
+      "category": {
+        "page": "Items/Mob Drops",
+        "en": "Drops de Mobs",
+        "zh": "生物掉落"
+      },
+      "section": {
+        "en": "Couro de Monstro",
+        "zh": "魔物皮革"
+      },
+      "name": {
+        "zh_cn": "魔物皮革（A）",
+        "en_us": "Couro de Monstro (A)"
+      },
+      "description": {
+        "zh_cn": "来源：孤刃虎掉落。\n\n用途：用于制作装备、图纸或其他材料。",
+        "en_us": "Obtenção:\nDropado por Tigre Lâmina.\n\nUso:\nUsado para equipamentos, esquemas e outros materiais."
+      }
+    },
+    {
+      "id": "monster_leather_special_a",
+      "item_id": "tensura:monster_leather_special_a",
+      "source": "tensura",
+      "wiki_page": "Monster Leather (Special A)",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Mob_Drops",
+      "category": {
+        "page": "Items/Mob Drops",
+        "en": "Drops de Mobs",
+        "zh": "生物掉落"
+      },
+      "section": {
+        "en": "Couro de Monstro",
+        "zh": "魔物皮革"
+      },
+      "name": {
+        "zh_cn": "魔物皮革（特A）",
+        "en_us": "Couro de Monstro (Especial A)"
+      },
+      "description": {
+        "zh_cn": "来源：当前没有生物掉落。\n\n用途：用于制作特A级魔物皮革装备。",
+        "en_us": "Obtenção:\nNenhum mob atualmente dropa Couro de Monstro (Especial A).\n\nUso:\nUsado para equipamentos de Couro de Monstro Especial A."
+      }
+    },
+    {
+      "id": "giant_bat_wing",
+      "item_id": "tensura:giant_bat_wing",
+      "source": "tensura",
+      "wiki_page": "Giant Bat Wing",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Mob_Drops",
+      "category": {
+        "page": "Items/Mob Drops",
+        "en": "Drops de Mobs",
+        "zh": "生物掉落"
+      },
+      "section": {
+        "en": "Drops específicos de mobs",
+        "zh": "特定生物掉落"
+      },
+      "name": {
+        "zh_cn": "巨蝙蝠翼",
+        "en_us": "Asa de Morcego Gigante"
+      },
+      "description": {
+        "zh_cn": "来源：击杀巨大蝙蝠掉落。\n\n用途：用于合成或锻造。",
+        "en_us": "Obtenção:\nDropado por Morcego Gigante.\n\nUso:\nUsado para criação ou forja."
+      }
+    },
+    {
+      "id": "invisible_feather",
+      "item_id": "tensura:invisible_feather",
+      "source": "tensura",
+      "wiki_page": "Invisible Feather",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Mob_Drops",
+      "category": {
+        "page": "Items/Mob Drops",
+        "en": "Drops de Mobs",
+        "zh": "生物掉落"
+      },
+      "section": {
+        "en": "Drops específicos de mobs",
+        "zh": "特定生物掉落"
+      },
+      "name": {
+        "zh_cn": "隐形羽毛",
+        "en_us": "Pena Invisível"
+      },
+      "description": {
+        "zh_cn": "来源：击杀独眼猫头鹰掉落。\n\n用途：用于合成、酿造或精炼。",
+        "en_us": "Obtenção:\nDropado por Coruja de Um Olho.\n\nUso:\nUsado para criação, preparo de poções ou refino."
+      }
+    },
+    {
+      "id": "dragon_peacock_feather",
+      "item_id": "tensura:dragon_peacock_feather",
+      "source": "tensura",
+      "wiki_page": "Dragon Peacock Feather",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Mob_Drops",
+      "category": {
+        "page": "Items/Mob Drops",
+        "en": "Drops de Mobs",
+        "zh": "生物掉落"
+      },
+      "section": {
+        "en": "Drops específicos de mobs",
+        "zh": "特定生物掉落"
+      },
+      "name": {
+        "zh_cn": "龙孔雀羽毛",
+        "en_us": "Pena de Pavão de Dragão"
+      },
+      "description": {
+        "zh_cn": "来源：击杀龙孔雀掉落。\n\n用途：用于合成、酿造或精炼。",
+        "en_us": "Obtenção:\nDropado por Pavão Dragão.\n\nUso:\nUsado para criação, preparo de poções ou refino."
+      }
+    },
+    {
+      "id": "hell_moth_silk",
+      "item_id": "tensura:hell_moth_silk",
+      "source": "tensura",
+      "wiki_page": "Hell-Moth Silk",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Mob_Drops",
+      "category": {
+        "page": "Items/Mob Drops",
+        "en": "Drops de Mobs",
+        "zh": "生物掉落"
+      },
+      "section": {
+        "en": "Drops específicos de mobs",
+        "zh": "特定生物掉落"
+      },
+      "name": {
+        "zh_cn": "地狱蛾丝",
+        "en_us": "Seda de Moth do Inferno"
+      },
+      "description": {
+        "zh_cn": "来源：击杀地狱蛾掉落。",
+        "en_us": "Obtenção:\nDropado por Mariposa Infernal."
+      }
+    },
+    {
+      "id": "gehenna_moth_silk",
+      "item_id": "tensura:gehenna_moth_silk",
+      "source": "tensura",
+      "wiki_page": "Gehenna-Moth Silk",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Mob_Drops",
+      "category": {
+        "page": "Items/Mob Drops",
+        "en": "Drops de Mobs",
+        "zh": "生物掉落"
+      },
+      "section": {
+        "en": "Drops específicos de mobs",
+        "zh": "特定生物掉落"
+      },
+      "name": {
+        "zh_cn": "焦热蛾丝",
+        "en_us": "Seda de Moth de Gehenna"
+      },
+      "description": {
+        "zh_cn": "来源：击杀炼狱蛾掉落；但该生物当前未实装，因此无法获得。",
+        "en_us": "Obtenção:\nDropado pela Mariposa de Gehenna, mas esse mob ainda não foi implementado e o item é inobtenível."
+      }
+    },
+    {
+      "id": "giant_ant_carapace",
+      "item_id": "tensura:giant_ant_carapace",
+      "source": "tensura",
+      "wiki_page": "Giant Ant Carapace",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Mob_Drops",
+      "category": {
+        "page": "Items/Mob Drops",
+        "en": "Drops de Mobs",
+        "zh": "生物掉落"
+      },
+      "section": {
+        "en": "Drops específicos de mobs",
+        "zh": "特定生物掉落"
+      },
+      "name": {
+        "zh_cn": "巨蚁甲壳",
+        "en_us": "Carapaça de Formiga Gigante"
+      },
+      "description": {
+        "zh_cn": "来源：击杀巨大妖蚁掉落。\n\n用途：用于合成、锻造，也可与12个绿宝石向2级装备匠交易巨蚁甲壳装备图纸。",
+        "en_us": "Obtenção:\nDropado por Formiga Gigante.\n\nUso:\nUsado para criação, forja e comércio com 12 Esmeraldas em um Ferreiro de Equipamentos nível 2 por Esquema de Equipamento de Carapaça de Formiga."
+      }
+    },
+    {
+      "id": "knight_spider_carapace",
+      "item_id": "tensura:knight_spider_carapace",
+      "source": "tensura",
+      "wiki_page": "Knight Spider Carapace",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Mob_Drops",
+      "category": {
+        "page": "Items/Mob Drops",
+        "en": "Drops de Mobs",
+        "zh": "生物掉落"
+      },
+      "section": {
+        "en": "Drops específicos de mobs",
+        "zh": "特定生物掉落"
+      },
+      "name": {
+        "zh_cn": "骑士蜘蛛甲壳",
+        "en_us": "Carapaça de Aranha Cavaleiro"
+      },
+      "description": {
+        "zh_cn": "来源：击杀枪脚铠蜘蛛掉落。\n\n用途：用于合成、锻造，也可与12个绿宝石向2级装备匠交易骑士蜘蛛甲壳装备图纸。",
+        "en_us": "Obtenção:\nDropado por Aranha Cavaleiro.\n\nUso:\nUsado para criação, forja e comércio com 12 Esmeraldas em um Ferreiro de Equipamentos nível 2 por Esquema de Equipamento de Carapaça de Aranha Cavaleiro."
+      }
+    },
+    {
+      "id": "insectar_carapace",
+      "item_id": "tensura:insectar_carapace",
+      "source": "tensura",
+      "wiki_page": "Insectar Carapace",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Mob_Drops",
+      "category": {
+        "page": "Items/Mob Drops",
+        "en": "Drops de Mobs",
+        "zh": "生物掉落"
+      },
+      "section": {
+        "en": "Drops específicos de mobs",
+        "zh": "特定生物掉落"
+      },
+      "name": {
+        "zh_cn": "虫魔甲壳",
+        "en_us": "Carapaça de Insectar"
+      },
+      "description": {
+        "zh_cn": "来源：击杀军团蜂掉落。",
+        "en_us": "Obtenção:\nDropado por Vespa de Batalha."
+      }
+    },
+    {
+      "id": "armorsaurus_scale",
+      "item_id": "tensura:armorsaurus_scale",
+      "source": "tensura",
+      "wiki_page": "Armorsaurus Scale",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Mob_Drops",
+      "category": {
+        "page": "Items/Mob Drops",
+        "en": "Drops de Mobs",
+        "zh": "生物掉落"
+      },
+      "section": {
+        "en": "Drops específicos de mobs",
+        "zh": "特定生物掉落"
+      },
+      "name": {
+        "zh_cn": "铠甲龙鳞片",
+        "en_us": "Escama de Armorsaurus"
+      },
+      "description": {
+        "zh_cn": "来源：击杀铠龙掉落。\n\n用途：用于制作铠龙鳞装备和相关材料。",
+        "en_us": "Obtenção:\nDropado por Armorsaurus.\n\nUso:\nUsado para equipamentos de escama de Armorsaurus e materiais relacionados."
+      }
+    },
+    {
+      "id": "armorsaurus_shell",
+      "item_id": "tensura:armorsaurus_shell",
+      "source": "tensura",
+      "wiki_page": "Armorsaurus Shell",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Mob_Drops",
+      "category": {
+        "page": "Items/Mob Drops",
+        "en": "Drops de Mobs",
+        "zh": "生物掉落"
+      },
+      "section": {
+        "en": "Drops específicos de mobs",
+        "zh": "特定生物掉落"
+      },
+      "name": {
+        "zh_cn": "铠甲龙甲壳",
+        "en_us": "Casco de Armorsaurus"
+      },
+      "description": {
+        "zh_cn": "来源：击杀铠龙掉落。\n\n用途：用于锻造，也可与25个绿宝石向3级装备匠交易铠甲龙鳞甲装备图纸。",
+        "en_us": "Obtenção:\nDropado por Armorsaurus.\n\nUso:\nUsado para forja e comércio com 25 Esmeraldas em um Ferreiro de Equipamentos nível 3 por Esquema de Equipamento de Cota de Escamas de Armorsaurus."
+      }
+    },
+    {
+      "id": "serpent_scale",
+      "item_id": "tensura:serpent_scale",
+      "source": "tensura",
+      "wiki_page": "Serpent Scale",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Mob_Drops",
+      "category": {
+        "page": "Items/Mob Drops",
+        "en": "Drops de Mobs",
+        "zh": "生物掉落"
+      },
+      "section": {
+        "en": "Drops específicos de mobs",
+        "zh": "特定生物掉落"
+      },
+      "name": {
+        "zh_cn": "巨蛇鳞片",
+        "en_us": "Escama de Serpente"
+      },
+      "description": {
+        "zh_cn": "来源：击杀岚蛇掉落。\n\n用途：用于合成、锻造，也可与12个绿宝石向2级装备匠交易巨蛇鳞甲装备图纸。",
+        "en_us": "Obtenção:\nDropado por Serpente da Tempestade.\n\nUso:\nUsado para criação, forja e comércio com 12 Esmeraldas em um Ferreiro de Equipamentos nível 2 por Esquema de Equipamento de Escama de Serpente."
+      }
+    },
+    {
+      "id": "charybdis_scale",
+      "item_id": "tensura:charybdis_scale",
+      "source": "tensura",
+      "wiki_page": "Charybdis Scale",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Mob_Drops",
+      "category": {
+        "page": "Items/Mob Drops",
+        "en": "Drops de Mobs",
+        "zh": "生物掉落"
+      },
+      "section": {
+        "en": "Drops específicos de mobs",
+        "zh": "特定生物掉落"
+      },
+      "name": {
+        "zh_cn": "卡律布狄斯鳞片",
+        "en_us": "Escama de Charybdis"
+      },
+      "description": {
+        "zh_cn": "来源：击杀暴风大妖涡掉落。\n\n用途：用于制作暴风鳞装备。",
+        "en_us": "Obtenção:\nDropado por Charybdis.\n\nUso:\nUsado para equipamentos de cota de escamas de Charybdis."
+      }
+    },
+    {
+      "id": "centipede_stinger",
+      "item_id": "tensura:centipede_stinger",
+      "source": "tensura",
+      "wiki_page": "Centipede Stinger",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Mob_Drops",
+      "category": {
+        "page": "Items/Mob Drops",
+        "en": "Drops de Mobs",
+        "zh": "生物掉落"
+      },
+      "section": {
+        "en": "Drops específicos de mobs",
+        "zh": "特定生物掉落"
+      },
+      "name": {
+        "zh_cn": "蜈蚣毒刺",
+        "en_us": "Ferrão de Centopeia"
+      },
+      "description": {
+        "zh_cn": "来源：击杀邪恶蜈蚣掉落。\n\n用途：用于合成、酿造或精炼。",
+        "en_us": "Obtenção:\nDropado por Centopeia Maligna.\n\nUso:\nUsado para criação, preparo de poções ou refino."
+      }
+    },
+    {
+      "id": "spider_fang",
+      "item_id": "tensura:spider_fang",
+      "source": "tensura",
+      "wiki_page": "Spider Fang",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Mob_Drops",
+      "category": {
+        "page": "Items/Mob Drops",
+        "en": "Drops de Mobs",
+        "zh": "生物掉落"
+      },
+      "section": {
+        "en": "Drops específicos de mobs",
+        "zh": "特定生物掉落"
+      },
+      "name": {
+        "zh_cn": "蜘蛛牙",
+        "en_us": "Presa de Aranha"
+      },
+      "description": {
+        "zh_cn": "来源：击杀黑暗蜘蛛掉落。\n\n用途：用于合成、酿造或精炼。",
+        "en_us": "Obtenção:\nDropado por Aranha Negra.\n\nUso:\nUsado para criação, preparo de poções ou refino."
+      }
+    },
+    {
+      "id": "blade_tiger_tail",
+      "item_id": "tensura:blade_tiger_tail",
+      "source": "tensura",
+      "wiki_page": "Blade Tiger Tail",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Mob_Drops",
+      "category": {
+        "page": "Items/Mob Drops",
+        "en": "Drops de Mobs",
+        "zh": "生物掉落"
+      },
+      "section": {
+        "en": "Drops específicos de mobs",
+        "zh": "特定生物掉落"
+      },
+      "name": {
+        "zh_cn": "刃虎尾",
+        "en_us": "Cauda de Tigre Lâmina"
+      },
+      "description": {
+        "zh_cn": "来源：击杀孤刃虎掉落。\n\n用途：用于锻造。",
+        "en_us": "Obtenção:\nDropado por Tigre Lâmina.\n\nUso:\nUsado para forja."
+      }
+    },
+    {
+      "id": "slime_chunk",
+      "item_id": "tensura:slime_chunk",
+      "source": "tensura",
+      "wiki_page": "Slime Chunk",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Mob_Drops",
+      "category": {
+        "page": "Items/Mob Drops",
+        "en": "Drops de Mobs",
+        "zh": "生物掉落"
+      },
+      "section": {
+        "en": "Drops específicos de mobs",
+        "zh": "特定生物掉落"
+      },
+      "name": {
+        "zh_cn": "黏液球",
+        "en_us": "Pedaço de Slime"
+      },
+      "description": {
+        "zh_cn": "来源：击杀史莱姆或超大质量史莱姆掉落，也可通过合成获得。\n\n用途：用于黏液相关合成。",
+        "en_us": "Obtenção:\nDropado por Slime ou Slime Supermassivo. Também pode ser obtido por criação.\n\nUso:\nUsado para criação relacionada a slimes."
+      }
+    },
+    {
+      "id": "slime_core",
+      "item_id": "tensura:slime_core",
+      "source": "tensura",
+      "wiki_page": "Slime Core",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Mob_Drops",
+      "category": {
+        "page": "Items/Mob Drops",
+        "en": "Drops de Mobs",
+        "zh": "生物掉落"
+      },
+      "section": {
+        "en": "Drops específicos de mobs",
+        "zh": "特定生物掉落"
+      },
+      "name": {
+        "zh_cn": "史莱姆核心",
+        "en_us": "Núcleo de Slime"
+      },
+      "description": {
+        "zh_cn": "来源：击杀超大质量史莱姆掉落。\n\n用途：用于合成，也可通过吸收&溶解改变玩家史莱姆体型，或喂给宠物史莱姆增加体型（金属性史莱姆除外）。",
+        "en_us": "Obtenção:\nDropado por Slime Supermassivo.\n\nUso:\nUsado para criação, mudanças de tamanho via Absorver e Dissolver, ou para alimentar Slimes de estimação, exceto Slimes Metálicos."
+      }
+    },
+    {
+      "id": "sticky_thread",
+      "item_id": "tensura:sticky_thread",
+      "source": "tensura",
+      "wiki_page": "Sticky Thread",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Mob_Drops",
+      "category": {
+        "page": "Items/Mob Drops",
+        "en": "Drops de Mobs",
+        "zh": "生物掉落"
+      },
+      "section": {
+        "en": "Drops específicos de mobs",
+        "zh": "特定生物掉落"
+      },
+      "name": {
+        "zh_cn": "黏丝",
+        "en_us": "Fio Pegajoso"
+      },
+      "description": {
+        "zh_cn": "来源：击杀黑暗蜘蛛掉落。\n\n用途：用于合成或锻造。",
+        "en_us": "Obtenção:\nDropado por Aranha Negra.\n\nUso:\nUsado para criação ou forja."
+      }
+    },
+    {
+      "id": "steel_thread",
+      "item_id": "tensura:steel_thread",
+      "source": "tensura",
+      "wiki_page": "Steel Thread",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Mob_Drops",
+      "category": {
+        "page": "Items/Mob Drops",
+        "en": "Drops de Mobs",
+        "zh": "生物掉落"
+      },
+      "section": {
+        "en": "Drops específicos de mobs",
+        "zh": "特定生物掉落"
+      },
+      "name": {
+        "zh_cn": "钢丝",
+        "en_us": "Fio de Aço"
+      },
+      "description": {
+        "zh_cn": "来源：击杀黑暗蜘蛛掉落。\n\n用途：用于武器和其他物品锻造。",
+        "en_us": "Obtenção:\nDropado por Aranha Negra.\n\nUso:\nUsado para forja de armas e itens diversos."
+      }
+    },
+    {
+      "id": "sissie_tooth",
+      "item_id": "tensura:sissie_tooth",
+      "source": "tensura",
+      "wiki_page": "Sissie Tooth",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Mob_Drops",
+      "category": {
+        "page": "Items/Mob Drops",
+        "en": "Drops de Mobs",
+        "zh": "生物掉落"
+      },
+      "section": {
+        "en": "Drops específicos de mobs",
+        "zh": "特定生物掉落"
+      },
+      "name": {
+        "zh_cn": "希希牙",
+        "en_us": "Dente de Sissie"
+      },
+      "description": {
+        "zh_cn": "来源：击杀希希掉落。\n\n用途：用于锻造。",
+        "en_us": "Obtenção:\nDropado por Sissie.\n\nUso:\nUsado para forja."
+      }
+    },
+    {
+      "id": "beast_horn",
+      "item_id": "tensura:beast_horn",
+      "source": "tensura",
+      "wiki_page": "Beast Horn",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Mob_Drops",
+      "category": {
+        "page": "Items/Mob Drops",
+        "en": "Drops de Mobs",
+        "zh": "生物掉落"
+      },
+      "section": {
+        "en": "Drops específicos de mobs",
+        "zh": "特定生物掉落"
+      },
+      "name": {
+        "zh_cn": "兽角",
+        "en_us": "Chifre Bestial"
+      },
+      "description": {
+        "zh_cn": "来源：击杀独角兔掉落；独角熊来源当前wiki标注为有BUG，实际不会掉落。\n\n用途：用于锻造。",
+        "en_us": "Obtenção:\nDropado por Coelho com Chifres. Urso com Chifres está listado na wiki como bugado e atualmente não o dropa.\n\nUso:\nUsado para forja."
+      }
+    },
+    {
+      "id": "unicorn_horn",
+      "item_id": "tensura:unicorn_horn",
+      "source": "tensura",
+      "wiki_page": "Unicorn Horn",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Mob_Drops",
+      "category": {
+        "page": "Items/Mob Drops",
+        "en": "Drops de Mobs",
+        "zh": "生物掉落"
+      },
+      "section": {
+        "en": "Drops específicos de mobs",
+        "zh": "特定生物掉落"
+      },
+      "name": {
+        "zh_cn": "独角兽角",
+        "en_us": "Chifre de Unicórnio"
+      },
+      "description": {
+        "zh_cn": "来源：击杀独角兽掉落。\n\n用途：用于锻造。",
+        "en_us": "Obtenção:\nDropado por Unicórnio.\n\nUso:\nUsado para forja."
+      }
+    },
+    {
+      "id": "daemon_essence",
+      "item_id": "tensura:daemon_essence",
+      "source": "tensura",
+      "wiki_page": "Daemon Essence",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Mob_Drops",
+      "category": {
+        "page": "Items/Mob Drops",
+        "en": "Drops de Mobs",
+        "zh": "生物掉落"
+      },
+      "section": {
+        "en": "Essência",
+        "zh": "精华"
+      },
+      "name": {
+        "zh_cn": "恶魔精华",
+        "en_us": "Essência de Demônio"
+      },
+      "description": {
+        "zh_cn": "来源：下级恶魔1%、高等恶魔10%、大恶魔50%掉落；也可从地狱遗迹箱子、下界要塞、废弃传送门、堡垒遗迹宝藏、试炼密室宝库和地狱遗迹可疑沙中获得。\n\n用途：用于启蒙食人魔/鬼人进化为邪鬼（需要10个），也可用于合成。",
+        "en_us": "Obtenção:\nDropado por Demônio Inferior (1%), Demônio Maior (10%) e Arquidemônio (50%). Também encontrado em baús das Ruínas do Inferno, Fortaleza do Nether, Portais em Ruínas, Sala do Tesouro de Bastion, Cofres das Câmaras de Provação e Areia Suspeita das Ruínas do Inferno.\n\nUso:\nUsado na evolução de Ogro Iluminado/Kijin para Oni Maligno (10 necessários) e em criação."
+      }
+    },
+    {
+      "id": "dragon_essence",
+      "item_id": "tensura:dragon_essence",
+      "source": "tensura",
+      "wiki_page": "Dragon Essence",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Mob_Drops",
+      "category": {
+        "page": "Items/Mob Drops",
+        "en": "Drops de Mobs",
+        "zh": "生物掉落"
+      },
+      "section": {
+        "en": "Essência",
+        "zh": "精华"
+      },
+      "name": {
+        "zh_cn": "龙之精华",
+        "en_us": "Essência de Dragão"
+      },
+      "description": {
+        "zh_cn": "来源：蛇怪1%、龙人25%、末影龙50%、暴风大妖涡1-3个掉落。\n\n用途：用于蜥蜴人族进化为龙人族（需要10个），也可用于合成。",
+        "en_us": "Obtenção:\nDropado por Basilisco (1%), Dragonewt (25%), Dragão Ender (50%) e Charybdis (1-3 itens).\n\nUso:\nUsado na evolução de Homem-Lagarto para Dragonewt (10 necessários) e em criação."
+      }
+    },
+    {
+      "id": "elemental_essence",
+      "item_id": "tensura:elemental_essence",
+      "source": "tensura",
+      "wiki_page": "Elemental Essence",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Mob_Drops",
+      "category": {
+        "page": "Items/Mob Drops",
+        "en": "Drops de Mobs",
+        "zh": "生物掉落"
+      },
+      "section": {
+        "en": "Essência",
+        "zh": "精华"
+      },
+      "name": {
+        "zh_cn": "元素精华",
+        "en_us": "Essência Elemental"
+      },
+      "description": {
+        "zh_cn": "来源：中等元素和圣灵守护巨像10%掉落：圣灵守护巨像、土之野兽、火炎蜥蜴、水蛙、羽蛇、有翼猫；上位元素100%掉落：阿卡什、伊芙利特、风之少女、水之圣女、土之骑士。召唤技能召出的精灵不会掉落。\n\n用途：用于启蒙食人魔/鬼人进化为妖鬼（需要10个），也可用于合成。",
+        "en_us": "Obtenção:\n10%drop de Elementais Médios e do Colosso Elemental: Colosso Elemental, Gnomo Bestial, Salamandra, Rã Aquática, Serpente Alada, Gato Alado. 100%drop de Elementais Maiores: Akash, Ifrit, Sylphide, Ondina, Gnomo de Guerra. Espíritos invocados por habilidades de Invocação não o dropam.\n\nUso:\nUsado na evolução de Ogro Iluminado/Kijin para Oni Místico (10 necessários) e em criação."
+      }
+    },
+    {
+      "id": "royal_blood",
+      "item_id": "tensura:royal_blood",
+      "source": "tensura",
+      "wiki_page": "Royal Blood",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Mob_Drops",
+      "category": {
+        "page": "Items/Mob Drops",
+        "en": "Drops de Mobs",
+        "zh": "生物掉落"
+      },
+      "section": {
+        "en": "Sangue",
+        "zh": "血液"
+      },
+      "name": {
+        "zh_cn": "皇家血液",
+        "en_us": "Sangue Real"
+      },
+      "description": {
+        "zh_cn": "来源：皇家猪头族（黄发猪头族）10%、猪头帝50%、猪头魔王100%（1或3个）掉落。\n\n用途：用于高等猪头族进化为猪头帝（需要10个），也可喂给皇家猪头族使其变为猪头帝。",
+        "en_us": "Obtenção:\nDropado por Orc Real (10%), Lorde Orc (50%) e Orc do Desastre (100%, 1 ou 3 itens).\n\nUso:\nUsado na evolução de Alto Orc para Lorde Orc (10 necessários) ou para alimentar um Orc Real e transformá-lo em Lorde Orc."
+      }
+    },
+    {
+      "id": "zane_blood",
+      "item_id": "tensura:zane_blood",
+      "source": "tensura",
+      "wiki_page": "Zane Blood",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Mob_Drops",
+      "category": {
+        "page": "Items/Mob Drops",
+        "en": "Drops de Mobs",
+        "zh": "生物掉落"
+      },
+      "section": {
+        "en": "Sangue",
+        "zh": "血液"
+      },
+      "name": {
+        "zh_cn": "赞恩血液",
+        "en_us": "Sangue de Zane"
+      },
+      "description": {
+        "zh_cn": "来源：埋藏的宝藏、丛林神庙、水下遗迹、要塞图书馆、试炼密室宝库等战利品箱获得。\n\n用途：用于食尸鬼进化为吸血鬼（需要1个）或人类进化为吸血鬼（需要5个），也可用于合成。",
+        "en_us": "Obtenção:\nEncontrado em saques de Tesouro Enterrado, Templo da Selva, Ruína Aquática, Biblioteca da Fortaleza, Cofres das Câmaras de Provação e Cofres Sinistros.\n\nUso:\nUsado na evolução de Ghoul para Vampiro (1 necessário), de Humano para Vampiro (5 necessários) e em criação."
+      }
+    },
+    {
+      "id": "orc_disaster_head",
+      "item_id": "tensura:orc_disaster_head",
+      "source": "tensura",
+      "wiki_page": "Orc Disaster Head",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Mob_Drops",
+      "category": {
+        "page": "Items/Mob Drops",
+        "en": "Drops de Mobs",
+        "zh": "生物掉落"
+      },
+      "section": {
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "name": {
+        "zh_cn": "猪头帝头颅",
+        "en_us": "Cabeça de Orc Disaster"
+      },
+      "description": {
+        "zh_cn": "来源：击败猪头魔王掉落。\n\n用途：可作为击败强敌的战利品佩戴，最大EP为1000000。",
+        "en_us": "Obtenção:\nDropado por Orc do Desastre.\n\nUso:\nUm troféu vestível com 1.000.000 de EP máximo."
+      }
+    },
+    {
+      "id": "charybdis_core",
+      "item_id": "tensura:charybdis_core",
+      "source": "tensura",
+      "wiki_page": "Charybdis Core",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Mob_Drops",
+      "category": {
+        "page": "Items/Mob Drops",
+        "en": "Drops de Mobs",
+        "zh": "生物掉落"
+      },
+      "section": {
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "name": {
+        "zh_cn": "卡律布狄斯核心",
+        "en_us": "Núcleo de Charybdis"
+      },
+      "description": {
+        "zh_cn": "来源：像普通方块一样采掘获得；激活核心可召唤暴风大妖涡，击败后会掉落惰性核心。\n\n用途：放在16格内吸收被击杀生物的EP，充满100000EP后激活；退化的合成技能可消耗核心获得EP或相关技能。",
+        "en_us": "Obtenção:\nColetado como um bloco normal. Um núcleo ativo pode invocar Charybdis; depois que Charybdis é derrotado, seu núcleo cai como um núcleo inerte.\n\nUso:\nArmazena EP de mobs mortos em um raio de 16 blocos e ativa ao atingir 100.000 EP. A habilidade Sintetizar do Degenerador pode consumir núcleos para obter EP ou habilidades relacionadas."
+      }
+    },
+    {
+      "id": "dark_set_schematic",
+      "item_id": "tensura:dark_set_schematic",
+      "source": "tensura",
+      "wiki_page": "Items/Schematics/Dark Set Schematic",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Schematics",
+      "category": {
+        "page": "Items/Schematics",
+        "en": "Esquemas",
+        "zh": "图纸"
+      },
+      "section": {
+        "en": "",
+        "zh": ""
+      },
+      "name": {
+        "zh_cn": "暗黑套装图纸",
+        "en_us": "Esquema de Conjunto Sombrio"
+      },
+      "description": {
+        "zh_cn": "来源：完成成就[怪物支配者]获得，需要驯服蜥蜴人族、哥布林、猪头族、牙狼族和史莱姆。\n\n用途：解锁暗黑套装相关制作。",
+        "en_us": "Obtenção:\nObtenha o avanço [Governante dos Monstros] domesticando Homem-Lagarto, Goblin, Orc, Lobo Temível e Slime.\n\nUso:\nDesbloqueia a criação relacionada ao Conjunto das Trevas."
+      }
+    },
+    {
+      "id": "anti_magic_mask_schematic",
+      "item_id": "tensura:anti_magic_mask_schematic",
+      "source": "tensura",
+      "wiki_page": "Items/Schematics/Anti-Magic Mask Schematic",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Schematics",
+      "category": {
+        "page": "Items/Schematics",
+        "en": "Esquemas",
+        "zh": "图纸"
+      },
+      "section": {
+        "en": "",
+        "zh": ""
+      },
+      "name": {
+        "zh_cn": "抗魔面具图纸",
+        "en_us": "Esquema de Máscara Anti-Magia"
+      },
+      "description": {
+        "zh_cn": "来源：击败井泽静江获得。\n\n用途：解锁抗魔面具制作。",
+        "en_us": "Obtenção:\nDerrote Shizu.\n\nUso:\nDesbloqueia a criação da Máscara Anti-Magia."
+      }
+    },
+    {
+      "id": "spatial_blade_schematic",
+      "item_id": "tensura:spatial_blade_schematic",
+      "source": "tensura",
+      "wiki_page": "Items/Schematics/Spatial Blade Schematic",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Schematics",
+      "category": {
+        "page": "Items/Schematics",
+        "en": "Esquemas",
+        "zh": "图纸"
+      },
+      "section": {
+        "en": "",
+        "zh": ""
+      },
+      "name": {
+        "zh_cn": "空间刃图纸",
+        "en_us": "Esquema da Lâmina Espacial"
+      },
+      "description": {
+        "zh_cn": "来源：击败橘恭弥掉落。\n\n用途：解锁空间剑制作。",
+        "en_us": "Obtenção:\nDropado por Kyoya Tachibana.\n\nUso:\nDesbloqueia a criação da Lâmina Espacial."
+      }
+    },
+    {
+      "id": "kodachi",
+      "item_id": "tensura:kodachi",
+      "source": "tensura",
+      "wiki_page": "Items/Schematics/Kodachi",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Schematics",
+      "category": {
+        "page": "Items/Schematics",
+        "en": "Esquemas",
+        "zh": "图纸"
+      },
+      "section": {
+        "en": "",
+        "zh": ""
+      },
+      "name": {
+        "zh_cn": "小太刀图纸",
+        "en_us": "Kodachi"
+      },
+      "description": {
+        "zh_cn": "来源：组合图纸，阅读短剑图纸和日式刀剑图纸后获得。\n\n用途：解锁小太刀制作。",
+        "en_us": "Obtenção:\nEsquema combinado: leia Esquema de Espada Curta e Esquema Japonês.\n\nUso:\nDesbloqueia a criação de Kodachi."
+      }
+    },
+    {
+      "id": "tachi",
+      "item_id": "tensura:tachi",
+      "source": "tensura",
+      "wiki_page": "Items/Schematics/Tachi",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Schematics",
+      "category": {
+        "page": "Items/Schematics",
+        "en": "Esquemas",
+        "zh": "图纸"
+      },
+      "section": {
+        "en": "",
+        "zh": ""
+      },
+      "name": {
+        "zh_cn": "太刀图纸",
+        "en_us": "Tachi"
+      },
+      "description": {
+        "zh_cn": "来源：组合图纸，阅读长剑图纸和日式刀剑图纸后获得。\n\n用途：解锁太刀制作。",
+        "en_us": "Obtenção:\nEsquema combinado: leia Esquema de Espada Longa e Esquema Japonês.\n\nUso:\nDesbloqueia a criação de Tachi."
+      }
+    },
+    {
+      "id": "odachi",
+      "item_id": "tensura:odachi",
+      "source": "tensura",
+      "wiki_page": "Items/Schematics/Odachi",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Schematics",
+      "category": {
+        "page": "Items/Schematics",
+        "en": "Esquemas",
+        "zh": "图纸"
+      },
+      "section": {
+        "en": "",
+        "zh": ""
+      },
+      "name": {
+        "zh_cn": "大太刀图纸",
+        "en_us": "Odachi"
+      },
+      "description": {
+        "zh_cn": "来源：组合图纸，阅读大剑图纸和日式刀剑图纸后获得。\n\n用途：解锁大太刀制作。",
+        "en_us": "Obtenção:\nEsquema combinado: leia Esquema de Grande Espada e Esquema Japonês.\n\nUso:\nDesbloqueia a criação de Odachi."
+      }
+    },
+    {
+      "id": "scythe",
+      "item_id": "tensura:scythe",
+      "source": "tensura",
+      "wiki_page": "Items/Schematics/Scythe",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Schematics",
+      "category": {
+        "page": "Items/Schematics",
+        "en": "Esquemas",
+        "zh": "图纸"
+      },
+      "section": {
+        "en": "",
+        "zh": ""
+      },
+      "name": {
+        "zh_cn": "镰刀图纸",
+        "en_us": "Foice"
+      },
+      "description": {
+        "zh_cn": "来源：组合图纸，阅读大剑图纸和长枪图纸后获得。\n\n用途：解锁镰刀制作。",
+        "en_us": "Obtenção:\nEsquema combinado: leia Esquema de Grande Espada e Esquema de Lança.\n\nUso:\nDesbloqueia a criação de Foice."
+      }
+    },
+    {
+      "id": "monster_leather_gear_schematic",
+      "item_id": "tensura:monster_leather_gear_schematic",
+      "source": "tensura",
+      "wiki_page": "Items/Schematics/Monster Leather Gear Schematic",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Schematics",
+      "category": {
+        "page": "Items/Schematics",
+        "en": "Esquemas",
+        "zh": "图纸"
+      },
+      "section": {
+        "en": "",
+        "zh": ""
+      },
+      "name": {
+        "zh_cn": "魔物皮革装备图纸",
+        "en_us": "Esquema de Equipamento de Couro de Monstro"
+      },
+      "description": {
+        "zh_cn": "来源：用魔物皮革（B）和12个绿宝石向2级装备匠交易获得。\n\n用途：解锁魔物皮革装备制作。",
+        "en_us": "Obtenção:\nTroque Couro de Monstro (B) e 12 Esmeraldas com um Ferreiro de Equipamentos nível 2.\n\nUso:\nDesbloqueia a criação de equipamentos de Couro de Monstro."
+      }
+    },
+    {
+      "id": "ant_carapace_gear_schematic",
+      "item_id": "tensura:ant_carapace_gear_schematic",
+      "source": "tensura",
+      "wiki_page": "Items/Schematics/Ant Carapace Gear Schematic",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Schematics",
+      "category": {
+        "page": "Items/Schematics",
+        "en": "Esquemas",
+        "zh": "图纸"
+      },
+      "section": {
+        "en": "",
+        "zh": ""
+      },
+      "name": {
+        "zh_cn": "巨蚁甲壳装备图纸",
+        "en_us": "Esquema de Equipamento de Carapaça de Formiga"
+      },
+      "description": {
+        "zh_cn": "来源：用巨蚁甲壳和12个绿宝石向2级装备匠交易获得。\n\n用途：解锁巨蚁甲壳装备制作。",
+        "en_us": "Obtenção:\nTroque Carapaça de Formiga Gigante e 12 Esmeraldas com um Ferreiro de Equipamentos nível 2.\n\nUso:\nDesbloqueia a criação de equipamentos de Carapaça de Formiga."
+      }
+    },
+    {
+      "id": "serpent_scalemail_gear_schematic",
+      "item_id": "tensura:serpent_scalemail_gear_schematic",
+      "source": "tensura",
+      "wiki_page": "Items/Schematics/Serpent Scalemail Gear Schematic",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Schematics",
+      "category": {
+        "page": "Items/Schematics",
+        "en": "Esquemas",
+        "zh": "图纸"
+      },
+      "section": {
+        "en": "",
+        "zh": ""
+      },
+      "name": {
+        "zh_cn": "巨蛇鳞甲装备图纸",
+        "en_us": "Esquema de Equipamento de Escama de Serpente"
+      },
+      "description": {
+        "zh_cn": "来源：用巨蛇鳞片和12个绿宝石向2级装备匠交易获得。\n\n用途：解锁巨蛇鳞甲装备制作。",
+        "en_us": "Obtenção:\nTroque Escama de Serpente e 12 Esmeraldas com um Ferreiro de Equipamentos nível 2.\n\nUso:\nDesbloqueia a criação de equipamentos de Cota de Escamas de Serpente."
+      }
+    },
+    {
+      "id": "knight_spider_carapace_gear_schematic",
+      "item_id": "tensura:knight_spider_carapace_gear_schematic",
+      "source": "tensura",
+      "wiki_page": "Items/Schematics/Knight Spider Carapace Gear Schematic",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Schematics",
+      "category": {
+        "page": "Items/Schematics",
+        "en": "Esquemas",
+        "zh": "图纸"
+      },
+      "section": {
+        "en": "",
+        "zh": ""
+      },
+      "name": {
+        "zh_cn": "骑士蜘蛛甲壳装备图纸",
+        "en_us": "Esquema de Equipamento de Carapaça de Aranha Cavaleiro"
+      },
+      "description": {
+        "zh_cn": "来源：用骑士蜘蛛甲壳和12个绿宝石向2级装备匠交易获得。\n\n用途：解锁骑士蜘蛛甲壳装备制作。",
+        "en_us": "Obtenção:\nTroque Carapaça de Aranha Cavaleiro e 12 Esmeraldas com um Ferreiro de Equipamentos nível 2.\n\nUso:\nDesbloqueia a criação de equipamentos de Carapaça de Aranha Cavaleiro."
+      }
+    },
+    {
+      "id": "armorsaurus_scalemail_gear_schematic",
+      "item_id": "tensura:armorsaurus_scalemail_gear_schematic",
+      "source": "tensura",
+      "wiki_page": "Items/Schematics/Armorsaurus Scalemail Gear Schematic",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Schematics",
+      "category": {
+        "page": "Items/Schematics",
+        "en": "Esquemas",
+        "zh": "图纸"
+      },
+      "section": {
+        "en": "",
+        "zh": ""
+      },
+      "name": {
+        "zh_cn": "铠甲龙鳞甲装备图纸",
+        "en_us": "Esquema de Equipamento de Cota de Escamas de Armorsaurus"
+      },
+      "description": {
+        "zh_cn": "来源：用铠甲龙甲壳和25个绿宝石向3级装备匠交易获得。\n\n用途：解锁铠甲龙鳞甲装备制作。",
+        "en_us": "Obtenção:\nTroque Casco de Armorsaurus e 25 Esmeraldas com um Ferreiro de Equipamentos nível 3.\n\nUso:\nDesbloqueia a criação de equipamentos de Cota de Escamas de Armorsaurus."
+      }
+    },
+    {
+      "id": "charybdis_scalemail_gear_schematic",
+      "item_id": "tensura:charybdis_scalemail_gear_schematic",
+      "source": "tensura",
+      "wiki_page": "Items/Schematics/Charybdis Scalemail Gear Schematic",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Schematics",
+      "category": {
+        "page": "Items/Schematics",
+        "en": "Esquemas",
+        "zh": "图纸"
+      },
+      "section": {
+        "en": "",
+        "zh": ""
+      },
+      "name": {
+        "zh_cn": "卡律布狄斯鳞甲装备图纸",
+        "en_us": "Esquema de Equipamento de Couraça Escamada de Charybdis"
+      },
+      "description": {
+        "zh_cn": "来源：击败暴风大妖涡获得。\n\n用途：解锁暴风鳞装备制作。",
+        "en_us": "Obtenção:\nDerrote Charybdis.\n\nUso:\nDesbloqueia a criação de equipamentos de Cota de Escamas de Charybdis."
+      }
+    },
+    {
+      "id": "web_gun_schematic",
+      "item_id": "tensura:web_gun_schematic",
+      "source": "tensura",
+      "wiki_page": "Items/Schematics/Web Gun Schematic",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Schematics",
+      "category": {
+        "page": "Items/Schematics",
+        "en": "Esquemas",
+        "zh": "图纸"
+      },
+      "section": {
+        "en": "",
+        "zh": ""
+      },
+      "name": {
+        "zh_cn": "蛛网枪图纸",
+        "en_us": "Esquema da Arma de Teia"
+      },
+      "description": {
+        "zh_cn": "来源：蜘蛛巢20%概率获得，或击杀黑暗蜘蛛获得。\n\n用途：解锁网枪制作。",
+        "en_us": "Obtenção:\nEncontrado em Ninho de Aranha com 20%chance, ou dropado por Aranha Negra.\n\nUso:\nDesbloqueia a criação da Arma de Teia."
+      }
+    },
+    {
+      "id": "winged_shoes_schematic",
+      "item_id": "tensura:winged_shoes_schematic",
+      "source": "tensura",
+      "wiki_page": "Items/Schematics/Winged Shoes Schematic",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Schematics",
+      "category": {
+        "page": "Items/Schematics",
+        "en": "Esquemas",
+        "zh": "图纸"
+      },
+      "section": {
+        "en": "",
+        "zh": ""
+      },
+      "name": {
+        "zh_cn": "羽翼鞋图纸",
+        "en_us": "Esquema de Sapatos Alados"
+      },
+      "description": {
+        "zh_cn": "来源：持有隐形羽毛获得。\n\n用途：解锁羽翼鞋制作。",
+        "en_us": "Obtenção:\nDesbloqueado ao segurar uma Pena Invisível.\n\nUso:\nDesbloqueia a criação dos Sapatos Alados."
+      }
+    },
+    {
+      "id": "raw_silver",
+      "item_id": "tensura:raw_silver",
+      "source": "tensura",
+      "wiki_page": "Raw Silver",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Misc",
+      "category": {
+        "page": "Items/Misc",
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "section": {
+        "en": "Não Processado",
+        "zh": "未加工"
+      },
+      "name": {
+        "zh_cn": "粗银",
+        "en_us": "Prata Bruta"
+      },
+      "description": {
+        "zh_cn": "来源：通过采集、加工、合成或锻造获得。\n\n用途：基础材料，用于合成、锻造和材料升级。",
+        "en_us": "Obtenção:\n===Mineração===\nObtido minerando 30px de Minério de Prata com uma  (ou 30px de Minério de Prata de Ardósia com uma )\n===Criação===\nReceita de criação.\n\nUso:\n===Fundição===\nFundição: Prata Bruta -> Lingote de Prata.\nQuando fundido em um forno... (T.B.A)\n=== Ingrediente de criação ===\nReceita de criação."
+      }
+    },
+    {
+      "id": "magic_ore_shard",
+      "item_id": "tensura:magic_ore_shard",
+      "source": "tensura",
+      "wiki_page": "Magic Ore Shard",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Misc",
+      "category": {
+        "page": "Items/Misc",
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "section": {
+        "en": "Não Processado",
+        "zh": "未加工"
+      },
+      "name": {
+        "zh_cn": "魔矿碎片",
+        "en_us": "Fragmento de Minério Mágico"
+      },
+      "description": {
+        "zh_cn": "来源：通过采集、加工、合成或锻造获得。\n\n用途：基础材料，用于合成、锻造和材料升级。",
+        "en_us": "Obtenção:\nObtido minerando 30px de Minério Mágico (ou 30px de Minério Mágico de Ardósia) com uma Picareta de Netherita\nOu abatendo um Slime Metálico\n\nUso:\n===Refinando===\nCom o uso de Grande Sábio, você pode transformar 1  em 2\n===Item de evolução===\nUsado para evoluir de Slime para Slime Metálico (requer 100 )\n===Derretimento===\nDerretendo Minério Mágico em um Forno\nQuando fundido no Forno, você obtém 0,25 de Magipedra Fundida\n=== Ingrediente de criação ===\nReceita de criação."
+      }
+    },
+    {
+      "id": "silver_ingot",
+      "item_id": "tensura:silver_ingot",
+      "source": "tensura",
+      "wiki_page": "Silver Ingot",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Misc",
+      "category": {
+        "page": "Items/Misc",
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "section": {
+        "en": "Lingotes",
+        "zh": "锭"
+      },
+      "name": {
+        "zh_cn": "银锭",
+        "en_us": "Lingote de Prata"
+      },
+      "description": {
+        "zh_cn": "来源：通过采集、加工、合成或锻造获得。\n\n用途：基础材料，用于合成、锻造和材料升级。",
+        "en_us": "Obtenção:\n===Fundição===\nFundição: Prata Bruta -> Lingote de Prata.\nReceita do Forno T.B.A\n=== Criação ===\nReceita de criação.\nReceita de criação."
+      }
+    },
+    {
+      "id": "low_magisteel_ingot",
+      "item_id": "tensura:low_magisteel_ingot",
+      "source": "tensura",
+      "wiki_page": "Low Magisteel Ingot",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Misc",
+      "category": {
+        "page": "Items/Misc",
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "section": {
+        "en": "Lingotes",
+        "zh": "锭"
+      },
+      "name": {
+        "zh_cn": "下级魔钢锭",
+        "en_us": "Lingote de Magipedra Inferior"
+      },
+      "description": {
+        "zh_cn": "来源：通过采集、加工、合成或锻造获得。\n\n用途：基础材料，用于合成、锻造和材料升级。",
+        "en_us": "Obtenção:\nFundindo Minério Mágico e Ferro no Forno\nCada Lingote de Magipedra Inferior é feito com 1 parte de Magipedra Fundida e 8 partes de Ferro Fundido.\n=== Criação ===\nReceita de criação.\nReceita de criação."
+      }
+    },
+    {
+      "id": "high_magisteel_ingot",
+      "item_id": "tensura:high_magisteel_ingot",
+      "source": "tensura",
+      "wiki_page": "High Magisteel Ingot",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Misc",
+      "category": {
+        "page": "Items/Misc",
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "section": {
+        "en": "Lingotes",
+        "zh": "锭"
+      },
+      "name": {
+        "zh_cn": "上级魔钢锭",
+        "en_us": "Lingote de Magipedra Superior"
+      },
+      "description": {
+        "zh_cn": "来源：通过采集、加工、合成或锻造获得。\n\n用途：基础材料，用于合成、锻造和材料升级。",
+        "en_us": "Obtenção:\nFundindo Minério Mágico e Ferro no Forno\nCada Lingote de Magipedra Superior é feito com 4 partes de Magipedra Fundida, 5 partes de Ferro Fundido."
+      }
+    },
+    {
+      "id": "mithril_ingot",
+      "item_id": "tensura:mithril_ingot",
+      "source": "tensura",
+      "wiki_page": "Mithril Ingot",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Misc",
+      "category": {
+        "page": "Items/Misc",
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "section": {
+        "en": "Lingotes",
+        "zh": "锭"
+      },
+      "name": {
+        "zh_cn": "魔银锭",
+        "en_us": "Lingote de Mithril"
+      },
+      "description": {
+        "zh_cn": "来源：通过采集、加工、合成或锻造获得。\n\n用途：基础材料，用于合成、锻造和材料升级。",
+        "en_us": "Obtenção:\nFundindo Minério Mágico e Prata no Forno\nCada Lingote de Mithril é feito com 5 partes de Magipedra Fundida e 4 partes de Prata Fundida."
+      }
+    },
+    {
+      "id": "orichalcum_ingot",
+      "item_id": "tensura:orichalcum_ingot",
+      "source": "tensura",
+      "wiki_page": "Orichalcum Ingot",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Misc",
+      "category": {
+        "page": "Items/Misc",
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "section": {
+        "en": "Lingotes",
+        "zh": "锭"
+      },
+      "name": {
+        "zh_cn": "神辉金钢锭",
+        "en_us": "Lingote de Oricalco"
+      },
+      "description": {
+        "zh_cn": "来源：通过采集、加工、合成或锻造获得。\n\n用途：基础材料，用于合成、锻造和材料升级。",
+        "en_us": "Obtenção:\nFundindo Minério Mágico e Ouro no Forno\nCada Lingote de Oricalco é feito com 5 partes de Magipedra Fundida e 4 partes de Ouro Fundido."
+      }
+    },
+    {
+      "id": "pure_magisteel_ingot",
+      "item_id": "tensura:pure_magisteel_ingot",
+      "source": "tensura",
+      "wiki_page": "Pure Magisteel Ingot",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Misc",
+      "category": {
+        "page": "Items/Misc",
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "section": {
+        "en": "Lingotes",
+        "zh": "锭"
+      },
+      "name": {
+        "zh_cn": "纯魔钢锭",
+        "en_us": "Lingote de Magipedra Pura"
+      },
+      "description": {
+        "zh_cn": "来源：通过采集、加工、合成或锻造获得。\n\n用途：基础材料，用于合成、锻造和材料升级。",
+        "en_us": "Obtenção:\n=== Fundição ===\nFundindo  em\nCada Lingote de Magipedra Pura é feito com 9 partes de Magipedra Fundida.\n=== Refinando ===\nRefinando 1  em 2"
+      }
+    },
+    {
+      "id": "adamantite_ingot",
+      "item_id": "tensura:adamantite_ingot",
+      "source": "tensura",
+      "wiki_page": "Adamantite Ingot",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Misc",
+      "category": {
+        "page": "Items/Misc",
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "section": {
+        "en": "Lingotes",
+        "zh": "锭"
+      },
+      "name": {
+        "zh_cn": "生体魔钢锭",
+        "en_us": "Barra de Adamantita"
+      },
+      "description": {
+        "zh_cn": "来源：通过采集、加工、合成或锻造获得。\n\n用途：基础材料，用于合成、锻造和材料升级。",
+        "en_us": "Obtenção:\n=== Fundição ===\nFunda equipamentos de Adamantite em pepitas e depois crie um lingote."
+      }
+    },
+    {
+      "id": "hihiirokane_ingot",
+      "item_id": "tensura:hihiirokane_ingot",
+      "source": "tensura",
+      "wiki_page": "HihiIrokane Ingot",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Misc",
+      "category": {
+        "page": "Items/Misc",
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "section": {
+        "en": "Lingotes",
+        "zh": "锭"
+      },
+      "name": {
+        "zh_cn": "究极金属锭",
+        "en_us": "Lingote de Metal Divino"
+      },
+      "description": {
+        "zh_cn": "来源：通过采集、加工、合成或锻造获得。\n\n用途：基础材料，用于合成、锻造和材料升级。",
+        "en_us": "Obtenção:\n=== Fundição ===\nFunda equipamentos de Hihi'irokane em pepitas e depois crie um lingote."
+      }
+    },
+    {
+      "id": "hipokute_seeds",
+      "item_id": "tensura:hipokute_seeds",
+      "source": "tensura",
+      "wiki_page": "Hipokute Seeds",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Misc",
+      "category": {
+        "page": "Items/Misc",
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "section": {
+        "en": "Plantas",
+        "zh": "植物"
+      },
+      "name": {
+        "zh_cn": "希波库特种子",
+        "en_us": "Sementes de Hipokute"
+      },
+      "description": {
+        "zh_cn": "来源：通过采集或种植获得。\n\n用途：用于种植、药水或相关合成。",
+        "en_us": "Obtenção:\nEste item pode ser obtido destruindo/colhendo brotos de Grama Hipokute pelo mundo. Seja na natureza ou por cultivo de hipokute.\n\nUso:\nPode ser usado para plantar hipokute\n(veja mais em cultivo de hipokute)\nHipokute é usado para fazer diferentes poções que curam sua vida e magículas\n''(mais informações em  e )''"
+      }
+    },
+    {
+      "id": "hipokute_grass",
+      "item_id": "tensura:hipokute_grass",
+      "source": "tensura",
+      "wiki_page": "Hipokute Grass",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Misc",
+      "category": {
+        "page": "Items/Misc",
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "section": {
+        "en": "Plantas",
+        "zh": "植物"
+      },
+      "name": {
+        "zh_cn": "希波库特草",
+        "en_us": "Grama Hipokute"
+      },
+      "description": {
+        "zh_cn": "来源：通过采集或种植获得。\n\n用途：用于种植、药水或相关合成。",
+        "en_us": "Obtenção:\nEste item pode ser obtido destruindo/colhendo brotos de Grama Hipokute pelo mundo. Seja encontrado na natureza ou por cultivo de hipokute.\n\nUso:\nPode ser usado para preparar  e .\nEsta é uma versão pior de uma\n{| class=\"wikitable\" style=\"text-align: center;\" data-description=\"Base potions\"\n! Poção\n! Reagente, base\n|-\n!\nPoção Fraca\n|\n|-\n!\nPoção Superior\n|\n|-\n|}"
+      }
+    },
+    {
+      "id": "hipokute_flower",
+      "item_id": "tensura:hipokute_flower",
+      "source": "tensura",
+      "wiki_page": "Hipokute Flower",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Misc",
+      "category": {
+        "page": "Items/Misc",
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "section": {
+        "en": "Plantas",
+        "zh": "植物"
+      },
+      "name": {
+        "zh_cn": "希波库特花",
+        "en_us": "Flor Hipokute"
+      },
+      "description": {
+        "zh_cn": "来源：通过采集或种植获得。\n\n用途：用于种植、药水或相关合成。",
+        "en_us": "Obtenção:\nEste item pode ser obtido clicando com o botão direito em uma Grama Hipokute ou destruindo-a.\nSeja na natureza ou por cultivo de hipokute.\n\nUso:\nPode ser usado para preparar  e .\nEsta é uma versão melhor de\n{| class=\"wikitable\" style=\"text-align: center;\" data-description=\"Base potions\"\n! Poção\n! Reagente, base\n|-\n!\nPoção Superior\n|\n|-\n!\nPoção Completa\n|\n|-\n|}"
+      }
+    },
+    {
+      "id": "baffledill",
+      "item_id": "tensura:baffledill",
+      "source": "tensura",
+      "wiki_page": "Baffledill",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Misc",
+      "category": {
+        "page": "Items/Misc",
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "section": {
+        "en": "Plantas",
+        "zh": "植物"
+      },
+      "name": {
+        "zh_cn": "迷惑水仙",
+        "en_us": "Baffledill"
+      },
+      "description": {
+        "zh_cn": "来源：通过采集或种植获得。\n\n用途：用于种植、药水或相关合成。",
+        "en_us": "Obtenção:\nEncontrado em biomas de floresta.\n- Se usar tesoura no baffledill, ele deixará de liberar  Hipnose na área.\n\nUso:\n- Pode ser usado para criar uma  Poção de Hipnose, como uma poção comum.\n- Quando misturado com um olho de aranha fermentado, criará uma  Poção de Eficiência Hipnótica"
+      }
+    },
+    {
+      "id": "magic_stone",
+      "item_id": "tensura:magic_stone",
+      "source": "tensura",
+      "wiki_page": "Magic Stone",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Misc",
+      "category": {
+        "page": "Items/Misc",
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "section": {
+        "en": "Elemental",
+        "zh": "元素"
+      },
+      "name": {
+        "zh_cn": "魔石",
+        "en_us": "Pedra Mágica"
+      },
+      "description": {
+        "zh_cn": "来源：通过合成、锻造或元素相关流程获得。\n\n用途：元素材料，用于元素魔核、锻造或相关合成。",
+        "en_us": "Obtenção:\nPode ser obtido criando em uma Bancada de Ferraria\nReceita de forja.\n\nUso:\nPara fazer vários itens, como:\n=== Bancada de Ferraria ===\nReceita de forja.\nReceita de forja.\nReceita de forja.\nReceita de forja.\nReceita de forja.\nReceita de forja."
+      }
+    },
+    {
+      "id": "element_core_empty",
+      "item_id": "tensura:element_core_empty",
+      "source": "tensura",
+      "wiki_page": "Element Core (Empty)",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Misc",
+      "category": {
+        "page": "Items/Misc",
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "section": {
+        "en": "Núcleo",
+        "zh": "魔核"
+      },
+      "name": {
+        "zh_cn": "元素魔核（无）",
+        "en_us": "Núcleo Elemental (Vazio)"
+      },
+      "description": {
+        "zh_cn": "来源：通过合成、锻造或元素相关流程获得。\n\n用途：元素材料，用于元素魔核、锻造或相关合成。",
+        "en_us": "Obtenção:\nPode ser obtido criando\n=== ISTO É UM ESPAÇO RESERVADO  ===\nReceita de criação.\n\nUso:\nEste item pode ser usado para obter qualquer núcleo elemental clicando com o botão direito no respectivo espírito (água, fogo, terra, etc.)."
+      }
+    },
+    {
+      "id": "element_core_earth",
+      "item_id": "tensura:element_core_earth",
+      "source": "tensura",
+      "wiki_page": "Element Core (Earth)",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Misc",
+      "category": {
+        "page": "Items/Misc",
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "section": {
+        "en": "Núcleo",
+        "zh": "魔核"
+      },
+      "name": {
+        "zh_cn": "元素魔核（土）",
+        "en_us": "Núcleo Elementar (Terra)"
+      },
+      "description": {
+        "zh_cn": "来源：通过合成、锻造或元素相关流程获得。\n\n用途：元素材料，用于元素魔核、锻造或相关合成。",
+        "en_us": "Obtenção:\nExistem 2 métodos de obtenção:\n===\"Capturando\" espíritos maiores===\nObtido clicando com o botão direito em um Gnomo de Guerra com um Núcleo Elemental (Vazio)\n===Criação===\nReceita de criação.\n\nUso:\nUsado para inserção\nEfeitos: Concede um ataque especial que lança um projétil em arco causando 30 de dano de terra. Adiciona dano elemental à arma: +30 para o primeiro núcleo e +15 para cada núcleo adicional equipado."
+      }
+    },
+    {
+      "id": "element_core_fire",
+      "item_id": "tensura:element_core_fire",
+      "source": "tensura",
+      "wiki_page": "Element Core (Fire)",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Misc",
+      "category": {
+        "page": "Items/Misc",
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "section": {
+        "en": "Núcleo",
+        "zh": "魔核"
+      },
+      "name": {
+        "zh_cn": "元素魔核（火）",
+        "en_us": "Núcleo Elementar (Fogo)"
+      },
+      "description": {
+        "zh_cn": "来源：通过合成、锻造或元素相关流程获得。\n\n用途：元素材料，用于元素魔核、锻造或相关合成。",
+        "en_us": "Obtenção:\nExistem 2 métodos de obtenção:\n===\"Capturando\" espíritos maiores===\nObtido clicando com o botão direito em Ifrit com um Núcleo Elemental (Vazio)\n===Criação===\nReceita de criação.\n\nUso:\nUsado para inserção\nEfeitos: Concede um ataque especial que lança um projétil de fogo em arco causando 30 de dano e queima o alvo. Adiciona dano elemental à arma: +30 para o primeiro núcleo e +15 para cada núcleo adicional equipado."
+      }
+    },
+    {
+      "id": "element_core_space",
+      "item_id": "tensura:element_core_space",
+      "source": "tensura",
+      "wiki_page": "Element Core (Space)",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Misc",
+      "category": {
+        "page": "Items/Misc",
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "section": {
+        "en": "Núcleo",
+        "zh": "魔核"
+      },
+      "name": {
+        "zh_cn": "元素魔核（空）",
+        "en_us": "Núcleo Elementar (Espaço)"
+      },
+      "description": {
+        "zh_cn": "来源：通过合成、锻造或元素相关流程获得。\n\n用途：元素材料，用于元素魔核、锻造或相关合成。",
+        "en_us": "Obtenção:\nExistem 2 métodos de obtenção:\n===\"Capturando\" espíritos maiores===\nObtido clicando com o botão direito em Akash com um Núcleo Elemental (Vazio)\n===Criação===\nReceita de criação.\n\nUso:\nUsado para inserção\nEfeitos: Concede um ataque especial que dispara um projétil espacial em arco causando 28 de dano. Adiciona dano elemental à arma: +30 para o primeiro núcleo e +15 para cada núcleo adicional equipado."
+      }
+    },
+    {
+      "id": "element_core_water",
+      "item_id": "tensura:element_core_water",
+      "source": "tensura",
+      "wiki_page": "Element Core (Water)",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Misc",
+      "category": {
+        "page": "Items/Misc",
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "section": {
+        "en": "Núcleo",
+        "zh": "魔核"
+      },
+      "name": {
+        "zh_cn": "元素魔核（水）",
+        "en_us": "Núcleo Elementar (Água)"
+      },
+      "description": {
+        "zh_cn": "来源：通过合成、锻造或元素相关流程获得。\n\n用途：元素材料，用于元素魔核、锻造或相关合成。",
+        "en_us": "Obtenção:\nExistem 2 métodos de obtenção:\n===\"Capturando\" espíritos maiores===\nObtido clicando com o botão direito em Ondina com um Núcleo Elemental (Vazio)\n===Criação===\nReceita de criação.\n\nUso:\nUsado para inserção\nEfeitos: Concede um ataque especial que lança um projétil de água em arco causando 30 de dano. Adiciona dano elemental à arma: +30 para o primeiro núcleo e +15 para cada núcleo adicional equipado."
+      }
+    },
+    {
+      "id": "element_core_wind",
+      "item_id": "tensura:element_core_wind",
+      "source": "tensura",
+      "wiki_page": "Element Core (Wind)",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Misc",
+      "category": {
+        "page": "Items/Misc",
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "section": {
+        "en": "Núcleo",
+        "zh": "魔核"
+      },
+      "name": {
+        "zh_cn": "元素魔核（风）",
+        "en_us": "Núcleo Elementar (Vento)"
+      },
+      "description": {
+        "zh_cn": "来源：通过合成、锻造或元素相关流程获得。\n\n用途：元素材料，用于元素魔核、锻造或相关合成。",
+        "en_us": "Obtenção:\nExistem 2 métodos de obtenção:\n===\"Capturando\" espíritos maiores===\nObtido clicando com o botão direito em Sylphide com um Núcleo Elemental (Vazio)\n===Criação===\nReceita de criação.\n\nUso:\nUsado para inserção\nEfeitos: Concede um ataque especial que dispara um projétil de vento em linha reta causando 30 de dano. Adiciona dano elemental à arma: +30 para o primeiro núcleo e +15 para cada núcleo adicional equipado."
+      }
+    },
+    {
+      "id": "earth_elemental_shard",
+      "item_id": "tensura:earth_elemental_shard",
+      "source": "tensura",
+      "wiki_page": "Items/Misc/Elemental Shard (Earth)",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Misc",
+      "category": {
+        "page": "Items/Misc",
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "section": {
+        "en": "Fragmento",
+        "zh": "碎片"
+      },
+      "name": {
+        "zh_cn": "元素碎片（土）",
+        "en_us": "Fragmento Elemental (Terra)"
+      },
+      "description": {
+        "zh_cn": "来源：通过合成、锻造或元素相关流程获得。\n\n用途：元素材料，用于元素魔核、锻造或相关合成。",
+        "en_us": "Obtenção:\nEste item pode ser obtido matando:\n- Gnomo Bestial 25% de chance, 1 fragmento\n- Gnomo de Guerra 100% de chance, 1 - 3 fragmentos\n===AVISO: Elementais invocados não dropam nenhum fragmento.===\n\nUso:\nPode ser usado para criar um(a)"
+      }
+    },
+    {
+      "id": "fire_elemental_shard",
+      "item_id": "tensura:fire_elemental_shard",
+      "source": "tensura",
+      "wiki_page": "Elemental Shard (Fire)",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Misc",
+      "category": {
+        "page": "Items/Misc",
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "section": {
+        "en": "Fragmento",
+        "zh": "碎片"
+      },
+      "name": {
+        "zh_cn": "元素碎片（火）",
+        "en_us": "Fragmento Elemental (Fogo)"
+      },
+      "description": {
+        "zh_cn": "来源：通过合成、锻造或元素相关流程获得。\n\n用途：元素材料，用于元素魔核、锻造或相关合成。",
+        "en_us": "Obtenção:\nEste item pode ser obtido matando:\n- Salamandra 25% de chance, 1 fragmento\n- Ifrit 100% de chance, 1 - 3 fragmentos\n===AVISO: Elementais invocados não dropam nenhum fragmento.===\n\nUso:\nPode ser usado para criar um(a)"
+      }
+    },
+    {
+      "id": "space_elemental_shard",
+      "item_id": "tensura:space_elemental_shard",
+      "source": "tensura",
+      "wiki_page": "Elemental Shard (Space)",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Misc",
+      "category": {
+        "page": "Items/Misc",
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "section": {
+        "en": "Fragmento",
+        "zh": "碎片"
+      },
+      "name": {
+        "zh_cn": "元素碎片（空）",
+        "en_us": "Fragmento Elemental (Espaço)"
+      },
+      "description": {
+        "zh_cn": "来源：通过合成、锻造或元素相关流程获得。\n\n用途：元素材料，用于元素魔核、锻造或相关合成。",
+        "en_us": "Obtenção:\nEste item pode ser obtido matando:\n- Gato Alado 25% de chance, 1 fragmento\n- Akash 100% de chance, 1 - 3 fragmentos\n===AVISO: Elementais invocados não dropam nenhum fragmento.===\n\nUso:\nPode ser usado para criar um(a)"
+      }
+    },
+    {
+      "id": "water_elemental_shard",
+      "item_id": "tensura:water_elemental_shard",
+      "source": "tensura",
+      "wiki_page": "Elemental Shard (Water)",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Misc",
+      "category": {
+        "page": "Items/Misc",
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "section": {
+        "en": "Fragmento",
+        "zh": "碎片"
+      },
+      "name": {
+        "zh_cn": "元素碎片（水）",
+        "en_us": "Fragmento Elemental (Água)"
+      },
+      "description": {
+        "zh_cn": "来源：通过合成、锻造或元素相关流程获得。\n\n用途：元素材料，用于元素魔核、锻造或相关合成。",
+        "en_us": "Obtenção:\nEste item pode ser obtido matando:\n- Rã Aquática 25% de chance, 1 fragmento\n- Ondina 100% de chance, 1 - 3 fragmentos\n===AVISO: Elementais invocados não dropam nenhum fragmento.===\n\nUso:\nPode ser usado para criar um(a)"
+      }
+    },
+    {
+      "id": "wind_elemental_shard",
+      "item_id": "tensura:wind_elemental_shard",
+      "source": "tensura",
+      "wiki_page": "Elemental Shard (Wind)",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Misc",
+      "category": {
+        "page": "Items/Misc",
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "section": {
+        "en": "Fragmento",
+        "zh": "碎片"
+      },
+      "name": {
+        "zh_cn": "元素碎片（风）",
+        "en_us": "Fragmento Elemental (Vento)"
+      },
+      "description": {
+        "zh_cn": "来源：通过合成、锻造或元素相关流程获得。\n\n用途：元素材料，用于元素魔核、锻造或相关合成。",
+        "en_us": "Obtenção:\nEste item pode ser obtido matando:\n- Serpente Alada 25% de chance, 1 fragmento\n- Sylphide 100% de chance, 1 - 3 fragmentos\n===AVISO: Elementais invocados não dropam nenhum fragmento.===\n\nUso:\nPode ser usado para criar um(a)"
+      }
+    },
+    {
+      "id": "low_magisteel_bone_golem",
+      "item_id": "tensura:low_magisteel_bone_golem",
+      "source": "tensura",
+      "wiki_page": "Low Magisteel Bone Golem",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Misc",
+      "category": {
+        "page": "Items/Misc",
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "section": {
+        "en": "Golems de Osso",
+        "zh": "骨傀儡"
+      },
+      "name": {
+        "zh_cn": "下级魔钢骨傀儡",
+        "en_us": "Golem de Osso de Aço Mágico de Baixa Qualidade"
+      },
+      "description": {
+        "zh_cn": "来源：在锻造台用下级魔钢材料制作。\n\n用途：作为下级魔钢骨傀儡物品使用。",
+        "en_us": "Obtenção:\nCriado em uma Bancada de Ferraria com materiais de Aço Mágico de Baixa Qualidade.\n\nUso:\nUsado como item Golem de Osso de Aço Mágico de Baixa Qualidade."
+      }
+    },
+    {
+      "id": "high_magisteel_bone_golem",
+      "item_id": "tensura:high_magisteel_bone_golem",
+      "source": "tensura",
+      "wiki_page": "High Magisteel Bone Golem",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Misc",
+      "category": {
+        "page": "Items/Misc",
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "section": {
+        "en": "Golems de Osso",
+        "zh": "骨傀儡"
+      },
+      "name": {
+        "zh_cn": "上级魔钢骨傀儡",
+        "en_us": "Golem de Osso de Aço Mágico de Alta Qualidade"
+      },
+      "description": {
+        "zh_cn": "来源：在锻造台用上级魔钢材料制作。\n\n用途：作为上级魔钢骨傀儡物品使用。",
+        "en_us": "Obtenção:\nCriado em uma Bancada de Ferraria com materiais de Aço Mágico de Alta Qualidade.\n\nUso:\nUsado como item Golem de Osso de Aço Mágico de Alta Qualidade."
+      }
+    },
+    {
+      "id": "mithril_bone_golem",
+      "item_id": "tensura:mithril_bone_golem",
+      "source": "tensura",
+      "wiki_page": "Mithril Magisteel Bone Golem",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Misc",
+      "category": {
+        "page": "Items/Misc",
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "section": {
+        "en": "Golems de Osso",
+        "zh": "骨傀儡"
+      },
+      "name": {
+        "zh_cn": "魔银骨傀儡",
+        "en_us": "Golem de Osso de Mithril"
+      },
+      "description": {
+        "zh_cn": "来源：在锻造台用魔银材料制作。\n\n用途：作为魔银骨傀儡物品使用。",
+        "en_us": "Obtenção:\nCriado em uma Bancada de Ferraria com materiais de Mithril.\n\nUso:\nUsado como item Golem de Osso de Mithril."
+      }
+    },
+    {
+      "id": "pure_magisteel_bone_golem",
+      "item_id": "tensura:pure_magisteel_bone_golem",
+      "source": "tensura",
+      "wiki_page": "Pure Magisteel Bone Golem",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Misc",
+      "category": {
+        "page": "Items/Misc",
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "section": {
+        "en": "Golems de Osso",
+        "zh": "骨傀儡"
+      },
+      "name": {
+        "zh_cn": "纯魔钢骨傀儡",
+        "en_us": "Golem de Osso de Aço Mágico Puro"
+      },
+      "description": {
+        "zh_cn": "来源：在锻造台用纯魔钢材料制作。\n\n用途：作为纯魔钢骨傀儡物品使用。",
+        "en_us": "Obtenção:\nCriado em uma Bancada de Ferraria com materiais de Aço Mágico Puro.\n\nUso:\nUsado como item Golem de Osso de Aço Mágico Puro."
+      }
+    },
+    {
+      "id": "orichalcum_bone_golem",
+      "item_id": "tensura:orichalcum_bone_golem",
+      "source": "tensura",
+      "wiki_page": "Orichalcum Bone Golem",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Misc",
+      "category": {
+        "page": "Items/Misc",
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "section": {
+        "en": "Golems de Osso",
+        "zh": "骨傀儡"
+      },
+      "name": {
+        "zh_cn": "神辉金钢骨傀儡",
+        "en_us": "Golem de Osso de Oricalco"
+      },
+      "description": {
+        "zh_cn": "来源：在锻造台用神辉金钢材料制作。\n\n用途：作为神辉金钢骨傀儡物品使用。",
+        "en_us": "Obtenção:\nCriado em uma Bancada de Ferraria com materiais de Oricalco.\n\nUso:\nUsado como item Golem de Osso de Oricalco."
+      }
+    },
+    {
+      "id": "adamantite_bone_golem",
+      "item_id": "tensura:adamantite_bone_golem",
+      "source": "tensura",
+      "wiki_page": "Adamantite Bone Golem",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Misc",
+      "category": {
+        "page": "Items/Misc",
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "section": {
+        "en": "Golems de Osso",
+        "zh": "骨傀儡"
+      },
+      "name": {
+        "zh_cn": "生体魔钢骨傀儡",
+        "en_us": "Golem de Osso de Adamantite"
+      },
+      "description": {
+        "zh_cn": "来源：在锻造台用生体魔钢材料制作。\n\n用途：作为生体魔钢骨傀儡物品使用。",
+        "en_us": "Obtenção:\nCriado em uma Bancada de Ferraria com materiais de Adamantite.\n\nUso:\nUsado como item Golem de Osso de Adamantite."
+      }
+    },
+    {
+      "id": "hihiirokane_bone_golem",
+      "item_id": "tensura:hihiirokane_bone_golem",
+      "source": "tensura",
+      "wiki_page": "Hihiirokane Bone Golem",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Misc",
+      "category": {
+        "page": "Items/Misc",
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "section": {
+        "en": "Golems de Osso",
+        "zh": "骨傀儡"
+      },
+      "name": {
+        "zh_cn": "究极金属骨傀儡",
+        "en_us": "Golem de Osso de Hihi'irokane"
+      },
+      "description": {
+        "zh_cn": "来源：在锻造台用究极金属材料制作。\n\n用途：作为究极金属骨傀儡物品使用。",
+        "en_us": "Obtenção:\nCriado em uma Bancada de Ferraria com materiais de Hihi'Irokane.\n\nUso:\nUsado como item Golem de Osso de Hihi'irokane."
+      }
+    },
+    {
+      "id": "marionette_heart",
+      "item_id": "tensura:marionette_heart",
+      "source": "tensura",
+      "wiki_page": "Marionette Heart",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Misc",
+      "category": {
+        "page": "Items/Misc",
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "section": {
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "name": {
+        "zh_cn": "傀儡之心",
+        "en_us": "Coração de Marionete"
+      },
+      "description": {
+        "zh_cn": "来源：通过合成、交易、掉落或其他游戏流程获得。\n\n用途：杂项功能物品或特殊材料。",
+        "en_us": "Obtenção:\n- Encontrado em Cidades Antigas (0,5% de chance)\n- Tesouros de Bastion e Cidades do End (ambos com 1% de chance)"
+      }
+    },
+    {
+      "id": "battlewill_manual",
+      "item_id": "tensura:battlewill_manual",
+      "source": "tensura",
+      "wiki_page": "Items/Misc/Battlewill Manual",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Misc",
+      "category": {
+        "page": "Items/Misc",
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "section": {
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "name": {
+        "zh_cn": "战斗意志手册",
+        "en_us": "Manual da Espírito de Luta"
+      },
+      "description": {
+        "zh_cn": "来源：通过合成、交易、掉落或其他游戏流程获得。\n\n用途：杂项功能物品或特殊材料。",
+        "en_us": "Obtenção:\nEncontrado em:\n- Mina Abandonada\n- Bastion (estábulo de Hoglin)\n- Pirâmide do Deserto\n- Iglu\n- Portal em Ruínas\n- Gerador de Monstros\n- Fortaleza\n- Ruína Subaquática (Grande)\n- Mansão da Floresta\n- Cofre das Câmaras de Provação (saque normal)\n- Cofre Sinistro das Câmaras de Provação (normal/Comum)\nEm todos esses locais, é 50% de chance\n\nUso:\nConcede aleatoriamente uma das várias habilidades de Espírito de Luta. O livro pode tentar te dar uma habilidade que você já possui, resultando em nenhuma habilidade aprendida e a mensagem \"Você já possuía (Habilidade de Espírito de Luta)\"."
+      }
+    },
+    {
+      "id": "monster_saddle",
+      "item_id": "tensura:monster_saddle",
+      "source": "tensura",
+      "wiki_page": "Monster Saddle",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Misc",
+      "category": {
+        "page": "Items/Misc",
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "section": {
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "name": {
+        "zh_cn": "魔物鞍",
+        "en_us": "Sela de Monstro"
+      },
+      "description": {
+        "zh_cn": "来源：通过合成、交易、掉落或其他游戏流程获得。\n\n用途：杂项功能物品或特殊材料。",
+        "en_us": "A página da wiki atualmente não possui texto detalhado de obtenção ou uso."
+      }
+    },
+    {
+      "id": "slime_in_a_bucket",
+      "item_id": "tensura:slime_in_a_bucket",
+      "source": "tensura",
+      "wiki_page": "Items/Misc/Bucket of Slime",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Misc",
+      "category": {
+        "page": "Items/Misc",
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "section": {
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "name": {
+        "zh_cn": "史莱姆桶",
+        "en_us": "Balde de Slime"
+      },
+      "description": {
+        "zh_cn": "来源：通过合成、交易、掉落或其他游戏流程获得。\n\n用途：杂项功能物品或特殊材料。",
+        "en_us": "Obtenção:\nEste item pode ser obtido clicando com o botão direito em um Slime com um Balde.\n\nUso:\n???"
+      }
+    },
+    {
+      "id": "labyrinth_explorer_map",
+      "item_id": "tensura:labyrinth_explorer_map",
+      "source": "tensura",
+      "wiki_page": "Explorer Maps",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Misc",
+      "category": {
+        "page": "Items/Misc",
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "section": {
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "name": {
+        "zh_cn": "迷宫探险家地图",
+        "en_us": "Mapa do Explorador do Labirinto"
+      },
+      "description": {
+        "zh_cn": "来源：大师级矮人制图师有概率出售。\n\n用途：用于寻找迷宫树结构，机制与原版探险家地图类似。",
+        "en_us": "Obtenção:\nAnões Cartógrafos de nível Mestre podem oferecê-lo como troca.\n\nUso:\nUsado para localizar a Árvore do Labirinto, similar aos mapas de exploração comuns."
+      }
+    },
+    {
+      "id": "hell_gate_explorer_map",
+      "item_id": "tensura:hell_gate_explorer_map",
+      "source": "tensura",
+      "wiki_page": "Explorer Maps",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Misc",
+      "category": {
+        "page": "Items/Misc",
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "section": {
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "name": {
+        "zh_cn": "地狱门探险家地图",
+        "en_us": "Mapa do Explorador do Portão do Inferno"
+      },
+      "description": {
+        "zh_cn": "来源：大师级矮人制图师有概率出售。\n\n用途：用于寻找地狱门结构，机制与原版探险家地图类似。",
+        "en_us": "Obtenção:\nAnões Cartógrafos de nível Mestre podem oferecê-lo como troca.\n\nUso:\nUsado para localizar o Portal do Inferno, similar aos mapas de exploração comuns."
+      }
+    },
+    {
+      "id": "race_reset_scroll",
+      "item_id": "tensura:race_reset_scroll",
+      "source": "tensura",
+      "wiki_page": "Race Reset Scroll",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Misc",
+      "category": {
+        "page": "Items/Misc",
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "section": {
+        "en": "Pergaminhos de Reset",
+        "zh": "重置卷轴"
+      },
+      "name": {
+        "zh_cn": "种族重置卷轴",
+        "en_us": "Pergaminho de Redefinição de Raça"
+      },
+      "description": {
+        "zh_cn": "来源：通过合成获得。\n\n用途：重置玩家属性、名字、觉醒状态、精灵、抗性、种族以及种族固有技能；冷却5秒。",
+        "en_us": "Obtenção:\nSó pode ser obtido por criação\n===Criação===\nReceita de criação.\n\nUso:\n- Reseta os Atributos, Nome, Status de Despertar, Espíritos, Resistências e Raça do usuário, junto com suas Habilidades Intrínsecas\n- 5 segundos de recarga"
+      }
+    },
+    {
+      "id": "skill_reset_scroll",
+      "item_id": "tensura:skill_reset_scroll",
+      "source": "tensura",
+      "wiki_page": "Skill Reset Scroll",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Misc",
+      "category": {
+        "page": "Items/Misc",
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "section": {
+        "en": "Pergaminhos de Reset",
+        "zh": "重置卷轴"
+      },
+      "name": {
+        "zh_cn": "技能重置卷轴",
+        "en_us": "Pergaminho de Redefinição de Habilidade"
+      },
+      "description": {
+        "zh_cn": "来源：通过锻造台或合成获得。\n\n用途：重置玩家技能相关内容；具体范围以游戏内物品为准。",
+        "en_us": "Obtenção:\n===Criação===\nReceita de criação.\n\nUso:\n- Reseta todas as habilidades de todos os tipos do usuário, exceto as Habilidades Intrínsecas de sua Raça\n- 5 segundos de recarga\nEste pergaminho não cobre o custo de uma nova Habilidade Única. Cuidado, ou você pode acabar sem nenhuma Habilidade Única\nÉ necessário 100K de MP Máximo para que todas as habilidades únicas fiquem disponíveis para sorteio; com menos que isso, você pode não ter MP suficiente para a habilidade sorteada e acabar não a obtendo\n''MP significa magículas''"
+      }
+    },
+    {
+      "id": "character_reset_scroll",
+      "item_id": "tensura:character_reset_scroll",
+      "source": "tensura",
+      "wiki_page": "Character Reset Scroll",
+      "source_page": "https://tensura.wiki.gg/wiki/Items/Misc",
+      "category": {
+        "page": "Items/Misc",
+        "en": "Diversos",
+        "zh": "杂项"
+      },
+      "section": {
+        "en": "Pergaminhos de Reset",
+        "zh": "重置卷轴"
+      },
+      "name": {
+        "zh_cn": "人物重置卷轴",
+        "en_us": "Pergaminho de Reinício de Personagem"
+      },
+      "description": {
+        "zh_cn": "来源：通过锻造台或合成获得。\n\n用途：重置人物相关内容；具体范围以游戏内物品为准。",
+        "en_us": "Obtenção:\n===Criação===\nReceita de criação.\n===Bancada de Ferraria===\nReceita de forja.\n\nUso:\nReseta TUDO do usuário, praticamente como reencarnar do zero.\nIsso também inclui as conquistas que você obteve.\nTambém usado para a mecânica de regra de jogo Contador de Reset\n- 5 segundos de recarga"
+      }
+    }
+  ]
+}

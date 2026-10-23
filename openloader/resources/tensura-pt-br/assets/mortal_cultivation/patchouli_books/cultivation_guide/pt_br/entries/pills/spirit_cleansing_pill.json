@@ -1,0 +1,13 @@
+{
+  "name": "Pílula de Purificação Espiritual",
+  "category": "mortal_cultivation:pills",
+  "icon": "mortal_cultivation:spirit_cleansing_pill",
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mortal_cultivation:spirit_cleansing_pill",
+      "text": "A Pílula de Purificação Espiritual refina uma raiz espiritual despertada, renovando-a em outra raiz espiritual.$(br2)$(bold)Efeito:$() Ao ser consumida, ela renova sua raiz espiritual atual e concede a ressonância e a herança ligadas à nova raiz.$(br2)$(bold)Limite:$() Não tem efeito algum se você ainda não despertou uma raiz espiritual.$(br2)Clique direito para consumir."
+    }
+  ]
+}

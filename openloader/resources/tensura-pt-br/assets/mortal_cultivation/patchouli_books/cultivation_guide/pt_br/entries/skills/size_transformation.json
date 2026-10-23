@@ -1,0 +1,16 @@
+{
+  "name": "Manifestação do Céu e da Terra",
+  "category": "mortal_cultivation:skills",
+  "icon": "mortal_cultivation:textures/skill/intrinsic/size_transformation.png",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Quando grande, você domina o campo de batalha; quando pequeno, você se torna minúsculo como poeira. Esta habilidade altera o tamanho do seu corpo, trocando mobilidade por alcance e força."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)Tipo:$() Habilidade Intrínseca$(br)$(bold)Entrada:$() Segure a tecla da habilidade e role a roda do mouse$(br)$(bold)Custo:$() 3500 magículas por ajuste$(br2)O tamanho varia de cerca de 0,3 a 10,0 e volta ao tamanho padrão da sua raça quando estiver próximo o suficiente. Crescer acima do tamanho padrão aumenta o dano de ataque e o alcance de interação. Os modificadores de tamanho são removidos ou restaurados ao morrer, renascer e entrar no jogo."
+    }
+  ]
+}

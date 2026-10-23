@@ -1,0 +1,21 @@
+{
+  "name": "Pílula do Espírito Gigante",
+  "category": "mortal_cultivation:pills",
+  "icon": "mortal_cultivation:giant_spirit_pill",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mortal_cultivation:giant_spirit_pill",
+      "text": "Uma pílula que acalma os demônios internos e estabiliza a Alma Nascente.$(br2)$(bold)Efeito:$() Uma condição necessária para evoluir de $(bold)Núcleo Dourado$() para $(bold)Alma Nascente$().$(br2)$(bold)Requisitos de Evolução:$()$(li)Pontos de Existência (EP) >= 30000$(li)Consuma 1 Pílula do Espírito Gigante$(br2)$(bold)Efeito Bônus:$() Concede Resistência I por 5 minutos.$(br2)Clique direito para consumir."
+    },
+    {
+      "type": "mortal_cultivation:alchemy_recipe",
+      "item1": "tensura:hipokute_flower",
+      "item2": "tensura:low_arcane_potion",
+      "item3": "tensura:zane_blood",
+      "output": "mortal_cultivation:giant_spirit_pill",
+      "time": "$(bold)Crafting Time:$() 45 min"
+    }
+  ]
+}

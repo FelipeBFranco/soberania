@@ -1,0 +1,16 @@
+{
+  "name": "Investida dos Cem Fantasmas",
+  "category": "mortal_cultivation:skills",
+  "icon": "mortal_cultivation:textures/skill/extra/hundred_ghosts_surge.png",
+  "sortnum": 11,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Comande cem almas através do Estandarte das Dez Mil Almas. Esta habilidade gira em torno de invocar, recolher e colher almas do estandarte."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)Tipo:$() Habilidade Extra$(br)$(bold)Obtenção:$() Não pode ser desbloqueada automaticamente por EP; deve ser obtida por outros meios$(br)$(bold)Modos:$() Modo de Invocação / Modo de Coleta de Almas$(br2)O Modo de Invocação custa 100000 magículas, invoca ou recolhe seu estandarte, e tem tempo de recarga de 40 minutos. O Modo de Coleta de Almas custa 50000 magículas e converte as almas em seu estandarte, seja ele próprio ou de um alvo, em pontos de alma; em caso de sucesso, o tempo de recarga é de 20 minutos."
+    }
+  ]
+}

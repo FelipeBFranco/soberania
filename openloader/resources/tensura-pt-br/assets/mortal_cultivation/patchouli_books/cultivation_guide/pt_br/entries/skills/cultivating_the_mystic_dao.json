@@ -1,0 +1,16 @@
+{
+  "name": "Cultivando o Dao Místico",
+  "category": "mortal_cultivation:skills",
+  "icon": "mortal_cultivation:textures/skill/extra/cultivating_the_mystic_dao.png",
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Sente-se dentro do vazio e refine sua consciência divina. Esta habilidade suspende o cultivador em meditação e manifesta um Arranjo Taoista abaixo dele."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)Tipo:$() Habilidade Extra$(br)$(bold)Obtenção:$() Não pode ser desbloqueada automaticamente por EP; deve ser obtida por outros meios$(br)$(bold)Entrada:$() Mantenha a tecla da habilidade pressionada; solte para parar$(br)$(bold)Custo:$() Nenhum$(br2)A meditação cria um Arranjo Taoista, fixa sua posição flutuante, restaura 1% da vida máxima e das magículas base a cada segundo, e concede maestria a cada 3 segundos. Ela atualmente não restaura aura, e seus efeitos exigem que a tecla permaneça pressionada."
+    }
+  ]
+}

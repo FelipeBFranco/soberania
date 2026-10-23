@@ -1,0 +1,16 @@
+{
+  "name": "Chama Alquímica",
+  "category": "mortal_cultivation:skills",
+  "icon": "mortal_cultivation:textures/skill/intrinsic/alchemist_fire.png",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "A chama verdadeira de um cultivador. Segure a tecla da habilidade para soltar fogo pela boca, queimar alvos à sua frente e fundir blocos ou itens fundíveis."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)Tipo:$() Habilidade Intrínseca$(br)$(bold)Entrada:$() Segure a tecla da habilidade$(br)$(bold)Custo:$() 400 magículas por segundo, ou 200 por segundo com uma Raiz Espiritual Celestial$(br2)Enquanto o sopro permanecer sobre um alvo, cada verificação de dano causa 10 de dano base. A Raiz Espiritual do Fogo aumenta o dano em 50%, enquanto a Raiz Espiritual Celestial aumenta em 60%. Soltar a tecla remove a entidade de Respiração de Fogo do Alquimista."
+    }
+  ]
+}

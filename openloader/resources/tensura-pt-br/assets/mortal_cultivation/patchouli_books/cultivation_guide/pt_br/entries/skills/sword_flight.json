@@ -1,0 +1,29 @@
+{
+  "name": "Voo pela Espada",
+  "category": "mortal_cultivation:skills",
+  "icon": "mortal_cultivation:textures/skill/extra/sword_flight.png",
+  "sortnum": 12,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Voo pela Espada",
+      "text": "Transforme uma espada empunhada em uma Espada Voadora montável e viaje em pé sobre sua lâmina.$(br2)$(bold)Tipo:$() Habilidade Extra$(br)$(bold)Custo de Ativação:$() 2.000 magículas$(br)$(bold)Origem:$() Decifre um Livro Ancestral e estude um Manual do Voo pela Espada"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "mortal_cultivation:sword_flight_manual",
+      "title": "Implantando a Espada",
+      "text": "Segure uma espada em qualquer uma das mãos e pressione a tecla da habilidade. Ela deixa a mão e se torna uma entidade de Espada Voadora. Clique direito na sua espada para subir e montar nela."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Controles de Voo",
+      "text": "Use as teclas de movimento para o controle horizontal.$(br)$(bold)Pular:$() subir$(br)$(bold)Correr (Ctrl por padrão):$() descer$(br)$(bold)Shift:$() desmontar$(br2)A espada segue a direção para a qual o cavaleiro está olhando e se move mais rápido enquanto ele corre."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Invocando e Recolhendo",
+      "text": "Use $(bold)Shift+Clique direito$() na espada para devolvê-la ao seu inventário.$(br2)Se uma espada implantada já existir em outro lugar, pressionar a tecla da habilidade a invoca até você."
+    }
+  ]
+}

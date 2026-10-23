@@ -1,0 +1,56 @@
+{
+  "components": [
+    {
+      "type": "patchouli:header",
+      "text": "Receita de Alquimia",
+      "x": -1,
+      "y": 0
+    },
+    {
+      "type": "patchouli:separator",
+      "x": -1,
+      "y": 12
+    },
+    {
+      "type": "patchouli:item",
+      "item": "#item1",
+      "framed": true,
+      "x": 9,
+      "y": 20
+    },
+    {
+      "type": "patchouli:item",
+      "item": "#item2",
+      "framed": true,
+      "x": 45,
+      "y": 20
+    },
+    {
+      "type": "patchouli:item",
+      "item": "#item3",
+      "framed": true,
+      "x": 81,
+      "y": 20
+    },
+    {
+      "type": "patchouli:header",
+      "text": "▼",
+      "x": -1,
+      "y": 46
+    },
+    {
+      "type": "patchouli:item",
+      "item": "#output",
+      "framed": true,
+      "link_recipe": true,
+      "x": 45,
+      "y": 58
+    },
+    {
+      "type": "patchouli:text",
+      "text": "#time",
+      "x": 0,
+      "y": 90
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Travessura",
+  "category": "mortal_cultivation:skills",
+  "icon": "mortal_cultivation:textures/skill/unique/mischief.png",
+  "sortnum": 23,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Engane os três reinos com mais do que força bruta. Travessura se concentra em um gêmeo celestial, ocultação e evasão da morte."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)Tipo:$() Habilidade Extra$(br)$(bold)Custo de Obtenção:$() 85000 MP$(br)$(bold)Maestria Máxima:$() 1000$(br)$(bold)Modos:$() Gêmeo Celestial / Mentira Branca$(br2)Gêmeo Celestial custa 20% das suas magículas máximas base e invoca um clone que o segue na sua linha de visão. O clone copia seus atributos, equipamentos e habilidades, ganha Autorregeneração, causa o dobro de dano de ataque e tem tempo de recarga de 40 minutos. Se um gêmeo já existir, use agachado para se teleportar até ele, com tempo de recarga de teleporte de 60 segundos."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Mentira Branca custa 15000 MP, dura 5 minutos, concede invisibilidade e ocultação de presença, e tem tempo de recarga de 10 minutos. Se seu gêmeo estiver vivo no momento em que você morreria, você se teleporta até ele, herda sua vida, e o gêmeo desaparece para cancelar aquela morte."
+    }
+  ]
+}

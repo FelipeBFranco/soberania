@@ -1,0 +1,31 @@
+{
+  "name": "Páginas Rasgadas e Livros Ancestrais",
+  "category": "mortal_cultivation:rune_mysteries",
+  "icon": "mortal_cultivation:torn_page",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mortal_cultivation:ancient_scholar_table",
+      "title": "Criando a Mesa do Erudito",
+      "text": "O pincel e a tinta de sangue de cinábrio nesta receita são ferramentas. Ambos permanecem na grade de criação após a mesa ser feita. Clique direito na mesa para abrir sua interface."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Encontrando Páginas Rasgadas",
+      "text": "Páginas Rasgadas podem aparecer em baús de Cidades Ancestrais, Pirâmides do Deserto, Templos da Selva, Portais em Ruínas e Ruínas Subaquáticas. Cada baú elegível gera de 0 a 3 páginas.$(br2)Manuais completos nunca aparecem diretamente em baús de saque no mundo."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "mortal_cultivation:torn_page",
+      "title": "Analisando Páginas",
+      "text": "Coloque Páginas Rasgadas na página de Análise da Mesa do Erudito para analisá-las automaticamente."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "mortal_cultivation:ancient_book",
+      "title": "Um Livro, Um Arranjo",
+      "text": "Coloque o Livro Ancestral produzido ao analisar Páginas Rasgadas em Decifrar para começar a romper seu arranjo."
+    }
+  ]
+}

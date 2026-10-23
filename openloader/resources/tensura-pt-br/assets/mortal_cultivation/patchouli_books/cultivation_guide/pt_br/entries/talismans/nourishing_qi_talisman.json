@@ -1,0 +1,13 @@
+{
+  "name": "Talismã de Nutrição de Qi",
+  "category": "mortal_cultivation:talismans",
+  "icon": "mortal_cultivation:nourishing_qi_talisman",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mortal_cultivation:nourishing_qi_talisman",
+      "text": "Segure o clique direito por cerca de 1 segundo e solte na carga completa; soltar antes disso não faz nada. Uma conjuração bem-sucedida consome um talismã e concede Nutrição de Qi por 8 segundos.$(br2)A cada segundo, restaura 1% da vida máxima, 3% das magículas máximas e 3% da aura máxima."
+    }
+  ]
+}

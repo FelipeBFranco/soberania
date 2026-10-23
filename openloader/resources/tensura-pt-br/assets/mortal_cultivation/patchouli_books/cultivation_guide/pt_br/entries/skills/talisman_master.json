@@ -1,0 +1,16 @@
+{
+  "name": "Mestre dos Talismãs",
+  "category": "mortal_cultivation:skills",
+  "icon": "mortal_cultivation:textures/skill/unique/talisman_master.png",
+  "sortnum": 20,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Uma Habilidade Extra para praticantes especializados na criação de talismãs. Ela abre a interface de Criação de Talismãs."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)Tipo:$() Habilidade Extra$(br)$(bold)Entrada:$() Pressione a tecla da habilidade$(br)$(bold)Custo:$() Nenhum$(br2)Usar a habilidade abre a interface da Mesa de Talismãs e toca um som de virar página. Ela não usa um estado de alternância; é uma habilidade de ativação direta."
+    }
+  ]
+}

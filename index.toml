@@ -50,6 +50,11 @@ hash = "35779b39ddc06059ec483b33de2ecfdc3adb95c0a49e69b6701fb0024827e2f5"
 metafile = true
 
 [[files]]
+file = "mods/great-sage.pw.toml"
+hash = "e17dc28090283a5171c9b34eb70fefd26c65ccb5d5896825837f8db1df0da506"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
 metafile = true
@@ -478,7 +483,3 @@ hash = "80ee9d7c208a1b1c88952be306de4e0957e780fcdcee46d24e1ce07642b1dec4"
 [[files]]
 file = "openloader/resources/tensura-pt-br/pack.mcmeta"
 hash = "7dfe2b908181cd6c10bb80e131f44530c1bbfd6dc2f692c654041f2edf483657"
-
-[[files]]
-file = "soberania-0.1.0.Soberania"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"

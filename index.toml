@@ -478,3 +478,7 @@ hash = "80ee9d7c208a1b1c88952be306de4e0957e780fcdcee46d24e1ce07642b1dec4"
 [[files]]
 file = "openloader/resources/tensura-pt-br/pack.mcmeta"
 hash = "7dfe2b908181cd6c10bb80e131f44530c1bbfd6dc2f692c654041f2edf483657"
+
+[[files]]
+file = "soberania-0.1.0.Soberania"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"

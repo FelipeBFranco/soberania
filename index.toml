@@ -2610,7 +2610,7 @@ hash = "b950c613c1ae709e6bcb79705eb265640965333a090a39ee89b8a03b3f16b339"
 
 [[files]]
 file = "kubejs/server_scripts/vassalagem.js"
-hash = "db34925176367131ee7024df343ebee83dcf44b494140d212ba9513a7e45ef7c"
+hash = "ccbc5cc3fd4311d1d70c5d2c748a68e885b75f2e67daf7b58b8f6529ebd5be4f"
 
 [[files]]
 file = "kubejs/startup_scripts/soberania.js"

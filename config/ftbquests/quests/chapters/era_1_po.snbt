@@ -1,0 +1,63 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "era_1_po"
+	group: "0A000000000000E1"
+	icon: {
+		id: "minecolonies:blockhutbuilder"
+	}
+	id: "0A00000000000200"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["0A0000000000010A"]
+			description: [
+				"Um punhado de gente, um punhado de terra. Chamem de casa."
+				""
+				"A Era I começa aqui. Ela termina atrás de muralhas: Prefeitura nível 3 e uma invasão repelida."
+				""
+				"&7Esta era ainda está sendo escrita. As missões abaixo são as primeiras; outras virão."
+			]
+			icon: {
+				id: "minecolonies:blockhutbuilder"
+			}
+			id: "0A00000000000201"
+			shape: "gear"
+			size: 1.5d
+			subtitle: "Era I"
+			tasks: [{
+				id: "0A000000000002A1"
+				title: "Entrar na Era I"
+				type: "checkmark"
+			}]
+			title: "Pó"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0A00000000000201"]
+			description: [
+				"Ninguém constrói um reino sozinho. O primeiro cidadão a contratar é quem constrói todos os outros."
+				""
+				"Coloque a &bCabana do Construtor&r e encomende a construção dela."
+			]
+			id: "0A00000000000202"
+			rewards: [{
+				id: "0A00000000000282"
+				item: { count: 1, id: "minecraft:iron_axe" }
+				type: "item"
+			}]
+			subtitle: "O primeiro cidadão"
+			tasks: [{
+				id: "0A000000000002A2"
+				item: { count: 1, id: "minecolonies:blockhutbuilder" }
+				type: "item"
+			}]
+			title: "Cabana do Construtor"
+			x: 2.0d
+			y: 1.5d
+		}
+	]
+	title: "Era I — Pó"
+}

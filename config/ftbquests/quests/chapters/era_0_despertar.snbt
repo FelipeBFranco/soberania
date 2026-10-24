@@ -1,0 +1,289 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "era_0_despertar"
+	group: "0A000000000000E1"
+	icon: {
+		id: "minecraft:soul_lantern"
+	}
+	id: "0A00000000000100"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"Você morreu. Acordou aqui, em um corpo que não é o seu, em um mundo que não é o seu."
+				""
+				"Nada do que você sabia vale muito agora. O que vale é o que você vai se tornar."
+				""
+				"&7Esta é a Era 0. Ela termina quando você tiver um súdito e um lugar para chamar de casa."
+			]
+			icon: {
+				id: "minecraft:soul_lantern"
+			}
+			id: "0A00000000000101"
+			rewards: [{
+				id: "0A00000000000181"
+				item: { count: 1, id: "minecraft:bread" }
+				count: 8
+				type: "item"
+			}]
+			shape: "gear"
+			size: 1.5d
+			subtitle: "Reencarnação"
+			tasks: [{
+				advancement: "tensura:reincarnated"
+				criterion: ""
+				id: "0A000000000001A1"
+				type: "advancement"
+			}]
+			title: "Despertar"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0A00000000000101"]
+			description: [
+				"A noite aqui não perdoa. Antes de pensar em grandeza, pense em um teto."
+				""
+				"Durma uma noite inteira em uma cama."
+			]
+			id: "0A00000000000102"
+			rewards: [{
+				id: "0A00000000000182"
+				item: { count: 1, id: "minecraft:torch" }
+				count: 16
+				type: "item"
+			}]
+			subtitle: "Sobreviver à primeira noite"
+			tasks: [{
+				advancement: "minecraft:adventure/sleep_in_bed"
+				criterion: ""
+				id: "0A000000000001A2"
+				type: "advancement"
+			}]
+			title: "Um teto"
+			x: -2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["0A00000000000101"]
+			description: [
+				"Tudo aqui é feito de Magicules. Para crescer, você precisa senti-los."
+				""
+				"Encontre e quebre um &bMinério Mágico&r. É dele que vêm os cristais que movem este mundo."
+			]
+			id: "0A00000000000103"
+			rewards: [{
+				id: "0A00000000000183"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			subtitle: "Os primeiros Magicules"
+			tasks: [{
+				advancement: "tensura:magic_ore"
+				criterion: ""
+				id: "0A000000000001A3"
+				type: "advancement"
+			}]
+			title: "Minério Mágico"
+			x: 2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["0A00000000000103"]
+			description: [
+				"Toda criatura deste mundo pode aprender. Você também."
+				""
+				"Domine a sua primeira habilidade: use-a até que ela se torne parte de você."
+			]
+			id: "0A00000000000104"
+			rewards: [{
+				id: "0A00000000000184"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			subtitle: "Habilidade dominada"
+			tasks: [{
+				advancement: "tensura:master_skill"
+				criterion: ""
+				id: "0A000000000001A4"
+				type: "advancement"
+			}]
+			title: "Primeira maestria"
+			x: 3.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0A00000000000102"]
+			description: [
+				"Um reino começa com um caminho de volta."
+				""
+				"Construa uma &bPedra de Caminho&r e ative-a. Depois, aonde quer que você vá, saberá voltar."
+			]
+			id: "0A00000000000105"
+			rewards: [{
+				id: "0A00000000000185"
+				item: { count: 1, id: "waystones:warp_stone" }
+				type: "item"
+			}]
+			subtitle: "O caminho de volta"
+			tasks: [{
+				id: "0A000000000001A5"
+				item: { count: 1, id: "waystones:waystone" }
+				type: "item"
+			}]
+			title: "Pedra de Caminho"
+			x: -3.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0A00000000000102"]
+			description: [
+				"Antes de comandar máquinas, é preciso entender a mais simples delas."
+				""
+				"Faça &bLiga de Andesito&r e uma &bRoda d'Água&r. Água corrente é a primeira força que você vai dominar."
+			]
+			id: "0A00000000000106"
+			rewards: [{
+				id: "0A00000000000186"
+				item: { count: 1, id: "create:andesite_alloy" }
+				count: 8
+				type: "item"
+			}]
+			subtitle: "A primeira força"
+			tasks: [
+				{
+					id: "0A000000000001A6"
+					item: { count: 1, id: "create:andesite_alloy" }
+					count: 4L
+					type: "item"
+				}
+				{
+					id: "0A000000000001B6"
+					item: { count: 1, id: "create:water_wheel" }
+					type: "item"
+				}
+			]
+			title: "Roda d'Água"
+			x: -2.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["0A00000000000103"]
+			description: [
+				"Nem toda força vem do ferro. Em algum lugar deste mundo há quem fale com a magia por outro nome."
+				""
+				"Encontre um &bTomo Esfarrapado&r. Não leia tudo ainda. Só saiba que ele existe."
+			]
+			id: "0A00000000000107"
+			rewards: [{
+				id: "0A00000000000187"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			subtitle: "Uma semente de curiosidade"
+			tasks: [{
+				id: "0A000000000001A7"
+				item: { count: 1, id: "ars_nouveau:worn_notebook" }
+				type: "item"
+			}]
+			title: "Tomo Esfarrapado"
+			x: 2.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["0A00000000000104"]
+			description: [
+				"Um nome é um presente caro. Dar um nome a um monstro é entregar a ele parte dos seus Magicules e, em troca, ganhar lealdade."
+				""
+				"Nomeie uma criatura. Ela será o seu primeiro súdito."
+			]
+			icon: {
+				id: "minecraft:name_tag"
+			}
+			id: "0A00000000000108"
+			rewards: [{
+				id: "0A00000000000188"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			shape: "hexagon"
+			size: 1.25d
+			subtitle: "O primeiro súdito"
+			tasks: [{
+				advancement: "tensura:name_a_mob"
+				criterion: ""
+				id: "0A000000000001A8"
+				type: "advancement"
+			}]
+			title: "Um nome"
+			x: 3.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0A00000000000105", "0A00000000000106"]
+			description: [
+				"Gente precisa de um lugar. Antes da cidade, o acampamento."
+				""
+				"Fabrique um &bAcampamento de Suprimentos&r e coloque-o em terreno plano. Dentro dele está tudo o que uma colônia precisa para começar, inclusive a Prefeitura."
+			]
+			id: "0A00000000000109"
+			rewards: [{
+				id: "0A00000000000189"
+				item: { count: 1, id: "minecolonies:ancienttome" }
+				type: "item"
+			}]
+			subtitle: "Onde tudo começa"
+			tasks: [{
+				id: "0A000000000001A9"
+				item: { count: 1, id: "minecolonies:supplycampdeployer" }
+				type: "item"
+			}]
+			title: "Acampamento de Suprimentos"
+			x: -2.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0A00000000000108", "0A00000000000109"]
+			description: [
+				"Você tem um súdito. Você tem um lugar. O que falta é declarar."
+				""
+				"Pegue a &bPrefeitura&r do acampamento e a coloque no chão. Ao fundar a colônia, dê a ela um nome: é o nome do seu reino que começa aqui."
+				""
+				"&6Porta da Era 0.&r Completar esta missão abre a &lEra I — Pó&r."
+			]
+			icon: {
+				id: "minecolonies:blockhuttownhall"
+			}
+			id: "0A0000000000010A"
+			rewards: [
+				{
+					id: "0A0000000000018A"
+					item: { count: 1, id: "minecolonies:clipboard" }
+					type: "item"
+				}
+				{
+					id: "0A0000000000019A"
+					type: "xp_levels"
+					xp_levels: 15
+				}
+			]
+			shape: "gear"
+			size: 2.0d
+			subtitle: "Porta da Era 0"
+			tasks: [{
+				icon: {
+					id: "minecolonies:blockhuttownhall"
+				}
+				id: "0A000000000001AA"
+				item: { count: 1, id: "minecolonies:blockhuttownhall" }
+				type: "item"
+			}]
+			title: "O Primeiro Súdito e a Primeira Casa"
+			x: 0.75d
+			y: 8.0d
+		}
+	]
+	title: "Era 0 — Despertar"
+}

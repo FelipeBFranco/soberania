@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "c5859bfce40b709045205692793088fc275752d17a372a1d4d1baa80881ea666"
+hash = "5d064cf2a4a7894ca67b88c0a7bce144c8dfb0391a93f85d558af1b60eab1212"
 
 [[files]]
 file = "docs/grande-sabia-comandos-de-voz.md"
@@ -111,6 +111,11 @@ metafile = true
 [[files]]
 file = "mods/guideme.pw.toml"
 hash = "d897a4efe0291252e8d9f6d1db8c6513074fe4cbfeb27fafc041bc145ca35e24"
+metafile = true
+
+[[files]]
+file = "mods/ie-earmuff-compat.pw.toml"
+hash = "58c50bfca6f8c4418e3bb01ebc2965c265b079f2dbc4225ae157e821f7d9c8a1"
 metafile = true
 
 [[files]]
@@ -358,7 +363,7 @@ hash = "0fcede6d3edc9c5b87d9ff2b46ed4da6776357f030fd136d97f514381f1be03d"
 
 [[files]]
 file = "openloader/packs/soberania-pt-br/assets/minecolonies/lang/pt_br.json"
-hash = "d6a782a9bd69f12f32a335f4066b5431a3d28f3d0055a1bd670e54d3b5ebf10c"
+hash = "9f2ae4a271ca10540179a5e5c9d564b46224f81471d80f2aa1ae28cb2443acd9"
 
 [[files]]
 file = "openloader/packs/soberania-pt-br/assets/multipiston/lang/pt_br.json"

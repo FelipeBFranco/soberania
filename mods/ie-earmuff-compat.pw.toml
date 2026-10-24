@@ -1,0 +1,13 @@
+name = "IE Earmuff Compat"
+filename = "ieearmuffcompat-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c80421651576c1c86cdb655149a04092d6ad1b38"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8400417
+project-id = 1603785

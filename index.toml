@@ -5,6 +5,10 @@ file = "README.md"
 hash = "cc2d79f64a2a455530e4cc8ad004cff482d653e95614d52549043e9a1e1d984a"
 
 [[files]]
+file = "docs/grande-sabia-comandos-de-voz.md"
+hash = "c5cbc6cb47985a78d91169db0fbeb70e6c27cd77a356f61c3691feb3da1ace2c"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
 metafile = true
@@ -298,6 +302,30 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "3a8e91aecdb602039ba1f7445bbf6b64cc5a46344339a3ffaf3b2e3eb2f5bcbc"
 metafile = true
+
+[[files]]
+file = "openloader/resources/soberania-pt-br/assets/blockui/lang/pt_br.json"
+hash = "3131310fb4f4bf5fedcfd3e8046ab025769b3624e909d3935f549a60a4ef93c5"
+
+[[files]]
+file = "openloader/resources/soberania-pt-br/assets/domum_ornamentum/lang/pt_br.json"
+hash = "0fcede6d3edc9c5b87d9ff2b46ed4da6776357f030fd136d97f514381f1be03d"
+
+[[files]]
+file = "openloader/resources/soberania-pt-br/assets/minecolonies/lang/pt_br.json"
+hash = "d6a782a9bd69f12f32a335f4066b5431a3d28f3d0055a1bd670e54d3b5ebf10c"
+
+[[files]]
+file = "openloader/resources/soberania-pt-br/assets/multipiston/lang/pt_br.json"
+hash = "3e91b6513eb91027b7b8b0a3fb4512bd44b190a08775ea66722b14dc4175fdf2"
+
+[[files]]
+file = "openloader/resources/soberania-pt-br/assets/structurize/lang/pt_br.json"
+hash = "6fc918a2513b982c9883ddd420cbf0da4c63690a7e2ddfcfa603e0e6db65b97a"
+
+[[files]]
+file = "openloader/resources/soberania-pt-br/pack.mcmeta"
+hash = "da453f8cf90f46c9de88394c9cc62019525111ea8631e8ee4ef7472a08a31615"
 
 [[files]]
 file = "openloader/resources/tensura-pt-br/assets/ancient_artifacts/lang/pt_br.json"

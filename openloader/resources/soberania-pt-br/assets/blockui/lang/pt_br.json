@@ -1,0 +1,10 @@
+{
+  "blockui.container_gui.client_side_only": "O conteúdo do recipiente só é visível ao jogar no servidor integrado (single-player, sem LAN).",
+  "blockui.container_gui.empty": "Este recipiente está vazio.",
+  "blockui.tooltip.item_additional_info": "Segure %s para mostrar informações adicionais",
+  "blockui.tooltip.properties": "Propriedades do BlockState:",
+  "blockui.config.default.boolean": "[Padrão: %s]",
+  "blockui.config.default.string": "[Padrão: %s]",
+  "blockui.config.default.enum": "[Padrão: %s, valores: %s]",
+  "blockui.config.default.number": "[Padrão: %s, mín.: %s, máx.: %s]"
+}

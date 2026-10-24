@@ -1,0 +1,13 @@
+{
+  "betterstrongholds.commands.locate.stronghold": "Use /locate structure betterstrongholds:stronghold em vez disso!",
+  "Use /locate structure betterstrongholds:stronghold instead!": "Use /locate structure betterstrongholds:stronghold em vez disso!",
+  "text.autoconfig.betterstrongholds-fabric-1_21.title": "YUNG's Better Strongholds",
+  "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds": "YUNG's Better Strongholds",
+  "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general": "Configurações Gerais",
+  "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.@Tooltip": "Configurações gerais.",
+  "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.enableStructureRuin": "Ativar Ruína da Estrutura",
+  "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.enableStructureRuin.@Tooltip[0]": "Permite que as fortalezas subterrâneas sejam levemente destruídas por cavernas estreitas.",
+  "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.enableStructureRuin.@Tooltip[1]": "Note que elas não serão afetadas por grandes cavernas.",
+  "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.filledPortalFrameChance": "Chance de Moldura de Portal Preenchida",
+  "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.filledPortalFrameChance.@Tooltip": "A chance de cada bloco de Moldura do Portal do End ser gerado já preenchido com um Olho de Ender."
+}

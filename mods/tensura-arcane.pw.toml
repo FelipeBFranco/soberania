@@ -1,0 +1,13 @@
+name = "Tensura: Arcane"
+filename = "trarcane-neoforge-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/n02nG9Jj/versions/Y4fJ5Cim/trarcane-neoforge-1.0.jar"
+hash-format = "sha512"
+hash = "a701475ff31a77ba571e1cd2a07b47309022f92134a2c768a823cb40c2f6b70760f015f285c26716138d800aea1a4bd09cfe13fe3e7a1b484cf21dd6d222a174"
+
+[update]
+[update.modrinth]
+mod-id = "n02nG9Jj"
+version = "Y4fJ5Cim"

@@ -1,0 +1,13 @@
+name = "Tensura:Barriers"
+filename = "tensurabarriers-neoforge-4.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a9ca056975a6b87995baa1a69d0debe387bccb33"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9074218
+project-id = 1598791

@@ -1,0 +1,15 @@
+{
+  "text.autoconfig.betterendisland-fabric-1_21.title": "YUNG's Better End Island",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.resummonedDragonDropsEgg": "Dragão Reinvocado Solta Ovo",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.resummonedDragonDropsEgg.@Tooltip": "Define se o Ender Dragon solta um ovo toda vez que é derrotado",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.useVanillaSpawnPlatform": "Gerar Plataforma de Obsidiana Vanilla",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.useVanillaSpawnPlatform.@Tooltip": "Define se a plataforma de obsidiana vanilla deve ser gerada no End no lugar da plataforma reformulada",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.useVanillaEndGateways": "Gerar Portais do End Vanilla",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.useVanillaEndGateways.@Tooltip": "Define se os portais do End vanilla devem ser gerados no End no lugar dos portais reformulados",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.playBellSound": "Tocar Som de Sino",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.playBellSound.@Tooltip": "Define se o som de sino deve tocar antes de o Ender Dragon ser invocado pela primeira vez e durante as reinvocações",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerInitially": "Gerar Torre Central Inicialmente",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerInitially.@Tooltip": "Define se a torre central deve ser gerada no End quando o mundo é criado pela primeira vez",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerOnResummon": "Regerar Torre Central ao Reinvocar",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerOnResummon.@Tooltip": "Define se a torre central deve ser gerada novamente no End quando o Ender Dragon é reinvocado"
+}

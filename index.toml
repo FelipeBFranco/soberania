@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "5d064cf2a4a7894ca67b88c0a7bce144c8dfb0391a93f85d558af1b60eab1212"
+hash = "05b1158f5ec174d75881fbc50616ae40e221b98e3d07d4325c699d8fde4682a0"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
@@ -26,7 +26,7 @@ hash = "38426c7cb598cf2907456cbf7c95580d7fd6c83d0234a31159467d74c7419211"
 
 [[files]]
 file = "config/ftbquests/quests/lang/pt_br.snbt"
-hash = "5a27645593a7c7c3580109b98e4a472360fe102ab1227859fa9a8ac40ddf5306"
+hash = "3de5efc172de731a2ebb41dd619c4b0dece8b1b48193bfea39c18cd5618cb890"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/bolsa_da_grande_sabia.snbt"
@@ -38,11 +38,335 @@ hash = "c2e25f8038d30f1bcf3484a9b15255d4d738fb0f76c09cb7e631c7aa878caff8"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/escolha_do_fundador.snbt"
-hash = "cb3e81aa4b3402ff6f4e3be81fa01932cc39d61f2a7f84f821353fdfc6785cc2"
+hash = "ee790538a4ae42d06bf9d72850bfa428b2ce11ec975c06727666d1fc2f5f4933"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/trouxa_do_reencarnado.snbt"
 hash = "99cac6ee4f4d5e3bd163c3c2990b5756611c03411e88f72ef5d189aea9c0b852"
+
+[[files]]
+file = "config/openloader/packs/soberania-data/data/soberania/loot_table/kit_arcano.json"
+hash = "4ce1e96a9f0de3215aacbf063fdc16809a647a39716cbdbd07a87f19aea4abf7"
+
+[[files]]
+file = "config/openloader/packs/soberania-data/data/soberania/loot_table/kit_construtor.json"
+hash = "3336a5ffa65d253bd81862d2027ef87e8bc2456dadea0d77219f39596287fb15"
+
+[[files]]
+file = "config/openloader/packs/soberania-data/data/soberania/loot_table/kit_engenheiro.json"
+hash = "ca6be8ca61fdc7878ed37a9bca89b108b1eb6c5b5d7b54f965c221cf01b94a4c"
+
+[[files]]
+file = "config/openloader/packs/soberania-data/pack.mcmeta"
+hash = "f26d6c3cf82670d8aaa5dd89b1b3b16bb2b9e8ade00a9374fd467693a976dbea"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/blockui/lang/pt_br.json"
+hash = "3131310fb4f4bf5fedcfd3e8046ab025769b3624e909d3935f549a60a4ef93c5"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/domum_ornamentum/lang/pt_br.json"
+hash = "0fcede6d3edc9c5b87d9ff2b46ed4da6776357f030fd136d97f514381f1be03d"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/lang/pt_br.json"
+hash = "9f2ae4a271ca10540179a5e5c9d564b46224f81471d80f2aa1ae28cb2443acd9"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/multipiston/lang/pt_br.json"
+hash = "3e91b6513eb91027b7b8b0a3fb4512bd44b190a08775ea66722b14dc4175fdf2"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/structurize/lang/pt_br.json"
+hash = "6fc918a2513b982c9883ddd420cbf0da4c63690a7e2ddfcfa603e0e6db65b97a"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/tensura_ftb/lang/pt_br.json"
+hash = "5b6822337f642a837f065e5344186381a79be272981627ca9ffd24b358bc678a"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/pack.mcmeta"
+hash = "da453f8cf90f46c9de88394c9cc62019525111ea8631e8ee4ef7472a08a31615"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/ancient_artifacts/lang/pt_br.json"
+hash = "0deedad8c3704826957f37a46fbfb9406d7ca4745e7f4077795148721e14a4a6"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/beyond_gacha_c/lang/pt_br.json"
+hash = "69ca86dd05b64a64c8c5716e5767468a3f23db35ab406b19f9ed2593ab906946"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/foxablazeaqzl_wiki/lang/pt_br.json"
+hash = "04e5875bdf1aa761e18eab4c0bcd967fa7ab21e51844cdebfb3b124273d1ec0a"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/foxablazeaqzl_wiki/wiki/item_descriptions.json"
+hash = "42822ac41815875c40f2f811dd20a597f9879b271a766e3bfe86e4d7a592fd0f"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/foxablazeaqzl_wiki/wiki/skill_descriptions.json"
+hash = "3309479a52a9f44b58c55b4bc00c2da68c003ec1b5ce6bb4636a4e0c6ca27ea0"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/foxablazeultimate/lang/pt_br.json"
+hash = "f18f542339a0c8ec441ad1c9e4f617706e7d57f902cccacb274785b2fe638233"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/manascore/lang/pt_br.json"
+hash = "6edac16428a6ca716111ab0c2532798a3dd8e2d19ceb156eeac80e7892d841de"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/mortal_cultivation/lang/pt_br.json"
+hash = "3279e3d0c66f810bd7ed0174ef24675352add57c275b8ab23dd9b7ae8ccdeb9b"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/categories/alchemy.json"
+hash = "ea6778ab442f16829f0b8cb0ca176abc676b6a04231441612623885b497c72ac"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/categories/pills.json"
+hash = "a42f881b10bdd69f5af57b3600da8cd49c3f7319c5324a74340fcecdec6ae467"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/categories/races.json"
+hash = "cace369b8a7d1d9a65c7f91373676c6e51f0abc9d2667a50d14826bf9102bda0"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/categories/rune_mysteries.json"
+hash = "5b2af811a93249daa8b79e86fa1c87ac5c23afe248eac1e7093a4496642ce6a9"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/categories/skills.json"
+hash = "f4f961ebe82cea5babc9261fb6dfe894dab21598569408e2ade9546b7b51311d"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/categories/talismans.json"
+hash = "0458874d2c710fa34dce6afb67eb69e6406d865c8ca14dc4a95746bb92c54bb4"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/alchemy/alchemy_furnace.json"
+hash = "5c604dc4a0312871d9e4360f1cb4cdd87f56e0b5ad13dbb709fc06f821ead8cc"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/alchemy/fuels.json"
+hash = "62faff05630c6fee3c8c6b1c1085345fb214a91a6bbbd5f061bca22c8962303e"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/pills/foundation_building_pill.json"
+hash = "edbdf9652b52dc98b39cc7177eab6f0a099b0fdc938b743da77c60621b0e4f4d"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/pills/giant_spirit_pill.json"
+hash = "8f7cf1f78eefc15a3844ab05a44360733e41c6149bc65bad52ab1a03dd8fca4d"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/pills/heaven_cleansing_elixir.json"
+hash = "31b53e514a46f01b40f85cbf62fe4a5280dda34f06d38e2b1105efe9bfdf3784"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/pills/mystic_void_elixir.json"
+hash = "5908b34b7431ae4bc2289bda80e8f647f4f8473d5e3d7bbbbcbabb52a0c48b83"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/pills/spirit_cleansing_pill.json"
+hash = "bc04a964e271d509b4805bb546ca04b7625b685b5f82eb7884ae256846156d3f"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/pills/stellar_core_pill.json"
+hash = "5359aa7790a918925c97cca406cad08a3efb1be2d20805ec5f930b4ffeb1c74c"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/pills/void_refinement_pill.json"
+hash = "a4ed6f91bf63345a5ebf8ec9a25880a90d928e7e093bef19e2a1a27a390fd6b0"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/races/wastelander.json"
+hash = "0b1f0ea7a577ae84055cee43d216d741fae324914268209ddc319fc17f97ca0f"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/runes/deciphering.json"
+hash = "c2d5403f5c38c552a8e6b3b98ad3a59afe377ac24d625c1e76bd8b45565cb79f"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/runes/mainline_overview.json"
+hash = "2f40db5c74a485c5510608dc75f3ac14cf2e1d681bad39c21fa6e5a93b0d602f"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/runes/manuals.json"
+hash = "5749f249a1ebdeaa208b0026a493d739d86264bf43adf20bbefc5460056ca814"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/runes/rune_table.json"
+hash = "00df7cba631c0117a288586899613b051a927e1ca25f6c8fc549fec156f48fd2"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/runes/scholar_table_analysis.json"
+hash = "d47e5f124a6e20a967f2aefd06b51d8b767e1a6f6e639b6ca7877c2fa3a0502c"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/runes/stele_and_spirit_glasses.json"
+hash = "acfe7becc290d061007cb04ad5edf7e6d0e36455215e6550c3403f64797b7345"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/runes/zhao_ying_zhu.json"
+hash = "a62dc60de18f0726451585304bbf5f30a74e2b61f58c2b7645aadbc65a495159"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/skills/alchemist_fire.json"
+hash = "88e253de86945a401872281e2f480ee4166ddcac9df0328ba4d53f1c6e7628ce"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/skills/alchemy_prodigy.json"
+hash = "0b0b1c2d9e9d1840a82822ca02042fb596c7c2d2ce06c9113bc9da15e791b964"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/skills/cultivating_the_mystic_dao.json"
+hash = "23523d75e3d0b742d3d111dd92f141de689c1b2edf0c69b7e9713c2529a50dab"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/skills/early_cultivation.json"
+hash = "e4bdfd0e2b33d21514a03fea6e3fdeb6d464bfbc455ebb95416941d3b79d389c"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/skills/great_sage.json"
+hash = "31deccba48b678e12264ea38dfa91ab81cc410cd8e2dbeba4d1d2e55ecfa0b5a"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/skills/hundred_ghosts_surge.json"
+hash = "af76cb69e640292fbe067eeaefa9770faf54864353992b22dbefc67513d37f27"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/skills/mischief.json"
+hash = "e0910d2ef15b8e6b7b47f9f77b09a9dba2587bacaf8086517bf6384a333b92b7"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/skills/myriad_swords_return.json"
+hash = "9e86a012ae93e9c473802554c7424d8b4703fad574cd0f7fc1266880bb5b8c55"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/skills/qi_flight.json"
+hash = "eb01fffab327467da114fcb4a2831392a139a994ba4870f9acc5bbe76654db56"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/skills/size_transformation.json"
+hash = "7388b7200ba57a26c5f8eb8d276ea7fec778ad345a27fd84f969faa90253acb4"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/skills/sword_flight.json"
+hash = "c8c4d86dd2d4ce4a630f84cbe63c6799d606945a5feafb51532b69b85f91e865"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/skills/talisman_master.json"
+hash = "68f2fb377344e8138f6fdc103cca386e8d8ab20c78d948434d16dabe2554267b"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/talismans/fasting_talisman.json"
+hash = "c0ae25b785f295a673a0a7a6c4ad3530ac9cc95d81e3d767d36f20c55b6d48e4"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/talismans/monster_gathering_talisman.json"
+hash = "fd9910378ef661037bde5a37bb9e89c46e7f45146b3b9a0f74862e23d85b0e86"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/talismans/nourishing_qi_talisman.json"
+hash = "e85755ee8ee628da9d431e314dc1733159d8601252f87fc14e2a85951cb1f083"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/talismans/puppet_talisman.json"
+hash = "5f29a17b12aaeffeee355f9e4307c2d282a6983b1c5d60fe8eb14e90c9d12c22"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/talismans/scholar_table_talismans.json"
+hash = "02980bec425285b4a33598beefedacd59546f16c7c03a7b3d62192f71df2cd88"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/talismans/thunder_talisman.json"
+hash = "087de167e3682fb67cd8620af8c9ba073173ebf96298e796c31f8ddc3949b608"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/templates/alchemy_recipe.json"
+hash = "bc1f952b34dc9a17fb93fb0d07769230c84c01fa1b1969ab36140553c7322d7e"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/mysticism/lang/pt_br.json"
+hash = "43e5e35ed2367075ac781f5e05fbb6d968b87085187bb49c80c78e0987a8e2db"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/stextras/lang/pt_br.json"
+hash = "a44ae0a0cffd59b1a789a0e51b5a4028efbc4fc53f5ad7c2b2be8e51e3aee1f8"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/tennogamenolife/lang/pt_br.json"
+hash = "5d247d73ef37b4e84cfbed930c69cc947cc5a0b811e15e77371e17f0e3592333"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/tensura/lang/pt_br.json"
+hash = "b471b21d74093fd378738f4d6c7d36764c4728aa667bd066a5c660481c249b67"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/tensura_better_subs/lang/pt_br.json"
+hash = "ea7471a88396e1aee3a3cf72d8db0bc50ef21fca8ead4cc32fe94390f183b8ce"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/tensura_boss_structure/lang/pt_br.json"
+hash = "18b725f0f065f02e3c4f1859cc68764a35d7b1f0df0b865ad16934f71206ef13"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/tensura_ftb/lang/pt_br.json"
+hash = "bef8c2b86653aefc225b5151c73eb3a3ebc7f6b23789c72f6155f1c0260d152e"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/tensura_guild/lang/pt_br.json"
+hash = "214f99e3a27132fe24546cd7aa40cd46cccf2125d587c906f748cd4dd0a2e64c"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/tensura_kumodesu/lang/pt_br.json"
+hash = "4e1ce5e2f457adac83c77ea763491d8bee6eb978686c91bd01f56bb9170b1175"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/tensura_neb/lang/pt_br.json"
+hash = "103739a1d629e0652c3a3a68884be5c1aa24337eb6a5c64412be537996112485"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/tensura_skill_books/lang/pt_br.json"
+hash = "93522905c2cb989bf09e9a47110f99f821827eba9eb39a95c3f24245fe896b33"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/tensura_tno/lang/pt_br.json"
+hash = "0fc182ef5c655530b1a5f1db223f98753817e0d39333e5cbc33bce480305dfe8"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/tensura_tno_moreskills_compat/lang/pt_br.json"
+hash = "5d8cc6ac31a1a37ddd91b58eb543e037f7ec30454e318b719da231140ff41854"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/tensura_trepu/lang/pt_br.json"
+hash = "6f348906eddad30dfe1844ca41e3e3f694dc5d123b392189dab5d5bf91706f2b"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/tensuraenigmatic/lang/pt_br.json"
+hash = "a75b5512eafce48d40b665278ac53795b749d239801a99c09292debafc96deff"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/tensuramoreskills/lang/pt_br.json"
+hash = "aa72340ebee9e3c243303fb1d2044f9b682f75dafbdad3203bf70299fcda709a"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/tno_tensura_extras/lang/pt_br.json"
+hash = "5e4cb6b353868afecf5263b0f7b6b08a02169fa08ced4334f63089c238998091"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/tr_unique_monsters/lang/pt_br.json"
+hash = "42ce2f56a95a0fc9ef318c3ab401dac856cc8c46a9ffed461fb9b46308b131e6"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/assets/traddon/lang/pt_br.json"
+hash = "80ee9d7c208a1b1c88952be306de4e0957e780fcdcee46d24e1ce07642b1dec4"
+
+[[files]]
+file = "config/openloader/packs/tensura-pt-br/pack.mcmeta"
+hash = "7dfe2b908181cd6c10bb80e131f44530c1bbfd6dc2f692c654041f2edf483657"
 
 [[files]]
 file = "docs/grande-sabia-comandos-de-voz.md"
@@ -589,314 +913,6 @@ metafile = true
 file = "mods/yungs-cave-biomes.pw.toml"
 hash = "5a334201feff0fb2f76d486399f47d0ce5b5818c284fea895706c92bb2119470"
 metafile = true
-
-[[files]]
-file = "openloader/packs/soberania-pt-br/assets/blockui/lang/pt_br.json"
-hash = "3131310fb4f4bf5fedcfd3e8046ab025769b3624e909d3935f549a60a4ef93c5"
-
-[[files]]
-file = "openloader/packs/soberania-pt-br/assets/domum_ornamentum/lang/pt_br.json"
-hash = "0fcede6d3edc9c5b87d9ff2b46ed4da6776357f030fd136d97f514381f1be03d"
-
-[[files]]
-file = "openloader/packs/soberania-pt-br/assets/minecolonies/lang/pt_br.json"
-hash = "9f2ae4a271ca10540179a5e5c9d564b46224f81471d80f2aa1ae28cb2443acd9"
-
-[[files]]
-file = "openloader/packs/soberania-pt-br/assets/multipiston/lang/pt_br.json"
-hash = "3e91b6513eb91027b7b8b0a3fb4512bd44b190a08775ea66722b14dc4175fdf2"
-
-[[files]]
-file = "openloader/packs/soberania-pt-br/assets/structurize/lang/pt_br.json"
-hash = "6fc918a2513b982c9883ddd420cbf0da4c63690a7e2ddfcfa603e0e6db65b97a"
-
-[[files]]
-file = "openloader/packs/soberania-pt-br/assets/tensura_ftb/lang/pt_br.json"
-hash = "5b6822337f642a837f065e5344186381a79be272981627ca9ffd24b358bc678a"
-
-[[files]]
-file = "openloader/packs/soberania-pt-br/pack.mcmeta"
-hash = "da453f8cf90f46c9de88394c9cc62019525111ea8631e8ee4ef7472a08a31615"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/ancient_artifacts/lang/pt_br.json"
-hash = "0deedad8c3704826957f37a46fbfb9406d7ca4745e7f4077795148721e14a4a6"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/beyond_gacha_c/lang/pt_br.json"
-hash = "69ca86dd05b64a64c8c5716e5767468a3f23db35ab406b19f9ed2593ab906946"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/foxablazeaqzl_wiki/lang/pt_br.json"
-hash = "04e5875bdf1aa761e18eab4c0bcd967fa7ab21e51844cdebfb3b124273d1ec0a"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/foxablazeaqzl_wiki/wiki/item_descriptions.json"
-hash = "42822ac41815875c40f2f811dd20a597f9879b271a766e3bfe86e4d7a592fd0f"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/foxablazeaqzl_wiki/wiki/skill_descriptions.json"
-hash = "3309479a52a9f44b58c55b4bc00c2da68c003ec1b5ce6bb4636a4e0c6ca27ea0"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/foxablazeultimate/lang/pt_br.json"
-hash = "f18f542339a0c8ec441ad1c9e4f617706e7d57f902cccacb274785b2fe638233"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/manascore/lang/pt_br.json"
-hash = "6edac16428a6ca716111ab0c2532798a3dd8e2d19ceb156eeac80e7892d841de"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/mortal_cultivation/lang/pt_br.json"
-hash = "3279e3d0c66f810bd7ed0174ef24675352add57c275b8ab23dd9b7ae8ccdeb9b"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/categories/alchemy.json"
-hash = "ea6778ab442f16829f0b8cb0ca176abc676b6a04231441612623885b497c72ac"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/categories/pills.json"
-hash = "a42f881b10bdd69f5af57b3600da8cd49c3f7319c5324a74340fcecdec6ae467"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/categories/races.json"
-hash = "cace369b8a7d1d9a65c7f91373676c6e51f0abc9d2667a50d14826bf9102bda0"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/categories/rune_mysteries.json"
-hash = "5b2af811a93249daa8b79e86fa1c87ac5c23afe248eac1e7093a4496642ce6a9"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/categories/skills.json"
-hash = "f4f961ebe82cea5babc9261fb6dfe894dab21598569408e2ade9546b7b51311d"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/categories/talismans.json"
-hash = "0458874d2c710fa34dce6afb67eb69e6406d865c8ca14dc4a95746bb92c54bb4"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/alchemy/alchemy_furnace.json"
-hash = "5c604dc4a0312871d9e4360f1cb4cdd87f56e0b5ad13dbb709fc06f821ead8cc"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/alchemy/fuels.json"
-hash = "62faff05630c6fee3c8c6b1c1085345fb214a91a6bbbd5f061bca22c8962303e"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/pills/foundation_building_pill.json"
-hash = "edbdf9652b52dc98b39cc7177eab6f0a099b0fdc938b743da77c60621b0e4f4d"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/pills/giant_spirit_pill.json"
-hash = "8f7cf1f78eefc15a3844ab05a44360733e41c6149bc65bad52ab1a03dd8fca4d"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/pills/heaven_cleansing_elixir.json"
-hash = "31b53e514a46f01b40f85cbf62fe4a5280dda34f06d38e2b1105efe9bfdf3784"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/pills/mystic_void_elixir.json"
-hash = "5908b34b7431ae4bc2289bda80e8f647f4f8473d5e3d7bbbbcbabb52a0c48b83"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/pills/spirit_cleansing_pill.json"
-hash = "bc04a964e271d509b4805bb546ca04b7625b685b5f82eb7884ae256846156d3f"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/pills/stellar_core_pill.json"
-hash = "5359aa7790a918925c97cca406cad08a3efb1be2d20805ec5f930b4ffeb1c74c"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/pills/void_refinement_pill.json"
-hash = "a4ed6f91bf63345a5ebf8ec9a25880a90d928e7e093bef19e2a1a27a390fd6b0"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/races/wastelander.json"
-hash = "0b1f0ea7a577ae84055cee43d216d741fae324914268209ddc319fc17f97ca0f"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/runes/deciphering.json"
-hash = "c2d5403f5c38c552a8e6b3b98ad3a59afe377ac24d625c1e76bd8b45565cb79f"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/runes/mainline_overview.json"
-hash = "2f40db5c74a485c5510608dc75f3ac14cf2e1d681bad39c21fa6e5a93b0d602f"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/runes/manuals.json"
-hash = "5749f249a1ebdeaa208b0026a493d739d86264bf43adf20bbefc5460056ca814"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/runes/rune_table.json"
-hash = "00df7cba631c0117a288586899613b051a927e1ca25f6c8fc549fec156f48fd2"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/runes/scholar_table_analysis.json"
-hash = "d47e5f124a6e20a967f2aefd06b51d8b767e1a6f6e639b6ca7877c2fa3a0502c"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/runes/stele_and_spirit_glasses.json"
-hash = "acfe7becc290d061007cb04ad5edf7e6d0e36455215e6550c3403f64797b7345"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/runes/zhao_ying_zhu.json"
-hash = "a62dc60de18f0726451585304bbf5f30a74e2b61f58c2b7645aadbc65a495159"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/skills/alchemist_fire.json"
-hash = "88e253de86945a401872281e2f480ee4166ddcac9df0328ba4d53f1c6e7628ce"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/skills/alchemy_prodigy.json"
-hash = "0b0b1c2d9e9d1840a82822ca02042fb596c7c2d2ce06c9113bc9da15e791b964"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/skills/cultivating_the_mystic_dao.json"
-hash = "23523d75e3d0b742d3d111dd92f141de689c1b2edf0c69b7e9713c2529a50dab"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/skills/early_cultivation.json"
-hash = "e4bdfd0e2b33d21514a03fea6e3fdeb6d464bfbc455ebb95416941d3b79d389c"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/skills/great_sage.json"
-hash = "31deccba48b678e12264ea38dfa91ab81cc410cd8e2dbeba4d1d2e55ecfa0b5a"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/skills/hundred_ghosts_surge.json"
-hash = "af76cb69e640292fbe067eeaefa9770faf54864353992b22dbefc67513d37f27"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/skills/mischief.json"
-hash = "e0910d2ef15b8e6b7b47f9f77b09a9dba2587bacaf8086517bf6384a333b92b7"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/skills/myriad_swords_return.json"
-hash = "9e86a012ae93e9c473802554c7424d8b4703fad574cd0f7fc1266880bb5b8c55"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/skills/qi_flight.json"
-hash = "eb01fffab327467da114fcb4a2831392a139a994ba4870f9acc5bbe76654db56"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/skills/size_transformation.json"
-hash = "7388b7200ba57a26c5f8eb8d276ea7fec778ad345a27fd84f969faa90253acb4"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/skills/sword_flight.json"
-hash = "c8c4d86dd2d4ce4a630f84cbe63c6799d606945a5feafb51532b69b85f91e865"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/skills/talisman_master.json"
-hash = "68f2fb377344e8138f6fdc103cca386e8d8ab20c78d948434d16dabe2554267b"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/talismans/fasting_talisman.json"
-hash = "c0ae25b785f295a673a0a7a6c4ad3530ac9cc95d81e3d767d36f20c55b6d48e4"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/talismans/monster_gathering_talisman.json"
-hash = "fd9910378ef661037bde5a37bb9e89c46e7f45146b3b9a0f74862e23d85b0e86"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/talismans/nourishing_qi_talisman.json"
-hash = "e85755ee8ee628da9d431e314dc1733159d8601252f87fc14e2a85951cb1f083"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/talismans/puppet_talisman.json"
-hash = "5f29a17b12aaeffeee355f9e4307c2d282a6983b1c5d60fe8eb14e90c9d12c22"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/talismans/scholar_table_talismans.json"
-hash = "02980bec425285b4a33598beefedacd59546f16c7c03a7b3d62192f71df2cd88"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/entries/talismans/thunder_talisman.json"
-hash = "087de167e3682fb67cd8620af8c9ba073173ebf96298e796c31f8ddc3949b608"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/mortal_cultivation/patchouli_books/cultivation_guide/pt_br/templates/alchemy_recipe.json"
-hash = "bc1f952b34dc9a17fb93fb0d07769230c84c01fa1b1969ab36140553c7322d7e"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/mysticism/lang/pt_br.json"
-hash = "43e5e35ed2367075ac781f5e05fbb6d968b87085187bb49c80c78e0987a8e2db"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/stextras/lang/pt_br.json"
-hash = "a44ae0a0cffd59b1a789a0e51b5a4028efbc4fc53f5ad7c2b2be8e51e3aee1f8"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/tennogamenolife/lang/pt_br.json"
-hash = "5d247d73ef37b4e84cfbed930c69cc947cc5a0b811e15e77371e17f0e3592333"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/tensura/lang/pt_br.json"
-hash = "b471b21d74093fd378738f4d6c7d36764c4728aa667bd066a5c660481c249b67"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/tensura_better_subs/lang/pt_br.json"
-hash = "ea7471a88396e1aee3a3cf72d8db0bc50ef21fca8ead4cc32fe94390f183b8ce"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/tensura_boss_structure/lang/pt_br.json"
-hash = "18b725f0f065f02e3c4f1859cc68764a35d7b1f0df0b865ad16934f71206ef13"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/tensura_ftb/lang/pt_br.json"
-hash = "bef8c2b86653aefc225b5151c73eb3a3ebc7f6b23789c72f6155f1c0260d152e"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/tensura_guild/lang/pt_br.json"
-hash = "214f99e3a27132fe24546cd7aa40cd46cccf2125d587c906f748cd4dd0a2e64c"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/tensura_kumodesu/lang/pt_br.json"
-hash = "4e1ce5e2f457adac83c77ea763491d8bee6eb978686c91bd01f56bb9170b1175"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/tensura_neb/lang/pt_br.json"
-hash = "103739a1d629e0652c3a3a68884be5c1aa24337eb6a5c64412be537996112485"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/tensura_skill_books/lang/pt_br.json"
-hash = "93522905c2cb989bf09e9a47110f99f821827eba9eb39a95c3f24245fe896b33"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/tensura_tno/lang/pt_br.json"
-hash = "0fc182ef5c655530b1a5f1db223f98753817e0d39333e5cbc33bce480305dfe8"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/tensura_tno_moreskills_compat/lang/pt_br.json"
-hash = "5d8cc6ac31a1a37ddd91b58eb543e037f7ec30454e318b719da231140ff41854"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/tensura_trepu/lang/pt_br.json"
-hash = "6f348906eddad30dfe1844ca41e3e3f694dc5d123b392189dab5d5bf91706f2b"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/tensuraenigmatic/lang/pt_br.json"
-hash = "a75b5512eafce48d40b665278ac53795b749d239801a99c09292debafc96deff"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/tensuramoreskills/lang/pt_br.json"
-hash = "aa72340ebee9e3c243303fb1d2044f9b682f75dafbdad3203bf70299fcda709a"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/tno_tensura_extras/lang/pt_br.json"
-hash = "5e4cb6b353868afecf5263b0f7b6b08a02169fa08ced4334f63089c238998091"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/tr_unique_monsters/lang/pt_br.json"
-hash = "42ce2f56a95a0fc9ef318c3ab401dac856cc8c46a9ffed461fb9b46308b131e6"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/assets/traddon/lang/pt_br.json"
-hash = "80ee9d7c208a1b1c88952be306de4e0957e780fcdcee46d24e1ce07642b1dec4"
-
-[[files]]
-file = "openloader/packs/tensura-pt-br/pack.mcmeta"
-hash = "7dfe2b908181cd6c10bb80e131f44530c1bbfd6dc2f692c654041f2edf483657"
 
 [[files]]
 file = "tools/ftbquests_lang.py"

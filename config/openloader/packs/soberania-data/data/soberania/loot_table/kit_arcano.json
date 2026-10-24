@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:generic",
+  "pools": [
+    { "rolls": 1, "entries": [ { "type": "minecraft:item", "name": "ars_nouveau:novice_spell_book" } ] },
+    { "rolls": 1, "entries": [ { "type": "minecraft:item", "name": "ars_nouveau:worn_notebook" } ] },
+    { "rolls": 1, "entries": [ { "type": "minecraft:item", "name": "ars_nouveau:source_gem", "functions": [ { "function": "minecraft:set_count", "count": 12 } ] } ] },
+    { "rolls": 1, "entries": [ { "type": "minecraft:item", "name": "ars_nouveau:sourceberry_bush", "functions": [ { "function": "minecraft:set_count", "count": 8 } ] } ] },
+    { "rolls": 1, "entries": [ { "type": "minecraft:item", "name": "minecraft:lapis_lazuli", "functions": [ { "function": "minecraft:set_count", "count": 16 } ] } ] },
+    { "rolls": 1, "entries": [ { "type": "minecraft:item", "name": "minecraft:amethyst_shard", "functions": [ { "function": "minecraft:set_count", "count": 8 } ] } ] }
+  ]
+}

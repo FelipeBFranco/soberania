@@ -6,15 +6,9 @@
 	loot_size: 1
 	order_index: 2
 	rewards: [
-		{ id: "0A0000000000F301", item: { count: 1, id: "minecraft:iron_pickaxe" }, title: "Kit do Construtor" }
-		{ id: "0A0000000000F302", item: { count: 64, id: "minecraft:oak_planks" }, title: "Kit do Construtor" }
-		{ id: "0A0000000000F303", item: { count: 32, id: "minecraft:cobblestone" }, title: "Kit do Construtor" }
-		{ id: "0A0000000000F304", item: { count: 16, id: "create:andesite_alloy" }, title: "Kit do Engenheiro" }
-		{ id: "0A0000000000F305", item: { count: 4, id: "create:cogwheel" }, title: "Kit do Engenheiro" }
-		{ id: "0A0000000000F306", item: { count: 8, id: "create:shaft" }, title: "Kit do Engenheiro" }
-		{ id: "0A0000000000F307", item: { count: 1, id: "ars_nouveau:novice_spell_book" }, title: "Kit Arcano" }
-		{ id: "0A0000000000F308", item: { count: 8, id: "ars_nouveau:source_gem" }, title: "Kit Arcano" }
-		{ id: "0A0000000000F309", item: { count: 4, id: "ars_nouveau:sourceberry_bush" }, title: "Kit Arcano" }
+		{ command: "/loot give @p loot soberania:kit_construtor", elevate: true, icon: { id: "minecraft:iron_pickaxe" }, id: "0A0000000000F301", silent: true, title: "Kit do Construtor: picareta, machado e pá de ferro, 64 tábuas, 64 pedregulho, 32 tochas, 16 pães", type: "command" }
+		{ command: "/loot give @p loot soberania:kit_engenheiro", elevate: true, icon: { id: "create:cogwheel" }, id: "0A0000000000F302", silent: true, title: "Kit do Engenheiro: 24 liga de andesito, 6 engrenagens, 2 engrenagens grandes, 16 eixos, roda d'água, chave inglesa, 16 ferro", type: "command" }
+		{ command: "/loot give @p loot soberania:kit_arcano", elevate: true, icon: { id: "ars_nouveau:novice_spell_book" }, id: "0A0000000000F303", silent: true, title: "Kit Arcano: livro de novato, Tomo Esfarrapado, 12 gemas de Source, 8 arbustos de Source, 16 lápis-lazúli, 8 ametistas", type: "command" }
 	]
 	title: "Escolha do Fundador"
 }

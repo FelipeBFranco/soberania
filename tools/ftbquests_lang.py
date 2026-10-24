@@ -87,8 +87,13 @@ for table in sorted((ROOT / "reward_tables").glob("*.snbt")) if (ROOT / "reward_
     tt = re.search(r'\n\ttitle: "((?:[^"\\]|\\.)*)"', text)
     if tt:
         out[f"reward_table.{tid}.title"] = tt.group(1)
-    for rm in re.finditer(r'\{ id: "([0-9A-F]+)"[^}]*?title: "((?:[^"\\]|\\.)*)"', text):
-        out[f"reward.{rm.group(1)}.title"] = rm.group(2)
+    for line in text.splitlines():
+        if not line.lstrip().startswith("{"):
+            continue
+        rid = re.search(r'\bid: "([0-9A-F]{16})"', line)
+        tt = re.search(r'\btitle: "((?:[^"\\]|\\.)*)"', line)
+        if rid and tt:
+            out[f"reward.{rid.group(1)}.title"] = tt.group(1)
 
 lines = ["{", f'\tfile.0000000000000001.title: "{BOOK_TITLE}"']
 for key in sorted(out):

@@ -1,0 +1,29 @@
+{
+  "ftbquests.reward.tensura_ftb.ability": "Habilidade",
+  "ftbquests.reward.tensura_ftb.random_ability": "Habilidade aleatória",
+  "tensura_ftb.reward.ability.random": "Tipo do sorteio",
+  "tensura_ftb.reward.ability.new_ability": "Só habilidades novas",
+
+  "ftbquests.task.tensura_ftb.ability": "Aprender habilidade",
+  "tensura_ftb.task.ability.status": "Estado da habilidade",
+  "tensura_ftb.task.ability.ability": "Habilidade",
+  "tensura_ftb.task.ability.remove_time": "Remover após (s)",
+
+  "ftbquests.reward.tensura_ftb.awakening": "Despertar",
+  "ftbquests.task.tensura_ftb.awakening": "Estado do despertar",
+  "ftbquests.task.tensura_ftb.awakening.status": "Estado do despertar",
+
+  "ftbquests.reward.tensura_ftb.existence_value": "Pontos de Existência",
+  "ftbquests.task.tensura_ftb.existence_value": "Pontos de Existência",
+  "tensura_ftb.task.existence_value.type": "Tipo de existência",
+  "tensura_ftb.task.existence_value.value": "Valor",
+
+  "ftbquests.reward.tensura_ftb.spirit": "Espíritos elementais",
+  "ftbquests.task.tensura_ftb.spirit": "Espíritos elementais",
+  "tensura_ftb.task.spirit.element": "Elemento do espírito",
+  "tensura_ftb.task.spirit.level": "Nível do espírito",
+
+  "ftbquests.reward.tensura_ftb.race": "Raça",
+  "ftbquests.task.tensura_ftb.race": "Raça",
+  "ftbquests.task.tensura_ftb.race.race": "Raça"
+}

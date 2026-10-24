@@ -10,7 +10,7 @@ hash = "b9cc1c0b8256d0a7ce460149bbd8e3f16103e206bd81593132fe0ca68a8a2226"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/era_0_despertar.snbt"
-hash = "96fbd141e1deba84acdb75f1a577dd348d57d6de38cbdd6af30b6d588186ac27"
+hash = "37439a2e37b60c8989a9c168edcd5d231c9ea7d834e636f7e89e1860cc23e6b0"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/era_1_po.snbt"
@@ -18,7 +18,7 @@ hash = "a038553d181b0008b2123a6fd7fdf1b52153a2f47799ba7f59b008bd1d2b33df"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/grande_sabia.snbt"
-hash = "d84b2b3118cee080b3145569aff0bd2ef7b8d16a77dd84a682d4f5999696731a"
+hash = "a1ae53659594b73ef3667e635ab35a9b27454c316ec5ae48f6bf996fc5ca8f84"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -26,7 +26,7 @@ hash = "38426c7cb598cf2907456cbf7c95580d7fd6c83d0234a31159467d74c7419211"
 
 [[files]]
 file = "config/ftbquests/quests/lang/pt_br.snbt"
-hash = "b3755558a9f8b950f41ff7b293e85f5db216245c490b4ca4827e065c2927e1d0"
+hash = "5a27645593a7c7c3580109b98e4a472360fe102ab1227859fa9a8ac40ddf5306"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/bolsa_da_grande_sabia.snbt"
@@ -34,7 +34,7 @@ hash = "57f7ef18324f4c72c063dfb358273850a8ab7b4863eccb8b161bf793ac57f569"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/dadiva_da_grande_sabia.snbt"
-hash = "5493da73ef49840c1bd39706ae1b72f3152c3205a210ecbc3f5c8842510712a9"
+hash = "c2e25f8038d30f1bcf3484a9b15255d4d738fb0f76c09cb7e631c7aa878caff8"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/escolha_do_fundador.snbt"
@@ -611,6 +611,10 @@ file = "openloader/packs/soberania-pt-br/assets/structurize/lang/pt_br.json"
 hash = "6fc918a2513b982c9883ddd420cbf0da4c63690a7e2ddfcfa603e0e6db65b97a"
 
 [[files]]
+file = "openloader/packs/soberania-pt-br/assets/tensura_ftb/lang/pt_br.json"
+hash = "5b6822337f642a837f065e5344186381a79be272981627ca9ffd24b358bc678a"
+
+[[files]]
 file = "openloader/packs/soberania-pt-br/pack.mcmeta"
 hash = "da453f8cf90f46c9de88394c9cc62019525111ea8631e8ee4ef7472a08a31615"
 
@@ -896,4 +900,4 @@ hash = "7dfe2b908181cd6c10bb80e131f44530c1bbfd6dc2f692c654041f2edf483657"
 
 [[files]]
 file = "tools/ftbquests_lang.py"
-hash = "337baf7ce8bd6625523f212ec315662a4c9dfa8a66fd1c8f69f53ee40792c543"
+hash = "3ac97de6b07a0684044e8ea45dc36710c49c193eb87220db9556c854e012d5d2"

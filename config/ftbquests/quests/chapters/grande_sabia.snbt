@@ -104,7 +104,7 @@
 			}
 			id: "0A00000000000905"
 			rewards: [
-				{ exclude_from_claim_all: true, id: "0A00000000000A05", table_id: 720575940379279604L, type: "random" }
+				{ exclude_from_claim_all: true, icon: { id: "minecraft:enchanted_book" }, id: "0A00000000000A05", table_id: 720575940379279604L, type: "random" }
 				{ id: "0A00000000000B05", type: "xp_levels", xp_levels: 15 }
 			]
 			shape: "pentagon"

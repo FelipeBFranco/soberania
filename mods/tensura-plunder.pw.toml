@@ -1,0 +1,13 @@
+name = "Tensura-Plunder"
+filename = "TensuraPlunder-5.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2u9nA7Xb/versions/riszSfhO/TensuraPlunder-5.0.0.jar"
+hash-format = "sha512"
+hash = "572b672fa54c509c31cc0a8d01e66c803f83fdc928bc857bebf1fdaf709d14f6a562bd231f735a2e20eba475b29aa77d7130258e74bdeb1f8e687bbf278e6faa"
+
+[update]
+[update.modrinth]
+mod-id = "2u9nA7Xb"
+version = "riszSfhO"

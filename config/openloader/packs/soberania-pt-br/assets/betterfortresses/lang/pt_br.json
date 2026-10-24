@@ -1,0 +1,6 @@
+{
+  "Use /locate structure betterfortresses:fortress instead!": "Use /locate structure betterfortresses:fortress em vez disso!",
+  "text.autoconfig.betterfortresses-fabric-1_21.title": "YUNG's Better Nether Fortresses",
+  "text.autoconfig.betterfortresses-fabric-1_21.option.general.disableVanillaFortresses": "Desativar Fortalezas do Nether Vanilla",
+  "text.autoconfig.betterfortresses-fabric-1_21.option.general.disableVanillaFortresses.@Tooltip": "Define se as Fortalezas do Nether vanilla devem ser desativadas."
+}

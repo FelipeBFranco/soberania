@@ -18,7 +18,7 @@
 				""
 				"Os ramos &e[Reino]&r, &e[Ferro]&r, &e[Mana]&r e &e[Mundo]&r são as quatro coisas que este pack é. Comece por onde der vontade: as missões marcadas como &e(opcional)&r dão recompensa, mas não trancam nada."
 				""
-				"Dentro desta mochila tem pão, tochas e uma Pedra de Teleporte. É pouco. Era para ser."
+				"Dentro desta mochila tem pão, tochas e uma Pedra de Teletransporte. É pouco. Era para ser."
 			]
 			icon: {
 				id: "minecraft:soul_lantern"
@@ -182,9 +182,9 @@
 			description: [
 				"Todo reino começa com um caminho de volta. Antes de muralha, antes de trono, uma pedra no chão que diz: aqui."
 				""
-				"Construa uma &bPedra de Caminho&r e clique nela para ativar. A Pedra de Teleporte que veio na sua mochila te traz de volta a ela de qualquer lugar. Quando a colônia crescer, uma rede dessas vai ligar as cidades."
+				"Construa um &bObelisco&r e clique nele para ativar. A Pedra de Teletransporte que veio na sua mochila te traz de volta a ele de qualquer lugar. Quando a colônia crescer, uma rede deles vai ligar as cidades."
 				""
-				"&7Dica: a receita está no EMI. Pedras de Caminho também aparecem soltas pelo mundo; ativar as que encontrar não custa nada."
+				"&7Dica: a receita está no EMI. Obeliscos também aparecem soltos pelo mundo; ativar os que encontrar não custa nada."
 			]
 			id: "0A00000000000108"
 			rewards: [
@@ -197,7 +197,7 @@
 				item: { count: 1, id: "waystones:waystone" }
 				type: "item"
 			}]
-			title: "[Reino] Pedra de Caminho"
+			title: "[Reino] Obelisco"
 			x: -4.0d
 			y: 2.0d
 		}
@@ -489,7 +489,7 @@
 				""
 				"Encontre o bioma. Pise nele. Não precisa ficar; aliás, por enquanto, é melhor não ficar."
 				""
-				"&7Dica: a Bússola da Natureza acha biomas. Vá de dia, vá rápido, e deixe uma Pedra de Caminho ativada por perto para voltar depois, quando tiver EP para isso."
+				"&7Dica: a Bússola da Natureza acha biomas. Vá de dia, vá rápido, e deixe um Obelisco ativado por perto para voltar depois, quando tiver EP para isso."
 			]
 			id: "0A00000000000114"
 			optional: true

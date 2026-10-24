@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "05b1158f5ec174d75881fbc50616ae40e221b98e3d07d4325c699d8fde4682a0"
+hash = "7d71d44c49cc98077bf46aca25489bb3cf09c02659df754eeb6e83b51789b9da"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
@@ -10,7 +10,7 @@ hash = "b9cc1c0b8256d0a7ce460149bbd8e3f16103e206bd81593132fe0ca68a8a2226"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/era_0_despertar.snbt"
-hash = "e3418d34fb27238d35898ed65a6b754de91fc2a4219d2844c2436752fb1a5b6e"
+hash = "180dec6b3e5c13eeccac325a8ef440f9f8237840f0dd49aa124e02b606aa5d57"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/era_1_po.snbt"
@@ -26,7 +26,7 @@ hash = "38426c7cb598cf2907456cbf7c95580d7fd6c83d0234a31159467d74c7419211"
 
 [[files]]
 file = "config/ftbquests/quests/lang/pt_br.snbt"
-hash = "da72bcaa0bf39bcb5d95208c2352a75fc9696c23a504dba859dd917efbf7fa13"
+hash = "541f63183bfcc2c6e9edef1aad07783d0c32d26d57ec7fde0903418f4eef034a"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/bolsa_da_grande_sabia.snbt"
@@ -389,6 +389,10 @@ file = "docs/grande-sabia-comandos-de-voz.md"
 hash = "c5cbc6cb47985a78d91169db0fbeb70e6c27cd77a356f61c3691feb3da1ace2c"
 
 [[files]]
+file = "docs/guia-do-jogador.md"
+hash = "7af3784ab0f84ed61b40540ef127938f30c1785b1922c13d232360a6de776eb0"
+
+[[files]]
 file = "kubejs/client_scripts/soberania.js"
 hash = "b7ea6c83046fd51c4e68a8c60883980412a81b0524552dc071f772744c573645"
 
@@ -436,6 +440,11 @@ hash = "643c88ee26ec68650091c395c5c4fbd33d534a9c493e3cc05da3c793cc7ab9db"
 metafile = true
 
 [[files]]
+file = "mods/boss-checklist.pw.toml"
+hash = "728d008eb1eb31329b680e3c3e225e662d1d96fd3a541550e11d3e8b97bcc816"
+metafile = true
+
+[[files]]
 file = "mods/byzantine-styles-pack-for-minecolonies.pw.toml"
 hash = "c9bfb203572f19a1a6d02d1770fd35f5bc7fa55317a43e5637c5e1a14b383851"
 metafile = true
@@ -467,7 +476,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+hash = "6b6683fd8ec53d10d4fbef3b3d53922a1aaa8ef4d2e4b52bb819dc451f5d6b3d"
 metafile = true
 
 [[files]]
@@ -577,12 +586,12 @@ metafile = true
 
 [[files]]
 file = "mods/irons-lib.pw.toml"
-hash = "93f7a09e0d9a05c31b55bb9725545c49dc68067556a98d470e4f405bdbf3b25c"
+hash = "3f8f749b654d18560d45dfb160e839566f72d9150e86f7f881c5e205f5660c55"
 metafile = true
 
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
-hash = "4623bbc102dd3b7648a96569a1ab49b868774d46355b305ac40c4c79ad1c74e2"
+hash = "4f7ef8bd9e05ab690a81d0f698d38a25bbaf0729953fd015bca3a852aadf7689"
 metafile = true
 
 [[files]]
@@ -702,7 +711,7 @@ metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
-hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
+hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
 metafile = true
 
 [[files]]
@@ -786,6 +795,16 @@ hash = "c7e7206384e1d5ab7caecc643dda50dae1886312e0aeca5aaef8852bb6b11b4e"
 metafile = true
 
 [[files]]
+file = "mods/tensura-arcane.pw.toml"
+hash = "c2f1351984a65f9a639196e16bb4c16fe19813b297c427b25fab38317424450c"
+metafile = true
+
+[[files]]
+file = "mods/tensura-barriers.pw.toml"
+hash = "69c03c06d4e8e030e712d1e796add7cef575106faa2410702b8b67a5a24ff4f6"
+metafile = true
+
+[[files]]
 file = "mods/tensura-boss-structure.pw.toml"
 hash = "1caa41d2104d8aecf9ba0707c87daf906a29e05fc57ba3a692bd0c960919c8ff"
 metafile = true
@@ -793,6 +812,11 @@ metafile = true
 [[files]]
 file = "mods/tensura-compat-ftb.pw.toml"
 hash = "25fd0278f6317da56709d07398261ac9ed0ba7df732fa8473a7c7854115073cb"
+metafile = true
+
+[[files]]
+file = "mods/tensura-compat-irons-spells-n-spellbooks.pw.toml"
+hash = "96765998616a4fb81a2b1dc7fc8d324b102db64206fbf04ca73f449246c36044"
 metafile = true
 
 [[files]]
@@ -816,8 +840,13 @@ hash = "4aac7623191397326e5b3fda3a691c3081ff8997c0f5723dbe2824552d2ec212"
 metafile = true
 
 [[files]]
+file = "mods/tensura-plunder.pw.toml"
+hash = "4fc8e3590b5ec6f9328a19840ef160625289e62cbbbb2c8045ee353fd46ad01b"
+metafile = true
+
+[[files]]
 file = "mods/tensura-reincarnated.pw.toml"
-hash = "4498da0b0c1b25932b1ef886333d0974151d0c647c1145e39960fdde4b32d4f3"
+hash = "07e0ab3461a1c1d75c6e6a876629cf450f9700662806fb0a42282cf1b364ca88"
 metafile = true
 
 [[files]]

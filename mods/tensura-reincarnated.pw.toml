@@ -3,11 +3,11 @@ filename = "tensura-neoforge-2.0.1.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2fafb5dbe85824ef5a6c3ec7b3cbc18db103eb24"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Br0kXPwc/versions/DfQPJq9I/tensura-neoforge-2.0.1.4.jar"
+hash-format = "sha512"
+hash = "bb127c86aa8f4aa0a734979587f037b86e5fc1970b85d5d8f2976eb685f80dffb3d15bc8fdde46628ae8b5a0e90254f775637b5571821901c9a5a7dd70b5ccd1"
 
 [update]
-[update.curseforge]
-file-id = 9289888
-project-id = 643695
+[update.modrinth]
+mod-id = "Br0kXPwc"
+version = "DfQPJq9I"

@@ -8,12 +8,13 @@ Cada era destrava a próxima; nenhum pilar chega ao fim sozinho.
 
 ## Estado
 
-Em construção. A versão atual é o esqueleto do pack: Tensura: Reincarnated e seus addons, mods de desempenho
-e a tradução PT-BR do Tensura. Os pilares de reino, ferro e mana entram nas próximas versões.
+Em construção. Todos os pilares já estão no pack (Evolução, Reino, Ferro, Mana, Mundo) e o livro de missões cobre
+as Eras 0 e I. As próximas eras, o balanceamento e a ponte entre o Tensura e o MineColonies vêm a seguir.
 
 ## Como jogar
 
-Em breve: o `.zip` para o CurseForge App e o `.mrpack` para Modrinth/Prism ficam na aba **Releases**.
+Veja o [guia do jogador](docs/guia-do-jogador.md): instalação, o que é cada pilar, teclas e a Grande Sábia.
+Os arquivos ficam na aba **Releases** (`.zip` para o CurseForge App, `.mrpack` para Modrinth/Prism).
 
 ## Como este repositório funciona
 

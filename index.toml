@@ -1282,7 +1282,7 @@ hash = "7af3784ab0f84ed61b40540ef127938f30c1785b1922c13d232360a6de776eb0"
 
 [[files]]
 file = "kubejs/client_scripts/soberania.js"
-hash = "5a91de97de42bbc7aa965d946b81a5a5665dc9f3301e55d89390312fb2c45f01"
+hash = "a5b767eb78561a6e36b8821276ca1440d026a2bbdc452c88ac88b744f382f19d"
 
 [[files]]
 file = "kubejs/server_scripts/soberania.js"

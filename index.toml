@@ -26,7 +26,7 @@ hash = "38426c7cb598cf2907456cbf7c95580d7fd6c83d0234a31159467d74c7419211"
 
 [[files]]
 file = "config/ftbquests/quests/lang/pt_br.snbt"
-hash = "e6a633787171368079f1d39d0f823f3a6de05cb3a4771e80a4831110c06f1f06"
+hash = "bd17a6fbe63b973b19f566b2271014a08f3ced1bbb869054c49cafba2fc4f502"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/bolsa_da_grande_sabia.snbt"
@@ -34,7 +34,7 @@ hash = "57f7ef18324f4c72c063dfb358273850a8ab7b4863eccb8b161bf793ac57f569"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/dadiva_da_grande_sabia.snbt"
-hash = "446189a00bd513edac0c44d9b82fc717e7054133f4fb6d89e28f9a82766fe201"
+hash = "e5dc4933f5adb045a0bc553cf547cc525d41d98dd03e953dd068e5cf97fa0bfc"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/escolha_do_fundador.snbt"
@@ -921,3 +921,7 @@ metafile = true
 [[files]]
 file = "tools/ftbquests_lang.py"
 hash = "3ac97de6b07a0684044e8ea45dc36710c49c193eb87220db9556c854e012d5d2"
+
+[[files]]
+file = "tools/gerar_dadiva.py"
+hash = "4f985e039930b7e923d5d06b3669a78acc13ac120e40c8b8e73e4368699e1391"

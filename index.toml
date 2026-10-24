@@ -21,6 +21,10 @@ file = "config/ftbquests/quests/data.snbt"
 hash = "38426c7cb598cf2907456cbf7c95580d7fd6c83d0234a31159467d74c7419211"
 
 [[files]]
+file = "config/ftbquests/quests/lang/pt_br.snbt"
+hash = "d86e8d1e9c8c8a8bac99eb0a23da52659e114c93a41b7ddab7ed94bb11e483b1"
+
+[[files]]
 file = "docs/grande-sabia-comandos-de-voz.md"
 hash = "c5cbc6cb47985a78d91169db0fbeb70e6c27cd77a356f61c3691feb3da1ace2c"
 
@@ -859,3 +863,7 @@ hash = "80ee9d7c208a1b1c88952be306de4e0957e780fcdcee46d24e1ce07642b1dec4"
 [[files]]
 file = "openloader/packs/tensura-pt-br/pack.mcmeta"
 hash = "7dfe2b908181cd6c10bb80e131f44530c1bbfd6dc2f692c654041f2edf483657"
+
+[[files]]
+file = "tools/ftbquests_lang.py"
+hash = "8236132b26aeb251ba58b2e9ecfdd4058a952da8daade28fb4d57a497803c5d6"

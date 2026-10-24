@@ -1,0 +1,98 @@
+{
+	file.0000000000000001.title: "&6&lSoberania: Ferro e Mana"
+	chapter.0A00000000000100.title: "Era 0 — Despertar"
+	chapter.0A00000000000200.title: "Era I — Pó"
+	chapter_group.0A000000000000E1.title: "Eras"
+	chapter_group.0A000000000000E2.title: "Pilares"
+	quest.0A00000000000101.quest_desc: [
+		"Você morreu. Acordou aqui, em um corpo que não é o seu, em um mundo que não é o seu."
+		""
+		"Nada do que você sabia vale muito agora. O que vale é o que você vai se tornar."
+		""
+		"&7Esta é a Era 0. Ela termina quando você tiver um súdito e um lugar para chamar de casa."
+	]
+	quest.0A00000000000101.quest_subtitle: "Reencarnação"
+	quest.0A00000000000101.title: "Despertar"
+	quest.0A00000000000102.quest_desc: [
+		"A noite aqui não perdoa. Antes de pensar em grandeza, pense em um teto."
+		""
+		"Durma uma noite inteira em uma cama."
+	]
+	quest.0A00000000000102.quest_subtitle: "Sobreviver à primeira noite"
+	quest.0A00000000000102.title: "Um teto"
+	quest.0A00000000000103.quest_desc: [
+		"Tudo aqui é feito de Magicules. Para crescer, você precisa senti-los."
+		""
+		"Encontre e quebre um &bMinério Mágico&r. É dele que vêm os cristais que movem este mundo."
+	]
+	quest.0A00000000000103.quest_subtitle: "Os primeiros Magicules"
+	quest.0A00000000000103.title: "Minério Mágico"
+	quest.0A00000000000104.quest_desc: [
+		"Toda criatura deste mundo pode aprender. Você também."
+		""
+		"Domine a sua primeira habilidade: use-a até que ela se torne parte de você."
+	]
+	quest.0A00000000000104.quest_subtitle: "Habilidade dominada"
+	quest.0A00000000000104.title: "Primeira maestria"
+	quest.0A00000000000105.quest_desc: [
+		"Um reino começa com um caminho de volta."
+		""
+		"Construa uma &bPedra de Caminho&r e ative-a. Depois, aonde quer que você vá, saberá voltar."
+	]
+	quest.0A00000000000105.quest_subtitle: "O caminho de volta"
+	quest.0A00000000000105.title: "Pedra de Caminho"
+	quest.0A00000000000106.quest_desc: [
+		"Antes de comandar máquinas, é preciso entender a mais simples delas."
+		""
+		"Faça &bLiga de Andesito&r e uma &bRoda d'Água&r. Água corrente é a primeira força que você vai dominar."
+	]
+	quest.0A00000000000106.quest_subtitle: "A primeira força"
+	quest.0A00000000000106.title: "Roda d'Água"
+	quest.0A00000000000107.quest_desc: [
+		"Nem toda força vem do ferro. Em algum lugar deste mundo há quem fale com a magia por outro nome."
+		""
+		"Encontre um &bTomo Esfarrapado&r. Não leia tudo ainda. Só saiba que ele existe."
+	]
+	quest.0A00000000000107.quest_subtitle: "Uma semente de curiosidade"
+	quest.0A00000000000107.title: "Tomo Esfarrapado"
+	quest.0A00000000000108.quest_desc: [
+		"Um nome é um presente caro. Dar um nome a um monstro é entregar a ele parte dos seus Magicules e, em troca, ganhar lealdade."
+		""
+		"Nomeie uma criatura. Ela será o seu primeiro súdito."
+	]
+	quest.0A00000000000108.quest_subtitle: "O primeiro súdito"
+	quest.0A00000000000108.title: "Um nome"
+	quest.0A00000000000109.quest_desc: [
+		"Gente precisa de um lugar. Antes da cidade, o acampamento."
+		""
+		"Fabrique um &bAcampamento de Suprimentos&r e coloque-o em terreno plano. Dentro dele está tudo o que uma colônia precisa para começar, inclusive a Prefeitura."
+	]
+	quest.0A00000000000109.quest_subtitle: "Onde tudo começa"
+	quest.0A00000000000109.title: "Acampamento de Suprimentos"
+	quest.0A0000000000010A.quest_desc: [
+		"Você tem um súdito. Você tem um lugar. O que falta é declarar."
+		""
+		"Pegue a &bPrefeitura&r do acampamento e a coloque no chão. Ao fundar a colônia, dê a ela um nome: é o nome do seu reino que começa aqui."
+		""
+		"&6Porta da Era 0.&r Completar esta missão abre a &lEra I — Pó&r."
+	]
+	quest.0A0000000000010A.quest_subtitle: "Porta da Era 0"
+	quest.0A0000000000010A.title: "O Primeiro Súdito e a Primeira Casa"
+	quest.0A00000000000201.quest_desc: [
+		"Um punhado de gente, um punhado de terra. Chamem de casa."
+		""
+		"A Era I começa aqui. Ela termina atrás de muralhas: Prefeitura nível 3 e uma invasão repelida."
+		""
+		"&7Esta era ainda está sendo escrita. As missões abaixo são as primeiras; outras virão."
+	]
+	quest.0A00000000000201.quest_subtitle: "Era I"
+	quest.0A00000000000201.title: "Pó"
+	quest.0A00000000000202.quest_desc: [
+		"Ninguém constrói um reino sozinho. O primeiro cidadão a contratar é quem constrói todos os outros."
+		""
+		"Coloque a &bCabana do Construtor&r e encomende a construção dela."
+	]
+	quest.0A00000000000202.quest_subtitle: "O primeiro cidadão"
+	quest.0A00000000000202.title: "Cabana do Construtor"
+	task.0A000000000002A1.title: "Entrar na Era I"
+}

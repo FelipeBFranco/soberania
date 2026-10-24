@@ -46,359 +46,359 @@ hash = "99cac6ee4f4d5e3bd163c3c2990b5756611c03411e88f72ef5d189aea9c0b852"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/cataclysm/entity_existence/amethyst_crab.json"
-hash = "fb7c57cb1cd7634668d233ecfb7573ffe638ba18904cd2e287f72a2f287aa9ef"
+hash = "c5423aac9f8aa723a0a34fba6a3aae0082149183d608fa8ff26fd96b2e14e0e3"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/cataclysm/entity_existence/ancient_remnant.json"
-hash = "fe53542e63bbf5960e9e8e243cf16f8f5f5e847d0dd1404c1ee04c48f6ef2816"
+hash = "8aaa48ee5a50807a475c06ac2e69b0d1df3f3ed4879b44560f72cfa3a959c49a"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/cataclysm/entity_existence/aptrgangr.json"
-hash = "a50ea2e5f8ad23bc527b232c335b1110f7443d77f7bf1dacc6649b9d72fcb799"
+hash = "9a5a55b1af3ecd459c3978c58fe0ac5d361a368373cd63a304e8436f11fb7553"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/cataclysm/entity_existence/cindaria.json"
-hash = "c75ad25f4c6a7fdae2a26c0bfc48ba709beb83ef710ee6208816ad081d048ab8"
+hash = "c2e6272dc3821fb1a5344d4586bb009e24b59c0336089d62a4706ff24348ebc4"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/cataclysm/entity_existence/coral_golem.json"
-hash = "56e2b87056bdfbdea81f4c282731a00223747e28c81f11f063453b88ff89cccd"
+hash = "6984801ace7d776db4bb65283897e8984ad5911663d9a41097d59236c0a92a3b"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/cataclysm/entity_existence/coralssus.json"
-hash = "2d11f81f4a66a7debe5627f9e2c54aa7a3fac6c9dff26fb705b46a3487b2d030"
+hash = "d34fdade3433e1fedc55b23548cde4c8f878c5e8967fc5580c9bad4ca505d177"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/cataclysm/entity_existence/deepling.json"
-hash = "dcff13c0c2a478f56b3915e4559c73b65b0ef06c5839d1d2a010bfd636995602"
+hash = "aca5aeff2fd9a24f13bf4b01c76728252faa2c680ae2baf9fc352c1756e2ef56"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/cataclysm/entity_existence/deepling_angler.json"
-hash = "e4fce5c98f27cf564dccdb9bd1e7c1ceacaee84575f2ac9fa51571ffe05a995e"
+hash = "f0453c7b3be9edac287b864c8e296ea5a65d93f62dd37c4a5a5eb3f66aaf46c0"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/cataclysm/entity_existence/deepling_brute.json"
-hash = "2e7837386c50cc87918afaefe4db824f8aecd8ae7434da6f027d260261291b09"
+hash = "9bbc47f1af48db294d829cd7cf9c3ec115cb36f797342dc3413dd665d62ae392"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/cataclysm/entity_existence/deepling_priest.json"
-hash = "8cc3972d996215a138eebe27c721dbcfe5b69300e8eb25400533f07cb506a10d"
+hash = "79dc0f7b7545da6df528b41930e3f5752cfd16ec7f6abe348984f682f7b27e41"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/cataclysm/entity_existence/deepling_warlock.json"
-hash = "5484d788370968bc4e8ab23782f97e9bc08931c1509524c9596377442827cda2"
+hash = "cd0be0cf3cec3d14eed54c601633d9d23ed43aca42a27e6ceeee4271c47888f2"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/cataclysm/entity_existence/draugr.json"
-hash = "097e39cfe7e2abc113f8bf76a82d013d70a0b4d6910115adbd860978e4141c5b"
+hash = "65664968307697baae93c01596fadf3b062edf95cd339fb391831b9b95cf6116"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/cataclysm/entity_existence/drowned_host.json"
-hash = "52939b64b2c16efb05c7ccd53ca6bfa24886fe5ce66fbd7839020df040610b72"
+hash = "b15a8b37b5239d1fbd5d573228a7c844e053ef5499eaddbbecc3fda02e11f331"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/cataclysm/entity_existence/elite_draugr.json"
-hash = "402badef6310d01891a2dbb2990ce9621b0b1ebe58a69aa5bb5884107f693dc2"
+hash = "36242c528bcbd49dfe3e12ecbdff67c7a0acc61f1f2bc18d224594be7dafdf6f"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/cataclysm/entity_existence/ender_golem.json"
-hash = "3276dbd86fe4dc774734d75e027e2e73c5faf40b616cbea6b43b154af72cf441"
+hash = "f6f10a6b0d75ca7300ad2e665d6b5fcce73ff1aad8a5dacc233e0a80020db702"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/cataclysm/entity_existence/ender_guardian.json"
-hash = "9b72350dcbc70e03d461f18c759606f0c297efb1207a82f3e7a6192f9aa12f2b"
+hash = "350b06a77f4d9b4147808af22e71dc5d9c95240afbd5a8cba64fa21f83d9ce4e"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/cataclysm/entity_existence/endermaptera.json"
-hash = "ef9e676f6c47c65c85279ef15dd45bc7a57c82fe9f4adf277406b80c5c87659a"
+hash = "dcc03a90d4899406b7e30ef49dbd6961b7135133372a54b48e511d98046fb395"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/cataclysm/entity_existence/hippocamtus.json"
-hash = "3b44d97a5b68e60378856b1f26082685653b8c3bd2ced213e6cf2c9501d2400a"
+hash = "04a018654f56291fea2534c6e7c70e2b92d7ba72c9f34ee7e1a69708409189f9"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/cataclysm/entity_existence/ignis.json"
-hash = "1747c21bc3293a9f6dd965af255d7ca9e46a44b86e67bca6086a912d3b186581"
+hash = "1c12de76a803f9768567d530a24e2e3c13961de836ebf9ffd844123ed1236aec"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/cataclysm/entity_existence/ignited_berserker.json"
-hash = "b961b91ae76feed1ca536c14a4cf25ff8aeca50f06033903d25f02939b1fae6a"
+hash = "015811dd98b7b8c1364264785116af50c73ef0c6464f9dc34e403a2a3320f5df"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/cataclysm/entity_existence/ignited_revenant.json"
-hash = "33b975e91c035e81724fedbec7326768d522644c57779decd7656386cccf2ca1"
+hash = "5c6cbbb9b8c963416c57455fdcfcc174fdf0da7b6f012b4a85436c3c7b1bf41f"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/cataclysm/entity_existence/kobolediator.json"
-hash = "802d352c6c194b7643ad68bff4f04e8c15ed89716d293bfdf529f675de5b59ab"
+hash = "8477a400f586d16c9200d5099920d4300922d438b5acb185d6fbe273ffffd828"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/cataclysm/entity_existence/koboleton.json"
-hash = "c2cdc5e79ade1c136cc754d378cc585f9127f50d5804f260a69bdf287a45b0c3"
+hash = "9cd8d654cf1efa6ecdd581327f0fac3bd900f591feceb10baf32a4fd5396541c"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/cataclysm/entity_existence/lionfish.json"
-hash = "c790b5b80d3c334e126e2780beced8b818c9d08aa2d812f31e6b055bf0dd9e02"
+hash = "8d8b2c38c6effee4fdeaabdc94ee6196dda5e7cb361224ff8f3294be1279234a"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/cataclysm/entity_existence/maledictus.json"
-hash = "671a35dcdcbcf170d97ee6186a1988d020364e038d2f57977829c25f08e1d309"
+hash = "b5ed37a800c47eeb7bf0699f4aa2290d34a12cdfde16ea0034ba12165a852216"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/cataclysm/entity_existence/nameless_sorcerer.json"
-hash = "665c8bf0b106a66d8a095155f77d1992fbf560fb3411e5f47ed5d4500cabbe62"
+hash = "28082fb8e512d8dd6ea998de82d49a38608988a26b2ba6fca8f1a0ad03f4c20e"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/cataclysm/entity_existence/netherite_ministrosity.json"
-hash = "da17c01ceb07e6dd8b379dd60f1f063800e3b9e796b6e86454325b7cd33dde30"
+hash = "e9f29830e86ff346364055a7e44cbdd03d5d464ea469b7f02d447e0aaf51a392"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/cataclysm/entity_existence/netherite_monstrosity.json"
-hash = "81c8b36beb9f572985c4233a27d9c02921eb3c387ef81fdb0bb1eb7d8d7dfebc"
+hash = "2056598a0983cff2eb1d61f1a547ea8c7587be3a635531fe401d9365def74ee0"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/cataclysm/entity_existence/onyx.json"
-hash = "784fce4f7e5e8706b325ae75994a9a519fbebf79912eb8d4366381158af2f4ff"
+hash = "7a023413ac1e340af2fae658025f16baa35be0718973da1841aafa0e321eb0e0"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/cataclysm/entity_existence/royal_draugr.json"
-hash = "b1c7e442c0619803bbc7ef18a10ac5f699f9ea6db9256a62c4bd4ab2d13d91b2"
+hash = "05991256556179c492e8e04562a8b9213bccf26714b94e6cba1f4c4362aea8cb"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/cataclysm/entity_existence/scylla.json"
-hash = "651591f1789795c1ad3ff7820c6ec1da1b2da5572c5b7b0f48c5efbc3b83a813"
+hash = "82fb9a56561438d21925bb141d283003fb677cd193a107bf5cb24c059443d180"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/cataclysm/entity_existence/storm_serpent.json"
-hash = "b25df616a82836f32e7cded8f227a1f4650fb250f0bcc8fe990e7893b66e1edd"
+hash = "e79533aeadc64d60c48ed8af7369b9adfb54352166c8f4dda77769ac31e35080"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/cataclysm/entity_existence/symbiocto.json"
-hash = "b85ac2d40359c5aac5e030323d43ee692389da307f1d43505c41cf5617722043"
+hash = "43a13e974367f2211fd0328a599725355066d66816472e1d52fc1af19fa4ebaf"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/cataclysm/entity_existence/the_baby_leviathan.json"
-hash = "1ee1c9bc600c144dda890e936a4299be4ae8defafb8c7c5812ddb311876e084e"
+hash = "ca92d9aea51c4bc921c521646d212be6379edcf3c5fddeed9ce011b113e95c04"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/cataclysm/entity_existence/the_harbinger.json"
-hash = "0f9e51c4aa7224c28a04e28cedfb56944fe3c3fa55af6025b0bcf4775d5baae8"
+hash = "42e5618a5058f1c290acfa0687de012c629d2a47759c9ee59dfd22bfa22a3454"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/cataclysm/entity_existence/the_leviathan.json"
-hash = "381a20ac5352e85a194919e40119393268f3e11a883f0a799b6a2957da7946fa"
+hash = "26c2b4df8d5222e2f1286f7a4d1ffcf68ef487117909b8ed3c92b792c9081340"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/cataclysm/entity_existence/the_prowler.json"
-hash = "e66a4f65c707834efab747e9722864162db1b99ab7c3a95b77794cff77ff54bd"
+hash = "5ab740bdc0a3a4f2ef89993ea9fdfdc4ceb2e06dc638f11ea326594143ca399e"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/cataclysm/entity_existence/the_watcher.json"
-hash = "14c1bac120264de754eb208fcafcca9670eb47534dd306f46a58fff428ac4c39"
+hash = "78a51f4876d619dcc80aa4adf678a5178f5265206de8a30b883fa421470016d6"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/cataclysm/entity_existence/urchinkin.json"
-hash = "8ac67b913a9bc3f2d723c7eca908501aab0f1a41ce250ad0b6612cc921c2bdb4"
+hash = "e102a3181dbabe6f00b57e7945d687e9102f53d0cf2e7cc47ec7508cd73e23f8"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/cataclysm/entity_existence/wadjet.json"
-hash = "fb3fb820cee202848059c7902c06400a6c1ecc712f536eafeea14503f46441c8"
+hash = "04467e63fee71cd8e7bbb30d802020717642f7304c16e81ed688e50db34ca1e3"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/amazon.json"
-hash = "05e1fad91ad8ad17e56bfaaf5d02f82fb03928fbb76a8f2edf8a975964733f65"
+hash = "64893774371b1494b18861c9c516950f1a14dd2c5be2459ebf8d0059fec8b998"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/amazonchief.json"
-hash = "8790aa3eb6c5298db909b17e3263843d1a721d0886edd9ede90e586a52873c1c"
+hash = "676cdb0c7100b986953743d6c259cdd367abe7c9aa2e76e255db9f133cee49ae"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/amazonspearman.json"
-hash = "5f031d2dec8ca6603bc599d8334afe56882635af4a97791a1a67145ec129745d"
+hash = "9e78821bdee9368deef07e792be4e3bde5d29d1aa1f82ce4162edb7e0754bd03"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/archerbarbarian.json"
-hash = "7043712f4d433c34ff906213fce2b8f13c2095ee01649b65324ef4e2ca64ea5d"
+hash = "fcb34b633b3eeee80c9cb699250486bb0a5aa298a7101dc1646f9504f5fe8d32"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/archermummy.json"
-hash = "518a2923d7dddbe230735704ffab0fd64867c073154cd8003bfa17e41e603dcb"
+hash = "b95f3e0072668fcf4d74e83b8646b8014d195b193493f3640eba67d173dc16f5"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/archerpirate.json"
-hash = "09f733c54560797b63a6903983a1337dafd95844f7a7ba6e18f981ace165882d"
+hash = "aef58247abbce45b76a1d692a394b9979f74e7a344aa788604861f3993e68c46"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/barbarian.json"
-hash = "dde2e2a845fca2feb89a7482e6b494ff1f5bcb4fdb6dc628519d781e6e802dfe"
+hash = "77dfe24555eab91b3463f91d35eed179a40db44613453edbc4ca1d5591728e35"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/campamazon.json"
-hash = "1133751afa6b82c5f5eb8ac0607d69f7e3eb49932ae9597e1bfd0a4f2e8b6469"
+hash = "9bd43d5c0eea3c6459a2b6795795946714008cd4d027bb7c73e927b8b7efa600"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/campamazonchief.json"
-hash = "70cdac7c43a3d2225f98ef5a8150f85b9383634f2131097144bc910339bc6273"
+hash = "94d351234826d9d25afbf1643378bcba5092892358cb6d0910947ce7f181c376"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/campamazonspearman.json"
-hash = "242dcf88f2a97ba23bd6733ea38a773872efb1a9403dce24e898f8fcc329941a"
+hash = "783aada469dd217ffc1e3ae1e86df5e662ea09f81ecab811a3db16a21c9275ab"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/camparcherbarbarian.json"
-hash = "459bd702acbcd05275b07482be5d51a693ade5e4f103528ccba5d6d8d9ec9225"
+hash = "48e78fa96ce525a86bb0d0c214a189057d2ea4eca9743584f293e1bdcb456ce0"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/camparchermummy.json"
-hash = "b207b409004557b826ba88a955ec7f18f49730a05fa47ec1bd3c8b31ba5e3512"
+hash = "2326d1265dc7174cfedb1c9e5d1f99644b0fe508eba4daa7d2b49d8966a59b12"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/camparcherpirate.json"
-hash = "b9011981a62434b3bcbe5cb73bfd58a4f16acf10d20f6e1e3b8154fdeb1e48c5"
+hash = "c60a7190e56751bbce4d818ebc5d9d7dae61cd00c6fae461cb769576213e2eec"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/campbarbarian.json"
-hash = "0ed284683a3a481802539be3086809f0d73c397ab2bf6c65d0773257cc6f6b41"
+hash = "6aa8b25701740822b0fd65962dd08b8eedfdc6691c19fc9a00ac0da674527fb6"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/campchiefbarbarian.json"
-hash = "743cb60a6b932c9b66035b9333a090ed1bf28d1a80b09d11133e15c13def5109"
+hash = "2436549c1e56dd27e1c6e1066105732b0b09cb3e6a5598a6101392a7f6cade4b"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/campchiefpirate.json"
-hash = "ee919ac2e3f3f7699dd4414dc5854eccaaf5047344de30fcb5f8d3e279090b0b"
+hash = "6dbcfe80d434445a52b87ef759237bd7e7fdbe7ec1dde7cc048ae1663e195014"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/campdrownedarcherpirate.json"
-hash = "5f305a66ad8026575cc37f625bdf22ff399d8cc74b2e9589baebcc354a21ee1c"
+hash = "2c647179d4a0a1ae5caaf6e6982c69a196c0a3479f32137c80f98284f5e1352f"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/campdrownedchiefpirate.json"
-hash = "96ec3df1ad5bf2cf8d08bf5daf07d38d58727029a4a9a5f30a03ee62e6fab153"
+hash = "d83984fcd81ce7e3c5ac4e271645b8ac05f12ce29a934215924112b40afc0add"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/campdrownedpirate.json"
-hash = "6eec3ceec827bb9cc87f30e967bdb08a82b2b52ad9fd27973f1ed1a135858db4"
+hash = "2a4909ef554792b7b813e9e8efd89a4756ee266e2cc8d85e0c72ca7cd5250811"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/campmummy.json"
-hash = "b8d79c418e2b30214c6c5f44421203d0eccc5e02b8c37279fb1b550e0e3e1a76"
+hash = "238e793602f2cbe7cfe779d7be1e43c9ad82984aab12c2bce21975912bfd1638"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/campnorsemenarcher.json"
-hash = "2389c9c3e366db9df7ed104463850ba83979fce3524b58fe96c976fe72d6a891"
+hash = "293c90410efabd82a27c07d7ec3340c2874c5015c64fd433e2cca19d044bdae8"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/campnorsemenchief.json"
-hash = "62944b3925e904187183590a71389c86b48a36038d4d7d691baaf9738c855d6d"
+hash = "17987da547ce941de9903caa3af955c0dc3835844e743a058ab9f8f58bb5567d"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/camppharao.json"
-hash = "672ae794495d14f45643edffe48dbbd3103ca3cade2af3903335a80457973e86"
+hash = "42b85b683f0a376189de9bc3e76e87d1da8efa0afad678991613b50c741dc7c7"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/camppirate.json"
-hash = "5fa779bd1557bf143b91eb065669a4c78a3d2052ddd05fc2f2e639fc151d3d2c"
+hash = "67276f03590d1fff077a51d8e4022654ea3126f6eb5086ad6f9fd38ea4baa830"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/campshieldmaiden.json"
-hash = "b8d16ce06da4d57614ca1ac294ca54c790cc41cdb73a5713fa66a2bcd26eb501"
+hash = "b71966c7d4e64c58ce9d02c20f58ecbe1186ec8455244155d9ca672b1a6fc62d"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/chiefbarbarian.json"
-hash = "d64e60f95c2c89fd4bacf187369d7ef57010976e69152d21b87747e76cbbdd80"
+hash = "fbd1eb0eb0f36e55ee1c78aa2fdff7d463de45224dda429e7f02636b4fd6309e"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/chiefpirate.json"
-hash = "6d53fa8ec49cef8f9ae40c60998b2512205bd62e83d4de0f24919035e6aa6989"
+hash = "8e029d780daaa79052b4f3393e064ee06bd93c7c34136d90a7e5ba32bb541006"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/drownedarcherpirate.json"
-hash = "3a9723eff81fa4ececa1133285360cf558a14e8d06db68095394e4c5aec9b3c6"
+hash = "1ea26fa0829dd1284526c84b5d1834d12d1608431466248e9cbc5a4e0a5e3568"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/drownedchiefpirate.json"
-hash = "01a795dff4b907ceafa314b38281c5c70645a639f6122a19ae6f6e8313eb1400"
+hash = "2429c8719aadecf4061423538166fae035035fa51b94d1f5f175b95187ea87e7"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/drownedpirate.json"
-hash = "77ce907b7f3f94ababcbc1382bda87e23df1fc8b3286eea424dc2fa8fda8fded"
+hash = "a75ca3e03163f938df87dc7187db440c2624bb14e8c824704dd55e4bdecbac8d"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/mummy.json"
-hash = "895489b101632ec8cdfb717de96156d49f51267eb1d9717438b417025e236be6"
+hash = "8b7665c1208cf61aa92b5e6227fc8a1353e1b3310d28f41ccff3f2e05c6510e7"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/norsemenarcher.json"
-hash = "f2cd203ce2ececf8d6bd6ab266a866fe77d0c6969b6fb06918b1a45a3d0e0998"
+hash = "79bebc7cada9d65deda2c6d263675a82103b91ca8a0badc0824ae73abd196da3"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/norsemenchief.json"
-hash = "f1248e37296549a86d8f0f90df9fc3ea4d35ee7d5cf1bd5814feea332bf37ebb"
+hash = "0cb345e01e10b18d12f8c5532023f847d58961f68d3748f75f912e7faaff9f1e"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/pharao.json"
-hash = "cbf06236074003b9eb80f5112597722c3f5117dfea266cb061c7cf7e6c9ca6d4"
+hash = "9080d082e7862b7d37097d0d365a05389ecd045fb42642a96474978ce707a05c"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/pirate.json"
-hash = "5de486e243d450731d8d32d55b85eb0f8924819c1991e0d7c95e49ef0092fa88"
+hash = "6e090abb01575ab9247eb5b344413896c47e2d6f6bde657fa4f9781837b62613"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/shieldmaiden.json"
-hash = "4e6ca65ef33663e107c72b60fc6e8c603e08809846a62f306353370060098731"
+hash = "fa6c5f3f937917fe9e6ee9b0eae135e929140094fe6e14d0cc50ce3032170fd7"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/mowziesmobs/entity_existence/bluff.json"
-hash = "e9e920217097e20bbed2116666d150703e52eaee6d8bf27ca029eb424e5c84f6"
+hash = "39a2c488da374405ade79e6405cb5c0d54904792573c51b1c7c85215d476865c"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/mowziesmobs/entity_existence/ferrous_wroughtnaut.json"
-hash = "746fffee56181af6836cd7c197ddc35e8c02cfb302fc34ee12b3d2689219f541"
+hash = "d038dd65844529783adad5e0f791606d5e3dfe9a7ee4f7f699e3ff3b9a23dc4a"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/mowziesmobs/entity_existence/foliaath.json"
-hash = "7e1533ff67b68dae044ec2532d5b6d10d45f05ed7398b887b40e3a484c31b35a"
+hash = "5baa30bce6b9d068f75fe591ad748b6b4f49325cf513f40febdc8b5698c3121d"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/mowziesmobs/entity_existence/frostmaw.json"
-hash = "9f8ff9d719467183f9717325b7d52129723ab583c688d28ad0b0baab20f0fb9d"
+hash = "799912c94097c4926539ba05e3661e1b9cf17facb74b31354a4aaa81a85123a1"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/mowziesmobs/entity_existence/grottol.json"
-hash = "1e3a9a041036b2371687c490269928d36444e9c48d2cd6466c5ddb6576c18078"
+hash = "9e27c3257761d4aa06d6bbaa22767753e24619946c60aa8255fe8a945635a1ba"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/mowziesmobs/entity_existence/lantern.json"
-hash = "e564d81004124a6cf85249fbad195e40f42a60b5aaa3c41d18d0178781400e2c"
+hash = "046a045ef14b20df64f1f9df5401e6e22939ed04e90dfff5ddbdd3c2786ed89c"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/mowziesmobs/entity_existence/naga.json"
-hash = "5bf2c026d4d3ab9656fb2fdcac0925640886573d0b9874e264e2cb2bb7e7a04b"
+hash = "49726e3f67eb69f6ad5d4db9fdb8e03d52b0ef3f76818b4aca5f7eafaeb77564"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/mowziesmobs/entity_existence/sculptor.json"
-hash = "b48a5bd82cf780eeafdae53f0756c6074cfc53f568748fbd2bd261d681b6d2ed"
+hash = "f991c50b6447350471e603fe38bd9eed72227a375902125d3f4dbee49906b3d1"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/mowziesmobs/entity_existence/umvuthana.json"
-hash = "396507453812d6a3112ce2db92e2bb685865e489fcab8e630d191ded405f315b"
+hash = "867ad3cad45939f8ccc1882eac2afc0c5a4e86358f61a06c34873ee498b06fd4"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/mowziesmobs/entity_existence/umvuthana_crane.json"
-hash = "69740f1f99f4ffe66c767895d9ac57020360a19ad3b23d965045ad8477b36239"
+hash = "9a8c59d6caefbc59e6b6e2275fd3f1a703e6a8f320ab6545573738f03a66ea05"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/mowziesmobs/entity_existence/umvuthana_raptor.json"
-hash = "eb8fb6dbf81b5391e93b6b8b4fb544184b2cd4a86d786401b9070980ec60855c"
+hash = "d8003c697ce51dbd07b2d3129cc0430eeaa7f85682c6c44826c964ff7330c26a"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/mowziesmobs/entity_existence/umvuthi.json"
-hash = "ee69055418f4fea81c45ca95a7eea3e91e5dcfdd44f07f3c6593dbc049e4b570"
+hash = "fded6c4c0744f205a40e8e6d50856a779b995e02fe83086e108db2509f64ff8e"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/mowziesmobs/tags/worldgen/biome/is_magical.json"
-hash = "a47a51f882e683138be5694f8fdead2cde19a4b5bb423a755be2a6f4d6c40656"
+hash = "1bae13417b6cdc237d7beb17c71a985676f811d12dc42f569b3b669ab02617fd"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/soberania/advancement/era1/invasor.json"
@@ -426,359 +426,359 @@ hash = "149f915a0ebb5b9e02788d947d54c0a29e7dab638e830741db11d97b7157de0b"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/tensura/tags/worldgen/biome/aqua_frog_spawn.json"
-hash = "4e422dbe19680799af7620bfccd3ad05e0333cd18fef186cb7bac31ae5693cb6"
+hash = "c1d195e10f08ac3c2c222aa51d0e539316462aba67dde50c6e21e3f64d7f4def"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/tensura/tags/worldgen/biome/armorsaurus_spawn.json"
-hash = "22bbbe53e60eace55348536cbec440603662783d74f5324414719447b098b1dc"
+hash = "c96f4760de7df8a9867fab62e86cc574c7d18de25233f4132b248dff9cd4aaf2"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/tensura/tags/worldgen/biome/army_wasp_spawn.json"
-hash = "5c83444d5701085010a2d7b2a9f87339081584f61e5d86328c792a83e809f361"
+hash = "5062edbd1719bbf466284b082d44e9617e0f43f93172aef01184548d1bbc7055"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/tensura/tags/worldgen/biome/barghest_spawn.json"
-hash = "065b2a76a573ff45bb84e3eec50b00820bca722fd0ca6ffae6e2e99a5453b9f3"
+hash = "db931b7225074160b854154d925f4d2338ebfc900e363bf5f573c06ed3bdc9e2"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/tensura/tags/worldgen/biome/basilisk_spawn.json"
-hash = "eded6b47ebc1b849f873566f719d92e9e2671a2fdb85b2bc0df0bfbf5f4db5b4"
+hash = "c96f8858339ebaf4206fba046361303b24d1645c9161fca3fed3829a92a25dc5"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/tensura/tags/worldgen/biome/beast_gnome_spawn.json"
-hash = "22bbbe53e60eace55348536cbec440603662783d74f5324414719447b098b1dc"
+hash = "c96f4760de7df8a9867fab62e86cc574c7d18de25233f4132b248dff9cd4aaf2"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/tensura/tags/worldgen/biome/blade_tiger_spawn.json"
-hash = "7eca57d6da2ae9da0ba1ebfe242034858139d0f8c82f132b4406563e74e8510c"
+hash = "2a9f617837732e786e05cc76b4964449b1e53d74e206e904ba62713889f4222e"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/tensura/tags/worldgen/biome/cattledeer_spawn.json"
-hash = "217200cb9d444cdfe2cca7170fc3451de780e7163f14188797abb2587b13186a"
+hash = "6dce4464e14f33b5574737f9a4ff527d06d923e944535290fa6432203490ba3b"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/tensura/tags/worldgen/biome/direwolf_spawn.json"
-hash = "cc672fd8822048b3ff53e7a5a2fbeb2eec45e6c7b387830259ee7f3f494fae57"
+hash = "adc0780a967da82b765fd4e29c7855c8fd5ea30c1830bea462706eefdbd545bd"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/tensura/tags/worldgen/biome/dragon_peacock_spawn.json"
-hash = "54d7507fe3089be88c72a311af9e67daa73162b22a316cb00f2e1903043dc3a0"
+hash = "9d866dc4412a559227d7200c842b33b76730898b028a95c4d09f00ede3a57c24"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/tensura/tags/worldgen/biome/evil_centipede_spawn.json"
-hash = "a9d618ab7f50ddf32343763d77adab03f93808c4e07e47f3089f461d616e69d6"
+hash = "6e937dc78411dca615540d0e6657ea794f7bca4af8681fda268cca58a72c1c1f"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/tensura/tags/worldgen/biome/feathered_serpent_spawn.json"
-hash = "b26c242e2211061d12a810154b4fd1614f8389bc778324ffb247f50e78239464"
+hash = "87743582c24055ee23aec3204cf7ee7c8a349e904e0ca16e9f007617ffae34c2"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/tensura/tags/worldgen/biome/giant_ant_spawn.json"
-hash = "839e1abbc764914df954c1d758724893f6d009d9b299b783354705f1768875aa"
+hash = "3dde4803bda3a24965ac2b81de7090c6223bd4a63b03b05676a20728adee54f9"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/tensura/tags/worldgen/biome/giant_bat_spawn.json"
-hash = "8df50ec9047edba156e2a55737bf0abf491d166c224c24e56cda2d9abf13d74b"
+hash = "10d106924faeae3c2b613e3feb9c745a0630bec50334f48372c2cbb13215ada8"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/tensura/tags/worldgen/biome/giant_bear_spawn.json"
-hash = "9ab407c12774ff2bd37c7c339ca26143e86bc834c4a35b69f0ce53e701b4b113"
+hash = "765857c07f49a5c9e38e2d0513936b48c09836013bcd537e875a0cb56cbcae3f"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/tensura/tags/worldgen/biome/giant_cod_spawn.json"
-hash = "52cae4379334147ead69366d270f3c85b6708f17a45c71042583da8250cf58b6"
+hash = "fcf3c6f178735bbfe4fbbdb290ff8af8c491b7933b5ca4cf6c64dd30d5e3af42"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/tensura/tags/worldgen/biome/giant_salmon_spawn.json"
-hash = "52cae4379334147ead69366d270f3c85b6708f17a45c71042583da8250cf58b6"
+hash = "fcf3c6f178735bbfe4fbbdb290ff8af8c491b7933b5ca4cf6c64dd30d5e3af42"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/tensura/tags/worldgen/biome/hell_caterpillar_spawn.json"
-hash = "5c83444d5701085010a2d7b2a9f87339081584f61e5d86328c792a83e809f361"
+hash = "5062edbd1719bbf466284b082d44e9617e0f43f93172aef01184548d1bbc7055"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/tensura/tags/worldgen/biome/hell_moth_spawn.json"
-hash = "5c83444d5701085010a2d7b2a9f87339081584f61e5d86328c792a83e809f361"
+hash = "5062edbd1719bbf466284b082d44e9617e0f43f93172aef01184548d1bbc7055"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/tensura/tags/worldgen/biome/horned_bear_spawn.json"
-hash = "df3d7ec6ff9ba9be42970d13a5f98484115a832a00cbab27baca8362d4f5ed74"
+hash = "52cbaec29ac0fef112ba26e674b3143eb9b552ea118949f2895a735071169cef"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/tensura/tags/worldgen/biome/horned_rabbit_spawn.json"
-hash = "df3d7ec6ff9ba9be42970d13a5f98484115a832a00cbab27baca8362d4f5ed74"
+hash = "52cbaec29ac0fef112ba26e674b3143eb9b552ea118949f2895a735071169cef"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/tensura/tags/worldgen/biome/hound_dog_spawn.json"
-hash = "36c999a6b54a9049e39a2779b50c4e918dcc10c20a95f2ccd3e40ec23b0a77a9"
+hash = "c3ac67d2a98f124e5221efe24dff2a7cf99f5af963654c136a42dbbc7b574e71"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/tensura/tags/worldgen/biome/knight_spider_spawn.json"
-hash = "ab0eaca2ac49e5cd5be17b7fd8d23b2c935806b7f2ca345d629d838933a52552"
+hash = "8960baf32acac20ff98f6335921e9b9ad315621d551c58e4eb3e31c8417c5444"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/tensura/tags/worldgen/biome/landfish_spawn.json"
-hash = "ac7e7d076fb7890f58c49e8eea980a19333668d1c62fca355868d3e29735b4a1"
+hash = "c37a65d6cea17751a5413994477841722775d177f87b4cfb578f5b3896311515"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/tensura/tags/worldgen/biome/leech_lizard_spawn.json"
-hash = "e431965d42e99c262eba189671ae8df1c296fb704789477c1395d9cab5abd445"
+hash = "06353345cdf3c8d2edd40de9a0eaebed1156cfc756ebe8d89be006b51e3661e4"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/tensura/tags/worldgen/biome/one_eyed_owl_spawn.json"
-hash = "7eca57d6da2ae9da0ba1ebfe242034858139d0f8c82f132b4406563e74e8510c"
+hash = "2a9f617837732e786e05cc76b4964449b1e53d74e206e904ba62713889f4222e"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/tensura/tags/worldgen/biome/orc_spawn.json"
-hash = "ab0eaca2ac49e5cd5be17b7fd8d23b2c935806b7f2ca345d629d838933a52552"
+hash = "8960baf32acac20ff98f6335921e9b9ad315621d551c58e4eb3e31c8417c5444"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/tensura/tags/worldgen/biome/otherworlder_spawn.json"
-hash = "3d779d937bc93494628055192ae6fe3a51d8144e1cca53d6f50fbbe058c63ef7"
+hash = "36651cc502668b8e93d68dbeec665c17d9a54b59a36c4cbc69e6674d0cfcd9af"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/tensura/tags/worldgen/biome/pegasus_spawn.json"
-hash = "b26c242e2211061d12a810154b4fd1614f8389bc778324ffb247f50e78239464"
+hash = "87743582c24055ee23aec3204cf7ee7c8a349e904e0ca16e9f007617ffae34c2"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/tensura/tags/worldgen/biome/phantaspore_spawn.json"
-hash = "3937052c1f117c634a2488a39217951ce52a0bf25f3381311207dc9b111afea7"
+hash = "1a2cb63b9b7e5d0a46643573abc7c61433a00519440923123cfefa03f447ac64"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/tensura/tags/worldgen/biome/salamander_spawn.json"
-hash = "8a7419e64dbb85240318d60d4a4c4649ceb60de1c356ddeec279c595cee50954"
+hash = "a0b6de6ba6ef0f50aa7de28d888e3132417c2d1802952ac1a44093d5832779dd"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/tensura/tags/worldgen/biome/sissie_spawn.json"
-hash = "067563a6d56e72bbb03473d985c2e2da05b1f27dbfaa5ed094bebd9de5ab3544"
+hash = "88d9b9920540c6da7a2a87b4823657d3bc7c2bfc0a3324d5d8e4ae163c37f358"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/tensura/tags/worldgen/biome/slime_spawn.json"
-hash = "c588c1cab8bf3e97ff66918b528d9229a24b56b7c2e6ee354c21fad97029327c"
+hash = "3ae4f55c4d13ad1b3f7910ea90439a6bf9e324253cb970d2e684736284bd13c9"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/tensura/tags/worldgen/biome/spear_toro_spawn.json"
-hash = "d9ed3ddeb216be022fde399c9f9041b04c9fb545b8481e13f327f844f8513da1"
+hash = "7f191ef56ce1c152f88e5eda5b04e8c0459d84a194ef83556ada34c52feded8d"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/tensura/tags/worldgen/biome/unicorn_spawn.json"
-hash = "88d7fde8499932923b6cd757b6ee0e49e215a130ce476edaccbc0536e891d6fc"
+hash = "08cfcdc2c1f7fdcd5254fd9bccc071e7c51303e4a1e5a5ba77869a02125eb22a"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/tensura/tags/worldgen/biome/winged_cat_spawn.json"
-hash = "6c1d03f526012db8b4992ce2059195847f6bf75f65b436ac867be8c313b1b535"
+hash = "9d9a2142a193526be91ea0bd0f5317fd48dd56600f1a7bde1cce441328e54e14"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/adherent.json"
-hash = "1111072cd3dee8a797a32ba79bf4ba2a853820314c3e4d456fdb41082e25a826"
+hash = "dbbe44ef8ebfd26d0bab10b28f0a1c45823d5fab0e10d99942950209b8fb0fa5"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/alpha_yeti.json"
-hash = "a5d5690c05f36abfb05fab6df31572e7d27870e82835cf566cfe1686aba4ca89"
+hash = "571d8041e73162f4e8a2dca730413d0e333951f6decd8159d5ecfdc71913ceb9"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/armored_giant.json"
-hash = "b80d6a500e6d3d085f235c6c59c03b03ed8ef3c5720d8830e042360bc8f05955"
+hash = "e135ccfda5e89ae7200e6dea44e8bb2d7b79404e15853eac15fd6d7998029a94"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/bighorn_sheep.json"
-hash = "b941040914ea1ee0aa7a120e0cce658763486aaf401f942005ee34267cd975a2"
+hash = "8d06427cfe41ecad11f0c99b82dd45e767d8367db4ad67c2be66a65d7874c436"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/blockchain_goblin.json"
-hash = "1aa9d64db759b9a6f6e02c05c5005c5b444cda7bcdc409d72c080456f36cb1ea"
+hash = "80e31e6f5111314aa32601b582b0ba1ede5d846dd087d2797c2828450ce8358f"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/boar.json"
-hash = "b28203d6f6978a8b932652dcf305d14ce916e717c2473ae69abec912a899206a"
+hash = "a25a7be6d3b63d06c27339f9fdf0e69cd774187bb32da2ba51e162833d7ea626"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/carminite_broodling.json"
-hash = "65f600c5e1b506e64c2c9143b8ea2891a7f38ac4356f301a25241fbd321b1d01"
+hash = "472f937d6a89392927f0daf8a16287dce2b97fa16feaeca41cad8cbe50b7e4b8"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/carminite_ghastguard.json"
-hash = "0c8925dd6c1a695b3a6f026e39f0323e7f8718e619cda11bc6d6bab58e674422"
+hash = "19bc325a8c4be347d8faa9081a1ef34e8d20dd089146f49e39a21f5fc42c00a0"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/carminite_ghastling.json"
-hash = "be6c3830213cbd2dbee43f34503a12a4ca67af5d337209b5e0d0c883041916cb"
+hash = "47f7cca0c6d456cce3351615f4087d97b0f689718b8c8e1004f64f762d92bc4b"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/carminite_golem.json"
-hash = "2388c2ecad708509a364fcfb893afe5bba05b9819e9968cf6f109976c2800beb"
+hash = "23e28f2a7e8368e8c4d8b926be8caef32df28a5c1d5b182da5ac899d797cf440"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/death_tome.json"
-hash = "6db4ffcff35d6f79f669474f662b6a38669f448c51c3bc0fc72f33da8ae1865b"
+hash = "a9234e6077eec9e8dc6e9aa6fec9ec3b43eefb8010c7cbe445611025e4433750"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/deer.json"
-hash = "8fcaaf050644ee3aa67944b5f731ee6e030c606d509a94e1f4e625697c92a2d4"
+hash = "4b9f203ff826f4fb04441f4d6cf47c669b752857a0c5a4c3ee479a497f307040"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/dwarf_rabbit.json"
-hash = "ccaa1baf9e970baf6ea9997d295764b17c7f3090ac5cba156d1580020bd509d2"
+hash = "cf902f99b6568d773b0ed7513ced9dd89bcb9db54bae16f06de4cc317ffa49d2"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/fire_beetle.json"
-hash = "745eaa7d732b7b7ffd87513f6d8a48f914c75d6fa3b4a048e431c981e465410b"
+hash = "20c8653913f414f17e8eda43001682ca4243ee0fc695df88715e48776b36e19b"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/giant_miner.json"
-hash = "5f8e2fc40dbd0e79060dd5d49815825ca255c14241e0807045b330bdfa155772"
+hash = "bcbdf462c889688f5aa52580e9450166bee3b63ffa68fe3cfde57f67537e405d"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/harbinger_cube.json"
-hash = "778ddc7b89305b1298605a1dc3f2a452f7a71eb4531da319f3a116e5ece76250"
+hash = "09d57c3f76f50bafb2ac43418682d82abb78263d3aaf5aab5c07ad825364baa5"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/hedge_spider.json"
-hash = "0e895a9f58814bd1c8cfed32a1caf274052e283b7f08b841d754e67499ae75df"
+hash = "94b3ce0f89e7391f706625f64bb5ca174218a1cb853593b3ade10fc4e2710fe3"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/helmet_crab.json"
-hash = "059f662906c89989d3738c509e1f67d2dfbbf99b89458f7b7ca5fe0bd6949d41"
+hash = "91ccd2b7275a02773c2ed1a2c2efc4827192b13426d41f1ebfec8d8d73f8e753"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/hostile_wolf.json"
-hash = "ffc6dbd2782487db1049a5c21299070cc5cdf267d95349ce8ad617c459b0b0d7"
+hash = "32e504e509fd951b3e02a6b9e8adaaa6da8766135f864dfb6980291ad9d69070"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/hydra.json"
-hash = "90f58a5a977a9194bb280b79d7c92430c4a674b169a77a678defbec6578df9cc"
+hash = "211cadb1f71493e3759c46db01d78c482182f3755e4c6aec95e50528c01f6890"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/ice_crystal.json"
-hash = "e694ce145b330ba10761a090ce16e15bb456c1a9f2bb33d6718a09314f77ef11"
+hash = "0acb9a57e08d920283e3c77f094001e68ab945cbc85fe022421baa79608b9ca3"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/king_spider.json"
-hash = "ab1756d4b6e7ed4433d1d64306baddfc37838ead165c5dc4cf0814446dc838fa"
+hash = "595b9d1d15e80529e0620a524ca6b10a77ad6cc689aacf94e0caa34865a8b206"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/knight_phantom.json"
-hash = "21ecca5051260bf444ee2f9ec890a8015c1984b9f46bf3f1e0e5c4016f4f9f8f"
+hash = "e7372dc14b8b5a33fc0d314c8fd04e06d285a069792730379079574a20ac8f5a"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/kobold.json"
-hash = "28805534fe0c5f5beee916bd5c306f510c7c67fb5d90c46a4007f9db7219b1f0"
+hash = "3f8a72a91cf574cc4763a13a751b2b947c406cbdd50da75bb2664b78a20f972d"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/lich.json"
-hash = "dccf481958336b55ad203b1bc268d114ec815412508e1e0eaacea0ae0a198ac8"
+hash = "10d0f7ffef6ac2b9f2c7cacc82c11d61910678747728bac690f889224189cc7f"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/lich_minion.json"
-hash = "e88a80621f9db12d7857535bae527393aa4d71a9c7e190a057df3e87f9ab2df9"
+hash = "70705a531484ec2aa5dd71236ba05e86567026a9fff039b9724efea5d1c4b7fc"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/lower_goblin_knight.json"
-hash = "08a9752792b04ff60135cc6a19731ba6d9789e2714420573ce5409f5020684b2"
+hash = "6e53393c396df7f0eae6af44e9e23d78e45df1b8c3c08e597153795f82e49637"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/loyal_zombie.json"
-hash = "ca7c229a967ade408dacd51d14643ccdf3e97f25dca7a88197fcf593b1a7e7a4"
+hash = "4a379fc92f6f5416664a2e3eaac98d72e5468350bacd3648a2fd955db2d2f421"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/maze_slime.json"
-hash = "625389c3f3186fc34946d4d7fd4c9bef07c70344a8b68f2a2e0c61c51d685c54"
+hash = "37d04c090f1774cd67d7bd62b003eb0b56cf25f2cf40e272a41a4dc1a634f26f"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/minoshroom.json"
-hash = "111091dec1426d26617e4dc7d0dbf092d31cc3d8118b8e1a54410aec0883cc1e"
+hash = "bca3ae5d68d202b676176db0a139e0799e97d6699227bc0f3f3603da43ceab0c"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/minotaur.json"
-hash = "0820f8f7be967c62408fdfad1226879ad523eb9271fd6527dd845978d94da849"
+hash = "48b18429bb4f1e725537030dec63df19abd55be84b67076bfaee46412ae80b44"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/mist_wolf.json"
-hash = "cbbab8bbb060e541c64eddd14657a02217c5eba31db523831c4268499fab5d81"
+hash = "417a0845010c73b37bd8baa216fe4588f5da2203c9f4220ab5b47936a749f636"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/mosquito_swarm.json"
-hash = "454354204a9d56b4a126c0d99eb89c1705480a028b8dc6f9790b5f7ac3ebae10"
+hash = "924c9d961d0dd977b92292296bf707c90bf3dcb542de99f191da2860f4377996"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/naga.json"
-hash = "86013ae0d7e33c9231e0af7287d337eaae92b6a99310a4bf9315bd64b86f68b1"
+hash = "6ec34785422d5643d4cc2a4ed3fa549387a289ee3b8f9bf8698e488ca5ec1192"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/penguin.json"
-hash = "67b381ad7d67fef2990c14b4c940c38329d24ebbfadca02ac727dd6f0f7f61f5"
+hash = "fb5b6929109b9108f8c3a897ab48f75b570dbfb901e8bc8b1d4ddc4ad63e878b"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/pinch_beetle.json"
-hash = "de7068b8f970c2453b9e29821ba85d6afc8a1e0ce22b2a15a4db854044d0efa6"
+hash = "bf6a87e9974e615e58d37be6c4730ff99ba50100e220fdfa780661e67bc963ea"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/quest_ram.json"
-hash = "7431efb95ca77dcf315d60d108f0fc0e34a88ef1d5a90fda6180f5045648931f"
+hash = "c57c869cbeb7421e48da43f6b75143b2e717e7c61c149d4a23942c476f376f6c"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/raven.json"
-hash = "8fbce201da5f8f2adf00f6584eedf623a7f3f4ec5e4b14f00bf9ac3b7fc055b1"
+hash = "35b7b433aafb5b9a2789a4271a7ca508e045cf86f83c25f77eb7af4c3ed334e8"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/redcap.json"
-hash = "1029ba4475aaa4bac79dc7cd9bccd1964ad4c34cb72366fd6d1df4baff8c5782"
+hash = "b18d558d1566edb99937348a0cce513f068512b601c101e050ad509af4a6e0dc"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/redcap_sapper.json"
-hash = "63bfb3cbab1f33400df8381414eeeb1c034262043353e263b98a1b5e42148326"
+hash = "e5cd3cbfb45757fd5d395153056e1ce591dd4f09b2f3ab95ee117d40b03f34f6"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/skeleton_druid.json"
-hash = "8b567a52f6a47ce5b7a9c58150b12f034395f1a16440476d14db0ebc3670e750"
+hash = "f5f94c74a80ebbc1986f413eb29b41eee682b3adcf9a1766b0e38e029c186a1b"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/slime_beetle.json"
-hash = "afeb680ca293110ee31f957efb5b0b54c0d5dadf69e0d62a0dc0187afb98c31c"
+hash = "8b7bee5d570e2d9ed734affef455ed35aa165ef724d024a8f4153984e5780b04"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/snow_guardian.json"
-hash = "b97ad29f08000fcf8b4e84dbcefd3defc7f7050fd1dc2fc9f17cc13ba2bc4537"
+hash = "cad50b444e0918be53db40816e083302a12b4d6bc7ee66b257d4a8288111f2e1"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/snow_queen.json"
-hash = "42b384c83bd55e7528101fc5bcab5355d6fcffb7a71af1cc2ce04653e9dfd4cc"
+hash = "6d3c1c11184b2bf5868497e31e08de2484c936095bfdf5383fabff9f928bade4"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/squirrel.json"
-hash = "9de0949e4ec001245e5852a2aa85da595a85819a662d3eb8337b19be7b9aae71"
+hash = "ecf8c3ee662a2179b8cf8b04acf389a54d453e089662ac13ce07afdae932156b"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/stable_ice_core.json"
-hash = "87980350e74b9946092e63aedbcfa91c87ef6c0b100916e5dc07fe384482054a"
+hash = "d61148e1833abf2d0ff2db779963c2817b847f6a7982b7bb67ade75fb3e25823"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/troll.json"
-hash = "b69a326b19c53b55327296d7f752dd39ee6cc19aa9f9fed5e3b34f51dbe222e4"
+hash = "9c0caf1a1feded273ed769f761bb7a0750cd4b27d7c76cb8971a88c0b9fbd9ef"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/unstable_ice_core.json"
-hash = "04d8b342f88993a351ab683e9327edf08dabe4c8c7c61b58cd33d2c2003f6e09"
+hash = "40408106410feb573a3b5ff93a2080edd58626896c0d7a130d3f2aabba2474ca"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/upper_goblin_knight.json"
-hash = "b1a67bbaa01b3e0b74061a2d0f9ea5f00e74b5006baf8f7d3e19e43a5dd1264a"
+hash = "ebdc5c2f5d8d1b08980a3b4346c534c3e0d3daa3071181a5f970c9733dd9bab1"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/ur_ghast.json"
-hash = "b05e9c95ca394464c7fdc3033c90cfe910072f826dce998a6d8b37cd49b963fa"
+hash = "7ed5b545a60b8a2af94ee827f454caf3803f8e3a3a1bb0c1099cbbd8bbd0224b"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/winter_wolf.json"
-hash = "f74b3cdd4baeb41bcc302d2f31b23cf43c1b4476f5c30189e84276451e74106d"
+hash = "15708fba489a359a5dd583eda8d7075da947154ce09bbd0e4ec04b6e8a77ce98"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/wraith.json"
-hash = "f93bdf4faaea470bedd439fc50f3c42b4799432dd87d30b4cc5ec1e65bb7045b"
+hash = "8521d88957386ed8fd3a7102c3b40789bf2c43c44f22061ff97d3b8a9c1e3e4d"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/data/twilightforest/entity_existence/yeti.json"
-hash = "7d15738c8566f82500618846cb3758212def5f02a1c1b73687f7555ec11cd1fa"
+hash = "e2542a4c46d9d65acc3495881204202840c459632603a3ccfc397d27aec0cadf"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/pack.mcmeta"

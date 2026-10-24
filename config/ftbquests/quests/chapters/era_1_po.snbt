@@ -15,48 +15,619 @@
 			description: [
 				"Um punhado de gente, um punhado de terra. Chamem de casa."
 				""
-				"A Era I começa aqui. Ela termina atrás de muralhas: Prefeitura nível 3 e uma invasão repelida."
+				"A Era I é a era da colônia que vira vila. Aqui você para de fazer tudo sozinho: contrata quem corta lenha, quem planta, quem constrói e quem vigia. Você deixa de ser sobrevivente e vira prefeito, com toda a papelada que isso implica."
 				""
-				"&7Esta era ainda está sendo escrita. As missões abaixo são as primeiras; outras virão."
+				"A Era I termina atrás de &6muralhas&r: Prefeitura no nível 3 e o primeiro invasor derrubado. Até lá, dez cidadãos, cinco mil pontos de existência e uma torre de guarda."
 			]
 			icon: {
 				id: "minecolonies:blockhutbuilder"
 			}
-			id: "0A00000000000201"
+			id: "0B00000000000101"
+			rewards: [
+				{ id: "0B00000000000401", type: "xp_levels", xp_levels: 25 }
+				{ exclude_from_claim_all: true, id: "0B00000000000501", table_id: 720575940379279601L, type: "random" }
+			]
 			shape: "gear"
 			size: 1.5d
-			subtitle: "Era I"
-			tasks: [{
-				id: "0A000000000002A1"
-				title: "Entrar na Era I"
-				type: "checkmark"
-			}]
-			title: "Pó"
+			subtitle: "A colônia vira vila"
+			tasks: [{ id: "0B00000000000201", title: "Entrar na Era I", type: "checkmark" }]
+			title: "【História】 Pó"
 			x: 0.0d
 			y: 0.0d
 		}
 		{
-			dependencies: ["0A00000000000201"]
+			dependencies: ["0B00000000000101"]
 			description: [
-				"Ninguém constrói um reino sozinho. O primeiro cidadão a contratar é quem constrói todos os outros."
+				"Ninguém constrói um reino sozinho. O primeiro cidadão a contratar é o que constrói todos os outros: o &bConstrutor&r."
 				""
-				"Coloque a &bCabana do Construtor&r e encomende a construção dela."
+				"Coloque a &bCabana do Construtor&r com a Ferramenta de Construção, abra o bloco e encomende a construção. Ele vai pedir material; dê. Termine a cabana no nível 1."
+				""
+				"&7Dica: o Construtor pede tudo pela Prancheta. Um baú perto da obra, cheio de tábuas e pedra, poupa metade das viagens."
 			]
-			id: "0A00000000000202"
-			rewards: [{
-				id: "0A00000000000282"
-				item: { count: 1, id: "minecraft:iron_axe" }
-				type: "item"
-			}]
-			subtitle: "O primeiro cidadão"
+			id: "0B00000000000102"
+			rewards: [
+				{ id: "0B00000000000402", item: { count: 32, id: "minecraft:oak_log" }, type: "item" }
+				{ id: "0B00000000000502", type: "xp_levels", xp_levels: 25 }
+			]
+			subtitle: "Quem constrói o resto"
 			tasks: [{
-				id: "0A000000000002A2"
-				item: { count: 1, id: "minecolonies:blockhutbuilder" }
+				advancement: "minecolonies:minecolonies/build_builder"
+				criterion: ""
+				id: "0B00000000000202"
+				type: "advancement"
+			}]
+			title: "【História】 Cabana do Construtor"
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0B00000000000102"]
+			description: [
+				"Gente só vem morar onde tem onde dormir e onde beber. A &bTaverna&r é as duas coisas: casa para os primeiros cidadãos e o lugar onde visitantes aparecem pedindo emprego."
+				""
+				"Construa a Taverna. Visitantes que chegarem podem ser contratados pagando o que pedem, e alguns têm habilidades raras."
+				""
+				"&7Dica: os visitantes pedem itens diferentes para ficar. Às vezes é um pão; às vezes é um diamante. Escolha bem quem vale o preço."
+			]
+			id: "0B00000000000103"
+			rewards: [
+				{ id: "0B00000000000403", item: { count: 16, id: "minecraft:cooked_beef" }, type: "item" }
+				{ id: "0B00000000000503", type: "xp_levels", xp_levels: 25 }
+				{ exclude_from_claim_all: true, id: "0B00000000000603", table_id: 720575940379279601L, type: "random" }
+			]
+			subtitle: "Onde tem cerveja, tem gente"
+			tasks: [{
+				advancement: "minecolonies:minecolonies/build_tavern"
+				criterion: ""
+				id: "0B00000000000203"
+				type: "advancement"
+			}]
+			title: "【História】 Taverna"
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0B00000000000103"]
+			description: [
+				"Cinco pessoas. Pode parecer pouco, mas cinco pessoas já brigam por comida, reclamam do barulho e pedem aumento."
+				""
+				"Chegue a &e5 cidadãos&r na colônia."
+				""
+				"&7Dica: cada cidadão precisa de uma cama. A Prefeitura e a Taverna têm algumas; casas de cidadão têm mais."
+			]
+			id: "0B00000000000104"
+			rewards: [
+				{ id: "0B00000000000404", item: { count: 1, id: "minecolonies:blockhutcitizen" }, type: "item" }
+				{ id: "0B00000000000504", type: "xp_levels", xp_levels: 50 }
+			]
+			subtitle: "Já brigam por comida"
+			tasks: [{
+				advancement: "minecolonies:minecolonies/colony_population_5"
+				criterion: ""
+				id: "0B00000000000204"
+				type: "advancement"
+			}]
+			title: "【História】 Cinco almas"
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0B00000000000104"]
+			description: [
+				"Dez cidadãos. Agora é uma vila de verdade: tem gente que você nem lembra o nome, e tudo bem, porque eles lembram o seu."
+				""
+				"Chegue a &e10 cidadãos&r. Daqui em diante a colônia começa a chamar atenção, de comerciantes e de quem prefere saquear a comerciar."
+			]
+			icon: {
+				id: "minecolonies:blockhuttownhall"
+			}
+			id: "0B00000000000105"
+			rewards: [
+				{ exclude_from_claim_all: true, icon: { id: "minecraft:enchanted_book" }, id: "0B00000000000405", table_id: 720575940379279604L, type: "random" }
+				{ exclude_from_claim_all: true, id: "0B00000000000505", table_id: 720575940379279602L, type: "random" }
+				{ id: "0B00000000000605", type: "xp_levels", xp_levels: 100 }
+			]
+			shape: "hexagon"
+			size: 1.5d
+			subtitle: "Gente que lembra o seu nome"
+			tasks: [{
+				advancement: "minecolonies:minecolonies/colony_population_10"
+				criterion: ""
+				id: "0B00000000000205"
+				type: "advancement"
+			}]
+			title: "【Marco】 Dez almas"
+			x: 0.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["0B00000000000101"]
+			description: [
+				"Três mil pontos de existência: &eRank C&r. A Guilda passa a te aceitar em missões que não envolvem só colher ervas. Os monstros também passam a te levar a sério, o que é um elogio perigoso."
+				""
+				"Chegue a 3.000 EP."
+			]
+			id: "0B00000000000106"
+			rewards: [
+				{ existence: "MAX_EP", id: "0B00000000000406", type: "tensura_ftb:existence_value", value: 300 }
+				{ id: "0B00000000000506", type: "xp_levels", xp_levels: 50 }
+			]
+			subtitle: "Um elogio perigoso"
+			tasks: [{
+				advancement: "tensura:c_rank"
+				criterion: ""
+				id: "0B00000000000206"
+				type: "advancement"
+			}]
+			title: "【História】 Rank C"
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0B00000000000106"]
+			description: [
+				"Cinco mil. Você já não é um reencarnado perdido; é alguém de quem os outros reencarnados ouviram falar."
+				""
+				"Chegue a &e5.000 EP&r. Use as habilidades, enfrente o que antes você evitava, coma bem e durma pouco (ou o contrário, a sua saúde agradece)."
+			]
+			icon: {
+				id: "tensura:high_quality_magic_crystal"
+			}
+			id: "0B00000000000107"
+			rewards: [
+				{ exclude_from_claim_all: true, id: "0B00000000000407", table_id: 720575940379279602L, type: "random" }
+				{ exclude_from_claim_all: true, icon: { id: "minecraft:enchanted_book" }, id: "0B00000000000507", table_id: 720575940379279604L, type: "random" }
+				{ id: "0B00000000000607", type: "xp_levels", xp_levels: 100 }
+			]
+			shape: "hexagon"
+			size: 1.5d
+			subtitle: "Os outros já ouviram falar"
+			tasks: [{
+				existence: "MAX_EP"
+				id: "0B00000000000207"
+				type: "tensura_ftb:existence_value"
+				value: 5000L
+			}]
+			title: "【Marco】 Cinco mil"
+			x: 3.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["0B00000000000102"]
+			description: [
+				"Toda vila começa com alguém derrubando árvores. O &bLenhador&r corta, replanta e entrega toras sem parar, desde que você não esqueça de dar o machado."
+				""
+				"Construa a Cabana do Lenhador e contrate alguém para ela."
+				""
+				"&7Dica: use a Ferramenta da Floresta para marcar a área de corte. Sem área, ele vai procurar árvore na casa do vizinho."
+			]
+			id: "0B00000000000108"
+			rewards: [
+				{ id: "0B00000000000408", item: { count: 1, id: "minecraft:iron_axe" }, type: "item" }
+				{ id: "0B00000000000508", type: "xp_levels", xp_levels: 25 }
+			]
+			subtitle: "Machado na mão, árvore no chão"
+			tasks: [{
+				advancement: "minecolonies:production/build_lumberjack"
+				criterion: ""
+				id: "0B00000000000208"
+				type: "advancement"
+			}]
+			title: "[Reino] Lenhador"
+			x: -4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0B00000000000108"]
+			description: [
+				"Cidadão com fome não trabalha, e cidadão que não trabalha come do mesmo jeito. O &bFazendeiro&r resolve a primeira metade do problema."
+				""
+				"Construa a Cabana do Fazendeiro e dê a ele um Campo para plantar."
+				""
+				"&7Dica: o Campo é um bloco à parte (Campo do Fazendeiro). Coloque-o e escolha a semente no menu dele."
+			]
+			id: "0B00000000000109"
+			rewards: [
+				{ id: "0B00000000000409", item: { count: 32, id: "minecraft:bone_meal" }, type: "item" }
+				{ id: "0B00000000000509", type: "xp_levels", xp_levels: 25 }
+			]
+			subtitle: "A primeira metade do problema"
+			tasks: [{
+				advancement: "minecolonies:production/build_farmer"
+				criterion: ""
+				id: "0B00000000000209"
+				type: "advancement"
+			}]
+			title: "[Reino] Fazendeiro"
+			x: -4.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0B00000000000109"]
+			description: [
+				"Ser prefeito é, em grande parte, atender pedido. Os cidadãos pedem ferramenta, comida, tijolo, e não param."
+				""
+				"Atenda um pedido de cidadão pela Prancheta ou entregando o item na cabana dele."
+				""
+				"&7Dica: um Armazém com um Entregador faz isso sozinho. É a próxima missão, e você vai agradecer."
+			]
+			id: "0B0000000000010A"
+			rewards: [
+				{ id: "0B0000000000040A", type: "xp_levels", xp_levels: 25 }
+				{ exclude_from_claim_all: true, id: "0B0000000000050A", table_id: 720575940379279601L, type: "random" }
+			]
+			subtitle: "Papelada"
+			tasks: [{
+				advancement: "minecolonies:minecolonies/fulfill_request"
+				criterion: ""
+				id: "0B0000000000020A"
+				type: "advancement"
+			}]
+			title: "[Reino] Pedido atendido"
+			x: -4.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0B0000000000010A"]
+			description: [
+				"O &bArmazém&r é o coração logístico da vila: tudo o que os cidadãos produzem vai para lá, e tudo o que eles pedem sai de lá. Com um &bEntregador&r, os pedidos se atendem sozinhos."
+				""
+				"Construa o Armazém. A recompensa é a cabana do Entregador; construa-a também."
+			]
+			id: "0B0000000000010B"
+			rewards: [
+				{ id: "0B0000000000040B", item: { count: 1, id: "minecolonies:blockhutdeliveryman" }, type: "item" }
+				{ id: "0B0000000000050B", type: "xp_levels", xp_levels: 50 }
+			]
+			subtitle: "O coração logístico"
+			tasks: [{
+				advancement: "minecolonies:production/build_warehouse"
+				criterion: ""
+				id: "0B0000000000020B"
+				type: "advancement"
+			}]
+			title: "[Reino] Armazém"
+			x: -4.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["0B00000000000104"]
+			description: [
+				"Onde tem prosperidade, tem quem queira levá-la embora. A &bTorre de Guarda&r contrata um guarda que patrulha, enfrenta monstros e, quando for a hora, enfrenta invasores."
+				""
+				"Construa uma Torre de Guarda. Dê ao guarda armadura e espada; um guarda pelado é só um cidadão com coragem."
+				""
+				"&7Dica: o Cetro de Guarda define a área de patrulha. Coloque a torre perto da entrada da vila."
+			]
+			id: "0B0000000000010C"
+			rewards: [
+				{ id: "0B0000000000040C", item: { count: 1, id: "minecraft:iron_sword" }, type: "item" }
+				{ id: "0B0000000000050C", item: { count: 1, id: "minecraft:iron_chestplate" }, type: "item" }
+				{ id: "0B0000000000060C", type: "xp_levels", xp_levels: 50 }
+				{ exclude_from_claim_all: true, id: "0B0000000000070C", table_id: 720575940379279602L, type: "random" }
+			]
+			subtitle: "Coragem com armadura"
+			tasks: [{
+				advancement: "minecolonies:minecolonies/build_guard_tower"
+				criterion: ""
+				id: "0B0000000000020C"
+				type: "advancement"
+			}]
+			title: "[Reino] Torre de Guarda"
+			x: -2.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["0B0000000000010B"]
+			description: [
+				"Uma vila que só produz não evolui. A &bUniversidade&r pesquisa: ferramentas melhores, cidadãos mais rápidos, guardas mais fortes, novas cabanas."
+				""
+				"Fabrique a cabana da Universidade. As pesquisas dela são a árvore tecnológica do seu reino."
+			]
+			id: "0B0000000000010D"
+			optional: true
+			rewards: [
+				{ id: "0B0000000000040D", item: { count: 16, id: "minecraft:paper" }, type: "item" }
+				{ id: "0B0000000000050D", type: "xp_levels", xp_levels: 50 }
+			]
+			subtitle: "A árvore do reino"
+			tasks: [{
+				id: "0B0000000000020D"
+				item: { count: 1, id: "minecolonies:blockhutuniversity" }
 				type: "item"
 			}]
-			title: "Cabana do Construtor"
-			x: 2.0d
-			y: 1.5d
+			title: "[Reino] Universidade (opcional)"
+			x: -4.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["0B00000000000101"]
+			description: [
+				"Pedra moída vira areia, trigo moído vira farinha, minério moído rende mais. O &bMoinho&r faz tudo isso movido pela sua roda d'água."
+				""
+				"Construa um Moinho e ligue-o ao eixo."
+			]
+			id: "0B0000000000010E"
+			optional: true
+			rewards: [{ id: "0B0000000000040E", type: "xp_levels", xp_levels: 25 }]
+			subtitle: "Tudo vira pó"
+			tasks: [{
+				id: "0B0000000000020E"
+				item: { count: 1, id: "create:millstone" }
+				type: "item"
+			}]
+			title: "[Ferro] Moinho (opcional)"
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0B0000000000010E"]
+			description: [
+				"A &bSerra Mecânica&r corta tábuas mais rápido que qualquer lenhador e, de lado, derruba árvores inteiras. Com cuidado: ela não distingue tronco de perna."
+				""
+				"Construa uma."
+			]
+			id: "0B0000000000010F"
+			optional: true
+			rewards: [{ id: "0B0000000000040F", type: "xp_levels", xp_levels: 25 }]
+			subtitle: "Não distingue tronco de perna"
+			tasks: [{
+				id: "0B0000000000020F"
+				item: { count: 1, id: "create:mechanical_saw" }
+				type: "item"
+			}]
+			title: "[Ferro] Serra Mecânica (opcional)"
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0B0000000000010F"]
+			description: [
+				"Máquina sem logística é só barulho. &bEsteiras&r levam o que uma máquina faz até a próxima, e o &bRevestimento de Andesito&r é a casca de quase tudo do Create nesta era."
+				""
+				"Faça 4 Esteiras e 8 Revestimentos de Andesito."
+			]
+			id: "0B00000000000110"
+			optional: true
+			rewards: [
+				{ id: "0B00000000000410", item: { count: 16, id: "create:andesite_alloy" }, type: "item" }
+				{ id: "0B00000000000510", type: "xp_levels", xp_levels: 25 }
+			]
+			subtitle: "Máquina sem logística é barulho"
+			tasks: [
+				{ count: 4L, id: "0B00000000000210", item: { count: 1, id: "create:belt_connector" }, type: "item" }
+				{ count: 8L, id: "0B00000000000310", item: { count: 1, id: "create:andesite_casing" }, type: "item" }
+			]
+			title: "[Ferro] Esteiras (opcional)"
+			x: 4.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0B00000000000110"]
+			description: [
+				"Um &bVentilador&r empurra itens e, soprando através de fogo, lava ou água, cozinha, funde ou lava em massa. É a primeira fábrica de verdade do reino."
+				""
+				"Construa um Ventilador Revestido. Teste soprando por cima de uma fogueira um monte de carne crua."
+			]
+			id: "0B00000000000111"
+			optional: true
+			rewards: [
+				{ exclude_from_claim_all: true, id: "0B00000000000411", table_id: 720575940379279601L, type: "random" }
+				{ id: "0B00000000000511", type: "xp_levels", xp_levels: 50 }
+			]
+			subtitle: "A primeira fábrica"
+			tasks: [{
+				id: "0B00000000000211"
+				item: { count: 1, id: "create:encased_fan" }
+				type: "item"
+			}]
+			title: "[Ferro] Ventilador (opcional)"
+			x: 4.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["0B00000000000101"]
+			description: [
+				"Feitiços de Ars Nouveau são feitos de glifos, e glifos se aprendem na &bMesa do Escriba&r: você paga o material e o glifo vai para o livro."
+				""
+				"Construa uma Mesa do Escriba."
+			]
+			id: "0B00000000000112"
+			optional: true
+			rewards: [{ id: "0B00000000000412", type: "xp_levels", xp_levels: 25 }]
+			subtitle: "Onde se aprende glifo"
+			tasks: [{
+				id: "0B00000000000212"
+				item: { count: 1, id: "ars_nouveau:scribes_table" }
+				type: "item"
+			}]
+			title: "[Mana] Mesa do Escriba (opcional)"
+			x: 7.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0B00000000000112"]
+			description: [
+				"A &bCâmara de Imbuição&r carrega itens comuns com Source e os transforma: ametista em gema de Source, lápis em essência, papel em pergaminho de feitiço."
+				""
+				"Construa uma. Ela consome Source de um jarro por perto."
+			]
+			id: "0B00000000000113"
+			optional: true
+			rewards: [
+				{ id: "0B00000000000413", item: { count: 4, id: "ars_nouveau:source_gem" }, type: "item" }
+				{ id: "0B00000000000513", type: "xp_levels", xp_levels: 25 }
+			]
+			subtitle: "Pedra comum, alma nova"
+			tasks: [{
+				id: "0B00000000000213"
+				item: { count: 1, id: "ars_nouveau:imbuement_chamber" }
+				type: "item"
+			}]
+			title: "[Mana] Câmara de Imbuição (opcional)"
+			x: 7.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0B00000000000101"]
+			description: [
+				"A outra escola de magia deste mundo é a dos livros de feitiço: você não monta o feitiço, você o &bescreve&r. A &bMesa de Inscrição&r grava pergaminhos no livro."
+				""
+				"Construa uma Mesa de Inscrição. Os pergaminhos se acham em baús de masmorra ou se compram de magos."
+			]
+			id: "0B00000000000114"
+			optional: true
+			rewards: [
+				{ id: "0B00000000000414", item: { count: 1, id: "irons_spellbooks:copper_spell_book" }, type: "item" }
+				{ id: "0B00000000000514", type: "xp_levels", xp_levels: 25 }
+			]
+			subtitle: "A outra escola"
+			tasks: [{
+				id: "0B00000000000214"
+				item: { count: 1, id: "irons_spellbooks:inscription_table" }
+				type: "item"
+			}]
+			title: "[Mana] Mesa de Inscrição (opcional)"
+			x: 10.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0B00000000000114"]
+			description: [
+				"Um &bPergaminho&r é um feitiço pronto. Use-o direto (uma vez só) ou grave-o no livro na Mesa de Inscrição (para sempre)."
+				""
+				"Consiga um pergaminho qualquer. Masmorras, ruínas e vendedores errantes são boas apostas."
+			]
+			id: "0B00000000000115"
+			optional: true
+			rewards: [
+				{ id: "0B00000000000415", item: { count: 8, id: "irons_spellbooks:arcane_essence" }, type: "item" }
+				{ exclude_from_claim_all: true, id: "0B00000000000515", table_id: 720575940379279601L, type: "random" }
+				{ id: "0B00000000000615", type: "xp_levels", xp_levels: 50 }
+			]
+			subtitle: "Um feitiço pronto"
+			tasks: [{
+				id: "0B00000000000215"
+				item: { count: 1, id: "irons_spellbooks:scroll" }
+				type: "item"
+			}]
+			title: "[Mana] Pergaminho (opcional)"
+			x: 10.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0B00000000000101"]
+			description: [
+				"Debaixo deste mundo tem outro, mais quente e muito mais mal-humorado. O &bNether&r tem quartzo, ouro, fortalezas e coisas que explodem."
+				""
+				"Atravesse um portal para o Nether. Leve a poção da recompensa da próxima vez; desta, vá com coragem."
+			]
+			id: "0B00000000000116"
+			optional: true
+			rewards: [
+				{ id: "0B00000000000416", item: { components: { "minecraft:potion_contents": { potion: "minecraft:long_fire_resistance" } }, count: 2, id: "minecraft:potion" }, type: "item" }
+				{ id: "0B00000000000516", type: "xp_levels", xp_levels: 25 }
+			]
+			subtitle: "Mais quente e mal-humorado"
+			tasks: [{
+				advancement: "minecraft:story/enter_the_nether"
+				criterion: ""
+				id: "0B00000000000216"
+				type: "advancement"
+			}]
+			title: "[Mundo] O Nether (opcional)"
+			x: -7.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0B00000000000116"]
+			description: [
+				"As fortalezas do Nether aqui são maiores, mais cheias de corredores e mais cheias de quem não gosta de visita. Também são mais cheias de baú."
+				""
+				"Encontre uma &bFortaleza do Nether&r."
+			]
+			id: "0B00000000000117"
+			optional: true
+			rewards: [
+				{ exclude_from_claim_all: true, id: "0B00000000000417", table_id: 720575940379279602L, type: "random" }
+				{ id: "0B00000000000517", type: "xp_levels", xp_levels: 50 }
+			]
+			subtitle: "Corredores e baús"
+			tasks: [{
+				id: "0B00000000000217"
+				structure: "betterfortresses:fortress"
+				type: "structure"
+			}]
+			title: "[Mundo] Fortaleza (opcional)"
+			x: -7.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0B00000000000101"]
+			description: [
+				"Um lago de dois por dois, flores em volta, um diamante jogado na água, e o mundo se abre para a &bFloresta do Crepúsculo&r: uma dimensão de noite eterna, árvores gigantes e chefes com troféus."
+				""
+				"Entre na Floresta do Crepúsculo."
+			]
+			id: "0B00000000000118"
+			optional: true
+			rewards: [
+				{ exclude_from_claim_all: true, id: "0B00000000000418", table_id: 720575940379279602L, type: "random" }
+				{ id: "0B00000000000518", type: "xp_levels", xp_levels: 50 }
+			]
+			subtitle: "Noite eterna"
+			tasks: [{
+				dimension: "twilightforest:twilight_forest"
+				id: "0B00000000000218"
+				type: "dimension"
+			}]
+			title: "[Mundo] Floresta do Crepúsculo (opcional)"
+			x: -10.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0B00000000000105", "0B00000000000107", "0B0000000000010C"]
+			description: [
+				"Uma vila que cresce é uma vila que chama atenção. Bárbaros, piratas e coisas piores sabem contar casas, e mais casas significa mais coisa para levar."
+				""
+				"Erga as muralhas: suba a &bPrefeitura ao nível 3&r e derrube você mesmo pelo menos um &binvasor&r (de uma invasão à colônia ou de um acampamento deles pelo mundo)."
+				""
+				"&6Esta é a Porta da Era I.&r Completá-la abre a &lEra II — Ferro&r, quando a vila vira cidade e a cidade passa a ser movida a máquina. Como recompensa: a cabana do Quartel, para o exército que essa cidade vai precisar."
+			]
+			icon: {
+				id: "minecraft:cobblestone_wall"
+			}
+			id: "0B00000000000119"
+			rewards: [
+				{ id: "0B00000000000419", item: { count: 1, id: "minecolonies:blockhutbarracks" }, type: "item" }
+				{ exclude_from_claim_all: true, icon: { id: "minecraft:enchanted_book" }, id: "0B00000000000519", table_id: 720575940379279604L, type: "random" }
+				{ exclude_from_claim_all: true, id: "0B00000000000619", table_id: 720575940379279602L, type: "random" }
+				{ id: "0B00000000000719", type: "xp_levels", xp_levels: 250 }
+			]
+			shape: "gear"
+			size: 2.0d
+			subtitle: "Quem conta casas"
+			tasks: [
+				{
+					advancement: "soberania:era1/prefeitura_3"
+					criterion: ""
+					icon: { id: "minecolonies:blockhuttownhall" }
+					id: "0B00000000000219"
+					title: "Prefeitura nível 3"
+					type: "advancement"
+				}
+				{
+					advancement: "soberania:era1/invasor"
+					criterion: ""
+					icon: { id: "minecraft:iron_sword" }
+					id: "0B00000000000319"
+					title: "Derrubar um invasor"
+					type: "advancement"
+				}
+			]
+			title: "【Marco】 Muralhas"
+			x: 1.5d
+			y: 11.0d
 		}
 	]
 	title: "Era I — Pó"

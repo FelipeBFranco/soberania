@@ -42,6 +42,15 @@ ServerEvents.recipes(event => {
     x: 'ars_nouveau:archwood_planks',
     y: 'tensura:low_quality_magic_crystal'
   }).id('soberania:trava/camara_de_imbuicao')
+
+  // Ponte (ADR-006): Selo de Vassalagem. Barato de propósito: o custo real do
+  // vassalo foi a nomeação (Magicules); o selo é só a formalidade.
+  event.shapeless('2x soberania:selo_de_vassalagem', [
+    'minecraft:paper',
+    'minecraft:gold_ingot',
+    'tensura:low_quality_magic_crystal',
+    'minecraft:ink_sac'
+  ]).id('soberania:ponte/selo_de_vassalagem')
 })
 
 ServerEvents.loaded(event => {

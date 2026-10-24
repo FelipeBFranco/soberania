@@ -925,6 +925,14 @@ file = "config/openloader/packs/soberania-pt-br/assets/occultism/lang/pt_br.json
 hash = "ee6fba8596675402ea4b8ebe9cd4fa641633ed48d8baf04296551439b79ccb7d"
 
 [[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/soberania/lang/en_us.json"
+hash = "f4ce8f49a041f7c0f2a659af50bcee09011cf9331d0440247e48d7ac590516b6"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/soberania/lang/pt_br.json"
+hash = "9e9f4e8eefe16faf208db23e3301684506b80fbf77255a8f03bb36a2722539a7"
+
+[[files]]
 file = "config/openloader/packs/soberania-pt-br/assets/sophisticatedbackpacks/lang/pt_br.json"
 hash = "bfc9afe59eaa5461c791a202954bbca9d39523779131215172eb08f6b38d55b0"
 
@@ -1274,15 +1282,19 @@ hash = "7af3784ab0f84ed61b40540ef127938f30c1785b1922c13d232360a6de776eb0"
 
 [[files]]
 file = "kubejs/client_scripts/soberania.js"
-hash = "b7ea6c83046fd51c4e68a8c60883980412a81b0524552dc071f772744c573645"
+hash = "5a91de97de42bbc7aa965d946b81a5a5665dc9f3301e55d89390312fb2c45f01"
 
 [[files]]
 file = "kubejs/server_scripts/soberania.js"
-hash = "73bdfa2a434d0f80250a4bfb578195ea6197beae277213f51178235192ac41f8"
+hash = "b950c613c1ae709e6bcb79705eb265640965333a090a39ee89b8a03b3f16b339"
+
+[[files]]
+file = "kubejs/server_scripts/vassalagem.js"
+hash = "80d753bb134ab6032a363cc7221b7d890ea2d56a543fdab28f45bdf3cd009a87"
 
 [[files]]
 file = "kubejs/startup_scripts/soberania.js"
-hash = "974ed593188d05ab8325a8b9cbf078548be5f11f02f3a8955455d6b2e003ae18"
+hash = "72e00a8b884b6fdcfa4e235720cd76435cc28fe56a3b02696f45662d25ce5833"
 
 [[files]]
 file = "mods/ae2.pw.toml"

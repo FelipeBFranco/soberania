@@ -33,7 +33,9 @@ Pastas:
 
 - `mods/` — metadados dos mods.
 - `config/` — configurações.
-- `openloader/resources/tensura-pt-br/` — tradução PT-BR do Tensura e addons, carregada automaticamente.
+- `openloader/packs/tensura-pt-br/` — tradução PT-BR dos addons do Tensura, carregada automaticamente.
+- `openloader/packs/soberania-pt-br/` — tradução PT-BR complementar (MineColonies, Structurize, Domum Ornamentum…).
+- `docs/` — guias para os jogadores.
 
 ## Política de versões
 

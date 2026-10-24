@@ -1,0 +1,8 @@
+{
+  "type": "cataclysm:endermaptera",
+  "spiritualHealth": 100,
+  "min_aura": 0,
+  "max_aura": 0,
+  "min_magicule": 1500,
+  "max_magicule": 4000
+}

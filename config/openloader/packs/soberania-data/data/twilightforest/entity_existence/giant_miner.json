@@ -1,0 +1,13 @@
+{
+  "max_magicule": 35000,
+  "abilities": [
+    "tensura:strengthen_body",
+    "tensura:steel_strength",
+    "tensura:engorger"
+  ],
+  "max_aura": 28000,
+  "min_aura": 24000,
+  "spiritualHealth": 660,
+  "min_magicule": 30000,
+  "type": "twilightforest:giant_miner"
+}

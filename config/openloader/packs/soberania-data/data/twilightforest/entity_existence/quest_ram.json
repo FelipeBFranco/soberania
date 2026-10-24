@@ -1,0 +1,9 @@
+{
+  "max_magicule": 20000,
+  "abilities": [],
+  "max_aura": 6000,
+  "min_aura": 3000,
+  "spiritualHealth": 360,
+  "min_magicule": 10000,
+  "type": "twilightforest:quest_ram"
+}

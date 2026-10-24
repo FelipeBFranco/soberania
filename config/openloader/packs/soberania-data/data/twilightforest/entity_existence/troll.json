@@ -1,0 +1,12 @@
+{
+  "max_magicule": 14000,
+  "abilities": [
+    "tensura:strengthen_body",
+    "tensura:steel_strength"
+  ],
+  "max_aura": 10000,
+  "min_aura": 7500,
+  "spiritualHealth": 360,
+  "min_magicule": 10000,
+  "type": "twilightforest:troll"
+}

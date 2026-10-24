@@ -1,0 +1,12 @@
+{
+  "max_magicule": 13000,
+  "abilities": [
+    "tensura:strengthen_body",
+    "tensura:steel_strength"
+  ],
+  "max_aura": 10000,
+  "min_aura": 5000,
+  "spiritualHealth": 300,
+  "min_magicule": 7000,
+  "type": "twilightforest:minotaur"
+}

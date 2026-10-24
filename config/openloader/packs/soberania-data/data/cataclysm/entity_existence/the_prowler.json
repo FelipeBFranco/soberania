@@ -1,0 +1,8 @@
+{
+  "type": "cataclysm:the_prowler",
+  "spiritualHealth": 450,
+  "min_aura": 0,
+  "max_aura": 0,
+  "min_magicule": 30000,
+  "max_magicule": 80000
+}

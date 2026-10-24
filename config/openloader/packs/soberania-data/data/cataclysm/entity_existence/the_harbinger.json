@@ -1,0 +1,17 @@
+{
+  "type": "cataclysm:the_harbinger",
+  "abilities": [
+    "tensura:physical_attack_resistance",
+    "tensura:pierce_resistance",
+    "tensura:electricity_nullification",
+    "tensura:thermal_fluctuation_resistance",
+    "tensura:spiritual_attack_resistance",
+    "tensura:magic_resistance",
+    "tensura:abnormal_condition_resistance"
+  ],
+  "max_aura": 80000,
+  "min_aura": 20000,
+  "max_magicule": 200000,
+  "min_magicule": 50000,
+  "spiritualHealth": 1300
+}

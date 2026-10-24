@@ -1,0 +1,15 @@
+{
+  "type": "cataclysm:netherite_monstrosity",
+  "abilities": [
+    "tensura:flame_attack_nullification",
+    "tensura:heat_nullification",
+    "tensura:physical_attack_resistance",
+    "tensura:pierce_resistance",
+    "tensura:abnormal_condition_nullification"
+  ],
+  "max_aura": 70000,
+  "min_aura": 14000,
+  "max_magicule": 100000,
+  "min_magicule": 20000,
+  "spiritualHealth": 1000
+}

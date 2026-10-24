@@ -1,0 +1,9 @@
+{
+  "max_magicule": 10000,
+  "abilities": [],
+  "max_aura": 3000,
+  "min_aura": 2000,
+  "spiritualHealth": 460,
+  "min_magicule": 7000,
+  "type": "twilightforest:helmet_crab"
+}

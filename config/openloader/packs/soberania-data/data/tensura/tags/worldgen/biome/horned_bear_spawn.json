@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#c:is_taiga",
+      "required": false
+    },
+    {
+      "id": "#biomeswevegone:floral",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:sakura_grove",
+      "required": false
+    }
+  ]
+}

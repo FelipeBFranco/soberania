@@ -1,0 +1,11 @@
+{
+  "max_magicule": 10000,
+  "abilities": [
+    "tensura:poison"
+  ],
+  "max_aura": 2000,
+  "min_aura": 1500,
+  "spiritualHealth": 560,
+  "min_magicule": 7000,
+  "type": "twilightforest:mosquito_swarm"
+}

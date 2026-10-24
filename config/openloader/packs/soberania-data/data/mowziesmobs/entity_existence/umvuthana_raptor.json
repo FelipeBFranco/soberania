@@ -1,0 +1,8 @@
+{
+  "type": "mowziesmobs:umvuthana_raptor",
+  "spiritualHealth": 90,
+  "min_aura": 0,
+  "max_aura": 0,
+  "min_magicule": 1000,
+  "max_magicule": 2500
+}

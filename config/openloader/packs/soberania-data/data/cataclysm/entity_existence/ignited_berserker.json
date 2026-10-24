@@ -1,0 +1,8 @@
+{
+  "type": "cataclysm:ignited_berserker",
+  "spiritualHealth": 200,
+  "min_aura": 0,
+  "max_aura": 0,
+  "min_magicule": 5000,
+  "max_magicule": 15000
+}

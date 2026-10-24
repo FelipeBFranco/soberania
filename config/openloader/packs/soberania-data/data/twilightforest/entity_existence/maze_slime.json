@@ -1,0 +1,9 @@
+{
+  "max_magicule": 550,
+  "abilities": [],
+  "max_aura": 100,
+  "min_aura": 50,
+  "spiritualHealth": 60,
+  "min_magicule": 200,
+  "type": "twilightforest:maze_slime"
+}

@@ -1,0 +1,12 @@
+{
+  "max_magicule": 32500,
+  "abilities": [
+    "tensura:flame_attack_nullification",
+    "tensura:fire_bolt"
+  ],
+  "max_aura": 6500,
+  "min_aura": 2500,
+  "spiritualHealth": 460,
+  "min_magicule": 12400,
+  "type": "twilightforest:carminite_ghastguard"
+}

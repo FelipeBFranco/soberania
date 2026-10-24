@@ -1,0 +1,13 @@
+{
+  "type": "twilightforest:naga",
+  "abilities": [
+    "tensura:strengthen_body",
+    "tensura:poison_nullification",
+    "tensura:poison"
+  ],
+  "max_magicule": 150000,
+  "min_magicule": 100000,
+  "max_aura": 90000,
+  "min_aura": 60000,
+  "spiritualHealth": 1600
+}

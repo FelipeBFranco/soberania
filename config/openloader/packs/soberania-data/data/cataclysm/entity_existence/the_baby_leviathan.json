@@ -1,0 +1,8 @@
+{
+  "type": "cataclysm:the_baby_leviathan",
+  "spiritualHealth": 400,
+  "min_aura": 0,
+  "max_aura": 0,
+  "min_magicule": 20000,
+  "max_magicule": 50000
+}

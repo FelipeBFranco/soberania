@@ -1,0 +1,12 @@
+{
+  "max_magicule": 6500,
+  "abilities": [
+    "tensura:poison_nullification",
+    "tensura:poison"
+  ],
+  "max_aura": 3000,
+  "min_aura": 2500,
+  "spiritualHealth": 160,
+  "min_magicule": 5500,
+  "type": "twilightforest:adherent"
+}

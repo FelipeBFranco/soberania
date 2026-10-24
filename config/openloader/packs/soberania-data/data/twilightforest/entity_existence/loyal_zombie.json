@@ -1,0 +1,11 @@
+{
+  "max_magicule": 13000,
+  "abilities": [
+    "tensura:strengthen_body"
+  ],
+  "max_aura": 8000,
+  "min_aura": 6000,
+  "spiritualHealth": 360,
+  "min_magicule": 10000,
+  "type": "twilightforest:loyal_zombie"
+}

@@ -1,0 +1,9 @@
+{
+  "max_magicule": 80,
+  "abilities": [],
+  "max_aura": 50,
+  "min_aura": 50,
+  "spiritualHealth": 10,
+  "min_magicule": 80,
+  "type": "twilightforest:squirrel"
+}

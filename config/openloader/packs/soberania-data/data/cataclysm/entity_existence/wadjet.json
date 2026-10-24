@@ -1,0 +1,8 @@
+{
+  "type": "cataclysm:wadjet",
+  "spiritualHealth": 500,
+  "min_aura": 0,
+  "max_aura": 0,
+  "min_magicule": 30000,
+  "max_magicule": 100000
+}

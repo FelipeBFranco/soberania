@@ -1,0 +1,11 @@
+{
+  "max_magicule": 14000,
+  "abilities": [
+    "tensura:strengthen_body"
+  ],
+  "max_aura": 8500,
+  "min_aura": 5000,
+  "spiritualHealth": 660,
+  "min_magicule": 8000,
+  "type": "twilightforest:knight_phantom"
+}

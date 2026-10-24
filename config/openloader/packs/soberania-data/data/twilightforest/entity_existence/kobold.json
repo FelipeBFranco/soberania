@@ -1,0 +1,9 @@
+{
+  "max_magicule": 4000,
+  "abilities": [],
+  "max_aura": 1000,
+  "min_aura": 800,
+  "spiritualHealth": 260,
+  "min_magicule": 3500,
+  "type": "twilightforest:kobold"
+}

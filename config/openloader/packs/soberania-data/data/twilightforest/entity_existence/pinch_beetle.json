@@ -1,0 +1,11 @@
+{
+  "max_magicule": 20000,
+  "abilities": [
+    "tensura:steel_strength"
+  ],
+  "max_aura": 12000,
+  "min_aura": 8500,
+  "spiritualHealth": 360,
+  "min_magicule": 14000,
+  "type": "twilightforest:pinch_beetle"
+}

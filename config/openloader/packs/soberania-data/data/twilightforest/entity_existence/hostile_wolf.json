@@ -1,0 +1,9 @@
+{
+  "max_magicule": 5000,
+  "abilities": [],
+  "max_aura": 1500,
+  "min_aura": 1200,
+  "spiritualHealth": 360,
+  "min_magicule": 4000,
+  "type": "twilightforest:hostile_wolf"
+}

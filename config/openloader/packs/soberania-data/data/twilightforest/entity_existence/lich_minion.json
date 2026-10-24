@@ -1,0 +1,9 @@
+{
+  "max_magicule": 14000,
+  "abilities": [],
+  "max_aura": 3000,
+  "min_aura": 1500,
+  "spiritualHealth": 460,
+  "min_magicule": 7000,
+  "type": "twilightforest:lich_minion"
+}

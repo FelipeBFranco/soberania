@@ -1,0 +1,9 @@
+{
+  "type": "mowziesmobs:umvuthi",
+  "abilities": [
+    "tensura:flame_attack_resistance"
+  ],
+  "max_magicule": 20000,
+  "min_magicule": 8000,
+  "spiritualHealth": 150
+}

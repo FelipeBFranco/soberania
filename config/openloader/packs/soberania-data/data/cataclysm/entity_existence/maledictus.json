@@ -1,0 +1,17 @@
+{
+  "type": "cataclysm:maledictus",
+  "abilities": [
+    "tensura:cold_nullification",
+    "tensura:physical_attack_resistance",
+    "tensura:pain_nullification",
+    "tensura:holy_attack_resistance",
+    "tensura:poison_nullification",
+    "tensura:abnormal_condition_resistance",
+    "tensura:spiritual_attack_resistance"
+  ],
+  "max_aura": 55000,
+  "min_aura": 20000,
+  "max_magicule": 220000,
+  "min_magicule": 80000,
+  "spiritualHealth": 1100
+}

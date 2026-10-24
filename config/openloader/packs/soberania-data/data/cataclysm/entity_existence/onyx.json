@@ -1,0 +1,8 @@
+{
+  "type": "cataclysm:onyx",
+  "spiritualHealth": 180,
+  "min_aura": 0,
+  "max_aura": 0,
+  "min_magicule": 5000,
+  "max_magicule": 12000
+}

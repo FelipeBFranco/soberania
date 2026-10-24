@@ -1,0 +1,8 @@
+{
+  "type": "cataclysm:amethyst_crab",
+  "spiritualHealth": 250,
+  "min_aura": 0,
+  "max_aura": 0,
+  "min_magicule": 8000,
+  "max_magicule": 25000
+}

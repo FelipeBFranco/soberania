@@ -1,0 +1,9 @@
+{
+  "max_magicule": 2000,
+  "abilities": [],
+  "max_aura": 600,
+  "min_aura": 300,
+  "spiritualHealth": 60,
+  "min_magicule": 1000,
+  "type": "twilightforest:snow_guardian"
+}

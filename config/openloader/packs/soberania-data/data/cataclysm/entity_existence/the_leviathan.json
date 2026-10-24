@@ -1,0 +1,15 @@
+{
+  "type": "cataclysm:the_leviathan",
+  "abilities": [
+    "tensura:water_attack_nullification",
+    "tensura:cold_nullification",
+    "tensura:physical_attack_resistance",
+    "tensura:magic_resistance",
+    "tensura:spiritual_attack_resistance"
+  ],
+  "max_aura": 72000,
+  "min_aura": 48000,
+  "max_magicule": 120000,
+  "min_magicule": 80000,
+  "spiritualHealth": 800
+}

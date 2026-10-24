@@ -1,0 +1,13 @@
+name = "Tensura: Mortal Cultivation"
+filename = "mortal_cultivation-1.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "25ca065d233e9f92043899ae1cc5caf8285b4921"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9294740
+project-id = 1356920

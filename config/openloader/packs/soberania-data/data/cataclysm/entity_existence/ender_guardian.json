@@ -1,0 +1,15 @@
+{
+  "type": "cataclysm:ender_guardian",
+  "abilities": [
+    "tensura:spatial_attack_nullification",
+    "tensura:gravity_attack_nullification",
+    "tensura:abnormal_condition_nullification",
+    "tensura:physical_attack_resistance",
+    "tensura:magic_resistance"
+  ],
+  "max_aura": 180000,
+  "min_aura": 6000,
+  "max_magicule": 300000,
+  "min_magicule": 10000,
+  "spiritualHealth": 1000
+}

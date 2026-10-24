@@ -1,0 +1,8 @@
+{
+  "type": "cataclysm:cindaria",
+  "spiritualHealth": 60,
+  "min_aura": 0,
+  "max_aura": 0,
+  "min_magicule": 500,
+  "max_magicule": 1500
+}

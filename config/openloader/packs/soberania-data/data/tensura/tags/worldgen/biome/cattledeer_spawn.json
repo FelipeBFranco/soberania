@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#c:is_plains",
+      "required": false
+    },
+    {
+      "id": "#c:is_forest",
+      "required": false
+    },
+    {
+      "id": "#c:is_savanna",
+      "required": false
+    },
+    {
+      "id": "#c:is_taiga",
+      "required": false
+    },
+    {
+      "id": "#biomeswevegone:floral",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:sakura_grove",
+      "required": false
+    }
+  ]
+}

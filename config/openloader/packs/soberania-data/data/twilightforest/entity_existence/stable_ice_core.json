@@ -1,0 +1,11 @@
+{
+  "max_magicule": 6500,
+  "abilities": [
+    "tensura:cold_nullification"
+  ],
+  "max_aura": 2000,
+  "min_aura": 1000,
+  "spiritualHealth": 60,
+  "min_magicule": 3500,
+  "type": "twilightforest:stable_ice_core"
+}

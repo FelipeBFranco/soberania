@@ -1,0 +1,12 @@
+{
+  "type": "twilightforest:lich",
+  "abilities": [
+    "tensura:abnormal_condition_nullification",
+    "tensura:strengthen_body"
+  ],
+  "max_magicule": 250000,
+  "min_magicule": 100000,
+  "max_aura": 50000,
+  "min_aura": 20000,
+  "spiritualHealth": 1200
+}

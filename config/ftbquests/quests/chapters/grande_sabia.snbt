@@ -1,0 +1,120 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "grande_sabia"
+	group: "0A000000000000E2"
+	icon: {
+		id: "minecraft:soul_lantern"
+	}
+	id: "0A00000000000900"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"Há uma voz que nem todo reencarnado ouve. Ela anuncia o que você aprende, lê o que você não enxerga e, se você pedir, responde."
+				""
+				"Esta aba só se abre para quem tem a habilidade única &bGrande Sábio&r: alguns nascem com ela, outros a conquistam nos marcos, nos desejos do Mar das Almas ou com muita sorte."
+				""
+				"&7Se você está lendo isto e a missão está completa: parabéns, ela está acordada. As missões abaixo ensinam a conversar com ela."
+			]
+			icon: {
+				id: "minecraft:soul_lantern"
+			}
+			id: "0A00000000000901"
+			rewards: [
+				{ id: "0A00000000000A01", type: "xp_levels", xp_levels: 20 }
+			]
+			shape: "gear"
+			size: 1.5d
+			subtitle: "Nem todo reencarnado a ouve"
+			tasks: [{
+				ability: "tensura:great_sage"
+				id: "0A00000000000B01"
+				status: "LEARNT"
+				type: "tensura_ftb:ability"
+			}]
+			title: "Ela acordou"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0A00000000000901"]
+			description: [
+				"A tecla &eG&r abre o console dela: Análise (o que ela já decompôs), Árvore de Crescimento, Registros, Observações, modo Batalha e Configurações."
+				""
+				"É lá que você escolhe se ela fala, se escurece a tela, o volume e o idioma do reconhecimento de voz."
+			]
+			hide_until_deps_complete: true
+			id: "0A00000000000902"
+			rewards: [{ id: "0A00000000000A02", type: "xp_levels", xp_levels: 5 }]
+			shape: "diamond"
+			subtitle: "Tecla G"
+			tasks: [{ id: "0A00000000000B02", title: "Abri o console", type: "checkmark" }]
+			title: "O console"
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0A00000000000901"]
+			description: [
+				"Com a tecla &eV&r ela avalia as criaturas ao redor: mostra auras do tamanho do valor de existência de cada uma e anota espécie e vida nas Observações."
+				""
+				"Se a aura de algo for muito maior que a sua, você já sabe o que fazer. Correr também é estratégia."
+			]
+			hide_until_deps_complete: true
+			id: "0A00000000000903"
+			rewards: [{ id: "0A00000000000A03", type: "xp_levels", xp_levels: 5 }]
+			shape: "diamond"
+			subtitle: "Tecla V"
+			tasks: [{ id: "0A00000000000B03", title: "Li uma criatura", type: "checkmark" }]
+			title: "Leitura"
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0A00000000000901"]
+			description: [
+				"Ela conversa. Segure a tecla de falar (em Controles → Great Sage) e diga a frase inteira. Ela responde em japonês, com legenda."
+				""
+				"Ela só entende frases da lista. Algumas: \"quem é você\", \"qual é a minha raça\", \"quanta magia eu tenho\", \"lista as minhas habilidades\", \"eu posso evoluir\", \"analisa &oNome da Habilidade&r\", \"liga &oNome da Habilidade&r\"."
+				""
+				"&7A lista completa está no repositório do pack, em docs/. Fale em ambiente silencioso e com a frase como está escrita."
+			]
+			hide_until_deps_complete: true
+			id: "0A00000000000904"
+			rewards: [{ id: "0A00000000000A04", type: "xp_levels", xp_levels: 5 }]
+			shape: "diamond"
+			subtitle: "Segure e fale"
+			tasks: [{ id: "0A00000000000B04", title: "Conversei com ela", type: "checkmark" }]
+			title: "A voz"
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0A00000000000902", "0A00000000000903", "0A00000000000904"]
+			description: [
+				"Ela é a única que nunca vai te julgar por perguntar \"eu sou forte?\" pela décima vez."
+				""
+				"Por ter aprendido a usá-la: uma dádiva do mundo."
+			]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:enchanted_book"
+			}
+			id: "0A00000000000905"
+			rewards: [
+				{ exclude_from_claim_all: true, id: "0A00000000000A05", table_id: 720575940379279604L, type: "random" }
+				{ id: "0A00000000000B05", type: "xp_levels", xp_levels: 15 }
+			]
+			shape: "pentagon"
+			size: 1.25d
+			subtitle: "Parceira de longa data"
+			tasks: [{ id: "0A00000000000C05", title: "Entendi tudo", type: "checkmark" }]
+			title: "Companheira"
+			x: 0.0d
+			y: 4.0d
+		}
+	]
+	title: "A Grande Sábia"
+}

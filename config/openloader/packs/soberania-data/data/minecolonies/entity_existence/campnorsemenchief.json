@@ -1,0 +1,8 @@
+{
+  "type": "minecolonies:campnorsemenchief",
+  "spiritualHealth": 260,
+  "min_aura": 5000,
+  "max_aura": 12500,
+  "min_magicule": 5000,
+  "max_magicule": 12500
+}

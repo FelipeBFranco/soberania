@@ -1,0 +1,8 @@
+{
+  "type": "cataclysm:urchinkin",
+  "spiritualHealth": 80,
+  "min_aura": 0,
+  "max_aura": 0,
+  "min_magicule": 1000,
+  "max_magicule": 3000
+}

@@ -1,0 +1,12 @@
+{
+  "max_magicule": 15000,
+  "abilities": [
+    "tensura:cold_nullification",
+    "tensura:strengthen_body"
+  ],
+  "max_aura": 9000,
+  "min_aura": 5500,
+  "spiritualHealth": 460,
+  "min_magicule": 9000,
+  "type": "twilightforest:yeti"
+}

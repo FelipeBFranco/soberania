@@ -1,0 +1,11 @@
+{
+  "max_magicule": 8000,
+  "abilities": [
+    "tensura:cold_nullification"
+  ],
+  "max_aura": 2500,
+  "min_aura": 1500,
+  "spiritualHealth": 460,
+  "min_magicule": 5000,
+  "type": "twilightforest:winter_wolf"
+}

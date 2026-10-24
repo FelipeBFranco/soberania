@@ -1,0 +1,15 @@
+{
+  "type": "cataclysm:scylla",
+  "abilities": [
+    "tensura:corrosion_nullification",
+    "tensura:abnormal_condition_nullification",
+    "tensura:water_attack_resistance",
+    "tensura:physical_attack_resistance",
+    "tensura:pierce_resistance"
+  ],
+  "max_aura": 168000,
+  "min_aura": 56000,
+  "max_magicule": 240000,
+  "min_magicule": 80000,
+  "spiritualHealth": 1300
+}

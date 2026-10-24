@@ -1,0 +1,9 @@
+{
+  "max_magicule": 6500,
+  "abilities": [],
+  "max_aura": 2000,
+  "min_aura": 1200,
+  "spiritualHealth": 360,
+  "min_magicule": 4000,
+  "type": "twilightforest:redcap_sapper"
+}

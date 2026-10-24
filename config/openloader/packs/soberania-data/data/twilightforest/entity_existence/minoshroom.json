@@ -1,0 +1,11 @@
+{
+  "type": "twilightforest:minoshroom",
+  "abilities": [
+    "tensura:steel_strength"
+  ],
+  "max_magicule": 100000,
+  "min_magicule": 70000,
+  "max_aura": 70000,
+  "min_aura": 50000,
+  "spiritualHealth": 1000
+}

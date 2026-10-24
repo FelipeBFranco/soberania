@@ -1,0 +1,9 @@
+{
+  "max_magicule": 10000,
+  "abilities": [],
+  "max_aura": 3000,
+  "min_aura": 1500,
+  "spiritualHealth": 160,
+  "min_magicule": 5000,
+  "type": "twilightforest:blockchain_goblin"
+}

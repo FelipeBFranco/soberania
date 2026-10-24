@@ -1,0 +1,15 @@
+{
+  "type": "cataclysm:ignited_revenant",
+  "abilities": [
+    "tensura:flame_attack_nullification",
+    "tensura:heat_nullification",
+    "tensura:pain_nullification",
+    "tensura:abnormal_condition_nullification",
+    "tensura:physical_attack_resistance"
+  ],
+  "max_aura": 50000,
+  "min_aura": 5000,
+  "max_magicule": 80000,
+  "min_magicule": 8000,
+  "spiritualHealth": 500
+}

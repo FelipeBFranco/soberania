@@ -1,0 +1,12 @@
+{
+  "type": "twilightforest:snow_queen",
+  "abilities": [
+    "tensura:cold_nullification",
+    "tensura:lust"
+  ],
+  "max_magicule": 500000,
+  "min_magicule": 250000,
+  "max_aura": 100000,
+  "min_aura": 50000,
+  "spiritualHealth": 1300
+}

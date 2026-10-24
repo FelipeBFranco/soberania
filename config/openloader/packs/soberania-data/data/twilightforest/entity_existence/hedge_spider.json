@@ -1,0 +1,11 @@
+{
+  "max_magicule": 10000,
+  "abilities": [
+    "tensura:stick_steel_thread"
+  ],
+  "max_aura": 3000,
+  "min_aura": 1500,
+  "spiritualHealth": 360,
+  "min_magicule": 5000,
+  "type": "twilightforest:hedge_spider"
+}

@@ -1,0 +1,9 @@
+{
+  "max_magicule": 200,
+  "abilities": [],
+  "max_aura": 100,
+  "min_aura": 100,
+  "spiritualHealth": 60,
+  "min_magicule": 200,
+  "type": "twilightforest:deer"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecolonies:camppirate",
+  "spiritualHealth": 90,
+  "min_aura": 1000,
+  "max_aura": 2500,
+  "min_magicule": 1000,
+  "max_magicule": 2500
+}

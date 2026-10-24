@@ -1,0 +1,11 @@
+{
+  "max_magicule": 7000,
+  "abilities": [
+    "tensura:stick_steel_thread"
+  ],
+  "max_aura": 3000,
+  "min_aura": 1200,
+  "spiritualHealth": 260,
+  "min_magicule": 3000,
+  "type": "twilightforest:carminite_broodling"
+}

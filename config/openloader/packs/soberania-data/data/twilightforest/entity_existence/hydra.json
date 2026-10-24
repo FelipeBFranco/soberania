@@ -1,0 +1,12 @@
+{
+  "type": "twilightforest:hydra",
+  "abilities": [
+    "tensura:flame_attack_nullification",
+    "tensura:strengthen_body"
+  ],
+  "max_magicule": 400000,
+  "min_magicule": 300000,
+  "max_aura": 240000,
+  "min_aura": 180000,
+  "spiritualHealth": 1200
+}

@@ -1,0 +1,13 @@
+name = "Boss Checklist: Tensura addon"
+filename = "addon-tensura_checklist.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "34545fbb0603dc69e884736b79f9a01ebd6caa3f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7942217
+project-id = 1517089

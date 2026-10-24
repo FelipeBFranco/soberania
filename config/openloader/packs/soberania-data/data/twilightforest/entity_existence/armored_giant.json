@@ -1,0 +1,13 @@
+{
+  "max_magicule": 35000,
+  "abilities": [
+    "tensura:strengthen_body",
+    "tensura:steel_strength",
+    "tensura:engorger"
+  ],
+  "max_aura": 28000,
+  "min_aura": 16000,
+  "spiritualHealth": 300,
+  "min_magicule": 20000,
+  "type": "twilightforest:armored_giant"
+}

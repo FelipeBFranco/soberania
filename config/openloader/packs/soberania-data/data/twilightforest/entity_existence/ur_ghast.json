@@ -1,0 +1,14 @@
+{
+  "type": "twilightforest:ur_ghast",
+  "abilities": [
+    "tensura:spatial_attack_nullification",
+    "tensura:gravity_attack_nullification",
+    "tensura:abnormal_condition_nullification",
+    "tensura:gravity_domination"
+  ],
+  "max_magicule": 400000,
+  "min_magicule": 200000,
+  "max_aura": 80000,
+  "min_aura": 40000,
+  "spiritualHealth": 1300
+}

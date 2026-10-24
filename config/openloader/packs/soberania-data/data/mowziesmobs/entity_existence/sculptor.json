@@ -1,0 +1,9 @@
+{
+  "type": "mowziesmobs:sculptor",
+  "abilities": [
+    "tensura:abnormal_condition_nullification"
+  ],
+  "max_magicule": 22000,
+  "min_magicule": 10000,
+  "spiritualHealth": 160
+}

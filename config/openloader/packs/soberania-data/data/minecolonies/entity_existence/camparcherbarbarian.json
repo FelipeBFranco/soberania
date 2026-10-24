@@ -1,0 +1,8 @@
+{
+  "type": "minecolonies:camparcherbarbarian",
+  "spiritualHealth": 80,
+  "min_aura": 750,
+  "max_aura": 2000,
+  "min_magicule": 750,
+  "max_magicule": 2000
+}

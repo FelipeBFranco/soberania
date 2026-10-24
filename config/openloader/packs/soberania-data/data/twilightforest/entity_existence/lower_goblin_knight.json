@@ -1,0 +1,11 @@
+{
+  "max_magicule": 15000,
+  "abilities": [
+    "tensura:strengthen_body"
+  ],
+  "max_aura": 9000,
+  "min_aura": 6000,
+  "spiritualHealth": 460,
+  "min_magicule": 10000,
+  "type": "twilightforest:lower_goblin_knight"
+}

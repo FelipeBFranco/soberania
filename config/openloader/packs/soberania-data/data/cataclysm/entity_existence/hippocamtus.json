@@ -1,0 +1,8 @@
+{
+  "type": "cataclysm:hippocamtus",
+  "spiritualHealth": 150,
+  "min_aura": 0,
+  "max_aura": 0,
+  "min_magicule": 3000,
+  "max_magicule": 8000
+}

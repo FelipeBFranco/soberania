@@ -1,0 +1,9 @@
+{
+  "max_magicule": 200,
+  "abilities": [],
+  "max_aura": 50,
+  "min_aura": 50,
+  "spiritualHealth": 60,
+  "min_magicule": 200,
+  "type": "twilightforest:harbinger_cube"
+}

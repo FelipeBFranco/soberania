@@ -1,0 +1,9 @@
+{
+  "max_magicule": 6500,
+  "abilities": [],
+  "max_aura": 1000,
+  "min_aura": 800,
+  "spiritualHealth": 460,
+  "min_magicule": 5500,
+  "type": "twilightforest:death_tome"
+}

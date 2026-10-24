@@ -1,0 +1,16 @@
+{
+  "type": "cataclysm:ancient_remnant",
+  "abilities": [
+    "tensura:cold_nullification",
+    "tensura:pain_nullification",
+    "tensura:holy_attack_resistance",
+    "tensura:poison_nullification",
+    "tensura:abnormal_condition_resistance",
+    "tensura:spiritual_attack_resistance"
+  ],
+  "max_aura": 48000,
+  "min_aura": 20000,
+  "max_magicule": 140000,
+  "min_magicule": 60000,
+  "spiritualHealth": 900
+}

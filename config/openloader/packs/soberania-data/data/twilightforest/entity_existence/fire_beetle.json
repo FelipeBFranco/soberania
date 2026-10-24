@@ -1,0 +1,11 @@
+{
+  "max_magicule": 10000,
+  "abilities": [
+    "tensura:flame_attack_nullification"
+  ],
+  "max_aura": 3000,
+  "min_aura": 1500,
+  "spiritualHealth": 260,
+  "min_magicule": 5000,
+  "type": "twilightforest:fire_beetle"
+}

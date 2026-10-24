@@ -1,0 +1,8 @@
+{
+  "type": "mowziesmobs:lantern",
+  "spiritualHealth": 40,
+  "min_aura": 0,
+  "max_aura": 0,
+  "min_magicule": 400,
+  "max_magicule": 400
+}

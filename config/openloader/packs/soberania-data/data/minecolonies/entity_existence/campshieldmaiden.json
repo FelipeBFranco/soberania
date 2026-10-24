@@ -1,0 +1,8 @@
+{
+  "type": "minecolonies:campshieldmaiden",
+  "spiritualHealth": 120,
+  "min_aura": 1750,
+  "max_aura": 4000,
+  "min_magicule": 1750,
+  "max_magicule": 4000
+}

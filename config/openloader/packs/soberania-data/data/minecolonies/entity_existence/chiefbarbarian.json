@@ -1,0 +1,8 @@
+{
+  "type": "minecolonies:chiefbarbarian",
+  "spiritualHealth": 200,
+  "min_aura": 3000,
+  "max_aura": 7500,
+  "min_magicule": 3000,
+  "max_magicule": 7500
+}

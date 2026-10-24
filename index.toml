@@ -205,6 +205,150 @@ file = "config/openloader/packs/soberania-data/data/cataclysm/entity_existence/w
 hash = "fb3fb820cee202848059c7902c06400a6c1ecc712f536eafeea14503f46441c8"
 
 [[files]]
+file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/amazon.json"
+hash = "05e1fad91ad8ad17e56bfaaf5d02f82fb03928fbb76a8f2edf8a975964733f65"
+
+[[files]]
+file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/amazonchief.json"
+hash = "8790aa3eb6c5298db909b17e3263843d1a721d0886edd9ede90e586a52873c1c"
+
+[[files]]
+file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/amazonspearman.json"
+hash = "5f031d2dec8ca6603bc599d8334afe56882635af4a97791a1a67145ec129745d"
+
+[[files]]
+file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/archerbarbarian.json"
+hash = "7043712f4d433c34ff906213fce2b8f13c2095ee01649b65324ef4e2ca64ea5d"
+
+[[files]]
+file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/archermummy.json"
+hash = "518a2923d7dddbe230735704ffab0fd64867c073154cd8003bfa17e41e603dcb"
+
+[[files]]
+file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/archerpirate.json"
+hash = "09f733c54560797b63a6903983a1337dafd95844f7a7ba6e18f981ace165882d"
+
+[[files]]
+file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/barbarian.json"
+hash = "dde2e2a845fca2feb89a7482e6b494ff1f5bcb4fdb6dc628519d781e6e802dfe"
+
+[[files]]
+file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/campamazon.json"
+hash = "1133751afa6b82c5f5eb8ac0607d69f7e3eb49932ae9597e1bfd0a4f2e8b6469"
+
+[[files]]
+file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/campamazonchief.json"
+hash = "70cdac7c43a3d2225f98ef5a8150f85b9383634f2131097144bc910339bc6273"
+
+[[files]]
+file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/campamazonspearman.json"
+hash = "242dcf88f2a97ba23bd6733ea38a773872efb1a9403dce24e898f8fcc329941a"
+
+[[files]]
+file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/camparcherbarbarian.json"
+hash = "459bd702acbcd05275b07482be5d51a693ade5e4f103528ccba5d6d8d9ec9225"
+
+[[files]]
+file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/camparchermummy.json"
+hash = "b207b409004557b826ba88a955ec7f18f49730a05fa47ec1bd3c8b31ba5e3512"
+
+[[files]]
+file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/camparcherpirate.json"
+hash = "b9011981a62434b3bcbe5cb73bfd58a4f16acf10d20f6e1e3b8154fdeb1e48c5"
+
+[[files]]
+file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/campbarbarian.json"
+hash = "0ed284683a3a481802539be3086809f0d73c397ab2bf6c65d0773257cc6f6b41"
+
+[[files]]
+file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/campchiefbarbarian.json"
+hash = "743cb60a6b932c9b66035b9333a090ed1bf28d1a80b09d11133e15c13def5109"
+
+[[files]]
+file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/campchiefpirate.json"
+hash = "ee919ac2e3f3f7699dd4414dc5854eccaaf5047344de30fcb5f8d3e279090b0b"
+
+[[files]]
+file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/campdrownedarcherpirate.json"
+hash = "5f305a66ad8026575cc37f625bdf22ff399d8cc74b2e9589baebcc354a21ee1c"
+
+[[files]]
+file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/campdrownedchiefpirate.json"
+hash = "96ec3df1ad5bf2cf8d08bf5daf07d38d58727029a4a9a5f30a03ee62e6fab153"
+
+[[files]]
+file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/campdrownedpirate.json"
+hash = "6eec3ceec827bb9cc87f30e967bdb08a82b2b52ad9fd27973f1ed1a135858db4"
+
+[[files]]
+file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/campmummy.json"
+hash = "b8d79c418e2b30214c6c5f44421203d0eccc5e02b8c37279fb1b550e0e3e1a76"
+
+[[files]]
+file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/campnorsemenarcher.json"
+hash = "2389c9c3e366db9df7ed104463850ba83979fce3524b58fe96c976fe72d6a891"
+
+[[files]]
+file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/campnorsemenchief.json"
+hash = "62944b3925e904187183590a71389c86b48a36038d4d7d691baaf9738c855d6d"
+
+[[files]]
+file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/camppharao.json"
+hash = "672ae794495d14f45643edffe48dbbd3103ca3cade2af3903335a80457973e86"
+
+[[files]]
+file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/camppirate.json"
+hash = "5fa779bd1557bf143b91eb065669a4c78a3d2052ddd05fc2f2e639fc151d3d2c"
+
+[[files]]
+file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/campshieldmaiden.json"
+hash = "b8d16ce06da4d57614ca1ac294ca54c790cc41cdb73a5713fa66a2bcd26eb501"
+
+[[files]]
+file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/chiefbarbarian.json"
+hash = "d64e60f95c2c89fd4bacf187369d7ef57010976e69152d21b87747e76cbbdd80"
+
+[[files]]
+file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/chiefpirate.json"
+hash = "6d53fa8ec49cef8f9ae40c60998b2512205bd62e83d4de0f24919035e6aa6989"
+
+[[files]]
+file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/drownedarcherpirate.json"
+hash = "3a9723eff81fa4ececa1133285360cf558a14e8d06db68095394e4c5aec9b3c6"
+
+[[files]]
+file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/drownedchiefpirate.json"
+hash = "01a795dff4b907ceafa314b38281c5c70645a639f6122a19ae6f6e8313eb1400"
+
+[[files]]
+file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/drownedpirate.json"
+hash = "77ce907b7f3f94ababcbc1382bda87e23df1fc8b3286eea424dc2fa8fda8fded"
+
+[[files]]
+file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/mummy.json"
+hash = "895489b101632ec8cdfb717de96156d49f51267eb1d9717438b417025e236be6"
+
+[[files]]
+file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/norsemenarcher.json"
+hash = "f2cd203ce2ececf8d6bd6ab266a866fe77d0c6969b6fb06918b1a45a3d0e0998"
+
+[[files]]
+file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/norsemenchief.json"
+hash = "f1248e37296549a86d8f0f90df9fc3ea4d35ee7d5cf1bd5814feea332bf37ebb"
+
+[[files]]
+file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/pharao.json"
+hash = "cbf06236074003b9eb80f5112597722c3f5117dfea266cb061c7cf7e6c9ca6d4"
+
+[[files]]
+file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/pirate.json"
+hash = "5de486e243d450731d8d32d55b85eb0f8924819c1991e0d7c95e49ef0092fa88"
+
+[[files]]
+file = "config/openloader/packs/soberania-data/data/minecolonies/entity_existence/shieldmaiden.json"
+hash = "4e6ca65ef33663e107c72b60fc6e8c603e08809846a62f306353370060098731"
+
+[[files]]
 file = "config/openloader/packs/soberania-data/data/mowziesmobs/entity_existence/bluff.json"
 hash = "e9e920217097e20bbed2116666d150703e52eaee6d8bf27ca029eb424e5c84f6"
 

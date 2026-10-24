@@ -1,0 +1,8 @@
+{
+  "type": "minecolonies:drownedpirate",
+  "spiritualHealth": 100,
+  "min_aura": 1250,
+  "max_aura": 3000,
+  "min_magicule": 1250,
+  "max_magicule": 3000
+}

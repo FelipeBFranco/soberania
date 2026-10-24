@@ -3192,3 +3192,7 @@ hash = "4f985e039930b7e923d5d06b3669a78acc13ac120e40c8b8e73e4368699e1391"
 [[files]]
 file = "tools/gerar_texturas_vassalo.py"
 hash = "233bc50a366ae06b5ac8410d960563507a572c05c86fa5bf526a07a251fb6372"
+
+[[files]]
+file = "tools/sonda_vassalagem.js"
+hash = "039774e0e347d83e92305524277e35a717cc0529ffd4b91e64124a3368c5806f"

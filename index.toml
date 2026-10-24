@@ -26,7 +26,7 @@ hash = "38426c7cb598cf2907456cbf7c95580d7fd6c83d0234a31159467d74c7419211"
 
 [[files]]
 file = "config/ftbquests/quests/lang/pt_br.snbt"
-hash = "3de5efc172de731a2ebb41dd619c4b0dece8b1b48193bfea39c18cd5618cb890"
+hash = "e6a633787171368079f1d39d0f823f3a6de05cb3a4771e80a4831110c06f1f06"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/bolsa_da_grande_sabia.snbt"
@@ -34,7 +34,7 @@ hash = "57f7ef18324f4c72c063dfb358273850a8ab7b4863eccb8b161bf793ac57f569"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/dadiva_da_grande_sabia.snbt"
-hash = "c2e25f8038d30f1bcf3484a9b15255d4d738fb0f76c09cb7e631c7aa878caff8"
+hash = "446189a00bd513edac0c44d9b82fc717e7054133f4fb6d89e28f9a82766fe201"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/escolha_do_fundador.snbt"
@@ -83,6 +83,10 @@ hash = "6fc918a2513b982c9883ddd420cbf0da4c63690a7e2ddfcfa603e0e6db65b97a"
 [[files]]
 file = "config/openloader/packs/soberania-pt-br/assets/tensura_ftb/lang/pt_br.json"
 hash = "5b6822337f642a837f065e5344186381a79be272981627ca9ffd24b358bc678a"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/tensura_skill_books/lang/pt_br.json"
+hash = "8ba9382dd0b76a688efd146d039fb91b255668197f5aaa4164a1a111976102d0"
 
 [[files]]
 file = "config/openloader/packs/soberania-pt-br/pack.mcmeta"

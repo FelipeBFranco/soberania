@@ -1,12 +1,12 @@
 name = "Soberania: Ferro e Mana"
 author = "Felipe Franco"
-version = "0.1.1"
+version = "0.1.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ca0a123bad0475f1b50e37c400594a05f79093697eaefc2b8e5cc52406f06f3b"
+hash = "792efa3ee53b88fc2057c926d56171b241303fd2ba976341acd8d23bc659fa9c"
 
 [versions]
 minecraft = "1.21.1"

@@ -16,273 +16,641 @@
 				""
 				"Nada do que você sabia vale muito agora. O que vale é o que você vai se tornar."
 				""
-				"&7Esta é a Era 0. Ela termina quando você tiver um súdito e um lugar para chamar de casa."
+				"&7A Era 0 termina quando você tiver um súdito, dois mil pontos de existência e um lugar para chamar de casa."
+				"&7Missões com &e(opcional)&7 no nome são ramos: valem recompensa, mas a Porta não depende delas."
 			]
 			icon: {
 				id: "minecraft:soul_lantern"
 			}
 			id: "0A00000000000101"
-			rewards: [{
-				id: "0A00000000000181"
-				item: { count: 1, id: "minecraft:bread" }
-				count: 8
-				type: "item"
-			}]
+			rewards: [
+				{ id: "0A00000000000401", item: { count: 1, id: "sophisticatedbackpacks:backpack" }, type: "item" }
+				{ id: "0A00000000000501", item: { count: 8, id: "minecraft:bread" }, type: "item" }
+				{ id: "0A00000000000601", item: { count: 8, id: "minecraft:torch" }, type: "item" }
+				{ id: "0A00000000000701", item: { count: 1, id: "waystones:warp_stone" }, type: "item" }
+			]
 			shape: "gear"
 			size: 1.5d
-			subtitle: "Reencarnação"
+			subtitle: "Onde é este lugar?"
 			tasks: [{
 				advancement: "tensura:reincarnated"
 				criterion: ""
-				id: "0A000000000001A1"
+				id: "0A00000000000201"
 				type: "advancement"
 			}]
-			title: "Despertar"
+			title: "【História】 Despertar"
 			x: 0.0d
 			y: 0.0d
 		}
 		{
 			dependencies: ["0A00000000000101"]
 			description: [
-				"A noite aqui não perdoa. Antes de pensar em grandeza, pense em um teto."
+				"Tudo aqui é feito de Magicules. Eles correm nas pedras, nos monstros, em você. Para crescer, você precisa senti-los."
 				""
-				"Durma uma noite inteira em uma cama."
+				"Encontre e quebre um &bMinério Mágico&r. Ele brilha em cavernas e dá os cristais que movem este mundo."
+				""
+				"&7Dica: o Minério Mágico aparece entre as camadas 0 e 40. Leve tochas."
 			]
 			id: "0A00000000000102"
-			rewards: [{
-				id: "0A00000000000182"
-				item: { count: 1, id: "minecraft:torch" }
-				count: 16
-				type: "item"
-			}]
-			subtitle: "Sobreviver à primeira noite"
-			tasks: [{
-				advancement: "minecraft:adventure/sleep_in_bed"
-				criterion: ""
-				id: "0A000000000001A2"
-				type: "advancement"
-			}]
-			title: "Um teto"
-			x: -2.0d
-			y: 1.5d
-		}
-		{
-			dependencies: ["0A00000000000101"]
-			description: [
-				"Tudo aqui é feito de Magicules. Para crescer, você precisa senti-los."
-				""
-				"Encontre e quebre um &bMinério Mágico&r. É dele que vêm os cristais que movem este mundo."
+			rewards: [
+				{ id: "0A00000000000402", item: { count: 4, id: "tensura:low_quality_magic_crystal" }, type: "item" }
+				{ id: "0A00000000000502", type: "xp_levels", xp_levels: 10 }
 			]
-			id: "0A00000000000103"
-			rewards: [{
-				id: "0A00000000000183"
-				type: "xp_levels"
-				xp_levels: 3
-			}]
-			subtitle: "Os primeiros Magicules"
+			subtitle: "Tudo aqui é Magicule"
 			tasks: [{
 				advancement: "tensura:magic_ore"
 				criterion: ""
-				id: "0A000000000001A3"
+				id: "0A00000000000202"
 				type: "advancement"
 			}]
-			title: "Minério Mágico"
-			x: 2.0d
-			y: 1.5d
+			title: "【História】 Sinta o mundo"
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0A00000000000102"]
+			description: [
+				"Toda criatura deste mundo aprende. Lute, coma, use o que tem, e os seus &bPontos de Existência&r sobem."
+				""
+				"Chegue a &e500 EP&r. Abra o painel (tecla B) para acompanhar."
+			]
+			id: "0A00000000000103"
+			rewards: [
+				{ existence: "MAX_EP", id: "0A00000000000403", type: "tensura_ftb:existence_value", value: 100 }
+				{ id: "0A00000000000503", type: "xp_levels", xp_levels: 10 }
+			]
+			subtitle: "Toda criatura aprende"
+			tasks: [{
+				existence: "MAX_EP"
+				id: "0A00000000000203"
+				type: "tensura_ftb:existence_value"
+				value: 500L
+			}]
+			title: "【História】 O primeiro poder"
+			x: 0.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["0A00000000000103"]
 			description: [
-				"Toda criatura deste mundo pode aprender. Você também."
+				"Há coisas que os olhos não mostram: a aura de um monstro, a força de quem se aproxima, o que a Grande Sábia lê quando você aperta V."
 				""
-				"Domine a sua primeira habilidade: use-a até que ela se torne parte de você."
+				"Aprenda &bPercepção Mágica&r. É a primeira habilidade que todo governante precisa."
+				""
+				"&7Dica: fique perto de criaturas com muita magia, ou medite em lugares densos em Magicules."
 			]
 			id: "0A00000000000104"
-			rewards: [{
-				id: "0A00000000000184"
-				type: "xp_levels"
-				xp_levels: 5
-			}]
-			subtitle: "Habilidade dominada"
+			rewards: [
+				{ id: "0A00000000000404", type: "xp_levels", xp_levels: 25 }
+				{ exclude_from_claim_all: true, id: "0A00000000000504", table_id: 720575940379279601L, type: "random" }
+			]
+			subtitle: "Veja o que os outros não veem"
 			tasks: [{
-				advancement: "tensura:master_skill"
-				criterion: ""
-				id: "0A000000000001A4"
-				type: "advancement"
+				ability: "tensura:magic_sense"
+				id: "0A00000000000204"
+				status: "LEARNT"
+				type: "tensura_ftb:ability"
 			}]
-			title: "Primeira maestria"
-			x: 3.5d
-			y: 3.0d
-		}
-		{
-			dependencies: ["0A00000000000102"]
-			description: [
-				"Um reino começa com um caminho de volta."
-				""
-				"Construa uma &bPedra de Caminho&r e ative-a. Depois, aonde quer que você vá, saberá voltar."
-			]
-			id: "0A00000000000105"
-			rewards: [{
-				id: "0A00000000000185"
-				item: { count: 1, id: "waystones:warp_stone" }
-				type: "item"
-			}]
-			subtitle: "O caminho de volta"
-			tasks: [{
-				id: "0A000000000001A5"
-				item: { count: 1, id: "waystones:waystone" }
-				type: "item"
-			}]
-			title: "Pedra de Caminho"
-			x: -3.5d
-			y: 3.0d
-		}
-		{
-			dependencies: ["0A00000000000102"]
-			description: [
-				"Antes de comandar máquinas, é preciso entender a mais simples delas."
-				""
-				"Faça &bLiga de Andesito&r e uma &bRoda d'Água&r. Água corrente é a primeira força que você vai dominar."
-			]
-			id: "0A00000000000106"
-			rewards: [{
-				id: "0A00000000000186"
-				item: { count: 1, id: "create:andesite_alloy" }
-				count: 8
-				type: "item"
-			}]
-			subtitle: "A primeira força"
-			tasks: [
-				{
-					id: "0A000000000001A6"
-					item: { count: 1, id: "create:andesite_alloy" }
-					count: 4L
-					type: "item"
-				}
-				{
-					id: "0A000000000001B6"
-					item: { count: 1, id: "create:water_wheel" }
-					type: "item"
-				}
-			]
-			title: "Roda d'Água"
-			x: -2.0d
-			y: 4.5d
-		}
-		{
-			dependencies: ["0A00000000000103"]
-			description: [
-				"Nem toda força vem do ferro. Em algum lugar deste mundo há quem fale com a magia por outro nome."
-				""
-				"Encontre um &bTomo Esfarrapado&r. Não leia tudo ainda. Só saiba que ele existe."
-			]
-			id: "0A00000000000107"
-			rewards: [{
-				id: "0A00000000000187"
-				type: "xp_levels"
-				xp_levels: 2
-			}]
-			subtitle: "Uma semente de curiosidade"
-			tasks: [{
-				id: "0A000000000001A7"
-				item: { count: 1, id: "ars_nouveau:worn_notebook" }
-				type: "item"
-			}]
-			title: "Tomo Esfarrapado"
-			x: 2.0d
-			y: 4.5d
+			title: "【História】 Percepção Mágica"
+			x: 0.0d
+			y: 6.0d
 		}
 		{
 			dependencies: ["0A00000000000104"]
 			description: [
-				"Um nome é um presente caro. Dar um nome a um monstro é entregar a ele parte dos seus Magicules e, em troca, ganhar lealdade."
+				"Aprender é fácil. Dominar é outra coisa."
+				""
+				"Use uma habilidade até que ela se torne parte de você. A primeira maestria é a que ensina como funcionam todas as outras."
+			]
+			id: "0A00000000000105"
+			rewards: [
+				{ existence: "MAX_EP", id: "0A00000000000405", type: "tensura_ftb:existence_value", value: 150 }
+				{ id: "0A00000000000505", type: "xp_levels", xp_levels: 25 }
+			]
+			subtitle: "Use até virar parte de você"
+			tasks: [{
+				advancement: "tensura:master_skill"
+				criterion: ""
+				id: "0A00000000000205"
+				type: "advancement"
+			}]
+			title: "【História】 Primeira maestria"
+			x: 0.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["0A00000000000105"]
+			description: [
+				"Um nome é um presente caro. Dar um nome a um monstro é entregar a ele parte dos seus Magicules e, em troca, ganhar lealdade, e às vezes uma evolução."
 				""
 				"Nomeie uma criatura. Ela será o seu primeiro súdito."
+				""
+				"&7Dica: olhe para a criatura e use o comando de nomear do Tensura. Escolha bem: você vai gastar quase toda a sua magia."
 			]
 			icon: {
 				id: "minecraft:name_tag"
 			}
-			id: "0A00000000000108"
-			rewards: [{
-				id: "0A00000000000188"
-				type: "xp_levels"
-				xp_levels: 10
-			}]
+			id: "0A00000000000106"
+			rewards: [
+				{ id: "0A00000000000406", random: "COMMON", status: "LEARNT", type: "tensura_ftb:random_ability" }
+				{ id: "0A00000000000506", type: "xp_levels", xp_levels: 50 }
+				{ exclude_from_claim_all: true, id: "0A00000000000606", table_id: 720575940379279602L, type: "random" }
+			]
 			shape: "hexagon"
-			size: 1.25d
-			subtitle: "O primeiro súdito"
+			size: 1.5d
+			subtitle: "Um nome é um presente caro"
 			tasks: [{
 				advancement: "tensura:name_a_mob"
 				criterion: ""
-				id: "0A000000000001A8"
+				id: "0A00000000000206"
 				type: "advancement"
 			}]
-			title: "Um nome"
-			x: 3.5d
-			y: 6.0d
+			title: "【Marco】 Um nome"
+			x: 0.0d
+			y: 10.5d
 		}
 		{
-			dependencies: ["0A00000000000105", "0A00000000000106"]
+			dependencies: ["0A00000000000105"]
+			description: [
+				"Dois mil pontos de existência. Para o Tensura, você deixa de ser presa."
+				""
+				"Chegue a &e2.000 EP&r. Daqui em diante, o mundo começa a prestar atenção em você."
+			]
+			icon: {
+				id: "tensura:medium_quality_magic_crystal"
+			}
+			id: "0A00000000000107"
+			rewards: [
+				{ exclude_from_claim_all: true, id: "0A00000000000407", table_id: 720575940379279602L, type: "random" }
+				{ id: "0A00000000000507", type: "xp_levels", xp_levels: 100 }
+			]
+			shape: "hexagon"
+			size: 1.5d
+			subtitle: "Rank D fica para trás"
+			tasks: [{
+				existence: "MAX_EP"
+				id: "0A00000000000207"
+				type: "tensura_ftb:existence_value"
+				value: 2000L
+			}]
+			title: "【Marco】 Dois mil"
+			x: 3.0d
+			y: 10.5d
+		}
+		{
+			dependencies: ["0A00000000000101"]
+			description: [
+				"Um reino começa com um caminho de volta."
+				""
+				"Construa uma &bPedra de Caminho&r e ative-a. Depois, aonde quer que você vá, a Pedra de Teleporte que ganhou no Despertar te traz de volta."
+			]
+			id: "0A00000000000108"
+			rewards: [
+				{ id: "0A00000000000408", item: { count: 1, id: "waystones:warp_stone" }, type: "item" }
+				{ id: "0A00000000000508", type: "xp_levels", xp_levels: 10 }
+			]
+			subtitle: "Um reino começa com um caminho de volta"
+			tasks: [{
+				id: "0A00000000000208"
+				item: { count: 1, id: "waystones:waystone" }
+				type: "item"
+			}]
+			title: "[Reino] Pedra de Caminho"
+			x: -4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0A00000000000108"]
+			description: [
+				"A noite aqui não perdoa: o que ronda no escuro não é só zumbi."
+				""
+				"Durma uma noite inteira em uma cama. Amanhã você começa a construir."
+			]
+			id: "0A00000000000109"
+			rewards: [
+				{ id: "0A00000000000409", item: { count: 16, id: "minecraft:torch" }, type: "item" }
+				{ id: "0A00000000000509", type: "xp_levels", xp_levels: 5 }
+			]
+			subtitle: "A noite aqui não perdoa"
+			tasks: [{
+				advancement: "minecraft:adventure/sleep_in_bed"
+				criterion: ""
+				id: "0A00000000000209"
+				type: "advancement"
+			}]
+			title: "[Reino] Um teto"
+			x: -4.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0A00000000000109"]
 			description: [
 				"Gente precisa de um lugar. Antes da cidade, o acampamento."
 				""
 				"Fabrique um &bAcampamento de Suprimentos&r e coloque-o em terreno plano. Dentro dele está tudo o que uma colônia precisa para começar, inclusive a Prefeitura."
+				""
+				"&7Dica: a receita está no EMI. Procure \"Acampamento\"."
 			]
-			id: "0A00000000000109"
-			rewards: [{
-				id: "0A00000000000189"
-				item: { count: 1, id: "minecolonies:ancienttome" }
-				type: "item"
-			}]
-			subtitle: "Onde tudo começa"
+			id: "0A0000000000010A"
+			rewards: [
+				{ id: "0A0000000000040A", item: { count: 1, id: "minecolonies:ancienttome" }, type: "item" }
+				{ id: "0A0000000000050A", type: "xp_levels", xp_levels: 25 }
+			]
+			subtitle: "Antes da cidade, o acampamento"
 			tasks: [{
-				id: "0A000000000001A9"
+				id: "0A0000000000020A"
 				item: { count: 1, id: "minecolonies:supplycampdeployer" }
 				type: "item"
 			}]
-			title: "Acampamento de Suprimentos"
-			x: -2.0d
+			title: "[Reino] Acampamento de Suprimentos"
+			x: -4.0d
 			y: 6.0d
 		}
 		{
-			dependencies: ["0A00000000000108", "0A00000000000109"]
+			dependencies: ["0A0000000000010A"]
 			description: [
-				"Você tem um súdito. Você tem um lugar. O que falta é declarar."
+				"Quem desenha, manda. A &bFerramenta de Construção&r mostra, antes de colocar, cada construção da colônia: estilo, posição, nível."
+				""
+				"Pegue uma. Ela vem no acampamento, ou se fabrica com ouro e madeira."
+			]
+			id: "0A0000000000010B"
+			rewards: [
+				{ id: "0A0000000000040B", type: "xp_levels", xp_levels: 25 }
+				{ exclude_from_claim_all: true, id: "0A0000000000050B", table_id: 720575940379279601L, type: "random" }
+			]
+			subtitle: "Quem desenha, manda"
+			tasks: [{
+				id: "0A0000000000020B"
+				item: { count: 1, id: "structurize:sceptergold" }
+				type: "item"
+			}]
+			title: "[Reino] Ferramenta de Construção"
+			x: -4.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["0A00000000000102"]
+			description: [
+				"Nem tudo que brilha é ferro. Ferro com andesito dá a liga de que toda máquina simples é feita."
+				""
+				"Faça 4 &bLigas de Andesito&r."
+			]
+			id: "0A0000000000010C"
+			optional: true
+			rewards: [
+				{ id: "0A0000000000040C", item: { count: 8, id: "create:andesite_alloy" }, type: "item" }
+				{ id: "0A0000000000050C", type: "xp_levels", xp_levels: 10 }
+			]
+			subtitle: "Nem tudo que brilha é ferro"
+			tasks: [{
+				count: 4L
+				id: "0A0000000000020C"
+				item: { count: 1, id: "create:andesite_alloy" }
+				type: "item"
+			}]
+			title: "[Ferro] Liga de Andesito (opcional)"
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0A0000000000010C"]
+			description: [
+				"Água corrente é a primeira força que você vai dominar. Uma roda, eixos, e a rotação viaja."
+				""
+				"Faça uma &bRoda d'Água&r e 4 &bEixos&r. Coloque a roda em água corrente e sinta o giro."
+			]
+			id: "0A0000000000010D"
+			optional: true
+			rewards: [
+				{ id: "0A0000000000040D", item: { count: 2, id: "create:cogwheel" }, type: "item" }
+				{ id: "0A0000000000050D", type: "xp_levels", xp_levels: 25 }
+			]
+			subtitle: "Água corrente, força parada"
+			tasks: [
+				{
+					id: "0A0000000000020D"
+					item: { count: 1, id: "create:water_wheel" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "0A0000000000030D"
+					item: { count: 1, id: "create:shaft" }
+					type: "item"
+				}
+			]
+			title: "[Ferro] Roda d'Água (opcional)"
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0A0000000000010D"]
+			description: [
+				"O primeiro braço do reino. A &bPrensa Mecânica&r transforma lingotes em placas, e placas são o começo de tudo no Ferro."
+				""
+				"Construa uma. Ligue-a à roda."
+			]
+			id: "0A0000000000010E"
+			optional: true
+			rewards: [
+				{ exclude_from_claim_all: true, id: "0A0000000000040E", table_id: 720575940379279601L, type: "random" }
+				{ id: "0A0000000000050E", type: "xp_levels", xp_levels: 50 }
+			]
+			subtitle: "O primeiro braço do reino"
+			tasks: [{
+				id: "0A0000000000020E"
+				item: { count: 1, id: "create:mechanical_press" }
+				type: "item"
+			}]
+			title: "[Ferro] Prensa Mecânica (opcional)"
+			x: 4.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0A00000000000102"]
+			description: [
+				"Nem toda força vem do ferro. Em algum lugar deste mundo há quem fale com a magia por outro nome."
+				""
+				"Encontre um &bTomo Esfarrapado&r. Não leia tudo ainda. Só saiba que ele existe."
+				""
+				"&7Dica: a receita usa um livro e uma gema de Source. Gemas aparecem em geodos de ametista."
+			]
+			id: "0A0000000000010F"
+			optional: true
+			rewards: [
+				{ id: "0A0000000000040F", type: "xp_levels", xp_levels: 10 }
+			]
+			subtitle: "Não leia tudo ainda"
+			tasks: [{
+				id: "0A0000000000020F"
+				item: { count: 1, id: "ars_nouveau:worn_notebook" }
+				type: "item"
+			}]
+			title: "[Mana] Tomo Esfarrapado (opcional)"
+			x: 7.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0A0000000000010F"]
+			description: [
+				"A magia tem um preço, e o preço se chama Source. Ela mora em gemas, em frutas, em criaturas."
+				""
+				"Junte 4 &bGemas de Source&r."
+			]
+			id: "0A00000000000110"
+			optional: true
+			rewards: [
+				{ id: "0A00000000000410", item: { count: 4, id: "ars_nouveau:sourceberry_bush" }, type: "item" }
+				{ id: "0A00000000000510", type: "xp_levels", xp_levels: 25 }
+			]
+			subtitle: "A magia tem um preço"
+			tasks: [{
+				count: 4L
+				id: "0A00000000000210"
+				item: { count: 1, id: "ars_nouveau:source_gem" }
+				type: "item"
+			}]
+			title: "[Mana] Gema de Source (opcional)"
+			x: 7.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0A00000000000110"]
+			description: [
+				"Um livro, um gesto. O &bLivro de Feitiços de Novato&r é onde a magia deixa de ser leitura e vira ato."
+				""
+				"Faça um e lance o seu primeiro feitiço."
+			]
+			id: "0A00000000000111"
+			optional: true
+			rewards: [
+				{ exclude_from_claim_all: true, id: "0A00000000000411", table_id: 720575940379279601L, type: "random" }
+				{ id: "0A00000000000511", type: "xp_levels", xp_levels: 50 }
+			]
+			subtitle: "Um livro, um gesto"
+			tasks: [{
+				id: "0A00000000000211"
+				item: { count: 1, id: "ars_nouveau:novice_spell_book" }
+				type: "item"
+			}]
+			title: "[Mana] Primeiro feitiço (opcional)"
+			x: 7.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0A00000000000101"]
+			description: [
+				"O mundo é maior do que a clareira onde você acordou. Há ruínas, florestas que não são deste mundo, e coisas que não deveriam estar acordadas."
+				""
+				"Fabrique uma &bBússola do Explorador&r. Ela aponta para qualquer estrutura que você procurar."
+			]
+			id: "0A00000000000112"
+			optional: true
+			rewards: [
+				{ id: "0A00000000000412", type: "xp_levels", xp_levels: 10 }
+			]
+			subtitle: "O mundo é maior do que a clareira"
+			tasks: [{
+				id: "0A00000000000212"
+				item: { count: 1, id: "explorerscompass:explorerscompass" }
+				type: "item"
+			}]
+			title: "[Mundo] Bússola do Explorador (opcional)"
+			x: -7.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0A00000000000112"]
+			description: [
+				"Alguém viveu aqui antes de você. Não terminou bem."
+				""
+				"Entre em uma &bmasmorra&r de verdade: use a bússola para achar uma Pequena Masmorra, uma Masmorra de Esqueletos, de Aranhas ou de Zumbis."
+			]
+			id: "0A00000000000113"
+			optional: true
+			rewards: [
+				{ exclude_from_claim_all: true, id: "0A00000000000413", table_id: 720575940379279601L, type: "random" }
+				{ id: "0A00000000000513", type: "xp_levels", xp_levels: 25 }
+			]
+			subtitle: "Alguém viveu aqui antes"
+			tasks: [
+				{
+					id: "0A00000000000213"
+					structure: "betterdungeons:small_dungeon"
+					type: "structure"
+				}
+			]
+			title: "[Mundo] Ruínas (opcional)"
+			x: -7.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0A00000000000113"]
+			description: [
+				"A &bFloresta Antiga&r é onde os elfos não querem visita. As árvores são mais velhas que qualquer reino, e o que mora nelas também."
+				""
+				"Encontre esse bioma. Não precisa ficar."
+			]
+			id: "0A00000000000114"
+			optional: true
+			rewards: [
+				{ exclude_from_claim_all: true, id: "0A00000000000414", table_id: 720575940379279602L, type: "random" }
+				{ id: "0A00000000000514", type: "xp_levels", xp_levels: 50 }
+			]
+			subtitle: "Onde os elfos não querem visita"
+			tasks: [{
+				biome: "tensura:ancient_forest"
+				id: "0A00000000000214"
+				type: "biome"
+			}]
+			title: "[Mundo] Floresta Antiga (opcional)"
+			x: -7.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0A00000000000101"]
+			description: [
+				"A tecla &eB&r abre o painel do Tensura: raça, EP, Magicules, Aura, habilidades e equipamentos."
+				""
+				"É o seu espelho. Abra, olhe, e marque esta missão."
+			]
+			id: "0A00000000000115"
+			optional: true
+			rewards: [{ id: "0A00000000000415", type: "xp_levels", xp_levels: 5 }]
+			shape: "diamond"
+			subtitle: "Tecla B"
+			tasks: [{ id: "0A00000000000215", title: "Abri o painel", type: "checkmark" }]
+			title: "[Como funciona] O painel"
+			x: 10.5d
+			y: 9.0d
+		}
+		{
+			dependencies: ["0A00000000000115"]
+			description: [
+				"Habilidades se aprendem usando o corpo: lutar, comer, cair, queimar. Cada uma tem uma barra de &bmaestria&r; cheia, ela evolui."
+				""
+				"Habilidades &eÚnicas&r e &eSupremas&r não se aprendem assim: vêm de marcos, de evoluções e de desejos no Mar das Almas."
+			]
+			id: "0A00000000000116"
+			optional: true
+			rewards: [{ id: "0A00000000000416", type: "xp_levels", xp_levels: 5 }]
+			shape: "diamond"
+			subtitle: "Comuns, Únicas, Supremas"
+			tasks: [{ id: "0A00000000000216", title: "Entendi as habilidades", type: "checkmark" }]
+			title: "[Como funciona] Habilidades"
+			x: 10.5d
+			y: 10.5d
+		}
+		{
+			dependencies: ["0A00000000000116"]
+			description: [
+				"&bEP&r (Pontos de Existência) é o quanto você existe. Sobe com tudo o que você faz e define o seu &erank&r: F, E, D, C, B, A, Especial A, S, Especial S."
+				""
+				"Monstros têm EP também. A Grande Sábia lê o deles com a tecla &eV&r. Se o número for muito maior que o seu, corra."
+			]
+			id: "0A00000000000117"
+			optional: true
+			rewards: [{ id: "0A00000000000417", type: "xp_levels", xp_levels: 5 }]
+			shape: "diamond"
+			subtitle: "Quanto você existe"
+			tasks: [{ id: "0A00000000000217", title: "Entendi EP e ranks", type: "checkmark" }]
+			title: "[Como funciona] EP e ranks"
+			x: 10.5d
+			y: 12.0d
+		}
+		{
+			dependencies: ["0A00000000000117"]
+			description: [
+				"A &bGrande Sábia&r anuncia cada habilidade, lê criaturas (&eV&r), tem um console (&eG&r) com análise, árvore de crescimento e registros, e conversa: segure a tecla de falar e diga a frase."
+				""
+				"Ela só entende frases da lista. Ex.: \"quem é você\", \"qual é a minha raça\", \"lista as minhas habilidades\", \"analisa &oNome da Skill&r\"."
+			]
+			id: "0A00000000000118"
+			optional: true
+			rewards: [{ id: "0A00000000000418", type: "xp_levels", xp_levels: 5 }]
+			shape: "diamond"
+			subtitle: "G, V e a voz"
+			tasks: [{ id: "0A00000000000218", title: "Falei com ela", type: "checkmark" }]
+			title: "[Como funciona] A Grande Sábia"
+			x: 10.5d
+			y: 13.5d
+		}
+		{
+			dependencies: ["0A00000000000118"]
+			description: [
+				"A colônia é o seu reino. A &bPrefeitura&r funda; a &bCabana do Construtor&r contrata quem ergue todo o resto; cada cabana nova é um ofício."
+				""
+				"Os cidadãos comem, dormem, reclamam e evoluem. Trate-os bem: são eles que vão trabalhar enquanto você evolui."
+			]
+			id: "0A00000000000119"
+			optional: true
+			rewards: [{ id: "0A00000000000419", type: "xp_levels", xp_levels: 5 }]
+			shape: "diamond"
+			subtitle: "Cidadãos têm fome"
+			tasks: [{ id: "0A00000000000219", title: "Entendi a colônia", type: "checkmark" }]
+			title: "[Como funciona] A colônia"
+			x: 10.5d
+			y: 15.0d
+		}
+		{
+			dependencies: ["0A00000000000115", "0A00000000000116", "0A00000000000117", "0A00000000000118", "0A00000000000119"]
+			description: [
+				"Poucos chegam aqui. Quem lê, governa melhor."
+				""
+				"Como prêmio por ter lido tudo: uma habilidade nova, trezentos pontos de existência e trinta níveis."
+			]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:enchanted_book"
+			}
+			id: "0A0000000000011A"
+			optional: true
+			rewards: [
+				{ id: "0A0000000000041A", random: "COMMON", status: "LEARNT", type: "tensura_ftb:random_ability" }
+				{ existence: "MAX_EP", id: "0A0000000000051A", type: "tensura_ftb:existence_value", value: 300 }
+				{ id: "0A0000000000061A", type: "xp_levels", xp_levels: 30 }
+			]
+			shape: "pentagon"
+			size: 1.25d
+			subtitle: "Poucos chegam aqui"
+			tasks: [{ id: "0A0000000000021A", title: "Li tudo", type: "checkmark" }]
+			title: "[Como funciona] Você leu tudo"
+			x: 10.5d
+			y: 17.0d
+		}
+		{
+			dependencies: ["0A00000000000106", "0A00000000000107", "0A0000000000010A"]
+			description: [
+				"Você tem um súdito. Você tem poder. Você tem um lugar. O que falta é declarar."
 				""
 				"Pegue a &bPrefeitura&r do acampamento e a coloque no chão. Ao fundar a colônia, dê a ela um nome: é o nome do seu reino que começa aqui."
 				""
-				"&6Porta da Era 0.&r Completar esta missão abre a &lEra I — Pó&r."
+				"&6Porta da Era 0.&r Completar esta missão abre a &lEra I — Pó&r. Escolha o seu kit de fundador com cuidado: Construtor, Engenheiro ou Arcano."
 			]
 			icon: {
 				id: "minecolonies:blockhuttownhall"
 			}
-			id: "0A0000000000010A"
+			id: "0A0000000000011B"
 			rewards: [
-				{
-					id: "0A0000000000018A"
-					item: { count: 1, id: "minecolonies:clipboard" }
-					type: "item"
-				}
-				{
-					id: "0A0000000000019A"
-					type: "xp_levels"
-					xp_levels: 15
-				}
+				{ id: "0A0000000000041B", table_id: 720575940379279603L, type: "choice" }
+				{ exclude_from_claim_all: true, id: "0A0000000000051B", table_id: 720575940379279602L, type: "random" }
+				{ id: "0A0000000000061B", item: { count: 1, id: "minecolonies:clipboard" }, type: "item" }
+				{ id: "0A0000000000071B", type: "xp_levels", xp_levels: 150 }
 			]
 			shape: "gear"
 			size: 2.0d
-			subtitle: "Porta da Era 0"
+			subtitle: "Declare"
 			tasks: [{
 				icon: {
 					id: "minecolonies:blockhuttownhall"
 				}
-				id: "0A000000000001AA"
+				id: "0A0000000000021B"
 				item: { count: 1, id: "minecolonies:blockhuttownhall" }
 				type: "item"
 			}]
-			title: "O Primeiro Súdito e a Primeira Casa"
-			x: 0.75d
-			y: 8.0d
+			title: "【Marco】 O Primeiro Súdito e a Primeira Casa"
+			x: 0.0d
+			y: 14.0d
 		}
 	]
 	title: "Era 0 — Despertar"

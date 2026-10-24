@@ -81,6 +81,15 @@ for chapter in sorted((ROOT / "chapters").glob("*.snbt")):
                 if tid and tt:
                     out[f"{kind[:-1]}.{tid.group(1)}.title"] = tt.group(1)
 
+for table in sorted((ROOT / "reward_tables").glob("*.snbt")) if (ROOT / "reward_tables").exists() else []:
+    text = table.read_text(encoding="utf-8")
+    tid = re.search(r'\n\tid: "([0-9A-F]+)"', text).group(1)
+    tt = re.search(r'\n\ttitle: "((?:[^"\\]|\\.)*)"', text)
+    if tt:
+        out[f"reward_table.{tid}.title"] = tt.group(1)
+    for rm in re.finditer(r'\{ id: "([0-9A-F]+)"[^}]*?title: "((?:[^"\\]|\\.)*)"', text):
+        out[f"reward.{rm.group(1)}.title"] = rm.group(2)
+
 lines = ["{", f'\tfile.0000000000000001.title: "{BOOK_TITLE}"']
 for key in sorted(out):
     val = out[key]

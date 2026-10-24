@@ -10,11 +10,11 @@ hash = "b9cc1c0b8256d0a7ce460149bbd8e3f16103e206bd81593132fe0ca68a8a2226"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/era_0_despertar.snbt"
-hash = "b4f87238792135e94c7337d26d1605ffb67ad5afe412889b8d89edb2798e1669"
+hash = "5199766107cf98380c247acd70ab1955a3f2c284cf58e8c00ef94c6f6555881c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/era_1_po.snbt"
-hash = "618b4a28174fb68f27e871f88e700515a892748fa32db1b8c534b164c11d50e5"
+hash = "a038553d181b0008b2123a6fd7fdf1b52153a2f47799ba7f59b008bd1d2b33df"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -22,7 +22,19 @@ hash = "38426c7cb598cf2907456cbf7c95580d7fd6c83d0234a31159467d74c7419211"
 
 [[files]]
 file = "config/ftbquests/quests/lang/pt_br.snbt"
-hash = "d86e8d1e9c8c8a8bac99eb0a23da52659e114c93a41b7ddab7ed94bb11e483b1"
+hash = "7de454aa53c88c3146f6ff554b882715759b85e9f37c009104bd7cf18f7a0c41"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/bolsa_da_grande_sabia.snbt"
+hash = "57f7ef18324f4c72c063dfb358273850a8ab7b4863eccb8b161bf793ac57f569"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/escolha_do_fundador.snbt"
+hash = "cb3e81aa4b3402ff6f4e3be81fa01932cc39d61f2a7f84f821353fdfc6785cc2"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/trouxa_do_reencarnado.snbt"
+hash = "99cac6ee4f4d5e3bd163c3c2990b5756611c03411e88f72ef5d189aea9c0b852"
 
 [[files]]
 file = "docs/grande-sabia-comandos-de-voz.md"
@@ -156,6 +168,11 @@ hash = "670df7985eec05c6a339d90ebbcfda0e5f1f5c63846ac65a441412f123471e14"
 metafile = true
 
 [[files]]
+file = "mods/ftb-filter-system.pw.toml"
+hash = "9cb8d355c77067b00a96d96db398f60db62a6ee238dabff45ade33dd8d9f9e3b"
+metafile = true
+
+[[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "19d86081a1c7654a91f437d85ea34af4e3f2b899c8e0e50d48a04ca97babf7b4"
 metafile = true
@@ -177,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "35779b39ddc06059ec483b33de2ecfdc3adb95c0a49e69b6701fb0024827e2f5"
+hash = "4cf7eb494f48576e28895ee5f362878f95c6bad65372666106140fdae82d0c4c"
 metafile = true
 
 [[files]]
@@ -247,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "mods/manascore.pw.toml"
-hash = "a2a5fda644987e017368bcc3bba3e3281fdedf88825d6645c21ad654593e3287"
+hash = "ea327466b8d3ebe83329de194d77790f7d68fe25e56f0bfeda319527636bb7cb"
 metafile = true
 
 [[files]]
@@ -367,7 +384,7 @@ metafile = true
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
-hash = "6e7ce9c2aee5bb72d2698eb89035c9b2458d20daa0782e1a03cfba7a6647621e"
+hash = "1a610a4a75169fbebeece88a8e611fa0ad432b8661754a519166b23a6d643e36"
 metafile = true
 
 [[files]]
@@ -426,6 +443,11 @@ hash = "1caa41d2104d8aecf9ba0707c87daf906a29e05fc57ba3a692bd0c960919c8ff"
 metafile = true
 
 [[files]]
+file = "mods/tensura-compat-ftb.pw.toml"
+hash = "25fd0278f6317da56709d07398261ac9ed0ba7df732fa8473a7c7854115073cb"
+metafile = true
+
+[[files]]
 file = "mods/tensura-guild.pw.toml"
 hash = "42f914fae49c91425e0b450a293d7196d52f07865dc5d02abeef92d9f18a4b9d"
 metafile = true
@@ -447,7 +469,7 @@ metafile = true
 
 [[files]]
 file = "mods/tensura-reincarnated.pw.toml"
-hash = "07e0ab3461a1c1d75c6e6a876629cf450f9700662806fb0a42282cf1b364ca88"
+hash = "4498da0b0c1b25932b1ef886333d0974151d0c647c1145e39960fdde4b32d4f3"
 metafile = true
 
 [[files]]
@@ -866,4 +888,4 @@ hash = "7dfe2b908181cd6c10bb80e131f44530c1bbfd6dc2f692c654041f2edf483657"
 
 [[files]]
 file = "tools/ftbquests_lang.py"
-hash = "8236132b26aeb251ba58b2e9ecfdd4058a952da8daade28fb4d57a497803c5d6"
+hash = "337baf7ce8bd6625523f212ec315662a4c9dfa8a66fd1c8f69f53ee40792c543"

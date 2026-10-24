@@ -9,75 +9,205 @@
 		""
 		"Nada do que você sabia vale muito agora. O que vale é o que você vai se tornar."
 		""
-		"&7Esta é a Era 0. Ela termina quando você tiver um súdito e um lugar para chamar de casa."
+		"&7A Era 0 termina quando você tiver um súdito, dois mil pontos de existência e um lugar para chamar de casa."
+		"&7Missões com &e(opcional)&7 no nome são ramos: valem recompensa, mas a Porta não depende delas."
 	]
-	quest.0A00000000000101.quest_subtitle: "Reencarnação"
-	quest.0A00000000000101.title: "Despertar"
+	quest.0A00000000000101.quest_subtitle: "Onde é este lugar?"
+	quest.0A00000000000101.title: "【História】 Despertar"
 	quest.0A00000000000102.quest_desc: [
-		"A noite aqui não perdoa. Antes de pensar em grandeza, pense em um teto."
+		"Tudo aqui é feito de Magicules. Eles correm nas pedras, nos monstros, em você. Para crescer, você precisa senti-los."
 		""
-		"Durma uma noite inteira em uma cama."
+		"Encontre e quebre um &bMinério Mágico&r. Ele brilha em cavernas e dá os cristais que movem este mundo."
+		""
+		"&7Dica: o Minério Mágico aparece entre as camadas 0 e 40. Leve tochas."
 	]
-	quest.0A00000000000102.quest_subtitle: "Sobreviver à primeira noite"
-	quest.0A00000000000102.title: "Um teto"
+	quest.0A00000000000102.quest_subtitle: "Tudo aqui é Magicule"
+	quest.0A00000000000102.title: "【História】 Sinta o mundo"
 	quest.0A00000000000103.quest_desc: [
-		"Tudo aqui é feito de Magicules. Para crescer, você precisa senti-los."
+		"Toda criatura deste mundo aprende. Lute, coma, use o que tem, e os seus &bPontos de Existência&r sobem."
 		""
-		"Encontre e quebre um &bMinério Mágico&r. É dele que vêm os cristais que movem este mundo."
+		"Chegue a &e500 EP&r. Abra o painel (tecla B) para acompanhar."
 	]
-	quest.0A00000000000103.quest_subtitle: "Os primeiros Magicules"
-	quest.0A00000000000103.title: "Minério Mágico"
+	quest.0A00000000000103.quest_subtitle: "Toda criatura aprende"
+	quest.0A00000000000103.title: "【História】 O primeiro poder"
 	quest.0A00000000000104.quest_desc: [
-		"Toda criatura deste mundo pode aprender. Você também."
+		"Há coisas que os olhos não mostram: a aura de um monstro, a força de quem se aproxima, o que a Grande Sábia lê quando você aperta V."
 		""
-		"Domine a sua primeira habilidade: use-a até que ela se torne parte de você."
+		"Aprenda &bPercepção Mágica&r. É a primeira habilidade que todo governante precisa."
+		""
+		"&7Dica: fique perto de criaturas com muita magia, ou medite em lugares densos em Magicules."
 	]
-	quest.0A00000000000104.quest_subtitle: "Habilidade dominada"
-	quest.0A00000000000104.title: "Primeira maestria"
+	quest.0A00000000000104.quest_subtitle: "Veja o que os outros não veem"
+	quest.0A00000000000104.title: "【História】 Percepção Mágica"
 	quest.0A00000000000105.quest_desc: [
-		"Um reino começa com um caminho de volta."
+		"Aprender é fácil. Dominar é outra coisa."
 		""
-		"Construa uma &bPedra de Caminho&r e ative-a. Depois, aonde quer que você vá, saberá voltar."
+		"Use uma habilidade até que ela se torne parte de você. A primeira maestria é a que ensina como funcionam todas as outras."
 	]
-	quest.0A00000000000105.quest_subtitle: "O caminho de volta"
-	quest.0A00000000000105.title: "Pedra de Caminho"
+	quest.0A00000000000105.quest_subtitle: "Use até virar parte de você"
+	quest.0A00000000000105.title: "【História】 Primeira maestria"
 	quest.0A00000000000106.quest_desc: [
-		"Antes de comandar máquinas, é preciso entender a mais simples delas."
-		""
-		"Faça &bLiga de Andesito&r e uma &bRoda d'Água&r. Água corrente é a primeira força que você vai dominar."
-	]
-	quest.0A00000000000106.quest_subtitle: "A primeira força"
-	quest.0A00000000000106.title: "Roda d'Água"
-	quest.0A00000000000107.quest_desc: [
-		"Nem toda força vem do ferro. Em algum lugar deste mundo há quem fale com a magia por outro nome."
-		""
-		"Encontre um &bTomo Esfarrapado&r. Não leia tudo ainda. Só saiba que ele existe."
-	]
-	quest.0A00000000000107.quest_subtitle: "Uma semente de curiosidade"
-	quest.0A00000000000107.title: "Tomo Esfarrapado"
-	quest.0A00000000000108.quest_desc: [
-		"Um nome é um presente caro. Dar um nome a um monstro é entregar a ele parte dos seus Magicules e, em troca, ganhar lealdade."
+		"Um nome é um presente caro. Dar um nome a um monstro é entregar a ele parte dos seus Magicules e, em troca, ganhar lealdade, e às vezes uma evolução."
 		""
 		"Nomeie uma criatura. Ela será o seu primeiro súdito."
+		""
+		"&7Dica: olhe para a criatura e use o comando de nomear do Tensura. Escolha bem: você vai gastar quase toda a sua magia."
 	]
-	quest.0A00000000000108.quest_subtitle: "O primeiro súdito"
-	quest.0A00000000000108.title: "Um nome"
+	quest.0A00000000000106.quest_subtitle: "Um nome é um presente caro"
+	quest.0A00000000000106.title: "【Marco】 Um nome"
+	quest.0A00000000000107.quest_desc: [
+		"Dois mil pontos de existência. Para o Tensura, você deixa de ser presa."
+		""
+		"Chegue a &e2.000 EP&r. Daqui em diante, o mundo começa a prestar atenção em você."
+	]
+	quest.0A00000000000107.quest_subtitle: "Rank D fica para trás"
+	quest.0A00000000000107.title: "【Marco】 Dois mil"
+	quest.0A00000000000108.quest_desc: [
+		"Um reino começa com um caminho de volta."
+		""
+		"Construa uma &bPedra de Caminho&r e ative-a. Depois, aonde quer que você vá, a Pedra de Teleporte que ganhou no Despertar te traz de volta."
+	]
+	quest.0A00000000000108.quest_subtitle: "Um reino começa com um caminho de volta"
+	quest.0A00000000000108.title: "[Reino] Pedra de Caminho"
 	quest.0A00000000000109.quest_desc: [
+		"A noite aqui não perdoa: o que ronda no escuro não é só zumbi."
+		""
+		"Durma uma noite inteira em uma cama. Amanhã você começa a construir."
+	]
+	quest.0A00000000000109.quest_subtitle: "A noite aqui não perdoa"
+	quest.0A00000000000109.title: "[Reino] Um teto"
+	quest.0A0000000000010A.quest_desc: [
 		"Gente precisa de um lugar. Antes da cidade, o acampamento."
 		""
 		"Fabrique um &bAcampamento de Suprimentos&r e coloque-o em terreno plano. Dentro dele está tudo o que uma colônia precisa para começar, inclusive a Prefeitura."
+		""
+		"&7Dica: a receita está no EMI. Procure \"Acampamento\"."
 	]
-	quest.0A00000000000109.quest_subtitle: "Onde tudo começa"
-	quest.0A00000000000109.title: "Acampamento de Suprimentos"
-	quest.0A0000000000010A.quest_desc: [
-		"Você tem um súdito. Você tem um lugar. O que falta é declarar."
+	quest.0A0000000000010A.quest_subtitle: "Antes da cidade, o acampamento"
+	quest.0A0000000000010A.title: "[Reino] Acampamento de Suprimentos"
+	quest.0A0000000000010B.quest_desc: [
+		"Quem desenha, manda. A &bFerramenta de Construção&r mostra, antes de colocar, cada construção da colônia: estilo, posição, nível."
+		""
+		"Pegue uma. Ela vem no acampamento, ou se fabrica com ouro e madeira."
+	]
+	quest.0A0000000000010B.quest_subtitle: "Quem desenha, manda"
+	quest.0A0000000000010B.title: "[Reino] Ferramenta de Construção"
+	quest.0A0000000000010C.quest_desc: [
+		"Nem tudo que brilha é ferro. Ferro com andesito dá a liga de que toda máquina simples é feita."
+		""
+		"Faça 4 &bLigas de Andesito&r."
+	]
+	quest.0A0000000000010C.quest_subtitle: "Nem tudo que brilha é ferro"
+	quest.0A0000000000010C.title: "[Ferro] Liga de Andesito (opcional)"
+	quest.0A0000000000010D.quest_desc: [
+		"Água corrente é a primeira força que você vai dominar. Uma roda, eixos, e a rotação viaja."
+		""
+		"Faça uma &bRoda d'Água&r e 4 &bEixos&r. Coloque a roda em água corrente e sinta o giro."
+	]
+	quest.0A0000000000010D.quest_subtitle: "Água corrente, força parada"
+	quest.0A0000000000010D.title: "[Ferro] Roda d'Água (opcional)"
+	quest.0A0000000000010E.quest_desc: [
+		"O primeiro braço do reino. A &bPrensa Mecânica&r transforma lingotes em placas, e placas são o começo de tudo no Ferro."
+		""
+		"Construa uma. Ligue-a à roda."
+	]
+	quest.0A0000000000010E.quest_subtitle: "O primeiro braço do reino"
+	quest.0A0000000000010E.title: "[Ferro] Prensa Mecânica (opcional)"
+	quest.0A0000000000010F.quest_desc: [
+		"Nem toda força vem do ferro. Em algum lugar deste mundo há quem fale com a magia por outro nome."
+		""
+		"Encontre um &bTomo Esfarrapado&r. Não leia tudo ainda. Só saiba que ele existe."
+		""
+		"&7Dica: a receita usa um livro e uma gema de Source. Gemas aparecem em geodos de ametista."
+	]
+	quest.0A0000000000010F.quest_subtitle: "Não leia tudo ainda"
+	quest.0A0000000000010F.title: "[Mana] Tomo Esfarrapado (opcional)"
+	quest.0A00000000000110.quest_desc: [
+		"A magia tem um preço, e o preço se chama Source. Ela mora em gemas, em frutas, em criaturas."
+		""
+		"Junte 4 &bGemas de Source&r."
+	]
+	quest.0A00000000000110.quest_subtitle: "A magia tem um preço"
+	quest.0A00000000000110.title: "[Mana] Gema de Source (opcional)"
+	quest.0A00000000000111.quest_desc: [
+		"Um livro, um gesto. O &bLivro de Feitiços de Novato&r é onde a magia deixa de ser leitura e vira ato."
+		""
+		"Faça um e lance o seu primeiro feitiço."
+	]
+	quest.0A00000000000111.quest_subtitle: "Um livro, um gesto"
+	quest.0A00000000000111.title: "[Mana] Primeiro feitiço (opcional)"
+	quest.0A00000000000112.quest_desc: [
+		"O mundo é maior do que a clareira onde você acordou. Há ruínas, florestas que não são deste mundo, e coisas que não deveriam estar acordadas."
+		""
+		"Fabrique uma &bBússola do Explorador&r. Ela aponta para qualquer estrutura que você procurar."
+	]
+	quest.0A00000000000112.quest_subtitle: "O mundo é maior do que a clareira"
+	quest.0A00000000000112.title: "[Mundo] Bússola do Explorador (opcional)"
+	quest.0A00000000000113.quest_desc: [
+		"Alguém viveu aqui antes de você. Não terminou bem."
+		""
+		"Entre em uma &bmasmorra&r de verdade: use a bússola para achar uma Pequena Masmorra, uma Masmorra de Esqueletos, de Aranhas ou de Zumbis."
+	]
+	quest.0A00000000000113.quest_subtitle: "Alguém viveu aqui antes"
+	quest.0A00000000000113.title: "[Mundo] Ruínas (opcional)"
+	quest.0A00000000000114.quest_desc: [
+		"A &bFloresta Antiga&r é onde os elfos não querem visita. As árvores são mais velhas que qualquer reino, e o que mora nelas também."
+		""
+		"Encontre esse bioma. Não precisa ficar."
+	]
+	quest.0A00000000000114.quest_subtitle: "Onde os elfos não querem visita"
+	quest.0A00000000000114.title: "[Mundo] Floresta Antiga (opcional)"
+	quest.0A00000000000115.quest_desc: [
+		"A tecla &eB&r abre o painel do Tensura: raça, EP, Magicules, Aura, habilidades e equipamentos."
+		""
+		"É o seu espelho. Abra, olhe, e marque esta missão."
+	]
+	quest.0A00000000000115.quest_subtitle: "Tecla B"
+	quest.0A00000000000115.title: "[Como funciona] O painel"
+	quest.0A00000000000116.quest_desc: [
+		"Habilidades se aprendem usando o corpo: lutar, comer, cair, queimar. Cada uma tem uma barra de &bmaestria&r; cheia, ela evolui."
+		""
+		"Habilidades &eÚnicas&r e &eSupremas&r não se aprendem assim: vêm de marcos, de evoluções e de desejos no Mar das Almas."
+	]
+	quest.0A00000000000116.quest_subtitle: "Comuns, Únicas, Supremas"
+	quest.0A00000000000116.title: "[Como funciona] Habilidades"
+	quest.0A00000000000117.quest_desc: [
+		"&bEP&r (Pontos de Existência) é o quanto você existe. Sobe com tudo o que você faz e define o seu &erank&r: F, E, D, C, B, A, Especial A, S, Especial S."
+		""
+		"Monstros têm EP também. A Grande Sábia lê o deles com a tecla &eV&r. Se o número for muito maior que o seu, corra."
+	]
+	quest.0A00000000000117.quest_subtitle: "Quanto você existe"
+	quest.0A00000000000117.title: "[Como funciona] EP e ranks"
+	quest.0A00000000000118.quest_desc: [
+		"A &bGrande Sábia&r anuncia cada habilidade, lê criaturas (&eV&r), tem um console (&eG&r) com análise, árvore de crescimento e registros, e conversa: segure a tecla de falar e diga a frase."
+		""
+		"Ela só entende frases da lista. Ex.: \"quem é você\", \"qual é a minha raça\", \"lista as minhas habilidades\", \"analisa &oNome da Skill&r\"."
+	]
+	quest.0A00000000000118.quest_subtitle: "G, V e a voz"
+	quest.0A00000000000118.title: "[Como funciona] A Grande Sábia"
+	quest.0A00000000000119.quest_desc: [
+		"A colônia é o seu reino. A &bPrefeitura&r funda; a &bCabana do Construtor&r contrata quem ergue todo o resto; cada cabana nova é um ofício."
+		""
+		"Os cidadãos comem, dormem, reclamam e evoluem. Trate-os bem: são eles que vão trabalhar enquanto você evolui."
+	]
+	quest.0A00000000000119.quest_subtitle: "Cidadãos têm fome"
+	quest.0A00000000000119.title: "[Como funciona] A colônia"
+	quest.0A0000000000011A.quest_desc: [
+		"Poucos chegam aqui. Quem lê, governa melhor."
+		""
+		"Como prêmio por ter lido tudo: uma habilidade nova, trezentos pontos de existência e trinta níveis."
+	]
+	quest.0A0000000000011A.quest_subtitle: "Poucos chegam aqui"
+	quest.0A0000000000011A.title: "[Como funciona] Você leu tudo"
+	quest.0A0000000000011B.quest_desc: [
+		"Você tem um súdito. Você tem poder. Você tem um lugar. O que falta é declarar."
 		""
 		"Pegue a &bPrefeitura&r do acampamento e a coloque no chão. Ao fundar a colônia, dê a ela um nome: é o nome do seu reino que começa aqui."
 		""
-		"&6Porta da Era 0.&r Completar esta missão abre a &lEra I — Pó&r."
+		"&6Porta da Era 0.&r Completar esta missão abre a &lEra I — Pó&r. Escolha o seu kit de fundador com cuidado: Construtor, Engenheiro ou Arcano."
 	]
-	quest.0A0000000000010A.quest_subtitle: "Porta da Era 0"
-	quest.0A0000000000010A.title: "O Primeiro Súdito e a Primeira Casa"
+	quest.0A0000000000011B.quest_subtitle: "Declare"
+	quest.0A0000000000011B.title: "【Marco】 O Primeiro Súdito e a Primeira Casa"
 	quest.0A00000000000201.quest_desc: [
 		"Um punhado de gente, um punhado de terra. Chamem de casa."
 		""
@@ -94,5 +224,8 @@
 	]
 	quest.0A00000000000202.quest_subtitle: "O primeiro cidadão"
 	quest.0A00000000000202.title: "Cabana do Construtor"
+	reward_table.0A000000000000F1.title: "Trouxa do Reencarnado"
+	reward_table.0A000000000000F2.title: "Bolsa da Grande Sábia"
+	reward_table.0A000000000000F3.title: "Escolha do Fundador"
 	task.0A000000000002A1.title: "Entrar na Era I"
 }

@@ -1,0 +1,20 @@
+{
+	icon: {
+		id: "minecolonies:blockhuttownhall"
+	}
+	id: "0A000000000000F3"
+	loot_size: 1
+	order_index: 2
+	rewards: [
+		{ id: "0A0000000000F301", item: { count: 1, id: "minecraft:iron_pickaxe" }, title: "Kit do Construtor" }
+		{ id: "0A0000000000F302", item: { count: 64, id: "minecraft:oak_planks" }, title: "Kit do Construtor" }
+		{ id: "0A0000000000F303", item: { count: 32, id: "minecraft:cobblestone" }, title: "Kit do Construtor" }
+		{ id: "0A0000000000F304", item: { count: 16, id: "create:andesite_alloy" }, title: "Kit do Engenheiro" }
+		{ id: "0A0000000000F305", item: { count: 4, id: "create:cogwheel" }, title: "Kit do Engenheiro" }
+		{ id: "0A0000000000F306", item: { count: 8, id: "create:shaft" }, title: "Kit do Engenheiro" }
+		{ id: "0A0000000000F307", item: { count: 1, id: "ars_nouveau:novice_spell_book" }, title: "Kit Arcano" }
+		{ id: "0A0000000000F308", item: { count: 8, id: "ars_nouveau:source_gem" }, title: "Kit Arcano" }
+		{ id: "0A0000000000F309", item: { count: 4, id: "ars_nouveau:sourceberry_bush" }, title: "Kit Arcano" }
+	]
+	title: "Escolha do Fundador"
+}

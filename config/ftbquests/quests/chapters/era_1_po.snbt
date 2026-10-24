@@ -11,7 +11,7 @@
 	quest_links: [ ]
 	quests: [
 		{
-			dependencies: ["0A0000000000010A"]
+			dependencies: ["0A0000000000011B"]
 			description: [
 				"Um punhado de gente, um punhado de terra. Chamem de casa."
 				""

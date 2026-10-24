@@ -1,0 +1,19 @@
+{
+	icon: {
+		id: "minecraft:ender_chest"
+	}
+	id: "0A000000000000F2"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{ id: "0A0000000000F201", item: { count: 2, id: "tensura:medium_quality_magic_crystal" }, weight: 5.0f }
+		{ id: "0A0000000000F202", item: { count: 2, id: "tensura:silver_coin" }, weight: 4.0f }
+		{ id: "0A0000000000F203", item: { count: 1, id: "tensura:battlewill_manual" }, weight: 3.0f }
+		{ id: "0A0000000000F204", item: { count: 2, id: "minecraft:diamond" }, weight: 3.0f }
+		{ id: "0A0000000000F205", item: { count: 1, id: "sophisticatedbackpacks:backpack" }, weight: 2.0f }
+		{ id: "0A0000000000F206", item: { count: 6, id: "tensura:low_quality_magic_crystal" }, weight: 4.0f }
+		{ id: "0A0000000000F207", item: { count: 1, id: "tensura:high_quality_magic_crystal" }, weight: 2.0f }
+		{ id: "0A0000000000F208", item: { count: 1, id: "tensura:gold_coin" }, weight: 1.0f }
+	]
+	title: "Bolsa da Grande Sábia"
+}

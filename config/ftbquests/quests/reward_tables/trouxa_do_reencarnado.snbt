@@ -1,0 +1,21 @@
+{
+	icon: {
+		id: "minecraft:bundle"
+	}
+	id: "0A000000000000F1"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{ id: "0A0000000000F101", item: { count: 8, id: "minecraft:bread" }, weight: 10.0f }
+		{ id: "0A0000000000F102", item: { count: 16, id: "minecraft:torch" }, weight: 10.0f }
+		{ id: "0A0000000000F103", item: { count: 4, id: "tensura:bronze_coin" }, weight: 8.0f }
+		{ id: "0A0000000000F104", item: { count: 3, id: "tensura:low_quality_magic_crystal" }, weight: 6.0f }
+		{ id: "0A0000000000F105", item: { count: 6, id: "minecraft:iron_ingot" }, weight: 6.0f }
+		{ id: "0A0000000000F106", item: { count: 4, id: "minecraft:leather" }, weight: 5.0f }
+		{ id: "0A0000000000F107", item: { count: 4, id: "create:andesite_alloy" }, weight: 4.0f }
+		{ id: "0A0000000000F108", item: { count: 2, id: "ars_nouveau:source_gem" }, weight: 4.0f }
+		{ id: "0A0000000000F109", item: { count: 1, id: "waystones:warp_stone" }, weight: 2.0f }
+		{ id: "0A0000000000F10A", item: { count: 1, id: "tensura:magic_ore_shard" }, weight: 1.0f }
+	]
+	title: "Trouxa do Reencarnado"
+}

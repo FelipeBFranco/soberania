@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "7d71d44c49cc98077bf46aca25489bb3cf09c02659df754eeb6e83b51789b9da"
+hash = "37982221695d4dd1f2c67a207765708eb8d1ac1e9cb9e8513132f92793616e5a"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
@@ -10,7 +10,7 @@ hash = "b9cc1c0b8256d0a7ce460149bbd8e3f16103e206bd81593132fe0ca68a8a2226"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/era_0_despertar.snbt"
-hash = "180dec6b3e5c13eeccac325a8ef440f9f8237840f0dd49aa124e02b606aa5d57"
+hash = "de5eb8140f0a5959e56fb471d1f477fa4914e330c2845eb03cf221896b7e36e5"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/era_1_po.snbt"
@@ -26,7 +26,7 @@ hash = "38426c7cb598cf2907456cbf7c95580d7fd6c83d0234a31159467d74c7419211"
 
 [[files]]
 file = "config/ftbquests/quests/lang/pt_br.snbt"
-hash = "541f63183bfcc2c6e9edef1aad07783d0c32d26d57ec7fde0903418f4eef034a"
+hash = "c97a9c95a2d1a717394e0f5af02230ac79f751bb14329f5a16925ccd3bff0a58"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/bolsa_da_grande_sabia.snbt"
@@ -73,24 +73,164 @@ file = "config/openloader/packs/soberania-data/pack.mcmeta"
 hash = "f26d6c3cf82670d8aaa5dd89b1b3b16bb2b9e8ade00a9374fd467693a976dbea"
 
 [[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/ae2/lang/pt_br.json"
+hash = "2df04bf06fd30d3847eb70bc3d07834c43b2c828b014d3c0890c79e1061fe2f0"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/ars_nouveau/lang/pt_br.json"
+hash = "67e470d5ebc67c933cd1276e6851a7319d1e8a5901d4a2fb55de42725804f2be"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/betteradvancedtooltips/lang/pt_br.json"
+hash = "ca485deb79115bae401c3de76a03b9ea2a10bb249a5ebc923b356c144f0fadf9"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/betterdungeons/lang/pt_br.json"
+hash = "b1a269aeeba83f5be312995ddc79be721530a3599f266f052a2d08066561e745"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/betterendisland/lang/pt_br.json"
+hash = "7df605e58c4ac1fec01017bfc8577e1bb3ff4a0f0f30ecaf13ca5f8f168a48ab"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/betterfortresses/lang/pt_br.json"
+hash = "c71230bea3df8d758f4cbff5ed6aa9c3ade439a8e3967b76028994f2b5351cf9"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/betterjungletemples/lang/pt_br.json"
+hash = "6a91c1af37abc19182d9de378c41584f95f8a0a25b5fd840576c66072a1b7b7a"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/bettermineshafts/lang/pt_br.json"
+hash = "7bbceb88644e380357fdeca9b0d1921702805f4707fed6762c39ae7a206ab5a1"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/betteroceanmonuments/lang/pt_br.json"
+hash = "75fe965277722d3332d93e229ce0935f27691da8f6c0f6b1d4b0e5692feec132"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/betterstrongholds/lang/pt_br.json"
+hash = "1201b5fb039750e219992f5d29a9b4365c2ba5fe9722a497348adda81b8448fd"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/betterwitchhuts/lang/pt_br.json"
+hash = "449ad167dc0c901def96a9c1f2b1925fa9a1fa589b52ae68f7b833e0ac719d8e"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/biomeswevegone/lang/pt_br.json"
+hash = "133a9a12846f094f0cd5e76126cf34fab737569de99611d61a1a89f4eae7db3a"
+
+[[files]]
 file = "config/openloader/packs/soberania-pt-br/assets/blockui/lang/pt_br.json"
 hash = "3131310fb4f4bf5fedcfd3e8046ab025769b3624e909d3935f549a60a4ef93c5"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/cataclysm/lang/pt_br.json"
+hash = "832b1d93c98850f85a6b01efe54a9d5b084ea37bccbc631b70ce4b57847baabc"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/create/lang/pt_br.json"
+hash = "3b845217aace2c399dc46dce94221a1979f26ae1284e9e8cc96fdc8890ec38b7"
 
 [[files]]
 file = "config/openloader/packs/soberania-pt-br/assets/domum_ornamentum/lang/pt_br.json"
 hash = "0fcede6d3edc9c5b87d9ff2b46ed4da6776357f030fd136d97f514381f1be03d"
 
 [[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/dungeons_arise/lang/pt_br.json"
+hash = "3118fe40ff7842a99ce5b39e6b013401af29eb2dfbc0f2a3a480cdff6714b296"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/emi/lang/pt_br.json"
+hash = "23a89c896bff04f736a98bcd6da8575d5d495deaab882b2f46c35fddd8874749"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/farmersdelight/lang/pt_br.json"
+hash = "537a782d52be8f3ea30e6058bb858cbf01f774537157ad6731f2b0f20c34abee"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/ftbchunks/lang/pt_br.json"
+hash = "123d5c3aabf26e2435f883a35d42d9fc7ce5f18f81472d1e16cde61979a0e6d3"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/ftbquests/lang/pt_br.json"
+hash = "e0865d0e14226a53e1f65f902741a56726c1c0eaff55c69e1629941e856d1755"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/ftbteams/lang/pt_br.json"
+hash = "9eea7d7025ed4cb63a9973538c11fc312ccdb63020e44ca6a7e589951d9c8e84"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/greatsage/lang/pt_br.json"
+hash = "0c377be45694625074bb22696e2411eb22dd6b07d5d33ea09109695e9bfcaff9"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/hexerei/lang/pt_br.json"
+hash = "9487c6614659c08d24721185e5e3c891ee1a3ed944e1796bee5ef6c648ecaee7"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/immersiveengineering/lang/pt_br.json"
+hash = "209a0fe34e3876c2580416bb72245ce848ad883f63c4f1f97a75d602042202db"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/irons_spellbooks/lang/pt_br.json"
+hash = "fd35df9e983f6d5400f442288274a096d476d0fa885cb68541c28f8a6978b40a"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/jade/lang/pt_br.json"
+hash = "a809dc7b5ab4426c94861fe334b0dba9398a453c0436b1c04e6989020b70b428"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/mekanism/lang/pt_br.json"
+hash = "3c1884362868b852b5a77bf035ace2027f3e4c670847f86a554e78d411748422"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/mekanismgenerators/lang/pt_br.json"
+hash = "666be4f38d80766aef32382c9833973ce8f6b197a57e02ee0ac824a186da9ad4"
+
+[[files]]
 file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/lang/pt_br.json"
 hash = "9f2ae4a271ca10540179a5e5c9d564b46224f81471d80f2aa1ae28cb2443acd9"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/modularrouters/lang/pt_br.json"
+hash = "cb5906c9656e3a0b4eed6ea930e8b1826d4514e1de37b308e959d368656465b6"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/mowziesmobs/lang/pt_br.json"
+hash = "69f8fd5ec528c963161eed7e3f16f8bc175c4dad7dc5e79fb919023932daf877"
 
 [[files]]
 file = "config/openloader/packs/soberania-pt-br/assets/multipiston/lang/pt_br.json"
 hash = "3e91b6513eb91027b7b8b0a3fb4512bd44b190a08775ea66722b14dc4175fdf2"
 
 [[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/naturescompass/lang/pt_br.json"
+hash = "4b304e6dfa38ebf38d27b8d68de1fe24019cfc20d19d5a1443806b2cc5e87b34"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/occultism/lang/pt_br.json"
+hash = "ee6fba8596675402ea4b8ebe9cd4fa641633ed48d8baf04296551439b79ccb7d"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/sophisticatedbackpacks/lang/pt_br.json"
+hash = "bfc9afe59eaa5461c791a202954bbca9d39523779131215172eb08f6b38d55b0"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/sophisticatedcore/lang/pt_br.json"
+hash = "d9c8b9b33983f25e5639aaa9b960809d5c1b429b2b2fd9dff6fefd4fe811b040"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/sophisticatedstorage/lang/pt_br.json"
+hash = "2b59d1769159a3464fa16eeacc7754d06a03dfa531544f634e66ce3c25256e6d"
+
+[[files]]
 file = "config/openloader/packs/soberania-pt-br/assets/structurize/lang/pt_br.json"
 hash = "6fc918a2513b982c9883ddd420cbf0da4c63690a7e2ddfcfa603e0e6db65b97a"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/supplementaries/lang/pt_br.json"
+hash = "283e4684792354ec94307c827c8aca2547db22f22b9b4d2a45a97bdac673ab36"
 
 [[files]]
 file = "config/openloader/packs/soberania-pt-br/assets/tensura_ftb/lang/pt_br.json"
@@ -99,6 +239,34 @@ hash = "5b6822337f642a837f065e5344186381a79be272981627ca9ffd24b358bc678a"
 [[files]]
 file = "config/openloader/packs/soberania-pt-br/assets/tensura_skill_books/lang/pt_br.json"
 hash = "8ba9382dd0b76a688efd146d039fb91b255668197f5aaa4164a1a111976102d0"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/twilightforest/lang/pt_br.json"
+hash = "b8ad3ac9ea73b8ed8528dbd242088a3c34826120a4649b3e3e7975793366aaa6"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/waystones/lang/pt_br.json"
+hash = "57261ba0dd3b665b3d540b19acdaf58b1338d8cac9da5050d480cc60b0868aa6"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/xaerobetterpvp/lang/pt_br.json"
+hash = "990a991a7a2aeebb62f2ff6e1ae235a51e9798ea712b9f3fffb455bce07c4faf"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/xaerominimap/lang/pt_br.json"
+hash = "6a0b6b233acdc31c02fa469770557fee3034840ceaa8af75b98a8d938fc17768"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/xaeroworldmap/lang/pt_br.json"
+hash = "554c95d63ee3429422b0024c15c5978618b27d4561d61b6ab5e1fe6722756a3d"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/yungsapi/lang/pt_br.json"
+hash = "35053f68cf7d6032713c5350cc882e7e3a784b9c0b209a63305d6eb7f396f41b"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/yungscavebiomes/lang/pt_br.json"
+hash = "d020be4096f5b3c27e73ae31db4e510029fdf4036553f2f41c58c76875b88a16"
 
 [[files]]
 file = "config/openloader/packs/soberania-pt-br/pack.mcmeta"

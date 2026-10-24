@@ -905,6 +905,1326 @@ file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/lang/pt_br.j
 hash = "9f2ae4a271ca10540179a5e5c9d564b46224f81471d80f2aa1ae28cb2443acd9"
 
 [[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/alchemistfemale1_vgob_dark.png"
+hash = "7e2cef27582593281d5853d07aa36412da14057b707f7ff6f4bd4326a6aeb7a3"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/alchemistfemale1_vgob_light.png"
+hash = "40c0cdbc0b06ffc34ecb7637fa744037aa8ef072f79ec66d036457f55367458e"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/alchemistfemale1_vgob_mid.png"
+hash = "094d879d9b0abbd26b4826d032c2a52d637684171f64180d3cff17137ee8caf6"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/alchemistmale1_vgob_dark.png"
+hash = "510d9f9c51c4ca803b7f62464c3f50928100e354c6f00cf0c30eb238d95e9fe0"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/alchemistmale1_vgob_light.png"
+hash = "5aab2b5811e61f19f91df55162343ef7f3ce91688b959adf6919f481cfd8a60c"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/alchemistmale1_vgob_mid.png"
+hash = "447ca2ee5daeac30e51d3d75d1f768fa280b1baea5945bf053cd9bea61fdff6f"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/archeologistfemale1_vgob_dark.png"
+hash = "039b39c3066bfc73d971e4c86468908195a23582752583d120b9e0c0dc910c8a"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/archeologistfemale1_vgob_light.png"
+hash = "2a6c8cea778480c58df149b4169fe3954532c08e5c177045906a50c198d673c7"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/archeologistfemale1_vgob_mid.png"
+hash = "96a911bda8204aa1f84bd93c66490caf9085ece731854d0fc091ef294794108d"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/archeologistmale1_vgob_dark.png"
+hash = "fa494adc7c7a13266789c5f6fabac1d5f00e97c76d19c79a12d7fa284295cfe7"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/archeologistmale1_vgob_light.png"
+hash = "e0963064013c98e02e3570d2e9489c411b897517b3297e6fbbea5fe7a5c4dc21"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/archeologistmale1_vgob_mid.png"
+hash = "b1611d56158de1276e500267a9ab7af710788f1f056d36532c74860924c1209e"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/archerfemale1_vgob_dark.png"
+hash = "8cf17822761d949e925266b30e2284aed5c7ab9fe1b4babe2e425d7fea388c0c"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/archerfemale1_vgob_light.png"
+hash = "b7336bef92a56e4f737f996298a68cff5c2ed49ae5faa975328a3df8ab7c2033"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/archerfemale1_vgob_mid.png"
+hash = "43684020c3090d31231e23f1376aed32eb133aca788d17d1139a89066400b6d6"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/archermale1_vgob_dark.png"
+hash = "cec73582d3624d209f9bc093569a6f80a3b3225a16656553611fb4f419df9542"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/archermale1_vgob_light.png"
+hash = "389f4338b8d76584bfa14be3d3939631d779ccaed4be7d1d83867782c3ad1046"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/archermale1_vgob_mid.png"
+hash = "8a9be3fdc34b6bc8e6a411e4b764aa432745c88c4608b44139bc5a741bf80493"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/aristocratfemale1_vgob_dark.png"
+hash = "147eb6dc895297bbe7d36b614d4d6d1f022abd9093184bd0c46c19becfcece06"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/aristocratfemale1_vgob_light.png"
+hash = "c2b60a49ed35416fd639f6f96d50133a12e3b7b3fc8dc8cd6a0b6507d74a2160"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/aristocratfemale1_vgob_mid.png"
+hash = "0a439b3305931b464fdf959d9069c0b4cb692cd6d91a012664959c4a0bc907ba"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/aristocratfemale2_vgob_dark.png"
+hash = "ca0aaf42a20cb6735b8d9b79bae69a3c9ca477877117c91878895499f6394d25"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/aristocratfemale2_vgob_light.png"
+hash = "bf469e59327c3a77067d43c2fcecd9ef31d960945ea12340a5d14fd1699ba4dd"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/aristocratfemale2_vgob_mid.png"
+hash = "480f3783150669682dc11ae7190153e64fd341ba4fa8c78e55bc6cf6dd78f646"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/aristocratfemale3_vgob_dark.png"
+hash = "056486a7880f8eb303b75d00ae5bb01fcaba9ab92bd18b6391ec9913ef4f8f45"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/aristocratfemale3_vgob_light.png"
+hash = "d28ab46cd3ce29231b00a70b2f629512936922a52fb7fbd67a3d05b49febdaed"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/aristocratfemale3_vgob_mid.png"
+hash = "eeb0b9e8c727db883d917ec06ec2d2915411ad2f0829ee3f5354582866a92605"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/aristocratmale1_vgob_dark.png"
+hash = "59ee498c8ad537d6e3a40c992b2becb5d238dbf52443a428f8019626413b9cd7"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/aristocratmale1_vgob_light.png"
+hash = "dfd84297e66f0c9a44d35b63f57926dfd007b577948d0574beb7e7e449545765"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/aristocratmale1_vgob_mid.png"
+hash = "16ef84337c76015baa5f7dd7dff0d637be163dba88dbd4d3010560442ef160e4"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/aristocratmale2_vgob_dark.png"
+hash = "59ee498c8ad537d6e3a40c992b2becb5d238dbf52443a428f8019626413b9cd7"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/aristocratmale2_vgob_light.png"
+hash = "dfd84297e66f0c9a44d35b63f57926dfd007b577948d0574beb7e7e449545765"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/aristocratmale2_vgob_mid.png"
+hash = "16ef84337c76015baa5f7dd7dff0d637be163dba88dbd4d3010560442ef160e4"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/aristocratmale3_vgob_dark.png"
+hash = "c1dbf959210a98daf1b03cc2a19f8bc68821dea33e63e742b6bb799fb52fcd31"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/aristocratmale3_vgob_light.png"
+hash = "3c9136647906296a721daf23e018cd740ce1caff26d2521c3bed2a204030de54"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/aristocratmale3_vgob_mid.png"
+hash = "03f47c37612827f8dd92bbbfe04b8683607bfc1fcf0253348185ca7a061c01b8"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/bakerfemale1_vgob_dark.png"
+hash = "0e4af0ea17d8de9de687cfd5908f19facf3114a307398ae5d00a752d729d26c3"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/bakerfemale1_vgob_light.png"
+hash = "e709ebe03b30ceb61490357981b27f3e5590bd8c9e76fb84516cbd8b89225b9a"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/bakerfemale1_vgob_mid.png"
+hash = "f9cdfa23f8c503accfeab5c44a10fc67629c297210bf9036632b419245c425e3"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/bakermale1_vgob_dark.png"
+hash = "0883493e8505fb643bf7bfc4f8e12606030d06eec1a754f15fcc79e9bdfbb1e0"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/bakermale1_vgob_light.png"
+hash = "bd4e8c667dc6961fdff00dd9fad74e9515f659e92e9a12bdb3150b2b53cd24de"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/bakermale1_vgob_mid.png"
+hash = "8e2f49f375543c1b3e9396e65e3f3849fcb243ee1c2d3973e62e5e250949035d"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/beekeeperfemale1_vgob_dark.png"
+hash = "b7007933f758559ff2c6dda03314d57fadaf53c395819c4eae780a2bd49854bc"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/beekeeperfemale1_vgob_light.png"
+hash = "b01e51d11a701f66baa6afc1e028ab4f484cf84688174b686d3b27714a18801b"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/beekeeperfemale1_vgob_mid.png"
+hash = "bd65f46299b7744c846499114862cae76e41290ca8920d11f19f721e5ce0bf74"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/beekeepermale1_vgob_dark.png"
+hash = "17f2fd6ee5d12629ad4b4cfab725486c12ccf3ed7c8b8e532cf2f2b209c5f867"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/beekeepermale1_vgob_light.png"
+hash = "34bc44425268079dc22f200d6e01628dcc422fdd62bbda8e6e567e66db841fe6"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/beekeepermale1_vgob_mid.png"
+hash = "eb7b483cb1642d2720a741d993f32a61a7a9f895925ebc7b644bfd3ec6b17270"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/blacksmithfemale1_vgob_dark.png"
+hash = "a2b21f5d2a1aa9921d82fa51539d29684086d2c35b45b9eb8166bfe46dad1662"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/blacksmithfemale1_vgob_light.png"
+hash = "8a00c08d859c640c42794dbc2601230b6c5f0b72c00bbd0ef2625e0198952be9"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/blacksmithfemale1_vgob_mid.png"
+hash = "e8a8a07339edfe9eae117527a6d1a6d6b5b435e044b381349a7992dcea3eee16"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/blacksmithmale1_vgob_dark.png"
+hash = "fcb5fa8324e0dc443df6e1397a15d85b3c02fc0e9fc7ad6b852d12ede64f9f25"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/blacksmithmale1_vgob_light.png"
+hash = "669ec92b7f33cb89aec24e96faf4f59de1e562b2f9aa3b3e35e5657970fa86be"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/blacksmithmale1_vgob_mid.png"
+hash = "dfcb6b1b8c3454a4d8d6f43aaf5072fd35092965b8a30bbfddd43b6f825af8e7"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/builderfemale1_vgob_dark.png"
+hash = "aa8673d5426668591c400116a3212eb63c0841588ffe042ee64f0681c8158fd0"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/builderfemale1_vgob_light.png"
+hash = "350504b0c21c0b8172ca42d9d63e00b161a9457a302a23c37f8be56473b0824a"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/builderfemale1_vgob_mid.png"
+hash = "12171d2d7f140bd72ea83d7fcf7e07befb47a54255767dcda2ff61eb25b443ec"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/buildermale1_vgob_dark.png"
+hash = "13bc83795318bcac115283579fda73c086ea915806ed6f31bab1fad243706e7a"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/buildermale1_vgob_light.png"
+hash = "8efce4227a13928e9c60243c8dea8ab2db1ff305463373d97a9dff16e1d0a609"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/buildermale1_vgob_mid.png"
+hash = "3a03383c7275ac6d42b41c3d6b4da8793cb707a6da40c34b2196a17a3ce8fb95"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/carpenterfemale1_vgob_dark.png"
+hash = "f5e9d84d4f559cb6e95e300fae2141b7438ccc0f6de67b96cb14f19facdd56a0"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/carpenterfemale1_vgob_light.png"
+hash = "c9dea55d2ee95a97c0fcef80d96b26e92aadcec3df11d04f4eb064f9ebd96fc7"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/carpenterfemale1_vgob_mid.png"
+hash = "4459c9b5dc1b9114da9cbb9087e6d2130d3716ddf339fa2875cac59b92a8d574"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/carpentermale1_vgob_dark.png"
+hash = "6ce4b90ddbc53b20f07c8d684479978c498c5b53a4c7cd339fb5c966b8588c4d"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/carpentermale1_vgob_light.png"
+hash = "066bf7341e856ca34349bc102f755c44ecefbad6831e0e4fbed35d2d90a1652b"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/carpentermale1_vgob_mid.png"
+hash = "9ecc4ee70ddac43720d935390e09f71c0b59314de4099bdfdd5b4418b74d837b"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/chickenfarmerfemale1_vgob_dark.png"
+hash = "4b2d4d01755daeda24c7aea918a3fed7a26de97a067022489a34352cefb89d26"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/chickenfarmerfemale1_vgob_light.png"
+hash = "d9d0100f954498cc6f3c0b6aa0264b4269535285ac7c0a52e13826ab8daa9459"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/chickenfarmerfemale1_vgob_mid.png"
+hash = "8b802975ef68ca7f9b71fd9bbb8b1fbe584b49f282f5d2299dc16a77324d515d"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/chickenfarmermale1_vgob_dark.png"
+hash = "1cbe49e556dd94e62513223b5be58565885f553b479166e116b456b8cb6e3ab4"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/chickenfarmermale1_vgob_light.png"
+hash = "d0a74f2f6a5655ccb12c47feff4440852efaa23aeea983f8d5400ab74b226e35"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/chickenfarmermale1_vgob_mid.png"
+hash = "ee4548949af4596d1037f94444165014fb8c8147dd9ec504fecb0e4d0ffe8002"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/childfemale1_vgob_dark.png"
+hash = "4de3b765bb8567ac51277d1878d18099d33b8e795218f14e976484962aa960c0"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/childfemale1_vgob_light.png"
+hash = "100b24a30a12495fc230d7dfdd1ede0e71f17e5c3b2c89784239219b356a5dba"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/childfemale1_vgob_mid.png"
+hash = "614f591e2bd952584987e22f3262a30c9a5b9303fb0b2cac3ffe3b88c411219c"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/childfemale2_vgob_dark.png"
+hash = "b464608610d932a012c3267d902b239d9e6e4ad685725729fbf0e08624c6556a"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/childfemale2_vgob_light.png"
+hash = "e845a15b5cf69beaf614c92d4193feb91e2fb034ce52f79f3abd6fea97a4197a"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/childfemale2_vgob_mid.png"
+hash = "7703a59b7a26a7c5412d0d77667efb2675e38d6ecf8eb3a5bbf11e18ae089163"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/childfemale3_vgob_dark.png"
+hash = "e59fd88dd1a975db974efc777fa6d781fb948153e5538a20cc73eadcb5c59f3d"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/childfemale3_vgob_light.png"
+hash = "9a3e505b5ee12ec0f4f002f3360effd780457384cf13887fee954735627b86df"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/childfemale3_vgob_mid.png"
+hash = "f7be1b87633e0dc32fef0197e8b8650ef6d96c824b09af79f463b643af77d659"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/childmale1_vgob_dark.png"
+hash = "66ba89fc5bd0b43cef8dd38e58776dfc8274853a2cca8049becfd836ab1fea46"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/childmale1_vgob_light.png"
+hash = "06b901ba291e7516e98c920a4537fb66e0cf7af1f62861f66eed9e5dacdb96d2"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/childmale1_vgob_mid.png"
+hash = "c472df30d413d0fa1fc8448fe002c0f4b3d3228ace5138cb16f59737206e3c08"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/childmale2_vgob_dark.png"
+hash = "59ee498c8ad537d6e3a40c992b2becb5d238dbf52443a428f8019626413b9cd7"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/childmale2_vgob_light.png"
+hash = "dfd84297e66f0c9a44d35b63f57926dfd007b577948d0574beb7e7e449545765"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/childmale2_vgob_mid.png"
+hash = "16ef84337c76015baa5f7dd7dff0d637be163dba88dbd4d3010560442ef160e4"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/childmale3_vgob_dark.png"
+hash = "59ee498c8ad537d6e3a40c992b2becb5d238dbf52443a428f8019626413b9cd7"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/childmale3_vgob_light.png"
+hash = "dfd84297e66f0c9a44d35b63f57926dfd007b577948d0574beb7e7e449545765"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/childmale3_vgob_mid.png"
+hash = "16ef84337c76015baa5f7dd7dff0d637be163dba88dbd4d3010560442ef160e4"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/citizenfemale1_vgob_dark.png"
+hash = "ae43b324302b68dee3632e012ec9d084333a58a24b07a1fe84a3dae8dbe576a1"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/citizenfemale1_vgob_light.png"
+hash = "bdf2b6538ae48637346c0c9f0bc4be1e1eea0ad6e951b87a44cd78e1f98c72ba"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/citizenfemale1_vgob_mid.png"
+hash = "705a6bb415abd3d0d5a170d4d1daa26204ba54eb16babdfaf379e99979005d09"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/citizenfemale2_vgob_dark.png"
+hash = "73c3dac82cdc055c12b13a4ee4e57139258316c90a10a4c8d1eea0b219a3abb4"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/citizenfemale2_vgob_light.png"
+hash = "1f11d0b0df57d7c198fdb0339fa31c3adbbb730a64bd3c28668a95a3de53b7a9"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/citizenfemale2_vgob_mid.png"
+hash = "97deabbba0aa39a4d3460ea3531597f4f58bde3227ceeb6726fb76b290e81ed5"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/citizenfemale3_vgob_dark.png"
+hash = "84f084566e92f06b7c2fcc3e445c20d4324dbf78bb72df11f12a8ac059fcddd6"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/citizenfemale3_vgob_light.png"
+hash = "44b2e36cff7864f0c83ff1af4144e5429f42f3fa6ffda4d35d029a1ed3a77099"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/citizenfemale3_vgob_mid.png"
+hash = "5e0e137044ec583547b4520598209082684fa6bc9eeb23e329aefce79870aff0"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/citizenmale1_vgob_dark.png"
+hash = "8f559e1b35b950b4faa603e36fa923e3bef19776310a747af4ac1f9347472d46"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/citizenmale1_vgob_light.png"
+hash = "d54c981209f66d04dcd30ff67ab0a4db89e6133dabcbbc6e98bf30cf66863562"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/citizenmale1_vgob_mid.png"
+hash = "fd35f5259dbf226bb32801c3c17f2ceef12e55d2ad1c7a12e8756ce1076add6e"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/citizenmale2_vgob_dark.png"
+hash = "59ee498c8ad537d6e3a40c992b2becb5d238dbf52443a428f8019626413b9cd7"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/citizenmale2_vgob_light.png"
+hash = "dfd84297e66f0c9a44d35b63f57926dfd007b577948d0574beb7e7e449545765"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/citizenmale2_vgob_mid.png"
+hash = "16ef84337c76015baa5f7dd7dff0d637be163dba88dbd4d3010560442ef160e4"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/citizenmale3_vgob_dark.png"
+hash = "59ee498c8ad537d6e3a40c992b2becb5d238dbf52443a428f8019626413b9cd7"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/citizenmale3_vgob_light.png"
+hash = "dfd84297e66f0c9a44d35b63f57926dfd007b577948d0574beb7e7e449545765"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/citizenmale3_vgob_mid.png"
+hash = "16ef84337c76015baa5f7dd7dff0d637be163dba88dbd4d3010560442ef160e4"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/composterfemale1_vgob_dark.png"
+hash = "8fddd5d30b149ccf290e96808e22940b1edeb4292818996ccdd983c1ac596e65"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/composterfemale1_vgob_light.png"
+hash = "37c1331304d95e285c75357809c20b7111d9fdc2041f72cc34d33731b8e0e010"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/composterfemale1_vgob_mid.png"
+hash = "cb89966de95ae27a9fe38f734abaac7507cad984c5a3e48e26d64ebc5a64861c"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/compostermale1_vgob_dark.png"
+hash = "8e07f2c815af109d4443a35dbd9a0253cc0cf897b38de7f61d63cabce99f87c3"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/compostermale1_vgob_light.png"
+hash = "1799e351f4f2197a080734f872b68ef268739edee278404f8bf4d1aef07f1df3"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/compostermale1_vgob_mid.png"
+hash = "b3889a62dfa2760456811b6b521d577c70c9a593e75eb5adeb60d45c5fb06903"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/concretemixerfemale1_vgob_dark.png"
+hash = "474b5954bcf65fc8c714f612d3864e51280e0bea120b73fc83a64d9dc56627ce"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/concretemixerfemale1_vgob_light.png"
+hash = "5825243e6a97be12017268639c918cfa1949049d3c1662afc8251f17957e8e69"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/concretemixerfemale1_vgob_mid.png"
+hash = "1414866a486d84f21790543bf7fdc4f01ef7ff816417a28d7fd4f54ce126c10d"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/concretemixermale1_vgob_dark.png"
+hash = "59ee498c8ad537d6e3a40c992b2becb5d238dbf52443a428f8019626413b9cd7"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/concretemixermale1_vgob_light.png"
+hash = "dfd84297e66f0c9a44d35b63f57926dfd007b577948d0574beb7e7e449545765"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/concretemixermale1_vgob_mid.png"
+hash = "16ef84337c76015baa5f7dd7dff0d637be163dba88dbd4d3010560442ef160e4"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/cookfemale1_vgob_dark.png"
+hash = "ee5d7d7da42fc4d703b2d92c9d146a9b7abdee041ca6febd1706c93fe0ac382f"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/cookfemale1_vgob_light.png"
+hash = "f6ebf7989a9e9c444767bbb10bb69f82f86c7823fbf3995076ea9a5fe6acca84"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/cookfemale1_vgob_mid.png"
+hash = "f4e25e5c2352baa3fbe885c3e0bbaab216c49ff5373a8c9395b248183c5826f3"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/cookmale1_vgob_dark.png"
+hash = "ac36afbb722963744c163b70d803123ae3cf79f42077630d7da9e0dfeb3b37a7"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/cookmale1_vgob_light.png"
+hash = "30ae541695ef50eeb7801e6672786c9770337c6d747efdd352714771e908c57c"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/cookmale1_vgob_mid.png"
+hash = "518e0631b02a3dc9bf2147f3c52a2db99b2509c4ce610f8436ff579fff0b5b49"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/courierfemale1_vgob_dark.png"
+hash = "f9017869b7eb2d08ee92bc8d90fd5becbf174b72c4f3ab72b1946907dc75f7c2"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/courierfemale1_vgob_light.png"
+hash = "64356849f95569c8efa970397f815252fc58cd742c46f6f2dfe59d934b3630b8"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/courierfemale1_vgob_mid.png"
+hash = "c25326e01acae7467ff45bfe54ce80ed53334e9c63827b868762e112db82116d"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/couriermale1_vgob_dark.png"
+hash = "bbbfa528d9ee760bef5593466cf41c23966f7e4a8a9b839ff234ec3ac983e503"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/couriermale1_vgob_light.png"
+hash = "9da420269b87b8957657e7050e42e8c03a8b6c057e3071ce778035ed1ec0ba87"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/couriermale1_vgob_mid.png"
+hash = "eedcd6fde2bd675345b45162b31bbfe2935ef5af4e09283dffa06b61bab158d5"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/cowfarmerfemale1_vgob_dark.png"
+hash = "ce68fe2af6adeb98309d812098fa1d2f62027b32a2df99e7d59087ff3527a50c"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/cowfarmerfemale1_vgob_light.png"
+hash = "464105a75b5f39a5b1bd14689a989f5d6ec0ab8ab63654298db7c2e3c7d797a3"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/cowfarmerfemale1_vgob_mid.png"
+hash = "68194bdd4807e9af8e79b758b2e6ae67c2082f03b7e3242b09a236809d1a84b9"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/cowfarmermale1_vgob_dark.png"
+hash = "cd59ee85be07ef3fc702d4eab9e71d1f6c715a51970f3641083c6237b447b2e0"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/cowfarmermale1_vgob_light.png"
+hash = "fa9d852bfef128c0bb18d9779da19d3ac317c4deb0e54412be2a4763828ebcf4"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/cowfarmermale1_vgob_mid.png"
+hash = "808850d8dd7b04dc0321ab8460fa6585cd89238ab1c2f7024a5cb48152e09a5b"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/crafterfemale1_vgob_dark.png"
+hash = "b209ccef7e4ec9d79a0830d0a0e2055da3365657739f7e286ea90ec41874f1d8"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/crafterfemale1_vgob_light.png"
+hash = "065273d3493eb33b9e630b8405e7d131b867ae6eb2d7c29b3c17c6fd6ef47102"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/crafterfemale1_vgob_mid.png"
+hash = "f43deb55508debdd4c50946cd03f65a32cb9fe1f1e394ca9a8ae30fb479ee42e"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/craftermale1_vgob_dark.png"
+hash = "a9503501a1220e2a9030980b47c0b63a4baf29cae6d18b7790e4db4105f2a693"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/craftermale1_vgob_light.png"
+hash = "36aa5eee3e4c6504613d1ae6687bc85727b804ebbbea5a37d084c1d6fa49cfc3"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/craftermale1_vgob_mid.png"
+hash = "4d60dbe710e430fb6ba62525e478708d551bd5e8e9bcf5b9ea3f379bf63f9cc4"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/druidfemale1_vgob_dark.png"
+hash = "abffd56e48a88818d77e51791508c23849b5ba2b507521c55eaa64195ab015df"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/druidfemale1_vgob_light.png"
+hash = "00d6552b187fb5b6f23ba857d7ee1ef4dffac9f4a7bf69f892763f7bd61e8372"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/druidfemale1_vgob_mid.png"
+hash = "97e931d2f056e38366c207246136643c1853d68cd6443843b3681f20ad81d329"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/druidmale1_vgob_dark.png"
+hash = "ebcbc87d2ca4b224926067214ebdf580396455b322fc2e4b3cbf0c64b5bc267f"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/druidmale1_vgob_light.png"
+hash = "6b9160f2f5f9115cb5d6e429f6495e63e6fbdd5ff782fa69093a26ae5c92e9b0"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/druidmale1_vgob_mid.png"
+hash = "0430465cac3214e0e01759ec3063def0e9ea8823a83c88b58445aa1298243b0b"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/dyerfemale1_vgob_dark.png"
+hash = "0e8eb577a3e3273905e990131c9081503aede8909e041133ec0bf0d74a815d30"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/dyerfemale1_vgob_light.png"
+hash = "192aed93153c45c3c45809ded828bba40c52214836bd33dffcf45c24624f0577"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/dyerfemale1_vgob_mid.png"
+hash = "71ad069be6f8f17f51754d39087a3ec7bcb75764050c890f7158a97ebd2ef7fe"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/dyermale1_vgob_dark.png"
+hash = "43456324ca8e4b3e4bf0a07a340814c6190fb92f1cad88be276d7c5cacbc6e4f"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/dyermale1_vgob_light.png"
+hash = "be6c96094350beffb5e8b4b89fc534eaf89edc7d8b565ff99fed1ffee38f095d"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/dyermale1_vgob_mid.png"
+hash = "86baab56b4536a8156555fff57a7a24714890820a6c6a3003706882bd79b9537"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/enchanterfemale1_vgob_dark.png"
+hash = "2390109956231f83e43fdb1482a3ad62fbe4c644015d0369e355ecaecf924ace"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/enchanterfemale1_vgob_light.png"
+hash = "8ad02b7c46c344ac7fd0b1624ec159f6b0e4ea8a036356a17189cae4c8c2fee1"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/enchanterfemale1_vgob_mid.png"
+hash = "a0003266d153f97d23acc0e1502292ae9a6c1aa10fdef633010d77ec85c3e8c9"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/enchantermale1_vgob_dark.png"
+hash = "52b050153b7c18c83e5b52fa4d9d01d39156e4142e1d07a9c5d7613c8a6d5e27"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/enchantermale1_vgob_light.png"
+hash = "b672f9d201fc072c7035d66450d1be5a3ef15d7055054f4717acb2e08a21543c"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/enchantermale1_vgob_mid.png"
+hash = "af4fe4e9c173571208b99f59762a6b9f0bef9bc4e0c3ea13eb4e2821440aee76"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/farmerfemale1_vgob_dark.png"
+hash = "a3da84233343cd1e371955cac9e5c4b1646cbe525bae3f279994a1c96ad5cb72"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/farmerfemale1_vgob_light.png"
+hash = "7c4c82690dfdab8e111bb774f51ec2b0563fc018c7f6a7003119510bda480838"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/farmerfemale1_vgob_mid.png"
+hash = "5fd5d30df1f4a0e216237aa01ddc1a683611211b2c3ffffcc7229e0695ccdf79"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/farmermale1_vgob_dark.png"
+hash = "03d366b3b0291323382e82b32c060482120d4026bf038db3d75a5265a3f70a9f"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/farmermale1_vgob_light.png"
+hash = "1d12b5f4b3ef8ddb4e66461474ceb52312f51ced928c42932fcbc11d3317f666"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/farmermale1_vgob_mid.png"
+hash = "f9a99a30b6dbdec391442644b482ce8ecf1b8baa9016ba03a6e0ff5d2038ef0c"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/fishermanfemale1_vgob_dark.png"
+hash = "797ea1a71911724d1dba0fc50f9e6c5a76de7fad6b710694671e523ad263bd5c"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/fishermanfemale1_vgob_light.png"
+hash = "9ee0cd785255f888f86bb554a6011fffeaaeb7d852ad3e81123b757305fc3bb9"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/fishermanfemale1_vgob_mid.png"
+hash = "11dc029c23faf8d19a81d072cc3bf835f9e702b0d0ff74cdbfd42256cf69b707"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/fishermanmale1_vgob_dark.png"
+hash = "4104bb8d8ae48e22510f09cce65bc4ac1ddc1c93f2f0c576bb9b5978e437869d"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/fishermanmale1_vgob_light.png"
+hash = "9c767a9097b0785215f3e5d1e6425c024735924a0251373b06c92cb8cb7373aa"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/fishermanmale1_vgob_mid.png"
+hash = "a871d6eef6ff877729034182296a02994c557cd37aedb7c9876b201607046ade"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/fletcherfemale1_vgob_dark.png"
+hash = "a0c629d22717dcd2d0f39590aa8dbb50951d09b6bb91ace9d927e5d63878d013"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/fletcherfemale1_vgob_light.png"
+hash = "80b2078c438591f7154a9471d46228b1e9a67958c8f1380da9dd8b431e9bcc81"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/fletcherfemale1_vgob_mid.png"
+hash = "8755b7f6f7e2d9353423693a1d7cad8a3ad61c8b72e87d7b80ed6ff00f44459e"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/fletchermale1_vgob_dark.png"
+hash = "1e9d82009dfccbc248e124c4f5316ff226676b08141d7a3f9792159dae394672"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/fletchermale1_vgob_light.png"
+hash = "d932fa959fea4e255821f164dbc0bb5e1d97dd63714de4154690f2a2b967f97c"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/fletchermale1_vgob_mid.png"
+hash = "e77f2dd9dd923cd0c3dc80500d798f0f38f3bf7af3154a019653d5081f1236f4"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/floristfemale1_vgob_dark.png"
+hash = "7bec6af962d14146a06ccfecec8dbd36c94c6d7146e52860289e9cc15d1d055c"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/floristfemale1_vgob_light.png"
+hash = "2e60d6bebb7e6790483fd21e35b0897bdc6554b61e405dae40c5523bd3ca15dd"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/floristfemale1_vgob_mid.png"
+hash = "12ce4eafbe8292b70a98e1f055227dba1cc8cd48d21cb4eaef6353c68e5aa361"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/floristmale1_vgob_dark.png"
+hash = "4429cfefd0d3b4c024f28dd973e47620316ba9536779927a5e28027c00b3708e"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/floristmale1_vgob_light.png"
+hash = "8977d2c3638ecdd0b17aa7421963ecda86d6a08da3d636e6a6ae5733d891181b"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/floristmale1_vgob_mid.png"
+hash = "0fc987d038682fefb62343d49fd0aae9a73dabee0c8541622c7abfd3bf31d5a3"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/foresterfemale1_vgob_dark.png"
+hash = "a26d7f7bc7dddde328cd53eae37d8c9268f9b9b9d19438adabb2f2cc500ebe64"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/foresterfemale1_vgob_light.png"
+hash = "c13c1468dd0e190479a49e98d1ddf4c977ae3b843923368e95567e60e17c16c5"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/foresterfemale1_vgob_mid.png"
+hash = "ae4015fa64930c844400fd842f3d3bf77fe8049d3ca1ce76888513e794019e3b"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/forestermale1_vgob_dark.png"
+hash = "382ca9ffe45331dfe3ef76199320bd3fd54ed39350686b0f128abbc36965bd01"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/forestermale1_vgob_light.png"
+hash = "5855097ba3e3b937793e08e5c41c027e1a1807a86bc7d72df3629db7b7a99952"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/forestermale1_vgob_mid.png"
+hash = "59c2bc38ac2194a9007626483839f92050f459212e698c16af5c012522f72746"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/glassblowerfemale1_vgob_dark.png"
+hash = "9b67e5d12c6e95911dac579dcfabc4a7b93df7a06ae9cb6bab8183ef4e369da6"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/glassblowerfemale1_vgob_light.png"
+hash = "3874d7f6abf77c53d81b17f9acea5bd9cba54c3f98c581c6179ca65c5cfd006e"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/glassblowerfemale1_vgob_mid.png"
+hash = "6cde3693b9dcf19ee175ad949f6430264e753864eef92e3b8b996228159a0f27"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/glassblowermale1_vgob_dark.png"
+hash = "d8b9777e34836b1067ceaff844c82818f94b7fc73e131680f6c88385a2e3f53a"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/glassblowermale1_vgob_light.png"
+hash = "aff9f72563381552cbe409565eb035b3940756c4115fe42aa5e9160b3c8e4dba"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/glassblowermale1_vgob_mid.png"
+hash = "4175ee9a94a2135af438d02eef56910c554ffe66b81e00edf0432f3218e5ced0"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/healerfemale1_vgob_dark.png"
+hash = "4033bb5e9db7b22412db2cf8cff7b8ff23e8c0b34eb497d22bff3ea02ee08ed5"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/healerfemale1_vgob_light.png"
+hash = "6921038d641ff2e0806a949c9c5aa3e1f9e2c1510598c8994085627376dea9ba"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/healerfemale1_vgob_mid.png"
+hash = "851224b2454db6f9240d27ea1d0ed0dce9c46bad90a84426179b4c56b06d3d45"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/healermale1_vgob_dark.png"
+hash = "c80e54c0963c83ccad15c094fa537ce3d5160b9ac3bcee7d774c5048405ff0c6"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/healermale1_vgob_light.png"
+hash = "71eefc871b197f30d2f35a74c30c58f70011dfcd6d88fb0ce1383de1cf2c88b9"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/healermale1_vgob_mid.png"
+hash = "e573d71829b6c01968d684d6440aaf0dcb0d1e9c2b6f42fe06311e77ec85bfe2"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/knightfemale1_vgob_dark.png"
+hash = "c6d1eb6bab698debcdfd9d91b0bc5809c66b399cb6919ef94c8b1ade635662c4"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/knightfemale1_vgob_light.png"
+hash = "63c640557be51cbcad49442d78655b54e52f1ff998f3bfe12da9c40ad45ca5ed"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/knightfemale1_vgob_mid.png"
+hash = "b0e043e40118dd69c34e5148b717bee85c9e7a750035482146382574610a8d62"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/knightmale1_vgob_dark.png"
+hash = "cbedffe394e46300af3eec955a54bb95068ece8d9853c5c39d7a62cf6c8dab54"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/knightmale1_vgob_light.png"
+hash = "bd4f338ff50f56429831a7984a42e8b3c980d670870a0ecd8b2682a50c61c823"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/knightmale1_vgob_mid.png"
+hash = "9e42eeb6b5dd2c4f8b9ccbfaadb417c026153a45d502c8d3245b72ddaeb06b3b"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/mechanistfemale1_vgob_dark.png"
+hash = "a22110e936a7da86ff0a346e105c3077f2bf0976f3da45e7d35c6f6d545b9d87"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/mechanistfemale1_vgob_light.png"
+hash = "9afb2cf7265d9b2145787d472e78fa5fd93ccdf200c5460705d0cd6fc4b06caa"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/mechanistfemale1_vgob_mid.png"
+hash = "01271e9759903328c35b3a3fc0483f9f5ee6e02deba7d610a3b2f03667fe8cee"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/mechanistmale1_vgob_dark.png"
+hash = "f313adad3bc2ebfd67d29567724249a32ccfc85a4e0ab306b4e4eb064847e9f6"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/mechanistmale1_vgob_light.png"
+hash = "357b997c10a258255b1e2ba531221b0292ae7c4c0588c639009d032af3c173e7"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/mechanistmale1_vgob_mid.png"
+hash = "2920df8af663ac7af2000088255eb778ac2fa123defc771fb9522b93f36ebe14"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/minerfemale1_vgob_dark.png"
+hash = "4009640fbe284f6292f352ab6b64acb4ae1eae575fdaff78e706d30b006b6251"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/minerfemale1_vgob_light.png"
+hash = "a4eeb1efb6990c21865befd8651a5e712d03fd6bcafb721ec4aa6d8f16667d62"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/minerfemale1_vgob_mid.png"
+hash = "ff6379b2ad6f6248b0b04cd4401715a2c750c9900514f6d83c53954c8f5d5b00"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/minermale1_vgob_dark.png"
+hash = "89c2e2a27fdb6fa3d447cd1633fe1cfae88aa395a248e4199f01511f6e65b05b"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/minermale1_vgob_light.png"
+hash = "8e93459324f6bbe4053e16fea69868cb529395862e73db2d1b0bf015df6e7436"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/minermale1_vgob_mid.png"
+hash = "1bc2a7d8e6ec59cc3e40fa0923db19f3c74267f1968846ceea21cfbe96fbbd38"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/netherexplorerfemale1_vgob_dark.png"
+hash = "86e6ed09f4a3d5981e24909fb9f2fbd71afac90e06b748f4c102c75d5bbb4d0d"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/netherexplorerfemale1_vgob_light.png"
+hash = "15019d68586e6ec47be62b29f709f2622407ba2dba7d20c0f5d2397c3f835e4e"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/netherexplorerfemale1_vgob_mid.png"
+hash = "901782d49930f98c6d230a1180e5b7ff5623338cbe569a7d92394aa26a70f6d9"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/netherexplorermale1_vgob_dark.png"
+hash = "dc08482c1cb74fbdddec6c3c7117af46f3689edfcf424b018fbe414524af819d"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/netherexplorermale1_vgob_light.png"
+hash = "5364422cef937d076deca35b0297660e82f7838eeca20dfa93a8501b3aeec707"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/netherexplorermale1_vgob_mid.png"
+hash = "0cd1aa9d76788f939a7d3e28c4ce65600bbfc31e565a67023bec2a14069e41b0"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/netherworkerfemale1_vgob_dark.png"
+hash = "613771100cd7dcac37280cc3154f3f4c42dfb7d602a4ffd4182774c1edbd5b0e"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/netherworkerfemale1_vgob_light.png"
+hash = "ecb362b57d4305686b408e71f00653c29f432ea81014df65fb66809af17e303b"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/netherworkerfemale1_vgob_mid.png"
+hash = "0a7a79c653115b5b3ab1a93a6be02d5f9511ef6798de5529a3ef72e0586587cb"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/netherworkermale1_vgob_dark.png"
+hash = "ab21b6d6ea9f805985bbcebacb7b3a97996db933623bf44b554563e487b8d233"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/netherworkermale1_vgob_light.png"
+hash = "f9ddee00136fe37be3d4bf64309454437749d388f9b4f7234068fd8eecdb6994"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/netherworkermale1_vgob_mid.png"
+hash = "0cae18258e9993a36b574323328c7ace33d63316fe9dbef2229eb59e75b27f3b"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/noblefemale1_vgob_dark.png"
+hash = "736300f62fb73e8ef22bf352bac49fc5eb43fa037302f353dea82587b84c0195"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/noblefemale1_vgob_light.png"
+hash = "3c85c800a8977d89a43b9da811bc8bdc1a7488e54cbc5b6bdd56dcf793f57f0b"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/noblefemale1_vgob_mid.png"
+hash = "bb3ca11cdeb92fef0dd661085be505097afaa30eadd5ae29dcb3550679514fc1"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/noblefemale2_vgob_dark.png"
+hash = "35ae9d97331bf45bdea58fd61f5737b019563ea766632598c5755b087e955afb"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/noblefemale2_vgob_light.png"
+hash = "737f095fc529e1fa6b1af64f70273922125d757e4c1a9b9ae4d6054e316747af"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/noblefemale2_vgob_mid.png"
+hash = "fefbda7ad2dbb9b6720199c80f026e1b94bd3ac28de532ce2f7e2454983015f6"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/noblefemale3_vgob_dark.png"
+hash = "1a821685ef5c8c2fed4dbbe418690e936fc76def302f8fc45f12236f40d11f55"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/noblefemale3_vgob_light.png"
+hash = "7b9b4e90b89d1c3ec7328d3637143b4bee55f70a31e4037efddda06d29978792"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/noblefemale3_vgob_mid.png"
+hash = "f2ab71ded2fa4578c549c9a6516346257def3cf67dae4091af1f5e3c69915ab1"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/noblemale1_vgob_dark.png"
+hash = "10188e6d8e031a82a43185a89601a01e919feb4880c224bd4d3a4a0245b40dcc"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/noblemale1_vgob_light.png"
+hash = "b9b8475a452625270ff9b7e92118cb8f80233bdd1311298865014ec04e857e64"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/noblemale1_vgob_mid.png"
+hash = "7b0952692ccf890179e0144fd77fc739a690ad5cc71526509934915a42939a01"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/noblemale2_vgob_dark.png"
+hash = "1757fc65b467716bbd57ac63ca1825a024836bac1adf9a9c6d349596c1bea706"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/noblemale2_vgob_light.png"
+hash = "f79659d58b587dfac3e66ff69bf585246288dfe07a0227fa0ea9b3319fb11629"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/noblemale2_vgob_mid.png"
+hash = "f12f2441f8efbc72c222519c3148da76cff4fcc0647f0c4871e46dc225d33f76"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/noblemale3_vgob_dark.png"
+hash = "59ee498c8ad537d6e3a40c992b2becb5d238dbf52443a428f8019626413b9cd7"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/noblemale3_vgob_light.png"
+hash = "dfd84297e66f0c9a44d35b63f57926dfd007b577948d0574beb7e7e449545765"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/noblemale3_vgob_mid.png"
+hash = "16ef84337c76015baa5f7dd7dff0d637be163dba88dbd4d3010560442ef160e4"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/pigfarmerfemale1_vgob_dark.png"
+hash = "30485dd2de8923ef4bc124a0bb1e50e43f38b33f71263a8cf644e3c7979283f7"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/pigfarmerfemale1_vgob_light.png"
+hash = "30832997db8aacd34b9e7a22f30f89be5cbe137886160a486423270dcd11f027"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/pigfarmerfemale1_vgob_mid.png"
+hash = "ca00f2e5e9b85f7d6f6f590db9515a5c721c3db40cb5219741f46413a5884262"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/pigfarmermale1_vgob_dark.png"
+hash = "2494d119f50980bdbd62455a433efd3ca6aa59b9d213c497a8db66646bd24bff"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/pigfarmermale1_vgob_light.png"
+hash = "fe16affa75cb998abd53f9763ab5f1969e12e681b05ed3c6e6b611d209f87d30"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/pigfarmermale1_vgob_mid.png"
+hash = "2ca94bbb59284d39c77fa972549d1611cfb58bd2a58951923a3bede797423b84"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/planterfemale1_vgob_dark.png"
+hash = "3e9c560a4446ed801a92fd80a4a787a92c788b2d8e1028c71cda2350aa243c54"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/planterfemale1_vgob_light.png"
+hash = "192251b1cad7fde9652d700c60ca2e9b519a4b144fed06cfe368bcffa71ccb55"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/planterfemale1_vgob_mid.png"
+hash = "87ee5a669dea668089e003cbff7fad809adde7846098f3036cca734b41e3091e"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/plantermale1_vgob_dark.png"
+hash = "8e07f2c815af109d4443a35dbd9a0253cc0cf897b38de7f61d63cabce99f87c3"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/plantermale1_vgob_light.png"
+hash = "1799e351f4f2197a080734f872b68ef268739edee278404f8bf4d1aef07f1df3"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/plantermale1_vgob_mid.png"
+hash = "b3889a62dfa2760456811b6b521d577c70c9a593e75eb5adeb60d45c5fb06903"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/rabbitherderfemale1_vgob_dark.png"
+hash = "083a69465537baaa6b4522d8e820043a27427762ef4ef78d15ba930156a0ac50"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/rabbitherderfemale1_vgob_light.png"
+hash = "9915ca5a728108d0834945306b38e6c3304c5c24c08213ca653b49e8ed57b4ba"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/rabbitherderfemale1_vgob_mid.png"
+hash = "7aa4b7542063297105660bfd8b131759266405073000a7e8e2f1544e3683713d"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/rabbitherdermale1_vgob_dark.png"
+hash = "6ac0714c938102cac907acaee49a2da7b9c1d2cba79c4b41178e29601992bdff"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/rabbitherdermale1_vgob_light.png"
+hash = "84855caa89af853711e4ab579f161e2a701e8bae917058f8b4fded01857ded43"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/rabbitherdermale1_vgob_mid.png"
+hash = "5c90271d2ad49c40964ba109548a746b50e277097eea6b8057c2e3772e3094fc"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/settlerfemale1_vgob_dark.png"
+hash = "5bd1c1ce259efba24bee67fc00543ecba73afb25486388a67a59e55192a0e9a9"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/settlerfemale1_vgob_light.png"
+hash = "2e314705a0558cbcc6c1aa0b669390a2c9d6104d0b328b37bacd300c79b7362c"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/settlerfemale1_vgob_mid.png"
+hash = "50e65fc880cc55e2b9c52ffc8e84f43dcd3f70464487b44426d2245ca747bc54"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/settlerfemale2_vgob_dark.png"
+hash = "2617e50cab73e8c41b1ac21388a1c8fc9a4ec331ad6fcab33eda0e4d61ffd9e0"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/settlerfemale2_vgob_light.png"
+hash = "4cf2a3d2953a6909bf873aa5c30695f1aad276a964bf261807500c4d4dafbee5"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/settlerfemale2_vgob_mid.png"
+hash = "695cd9178162e0433a447ab40e182ec3a4d64faa85f98ce99675ad0399e4be88"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/settlerfemale3_vgob_dark.png"
+hash = "718aab088c6c31e354288dbc07f6684757fcdf9c741b27d2e9b6dfdd1dbe7306"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/settlerfemale3_vgob_light.png"
+hash = "0ee92e515215a479c09cd5ad93aaef01917cd2e9277f333543ccee9674789260"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/settlerfemale3_vgob_mid.png"
+hash = "09298a507057d1707bc611489b22ca81b5edb6d136d772a0a2ab730e5343687d"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/settlermale1_vgob_dark.png"
+hash = "59ee498c8ad537d6e3a40c992b2becb5d238dbf52443a428f8019626413b9cd7"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/settlermale1_vgob_light.png"
+hash = "dfd84297e66f0c9a44d35b63f57926dfd007b577948d0574beb7e7e449545765"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/settlermale1_vgob_mid.png"
+hash = "16ef84337c76015baa5f7dd7dff0d637be163dba88dbd4d3010560442ef160e4"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/settlermale2_vgob_dark.png"
+hash = "59ee498c8ad537d6e3a40c992b2becb5d238dbf52443a428f8019626413b9cd7"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/settlermale2_vgob_light.png"
+hash = "dfd84297e66f0c9a44d35b63f57926dfd007b577948d0574beb7e7e449545765"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/settlermale2_vgob_mid.png"
+hash = "16ef84337c76015baa5f7dd7dff0d637be163dba88dbd4d3010560442ef160e4"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/settlermale3_vgob_dark.png"
+hash = "59ee498c8ad537d6e3a40c992b2becb5d238dbf52443a428f8019626413b9cd7"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/settlermale3_vgob_light.png"
+hash = "dfd84297e66f0c9a44d35b63f57926dfd007b577948d0574beb7e7e449545765"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/settlermale3_vgob_mid.png"
+hash = "16ef84337c76015baa5f7dd7dff0d637be163dba88dbd4d3010560442ef160e4"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/sheepfarmerfemale1_vgob_dark.png"
+hash = "9430cb254892f233b44d7ce97a3e418aa6d4c5962d6e45d70ae8a24b2b459b35"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/sheepfarmerfemale1_vgob_light.png"
+hash = "63f023e6bde438437fbec4ec7bfead6b5085cf8c51dcc34af0696340b255eba1"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/sheepfarmerfemale1_vgob_mid.png"
+hash = "4d826db209f9b9e6147e0a3da9edfb2d57e345e698afc89c3f44170d2a4fc01e"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/sheepfarmermale1_vgob_dark.png"
+hash = "9e6fd228ff5d5a088898dedc3ec515fa7c40ccf1123c5658a8b60d105ced783f"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/sheepfarmermale1_vgob_light.png"
+hash = "f234248300a3e76c87acabcf2f395621b53a8d42e1c659bc35a44df1438a380e"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/sheepfarmermale1_vgob_mid.png"
+hash = "d7455f6b53924c3fef0250c894cb6ade8712cdcfbffe7e9da9f41a8e3b503af1"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/smelterfemale1_vgob_dark.png"
+hash = "008406d540005a66f3d49965b735d67714ce74ae42694dae8043b0b9830441eb"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/smelterfemale1_vgob_light.png"
+hash = "49cf66f8bf89115d11733e4b3c3c8f7ee8e4752f991ab42ec4423308fe88ab7d"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/smelterfemale1_vgob_mid.png"
+hash = "472624e90907ef4ec92713e23e103651876b9644a8f090f6561c71abb2ff8333"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/smeltermale1_vgob_dark.png"
+hash = "994e15b0ab21c179ecb645a645c1523b5010c1ab099a434081ba2523c81d0b20"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/smeltermale1_vgob_light.png"
+hash = "dcf2b973db3bae550263e1207eca5c791ef02b61e1cf3169bdf4e7fdc46d493a"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/smeltermale1_vgob_mid.png"
+hash = "fc092b24baa368352b99ac30aba176d7ad7b26816bf8d9bfe6ee330c248c7ab7"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/studentfemale1_vgob_dark.png"
+hash = "f6dbc6a97819e048a0ffe3d4dd2c87a37b4193753d61d4cc8a8d25aa01432d61"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/studentfemale1_vgob_light.png"
+hash = "cc48e5d58b007a0bb38c43df81a32b1b084e39cc54cfcceb43d60b89ec937123"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/studentfemale1_vgob_mid.png"
+hash = "cdf45c200f7add725a4e2c969a2bb4061946c897cf4fe3476652f331bcc1616a"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/studentfemale2_vgob_dark.png"
+hash = "58ba2d936875f608a76ac870438c6f678cf41baeac368dbc5a7dcb4d06aab684"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/studentfemale2_vgob_light.png"
+hash = "3e3ee30c76d5add90fb0af2907e74251ed0b5d454c68df1e9b60449594e8d3cf"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/studentfemale2_vgob_mid.png"
+hash = "9c883e23c730f04fb49f3a4ad4caa302a30768206958f413c4cbeed053ec6960"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/studentfemale3_vgob_dark.png"
+hash = "8e6528166c9ef199288046bd464a9bab23a4c68b5a35ac09fe548e7eb4f1d4e5"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/studentfemale3_vgob_light.png"
+hash = "1de7ff5b42b6fac23e4ffc1da46c9de75c9dcd7a05908fb6d6115cc0ce917351"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/studentfemale3_vgob_mid.png"
+hash = "ca9c022af99658a290c0c9e6335c91ef243aea8067283394cbaf70c432c662b1"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/studentmale1_vgob_dark.png"
+hash = "cabc8878bf00ff64e36d59bec477a91bacef7e05272bdec0dd160ab48d6714f6"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/studentmale1_vgob_light.png"
+hash = "91d4bd367786a81a7f80217bc0e0f39a5ed19973f5a3aefb6cfdad682aaba5f7"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/studentmale1_vgob_mid.png"
+hash = "811947af9d1f5b475d215574e53bc349e76d6178c36242e711e78176b8904fb6"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/studentmale2_vgob_dark.png"
+hash = "eece3b09ade0f481d228a6fdcd171835debd5a34aeaa923808631c6c27f5f89e"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/studentmale2_vgob_light.png"
+hash = "deab717afa6dfcf9d3dba0cdf9ffc037ee3aee465ae7d9fd31a063c2a4e2ea51"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/studentmale2_vgob_mid.png"
+hash = "f5d6dd7e9b328b291414a171d71991b1f4ce26a23c77b984a8e44da47a41fad7"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/studentmale3_vgob_dark.png"
+hash = "eece3b09ade0f481d228a6fdcd171835debd5a34aeaa923808631c6c27f5f89e"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/studentmale3_vgob_light.png"
+hash = "deab717afa6dfcf9d3dba0cdf9ffc037ee3aee465ae7d9fd31a063c2a4e2ea51"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/studentmale3_vgob_mid.png"
+hash = "f5d6dd7e9b328b291414a171d71991b1f4ce26a23c77b984a8e44da47a41fad7"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/teacherfemale1_vgob_dark.png"
+hash = "89cb3d189b691a479ad43844d883370a47604a6ad0002a3ffa08580a0077b125"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/teacherfemale1_vgob_light.png"
+hash = "1dfba8d4aa829306f42c995dd20cc7c29b2f647dcd26fc5c03fd7ab98101989d"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/teacherfemale1_vgob_mid.png"
+hash = "677021786d2c9c99902be67de3324f2167566105560fe048256697bbba94ac2f"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/teachermale1_vgob_dark.png"
+hash = "758e0fa82048888a06aad6370e00595713c0a844807c19e4d2019ff76cefd5ef"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/teachermale1_vgob_light.png"
+hash = "7042edb81ec74accf3d9ca75f4c5da21c2e3cebe938c0f29e882d52593976600"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/teachermale1_vgob_mid.png"
+hash = "86fd1257763f952b1ad450f100c553bcf0f7b9969c5e257b9c2d70fc2385f46d"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/undertakerfemale1_vgob_dark.png"
+hash = "e91c23adc5a99af4c6312d952682e4e82a4dded640506ad08e5c4c46438e27c7"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/undertakerfemale1_vgob_light.png"
+hash = "4c292ac85079236b611b6ec57a5d191a6fc077884ac385635a2081837e7e60c6"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/undertakerfemale1_vgob_mid.png"
+hash = "131e948d583c2dfd9e5492a3d0b89813beb998073190bed136fca954bec7f210"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/undertakermale1_vgob_dark.png"
+hash = "f4f7854df6772a364dd8ecce55368ed7218d7114c8e43cfd0b5c1e055fca5702"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/undertakermale1_vgob_light.png"
+hash = "01e3289031ed04a056eb7e2680cb23c55473c4c2964dae29a69faac9286b84a9"
+
+[[files]]
+file = "config/openloader/packs/soberania-pt-br/assets/minecolonies/textures/entity/citizen/default/undertakermale1_vgob_mid.png"
+hash = "1b11fef2a469dd075eb0a1b69aca70446dc11bde6498cc5cae11cdbb932b993d"
+
+[[files]]
 file = "config/openloader/packs/soberania-pt-br/assets/modularrouters/lang/pt_br.json"
 hash = "cb5906c9656e3a0b4eed6ea930e8b1826d4514e1de37b308e959d368656465b6"
 
@@ -1290,7 +2610,7 @@ hash = "b950c613c1ae709e6bcb79705eb265640965333a090a39ee89b8a03b3f16b339"
 
 [[files]]
 file = "kubejs/server_scripts/vassalagem.js"
-hash = "80d753bb134ab6032a363cc7221b7d890ea2d56a543fdab28f45bdf3cd009a87"
+hash = "4824915fc87e9b52ffb8044bcb7c267920e06feed49394b156ac02ae6ee3a410"
 
 [[files]]
 file = "kubejs/startup_scripts/soberania.js"
@@ -1868,3 +3188,7 @@ hash = "3ac97de6b07a0684044e8ea45dc36710c49c193eb87220db9556c854e012d5d2"
 [[files]]
 file = "tools/gerar_dadiva.py"
 hash = "4f985e039930b7e923d5d06b3669a78acc13ac120e40c8b8e73e4368699e1391"
+
+[[files]]
+file = "tools/gerar_texturas_vassalo.py"
+hash = "233bc50a366ae06b5ac8410d960563507a572c05c86fa5bf526a07a251fb6372"

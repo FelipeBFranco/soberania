@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "minecolonies:barbarian", "minecolonies:archerbarbarian", "minecolonies:chiefbarbarian",
+    "minecolonies:pirate", "minecolonies:archerpirate", "minecolonies:chiefpirate",
+    "minecolonies:drownedpirate", "minecolonies:drownedarcherpirate", "minecolonies:drownedchiefpirate",
+    "minecolonies:mummy", "minecolonies:archermummy", "minecolonies:pharao",
+    "minecolonies:amazon", "minecolonies:amazonspearman", "minecolonies:amazonchief",
+    "minecolonies:norsemenchief", "minecolonies:norsemenarcher", "minecolonies:shieldmaiden",
+    "minecolonies:campbarbarian", "minecolonies:camparcherbarbarian", "minecolonies:campchiefbarbarian",
+    "minecolonies:camppirate", "minecolonies:camparcherpirate", "minecolonies:campchiefpirate",
+    "minecolonies:campamazon", "minecolonies:campamazonspearman", "minecolonies:campamazonchief",
+    "minecolonies:campnorsemenchief", "minecolonies:campnorsemenarcher", "minecolonies:campshieldmaiden"
+  ]
+}

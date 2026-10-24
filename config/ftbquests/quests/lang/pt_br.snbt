@@ -115,6 +115,8 @@
 		"O primeiro braço do reino. A &bPrensa Mecânica&r bate lingote até virar placa, e placa é o começo de tudo no Ferro: engrenagens de latão, máquinas, trilhos. Ela também compacta, mas isso é assunto para outra era."
 		""
 		"Construa uma, ligue-a ao eixo da roda e jogue um lingote de ferro embaixo. Se ouvir o baque, está funcionando."
+		""
+		"&7Dica: neste reino a prensa leva um Cristal Mágico de baixa qualidade na receita. Sim, o Minério Mágico serve para mais coisa do que brilhar."
 	]
 	quest.0A0000000000010E.quest_subtitle: "O primeiro braço do reino"
 	quest.0A0000000000010E.title: "[Ferro] Prensa Mecânica (opcional)"
@@ -220,22 +222,6 @@
 	]
 	quest.0A0000000000011B.quest_subtitle: "Declare"
 	quest.0A0000000000011B.title: "【Marco】 O Primeiro Súdito e a Primeira Casa"
-	quest.0A00000000000201.quest_desc: [
-		"Um punhado de gente, um punhado de terra. Chamem de casa."
-		""
-		"A Era I começa aqui. Ela termina atrás de muralhas: Prefeitura nível 3 e uma invasão repelida."
-		""
-		"&7Esta era ainda está sendo escrita. As missões abaixo são as primeiras; outras virão."
-	]
-	quest.0A00000000000201.quest_subtitle: "Era I"
-	quest.0A00000000000201.title: "Pó"
-	quest.0A00000000000202.quest_desc: [
-		"Ninguém constrói um reino sozinho. O primeiro cidadão a contratar é quem constrói todos os outros."
-		""
-		"Coloque a &bCabana do Construtor&r e encomende a construção dela."
-	]
-	quest.0A00000000000202.quest_subtitle: "O primeiro cidadão"
-	quest.0A00000000000202.title: "Cabana do Construtor"
 	quest.0A00000000000901.quest_desc: [
 		"Há uma voz que nem todo reencarnado ouve. Ela anuncia o que você aprende, lê o que você não enxerga e, se você pedir, responde."
 		""
@@ -275,6 +261,199 @@
 	]
 	quest.0A00000000000905.quest_subtitle: "Parceira de longa data"
 	quest.0A00000000000905.title: "Companheira"
+	quest.0B00000000000101.quest_desc: [
+		"Um punhado de gente, um punhado de terra. Chamem de casa."
+		""
+		"A Era I é a era da colônia que vira vila. Aqui você para de fazer tudo sozinho: contrata quem corta lenha, quem planta, quem constrói e quem vigia. Você deixa de ser sobrevivente e vira prefeito, com toda a papelada que isso implica."
+		""
+		"A Era I termina atrás de &6muralhas&r: Prefeitura no nível 3 e o primeiro invasor derrubado. Até lá, dez cidadãos, cinco mil pontos de existência e uma torre de guarda."
+	]
+	quest.0B00000000000101.quest_subtitle: "A colônia vira vila"
+	quest.0B00000000000101.title: "【História】 Pó"
+	quest.0B00000000000102.quest_desc: [
+		"Ninguém constrói um reino sozinho. O primeiro cidadão a contratar é o que constrói todos os outros: o &bConstrutor&r."
+		""
+		"Coloque a &bCabana do Construtor&r com a Ferramenta de Construção, abra o bloco e encomende a construção. Ele vai pedir material; dê. Termine a cabana no nível 1."
+		""
+		"&7Dica: o Construtor pede tudo pela Prancheta. Um baú perto da obra, cheio de tábuas e pedra, poupa metade das viagens."
+	]
+	quest.0B00000000000102.quest_subtitle: "Quem constrói o resto"
+	quest.0B00000000000102.title: "【História】 Cabana do Construtor"
+	quest.0B00000000000103.quest_desc: [
+		"Gente só vem morar onde tem onde dormir e onde beber. A &bTaverna&r é as duas coisas: casa para os primeiros cidadãos e o lugar onde visitantes aparecem pedindo emprego."
+		""
+		"Construa a Taverna. Visitantes que chegarem podem ser contratados pagando o que pedem, e alguns têm habilidades raras."
+		""
+		"&7Dica: os visitantes pedem itens diferentes para ficar. Às vezes é um pão; às vezes é um diamante. Escolha bem quem vale o preço."
+	]
+	quest.0B00000000000103.quest_subtitle: "Onde tem cerveja, tem gente"
+	quest.0B00000000000103.title: "【História】 Taverna"
+	quest.0B00000000000104.quest_desc: [
+		"Cinco pessoas. Pode parecer pouco, mas cinco pessoas já brigam por comida, reclamam do barulho e pedem aumento."
+		""
+		"Chegue a &e5 cidadãos&r na colônia."
+		""
+		"&7Dica: cada cidadão precisa de uma cama. A Prefeitura e a Taverna têm algumas; casas de cidadão têm mais."
+	]
+	quest.0B00000000000104.quest_subtitle: "Já brigam por comida"
+	quest.0B00000000000104.title: "【História】 Cinco almas"
+	quest.0B00000000000105.quest_desc: [
+		"Dez cidadãos. Agora é uma vila de verdade: tem gente que você nem lembra o nome, e tudo bem, porque eles lembram o seu."
+		""
+		"Chegue a &e10 cidadãos&r. Daqui em diante a colônia começa a chamar atenção, de comerciantes e de quem prefere saquear a comerciar."
+	]
+	quest.0B00000000000105.quest_subtitle: "Gente que lembra o seu nome"
+	quest.0B00000000000105.title: "【Marco】 Dez almas"
+	quest.0B00000000000106.quest_desc: [
+		"Três mil pontos de existência: &eRank C&r. A Guilda passa a te aceitar em missões que não envolvem só colher ervas. Os monstros também passam a te levar a sério, o que é um elogio perigoso."
+		""
+		"Chegue a 3.000 EP."
+	]
+	quest.0B00000000000106.quest_subtitle: "Um elogio perigoso"
+	quest.0B00000000000106.title: "【História】 Rank C"
+	quest.0B00000000000107.quest_desc: [
+		"Cinco mil. Você já não é um reencarnado perdido; é alguém de quem os outros reencarnados ouviram falar."
+		""
+		"Chegue a &e5.000 EP&r. Use as habilidades, enfrente o que antes você evitava, coma bem e durma pouco (ou o contrário, a sua saúde agradece)."
+	]
+	quest.0B00000000000107.quest_subtitle: "Os outros já ouviram falar"
+	quest.0B00000000000107.title: "【Marco】 Cinco mil"
+	quest.0B00000000000108.quest_desc: [
+		"Toda vila começa com alguém derrubando árvores. O &bLenhador&r corta, replanta e entrega toras sem parar, desde que você não esqueça de dar o machado."
+		""
+		"Construa a Cabana do Lenhador e contrate alguém para ela."
+		""
+		"&7Dica: use a Ferramenta da Floresta para marcar a área de corte. Sem área, ele vai procurar árvore na casa do vizinho."
+	]
+	quest.0B00000000000108.quest_subtitle: "Machado na mão, árvore no chão"
+	quest.0B00000000000108.title: "[Reino] Lenhador"
+	quest.0B00000000000109.quest_desc: [
+		"Cidadão com fome não trabalha, e cidadão que não trabalha come do mesmo jeito. O &bFazendeiro&r resolve a primeira metade do problema."
+		""
+		"Construa a Cabana do Fazendeiro e dê a ele um Campo para plantar."
+		""
+		"&7Dica: o Campo é um bloco à parte (Campo do Fazendeiro). Coloque-o e escolha a semente no menu dele."
+	]
+	quest.0B00000000000109.quest_subtitle: "A primeira metade do problema"
+	quest.0B00000000000109.title: "[Reino] Fazendeiro"
+	quest.0B0000000000010A.quest_desc: [
+		"Ser prefeito é, em grande parte, atender pedido. Os cidadãos pedem ferramenta, comida, tijolo, e não param."
+		""
+		"Atenda um pedido de cidadão pela Prancheta ou entregando o item na cabana dele."
+		""
+		"&7Dica: um Armazém com um Entregador faz isso sozinho. É a próxima missão, e você vai agradecer."
+	]
+	quest.0B0000000000010A.quest_subtitle: "Papelada"
+	quest.0B0000000000010A.title: "[Reino] Pedido atendido"
+	quest.0B0000000000010B.quest_desc: [
+		"O &bArmazém&r é o coração logístico da vila: tudo o que os cidadãos produzem vai para lá, e tudo o que eles pedem sai de lá. Com um &bEntregador&r, os pedidos se atendem sozinhos."
+		""
+		"Construa o Armazém. A recompensa é a cabana do Entregador; construa-a também."
+	]
+	quest.0B0000000000010B.quest_subtitle: "O coração logístico"
+	quest.0B0000000000010B.title: "[Reino] Armazém"
+	quest.0B0000000000010C.quest_desc: [
+		"Onde tem prosperidade, tem quem queira levá-la embora. A &bTorre de Guarda&r contrata um guarda que patrulha, enfrenta monstros e, quando for a hora, enfrenta invasores."
+		""
+		"Construa uma Torre de Guarda. Dê ao guarda armadura e espada; um guarda pelado é só um cidadão com coragem."
+		""
+		"&7Dica: o Cetro de Guarda define a área de patrulha. Coloque a torre perto da entrada da vila."
+	]
+	quest.0B0000000000010C.quest_subtitle: "Coragem com armadura"
+	quest.0B0000000000010C.title: "[Reino] Torre de Guarda"
+	quest.0B0000000000010D.quest_desc: [
+		"Uma vila que só produz não evolui. A &bUniversidade&r pesquisa: ferramentas melhores, cidadãos mais rápidos, guardas mais fortes, novas cabanas."
+		""
+		"Fabrique a cabana da Universidade. As pesquisas dela são a árvore tecnológica do seu reino."
+	]
+	quest.0B0000000000010D.quest_subtitle: "A árvore do reino"
+	quest.0B0000000000010D.title: "[Reino] Universidade (opcional)"
+	quest.0B0000000000010E.quest_desc: [
+		"Pedra moída vira areia, trigo moído vira farinha, minério moído rende mais. O &bMoinho&r faz tudo isso movido pela sua roda d'água."
+		""
+		"Construa um Moinho e ligue-o ao eixo."
+	]
+	quest.0B0000000000010E.quest_subtitle: "Tudo vira pó"
+	quest.0B0000000000010E.title: "[Ferro] Moinho (opcional)"
+	quest.0B0000000000010F.quest_desc: [
+		"A &bSerra Mecânica&r corta tábuas mais rápido que qualquer lenhador e, de lado, derruba árvores inteiras. Com cuidado: ela não distingue tronco de perna."
+		""
+		"Construa uma."
+	]
+	quest.0B0000000000010F.quest_subtitle: "Não distingue tronco de perna"
+	quest.0B0000000000010F.title: "[Ferro] Serra Mecânica (opcional)"
+	quest.0B00000000000110.quest_desc: [
+		"Máquina sem logística é só barulho. &bEsteiras&r levam o que uma máquina faz até a próxima, e o &bRevestimento de Andesito&r é a casca de quase tudo do Create nesta era."
+		""
+		"Faça 4 Esteiras e 8 Revestimentos de Andesito."
+	]
+	quest.0B00000000000110.quest_subtitle: "Máquina sem logística é barulho"
+	quest.0B00000000000110.title: "[Ferro] Esteiras (opcional)"
+	quest.0B00000000000111.quest_desc: [
+		"Um &bVentilador&r empurra itens e, soprando através de fogo, lava ou água, cozinha, funde ou lava em massa. É a primeira fábrica de verdade do reino."
+		""
+		"Construa um Ventilador Revestido. Teste soprando por cima de uma fogueira um monte de carne crua."
+	]
+	quest.0B00000000000111.quest_subtitle: "A primeira fábrica"
+	quest.0B00000000000111.title: "[Ferro] Ventilador (opcional)"
+	quest.0B00000000000112.quest_desc: [
+		"Feitiços de Ars Nouveau são feitos de glifos, e glifos se aprendem na &bMesa do Escriba&r: você paga o material e o glifo vai para o livro."
+		""
+		"Construa uma Mesa do Escriba."
+	]
+	quest.0B00000000000112.quest_subtitle: "Onde se aprende glifo"
+	quest.0B00000000000112.title: "[Mana] Mesa do Escriba (opcional)"
+	quest.0B00000000000113.quest_desc: [
+		"A &bCâmara de Imbuição&r carrega itens comuns com Source e os transforma: ametista em gema de Source, lápis em essência, papel em pergaminho de feitiço."
+		""
+		"Construa uma. Ela consome Source de um jarro por perto."
+	]
+	quest.0B00000000000113.quest_subtitle: "Pedra comum, alma nova"
+	quest.0B00000000000113.title: "[Mana] Câmara de Imbuição (opcional)"
+	quest.0B00000000000114.quest_desc: [
+		"A outra escola de magia deste mundo é a dos livros de feitiço: você não monta o feitiço, você o &bescreve&r. A &bMesa de Inscrição&r grava pergaminhos no livro."
+		""
+		"Construa uma Mesa de Inscrição. Os pergaminhos se acham em baús de masmorra ou se compram de magos."
+	]
+	quest.0B00000000000114.quest_subtitle: "A outra escola"
+	quest.0B00000000000114.title: "[Mana] Mesa de Inscrição (opcional)"
+	quest.0B00000000000115.quest_desc: [
+		"Um &bPergaminho&r é um feitiço pronto. Use-o direto (uma vez só) ou grave-o no livro na Mesa de Inscrição (para sempre)."
+		""
+		"Consiga um pergaminho qualquer. Masmorras, ruínas e vendedores errantes são boas apostas."
+	]
+	quest.0B00000000000115.quest_subtitle: "Um feitiço pronto"
+	quest.0B00000000000115.title: "[Mana] Pergaminho (opcional)"
+	quest.0B00000000000116.quest_desc: [
+		"Debaixo deste mundo tem outro, mais quente e muito mais mal-humorado. O &bNether&r tem quartzo, ouro, fortalezas e coisas que explodem."
+		""
+		"Atravesse um portal para o Nether. Leve a poção da recompensa da próxima vez; desta, vá com coragem."
+	]
+	quest.0B00000000000116.quest_subtitle: "Mais quente e mal-humorado"
+	quest.0B00000000000116.title: "[Mundo] O Nether (opcional)"
+	quest.0B00000000000117.quest_desc: [
+		"As fortalezas do Nether aqui são maiores, mais cheias de corredores e mais cheias de quem não gosta de visita. Também são mais cheias de baú."
+		""
+		"Encontre uma &bFortaleza do Nether&r."
+	]
+	quest.0B00000000000117.quest_subtitle: "Corredores e baús"
+	quest.0B00000000000117.title: "[Mundo] Fortaleza (opcional)"
+	quest.0B00000000000118.quest_desc: [
+		"Um lago de dois por dois, flores em volta, um diamante jogado na água, e o mundo se abre para a &bFloresta do Crepúsculo&r: uma dimensão de noite eterna, árvores gigantes e chefes com troféus."
+		""
+		"Entre na Floresta do Crepúsculo."
+	]
+	quest.0B00000000000118.quest_subtitle: "Noite eterna"
+	quest.0B00000000000118.title: "[Mundo] Floresta do Crepúsculo (opcional)"
+	quest.0B00000000000119.quest_desc: [
+		"Uma vila que cresce é uma vila que chama atenção. Bárbaros, piratas e coisas piores sabem contar casas, e mais casas significa mais coisa para levar."
+		""
+		"Erga as muralhas: suba a &bPrefeitura ao nível 3&r e derrube você mesmo pelo menos um &binvasor&r (de uma invasão à colônia ou de um acampamento deles pelo mundo)."
+		""
+		"&6Esta é a Porta da Era I.&r Completá-la abre a &lEra II — Ferro&r, quando a vila vira cidade e a cidade passa a ser movida a máquina. Como recompensa: a cabana do Quartel, para o exército que essa cidade vai precisar."
+	]
+	quest.0B00000000000119.quest_subtitle: "Quem conta casas"
+	quest.0B00000000000119.title: "【Marco】 Muralhas"
 	reward.0A0000000000F301.title: "Kit do Construtor: picareta, machado e pá de ferro, 64 tábuas, 64 pedregulho, 32 tochas, 16 pães"
 	reward.0A0000000000F302.title: "Kit do Engenheiro: 24 liga de andesito, 6 engrenagens, 2 engrenagens grandes, 16 eixos, roda d'água, chave inglesa, 16 ferro"
 	reward.0A0000000000F303.title: "Kit Arcano: livro de novato, Tomo Esfarrapado, 12 gemas de Source, 8 arbustos de Source, 16 lápis-lazúli, 8 ametistas"
@@ -402,9 +581,12 @@
 	reward.0A000000000F4079.title: "Livro de Estudo (única)"
 	reward.0A000000000F407A.title: "Livro de Estudo (única)"
 	reward.0A000000000F407B.title: "Livro de Estudo (única)"
+	reward.0B00000000000219.title: "Prefeitura nível 3"
+	reward.0B00000000000319.title: "Derrubar um invasor"
 	reward_table.0A000000000000F1.title: "Trouxa do Reencarnado"
 	reward_table.0A000000000000F2.title: "Bolsa da Grande Sábia"
 	reward_table.0A000000000000F3.title: "Escolha do Fundador"
 	reward_table.0A000000000000F4.title: "Dádiva do Mundo"
-	task.0A000000000002A1.title: "Entrar na Era I"
+	task.0B00000000000219.title: "Prefeitura nível 3"
+	task.0B00000000000319.title: "Derrubar um invasor"
 }

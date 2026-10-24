@@ -337,6 +337,8 @@
 				"O primeiro braço do reino. A &bPrensa Mecânica&r bate lingote até virar placa, e placa é o começo de tudo no Ferro: engrenagens de latão, máquinas, trilhos. Ela também compacta, mas isso é assunto para outra era."
 				""
 				"Construa uma, ligue-a ao eixo da roda e jogue um lingote de ferro embaixo. Se ouvir o baque, está funcionando."
+				""
+				"&7Dica: neste reino a prensa leva um Cristal Mágico de baixa qualidade na receita. Sim, o Minério Mágico serve para mais coisa do que brilhar."
 			]
 			id: "0A0000000000010E"
 			optional: true

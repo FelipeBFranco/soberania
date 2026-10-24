@@ -10,11 +10,11 @@ hash = "b9cc1c0b8256d0a7ce460149bbd8e3f16103e206bd81593132fe0ca68a8a2226"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/era_0_despertar.snbt"
-hash = "37439a2e37b60c8989a9c168edcd5d231c9ea7d834e636f7e89e1860cc23e6b0"
+hash = "e3418d34fb27238d35898ed65a6b754de91fc2a4219d2844c2436752fb1a5b6e"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/era_1_po.snbt"
-hash = "a038553d181b0008b2123a6fd7fdf1b52153a2f47799ba7f59b008bd1d2b33df"
+hash = "6f408a9de2f93b3ebf23ddff91b7f49d806c20bf2f73704461b9d1c9caca5a49"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/grande_sabia.snbt"
@@ -26,7 +26,7 @@ hash = "38426c7cb598cf2907456cbf7c95580d7fd6c83d0234a31159467d74c7419211"
 
 [[files]]
 file = "config/ftbquests/quests/lang/pt_br.snbt"
-hash = "bd17a6fbe63b973b19f566b2271014a08f3ced1bbb869054c49cafba2fc4f502"
+hash = "da72bcaa0bf39bcb5d95208c2352a75fc9696c23a504dba859dd917efbf7fa13"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/bolsa_da_grande_sabia.snbt"
@@ -45,6 +45,14 @@ file = "config/ftbquests/quests/reward_tables/trouxa_do_reencarnado.snbt"
 hash = "99cac6ee4f4d5e3bd163c3c2990b5756611c03411e88f72ef5d189aea9c0b852"
 
 [[files]]
+file = "config/openloader/packs/soberania-data/data/soberania/advancement/era1/invasor.json"
+hash = "443dd53968457f977af5a1f411c0b3c6a84f11bceadaec5e21439508761c233d"
+
+[[files]]
+file = "config/openloader/packs/soberania-data/data/soberania/advancement/era1/prefeitura_3.json"
+hash = "5d04c5f09ebc5f0450d9f62a387b40e336478e1f335e4858bfe6949554b3d2e8"
+
+[[files]]
 file = "config/openloader/packs/soberania-data/data/soberania/loot_table/kit_arcano.json"
 hash = "4ce1e96a9f0de3215aacbf063fdc16809a647a39716cbdbd07a87f19aea4abf7"
 
@@ -55,6 +63,10 @@ hash = "3336a5ffa65d253bd81862d2027ef87e8bc2456dadea0d77219f39596287fb15"
 [[files]]
 file = "config/openloader/packs/soberania-data/data/soberania/loot_table/kit_engenheiro.json"
 hash = "ca6be8ca61fdc7878ed37a9bca89b108b1eb6c5b5d7b54f965c221cf01b94a4c"
+
+[[files]]
+file = "config/openloader/packs/soberania-data/data/soberania/tags/entity_type/invasores.json"
+hash = "149f915a0ebb5b9e02788d947d54c0a29e7dab638e830741db11d97b7157de0b"
 
 [[files]]
 file = "config/openloader/packs/soberania-data/pack.mcmeta"
@@ -378,11 +390,11 @@ hash = "c5cbc6cb47985a78d91169db0fbeb70e6c27cd77a356f61c3691feb3da1ace2c"
 
 [[files]]
 file = "kubejs/client_scripts/soberania.js"
-hash = "79589d9d3580f162212094e4e7a4789a4e077676b9a74d6494e6b590df3757dc"
+hash = "b7ea6c83046fd51c4e68a8c60883980412a81b0524552dc071f772744c573645"
 
 [[files]]
 file = "kubejs/server_scripts/soberania.js"
-hash = "883ac2f585f7e7909b799ccf075045b95b15aaafcf50d5f65aac802497a6c148"
+hash = "73bdfa2a434d0f80250a4bfb578195ea6197beae277213f51178235192ac41f8"
 
 [[files]]
 file = "kubejs/startup_scripts/soberania.js"

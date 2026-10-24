@@ -1,0 +1,12 @@
+{
+	chapter_groups: [
+		{
+			id: "0A000000000000E1"
+			title: "Eras"
+		}
+		{
+			id: "0A000000000000E2"
+			title: "Pilares"
+		}
+	]
+}

@@ -5,8 +5,36 @@ file = "README.md"
 hash = "5d064cf2a4a7894ca67b88c0a7bce144c8dfb0391a93f85d558af1b60eab1212"
 
 [[files]]
+file = "config/ftbquests/quests/chapter_groups.snbt"
+hash = "b9cc1c0b8256d0a7ce460149bbd8e3f16103e206bd81593132fe0ca68a8a2226"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/era_0_despertar.snbt"
+hash = "b4f87238792135e94c7337d26d1605ffb67ad5afe412889b8d89edb2798e1669"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/era_1_po.snbt"
+hash = "618b4a28174fb68f27e871f88e700515a892748fa32db1b8c534b164c11d50e5"
+
+[[files]]
+file = "config/ftbquests/quests/data.snbt"
+hash = "38426c7cb598cf2907456cbf7c95580d7fd6c83d0234a31159467d74c7419211"
+
+[[files]]
 file = "docs/grande-sabia-comandos-de-voz.md"
 hash = "c5cbc6cb47985a78d91169db0fbeb70e6c27cd77a356f61c3691feb3da1ace2c"
+
+[[files]]
+file = "kubejs/client_scripts/soberania.js"
+hash = "79589d9d3580f162212094e4e7a4789a4e077676b9a74d6494e6b590df3757dc"
+
+[[files]]
+file = "kubejs/server_scripts/soberania.js"
+hash = "883ac2f585f7e7909b799ccf075045b95b15aaafcf50d5f65aac802497a6c148"
+
+[[files]]
+file = "kubejs/startup_scripts/soberania.js"
+hash = "974ed593188d05ab8325a8b9cbf078548be5f11f02f3a8955455d6b2e003ae18"
 
 [[files]]
 file = "mods/ae2.pw.toml"
@@ -20,7 +48,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
+hash = "657a01a86bbf8617e4726c77df08f708e43a3db12db74b837eebd8eb1d93faae"
 metafile = true
 
 [[files]]
@@ -31,6 +59,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "603cdc47142b5aa5729cbbf265a473574c9e2b55561de4318e9842d3d4b3b995"
+metafile = true
+
+[[files]]
+file = "mods/better-advanced-tooltips.pw.toml"
+hash = "03084ff4f74cedc1b8ac6c85a98842f75956fb4fa811d285d8ca7caa8d54da5d"
 metafile = true
 
 [[files]]
@@ -114,6 +147,31 @@ hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
 
 [[files]]
+file = "mods/ftb-chunks-forge.pw.toml"
+hash = "670df7985eec05c6a339d90ebbcfda0e5f1f5c63846ac65a441412f123471e14"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "19d86081a1c7654a91f437d85ea34af4e3f2b899c8e0e50d48a04ca97babf7b4"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-forge.pw.toml"
+hash = "45d3bc7051ed6546e492e5be236f0271031dd0e45328cf8eecbb035d521e345c"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "c21c2308684a75cda7dd9d557d129c9f89f49be527da3d5aa675fff444c11f5e"
+metafile = true
+
+[[files]]
+file = "mods/ftb-xmod-compat.pw.toml"
+hash = "96b8df58491c7190b35bf1c5115f029df6464ec276244557becad1613c5f5125"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "35779b39ddc06059ec483b33de2ecfdc3adb95c0a49e69b6701fb0024827e2f5"
 metafile = true
@@ -161,6 +219,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "4de3e4a1a49e332c1ad313283e0403c4273b628d634c17a9ff0c9da3d6b67f9a"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "7e0eca275f27b6543f06c36dec433851a956960cbedd2be57d19e159d636bfc1"
 metafile = true
 
 [[files]]
@@ -286,6 +349,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "27721caca5a03b743bf25888e1d984142948069dace31453f103f94f7f24d2ce"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "e55ca32b338a0e0540f4fec5170675d860566255ae0f45692a00cb4ebf2eb535"
 metafile = true
 
 [[files]]

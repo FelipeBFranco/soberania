@@ -1,0 +1,15 @@
+{
+	icon: {
+		id: "tensura:high_quality_magic_crystal"
+	}
+	id: "0A000000000000F4"
+	loot_size: 1
+	order_index: 3
+	rewards: [
+		{ id: "0A0000000000F401", random: "COMMON", status: "LEARNT", type: "tensura_ftb:random_ability", weight: 70.0f }
+		{ id: "0A0000000000F402", random: "EXTRA", status: "LEARNT", type: "tensura_ftb:random_ability", weight: 20.0f }
+		{ id: "0A0000000000F403", random: "UNIQUE", status: "LEARNT", type: "tensura_ftb:random_ability", weight: 5.0f }
+		{ id: "0A0000000000F404", existence: "MAX_EP", type: "tensura_ftb:existence_value", value: 500, weight: 5.0f }
+	]
+	title: "Dádiva do Mundo"
+}

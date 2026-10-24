@@ -10,11 +10,15 @@ hash = "b9cc1c0b8256d0a7ce460149bbd8e3f16103e206bd81593132fe0ca68a8a2226"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/era_0_despertar.snbt"
-hash = "5199766107cf98380c247acd70ab1955a3f2c284cf58e8c00ef94c6f6555881c"
+hash = "96fbd141e1deba84acdb75f1a577dd348d57d6de38cbdd6af30b6d588186ac27"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/era_1_po.snbt"
 hash = "a038553d181b0008b2123a6fd7fdf1b52153a2f47799ba7f59b008bd1d2b33df"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/grande_sabia.snbt"
+hash = "d84b2b3118cee080b3145569aff0bd2ef7b8d16a77dd84a682d4f5999696731a"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -22,11 +26,15 @@ hash = "38426c7cb598cf2907456cbf7c95580d7fd6c83d0234a31159467d74c7419211"
 
 [[files]]
 file = "config/ftbquests/quests/lang/pt_br.snbt"
-hash = "7de454aa53c88c3146f6ff554b882715759b85e9f37c009104bd7cf18f7a0c41"
+hash = "b3755558a9f8b950f41ff7b293e85f5db216245c490b4ca4827e065c2927e1d0"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/bolsa_da_grande_sabia.snbt"
 hash = "57f7ef18324f4c72c063dfb358273850a8ab7b4863eccb8b161bf793ac57f569"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/dadiva_da_grande_sabia.snbt"
+hash = "5493da73ef49840c1bd39706ae1b72f3152c3205a210ecbc3f5c8842510712a9"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/escolha_do_fundador.snbt"
@@ -164,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-chunks-forge.pw.toml"
-hash = "670df7985eec05c6a339d90ebbcfda0e5f1f5c63846ac65a441412f123471e14"
+hash = "eeed597c140aa342743f773f37ca7a8a166cab031863a8b392d953ba9011d117"
 metafile = true
 
 [[files]]
@@ -174,22 +182,22 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "19d86081a1c7654a91f437d85ea34af4e3f2b899c8e0e50d48a04ca97babf7b4"
+hash = "b750f4de21e2a21664cc4a15fd31464ecbcba91d2149eafd9bff9544628188cb"
 metafile = true
 
 [[files]]
 file = "mods/ftb-quests-forge.pw.toml"
-hash = "45d3bc7051ed6546e492e5be236f0271031dd0e45328cf8eecbb035d521e345c"
+hash = "4e9b393c2b494d382cd1bc0e184757969e253550969527e87c2d3de7c5b85dae"
 metafile = true
 
 [[files]]
 file = "mods/ftb-teams-forge.pw.toml"
-hash = "c21c2308684a75cda7dd9d557d129c9f89f49be527da3d5aa675fff444c11f5e"
+hash = "d20ee6145f6d557df5d41c63644706930c5ebae5ccc4b4731c4bc519e144d33f"
 metafile = true
 
 [[files]]
 file = "mods/ftb-xmod-compat.pw.toml"
-hash = "96b8df58491c7190b35bf1c5115f029df6464ec276244557becad1613c5f5125"
+hash = "84de31a239ca442aec9e51363731dd738fd2303dd721b663df8da14f8d39e6e2"
 metafile = true
 
 [[files]]

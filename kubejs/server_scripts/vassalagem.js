@@ -25,6 +25,7 @@ const TensuraStorages = Java.loadClass('io.github.manasmods.tensura.storage.Tens
 const SkillAPI = Java.loadClass('io.github.manasmods.manascore.skill.api.SkillAPI')
 const MinecoloniesAPI = Java.loadClass('com.minecolonies.api.IMinecoloniesAPI')
 const TavernModule = Java.loadClass('com.minecolonies.core.colony.buildings.modules.TavernBuildingModule')
+const EntityCitizen = Java.loadClass('com.minecolonies.api.entity.citizen.AbstractEntityCitizen')
 const Skill = Java.loadClass('com.minecolonies.api.entity.citizen.Skill')
 const CompoundTag = Java.loadClass('net.minecraft.nbt.CompoundTag')
 const AttributeModifier = Java.loadClass('net.minecraft.world.entity.ai.attributes.AttributeModifier')
@@ -210,8 +211,10 @@ function jurar(player, target, item) {
   }
   visitante.setRecruitCosts(Item.of('tensura:low_quality_magic_crystal', 1))
   visitante.markDirty(0)
+  // spawnVisitor() já criou a entidade com gênero, nome e textura sorteados, e o
+  // visitante não relê os dados sozinho: initEntityValues() copia os nossos para ela.
   visitante.getEntity().ifPresent(e => {
-    e.setCustomName(Text.of(nome))
+    visitante.initEntityValues()
     aplicarCorpo(e, perfil)
   })
 
@@ -317,7 +320,11 @@ function reaplicarVassalos(server) {
     while (vit.hasNext()) {
       let v = vit.next()
       if (String(v.getName()) !== nome) continue
-      v.getEntity().ifPresent(e => aplicarCorpo(e, perfil))
+      v.getEntity().ifPresent(e => {
+        // Visitante com a textura sorteada (jurado na v0.9.2 ou antes): corrige a entidade.
+        if (String(e.getEntityData().get(EntityCitizen.DATA_TEXTURE_SUFFIX)) !== String(v.getTextureSuffix())) v.initEntityValues()
+        aplicarCorpo(e, perfil)
+      })
     }
   }
 }

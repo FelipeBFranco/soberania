@@ -2610,7 +2610,7 @@ hash = "b950c613c1ae709e6bcb79705eb265640965333a090a39ee89b8a03b3f16b339"
 
 [[files]]
 file = "kubejs/server_scripts/vassalagem.js"
-hash = "ccbc5cc3fd4311d1d70c5d2c748a68e885b75f2e67daf7b58b8f6529ebd5be4f"
+hash = "3a9a3701c542acfa0d0205519d6ec25ceb4e68c75e126b68c31f40cc467364e5"
 
 [[files]]
 file = "kubejs/startup_scripts/soberania.js"
@@ -3195,4 +3195,4 @@ hash = "233bc50a366ae06b5ac8410d960563507a572c05c86fa5bf526a07a251fb6372"
 
 [[files]]
 file = "tools/sonda_vassalagem.js"
-hash = "039774e0e347d83e92305524277e35a717cc0529ffd4b91e64124a3368c5806f"
+hash = "dfcaab182d6305cde222950fac53839ae402b481d2aebb76293ab0ca362be9ef"

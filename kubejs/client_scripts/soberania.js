@@ -13,6 +13,6 @@ ItemEvents.modifyTooltips(event => {
   event.add('soberania:selo_de_vassalagem', [
     '§7Use num súdito que você nomeou, dentro da sua colônia.',
     '§7Ele jura lealdade e vai morar na Taverna como visitante;',
-    '§7contratado, vira cidadão.'
+    '§7contratado, vira cidadão sem perder a aparência que tinha.'
   ])
 })

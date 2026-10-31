@@ -38,6 +38,14 @@ public final class VassalRegistry extends SavedData {
         setDirty();
     }
 
+    /** Keeps what a citizen gained (EP, skills) in the record; only marks the data dirty when something changed. */
+    public void updateSoul(UUID id, CompoundTag soul) {
+        Vassal current = vassals.get(id);
+        if (current == null || current.soul().equals(soul)) return;
+        vassals.put(id, current.withSoul(soul));
+        setDirty();
+    }
+
     @Override
     public CompoundTag save(CompoundTag tag, HolderLookup.Provider provider) {
         ListTag list = new ListTag();

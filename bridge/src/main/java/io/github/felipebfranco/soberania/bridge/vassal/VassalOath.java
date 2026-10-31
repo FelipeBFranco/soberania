@@ -48,7 +48,10 @@ public final class VassalOath {
     /** Returns the message explaining why the oath failed, or null when the vassal was sworn. */
     @Nullable
     public static Component swear(ServerPlayer player, LivingEntity target, ItemStack seal) {
-        if (target instanceof Player || target instanceof AbstractEntityCitizen) {
+        if (target instanceof AbstractEntityCitizen citizen) {
+            return showSoul(player, citizen);
+        }
+        if (target instanceof Player) {
             return Component.literal("O Selo só funciona em súditos do Tensura.");
         }
         IExistence existence = TensuraStorages.getExistenceFrom(target);
@@ -82,6 +85,7 @@ public final class VassalOath {
         double ep = existence.getEP();
         VassalProfile profile = VassalProfile.of(target, race, ep);
         CompoundTag nbt = target.saveWithoutId(new CompoundTag());
+        CompoundTag soul = VassalSoul.capture(target);
         ResourceLocation type = BuiltInRegistries.ENTITY_TYPE.getKey(target.getType());
 
         IVisitorData visitor = tavern.getModule(TavernBuildingModule.class).spawnVisitor();
@@ -90,7 +94,7 @@ public final class VassalOath {
         }
 
         Vassal vassal = new Vassal(UUID.randomUUID(), player.getUUID(), colony.getID(), colony.getDimension().location(), name, race,
-            profile.rank.name(), ep, profile.extraHealth, profile.rank.damage(), type, nbt, level.getGameTime());
+            profile.rank.name(), ep, profile.extraHealth, profile.rank.damage(), type, nbt, level.getGameTime(), soul);
         VassalRegistry.get(player.server).add(vassal);
 
         visitor.setGender(isFemale(target));
@@ -110,6 +114,7 @@ public final class VassalOath {
         visitor.getEntity().ifPresent(entity -> {
             visitor.initEntityValues();
             VassalBody.apply(entity, vassal);
+            VassalSoul.applyIfNew(entity, vassal);
             VassalAppearancePayload.sendToTracking(entity, vassal);
         });
 
@@ -121,6 +126,15 @@ public final class VassalOath {
             + ") jurou lealdade e partiu para a Taverna de " + colony.getName() + ".").withStyle(ChatFormatting.GOLD));
         SoberaniaBridge.LOG.info("vassalagem: {} → {} ({}, EP {}, {}) colônia {}; skills {}", player.getGameProfile().getName(), name, race,
             Math.round(ep), profile.rank.name(), colony.getID(), profile.learnedSkills);
+        return null;
+    }
+
+    /** The Seal on a citizen reveals its oath instead of swearing (and is not used up). */
+    @Nullable
+    private static Component showSoul(ServerPlayer player, AbstractEntityCitizen citizen) {
+        Vassal vassal = VassalRegistry.get(player.server).get(VassalHolder.vassalIdOf(citizen.getCivilianData()));
+        if (vassal == null) return Component.literal("Este cidadão não jurou vassalagem.");
+        VassalSoul.describe(vassal).forEach(player::sendSystemMessage);
         return null;
     }
 

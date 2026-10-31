@@ -14,6 +14,11 @@ const S_HM = Java.loadClass('net.minecraft.world.level.levelgen.Heightmap$Types'
 const S_Oath = Java.loadClass('io.github.felipebfranco.soberania.bridge.vassal.VassalOath')
 const S_Registry = Java.loadClass('io.github.felipebfranco.soberania.bridge.vassal.VassalRegistry')
 const S_Events = Java.loadClass('io.github.felipebfranco.soberania.bridge.vassal.VassalEvents')
+const S_Soul = Java.loadClass('io.github.felipebfranco.soberania.bridge.vassal.VassalSoul')
+const S_Truce = Java.loadClass('io.github.felipebfranco.soberania.bridge.vassal.VassalTruce')
+const S_Guard = Java.loadClass('com.minecolonies.core.entity.ai.workers.guard.AbstractEntityAIGuard')
+const S_SkillAPI = Java.loadClass('io.github.manasmods.manascore.skill.api.SkillAPI')
+const S_RL = Java.loadClass('net.minecraft.resources.ResourceLocation')
 
 function sonda(rotulo, fn) {
   try { let v = fn(); console.info(`[sonda] OK   ${rotulo} = ${v}`); return v }
@@ -68,6 +73,8 @@ ServerEvents.loaded(event => {
   sonda('setBuildingLevel(1)', () => { predio.setBuildingLevel(1); return predio.getBuildingLevel() })
 
   let g = monstro(level, 'tensura:goblin', alvo, 'Grub', dono, 5000)
+  sonda('goblin aprende magic_sense antes do juramento', () => S_SkillAPI.getSkillsFrom(g).learnSkill(S_RL.parse('tensura:magic_sense')))
+  sonda('skills do goblin antes', () => S_SkillAPI.getSkillsFrom(g).getLearnedSkills().size())
   sonda('goblin C', () => texto(S_Oath.swear(fake, g, selo)))
   sonda('goblin removido', () => g.isRemoved())
   sonda('selo gasto (6→5)', () => selo.getCount())
@@ -116,15 +123,56 @@ ServerEvents.loaded(event => {
     let r = S_Events.vassalOf(server, o)
     return `${r.race()} ${r.rank()} tipo=${r.entityType()} sufixo=${o.getTextureSuffix()}`
   })
+  // ---- M2: alma, ficha e trégua ----
+  let vg = S_Events.vassalOf(server, v)
+  sonda('alma capturada', () => `ep=${vg.soul().getDouble('ep')} magiculas=${vg.soul().getDouble('magicule')} skills=${vg.soul().getList('skills', 10).size()}`)
+  let corpo = level.createEntity('minecolonies:visitor')
+  corpo.setPos(alvo.getX(), alvo.getY(), alvo.getZ())
+  level.addFreshEntity(corpo)
+  v.setEntity(corpo)
+  v.initEntityValues()
+  sonda('alma aplicada (1ª vez)', () => S_Soul.applyIfNew(corpo, vg))
+  sonda('alma aplicada (2ª vez = false)', () => S_Soul.applyIfNew(corpo, vg))
+  sonda('cidadão tem EP/dono/skills', () => {
+    let ex = S_TS.getExistenceFrom(corpo)
+    return `ep=${ex.getEP()} dono=${ex.getPermanentOwner()} nome=${ex.getName()} skills=${S_SkillAPI.getSkillsFrom(corpo).getLearnedSkills().size()} magic_sense=${S_SkillAPI.getSkillsFrom(corpo).getSkill(S_RL.parse('tensura:magic_sense')).isPresent()}`
+  })
+  sonda('leitura de volta (EP ganho como cidadão)', () => {
+    S_TS.getExistenceFrom(corpo).setEP(7777)
+    S_Registry.get(server).updateSoul(vg.id(), S_Soul.capture(corpo))
+    return S_Registry.get(server).get(vg.id()).soul().getDouble('ep')
+  })
+  sonda('ficha', () => S_Soul.describe(S_Registry.get(server).get(vg.id())).stream().map(c => c.getString()).toList().join(' | '))
+  sonda('selo num cidadão-vassalo mostra a ficha', () => texto(S_Oath.swear(fake, corpo, selo)) + ` selo=${selo.getCount()}`)
+  let meu = monstro(level, 'tensura:goblin', alvo, 'Amigo', dono, 100)
+  let alheio = monstro(level, 'tensura:goblin', alvo, 'Estranho', '99999999-2222-3333-4444-555555555555', 100)
+  let selvagem = monstro(level, 'tensura:goblin', alvo, null, null, 0)
+  sonda('trégua: súdito do dono protegido', () => S_Truce.isProtected(corpo, meu))
+  sonda('trégua: súdito de estranho não', () => S_Truce.isProtected(corpo, alheio))
+  sonda('guarda (mixin): ataca meu súdito?', () => S_Guard.isAttackableTarget(corpo, meu))
+  sonda('guarda (mixin): ataca súdito alheio?', () => S_Guard.isAttackableTarget(corpo, alheio))
+  sonda('guarda (mixin): ataca goblin selvagem?', () => S_Guard.isAttackableTarget(corpo, selvagem))
+  S_guarda = { corpo: corpo, meu: monstro(level, 'minecraft:zombie', alvo, 'Zé', dono, 100), selvagem: monstro(level, 'minecraft:zombie', alvo, null, null, 0),
+    gob: monstro(level, 'tensura:goblin', alvo, null, null, 0) }
   console.info('[sonda] fim')
 })
 
 // Depois de 10 s de jogo a reaplicação já rodou: confere a vida do visitante simulado.
 let S_conferido = false
+let S_guarda = null
 ServerEvents.tick(event => {
   if (S_conferido || event.server.getTickCount() < 260) return
   S_conferido = true
   let colony = S_MC.getInstance().getColonyManager().getColonyByWorld(1, event.server.overworld())
   let v = acharCivil(colony.getVisitorManager().getCivilianDataMap().values(), 'Grub')
-  sonda('vida do visitante depois da reaplicação', () => v.getEntity().map(e => e.getMaxHealth()).orElse(-1))
+  sonda('lista de monstros do MineColonies', () => {
+    let todos = S_MC.getInstance().getColonyManager().getCompatibilityManager().getAllMonsters()
+    let l = []; todos.forEach(r => { if (String(r).startsWith('tensura:')) l.push(String(r).substring(8)) })
+    return `total=${todos.size()} zumbi=${todos.contains(S_RL.parse('minecraft:zombie'))} tensura=${l.length}: ${l.slice(0, 25).join(',')}`
+  })
+  if (S_guarda) {
+    sonda('guarda (mixin): zumbi súdito do dono → esperado false', () => S_Guard.isAttackableTarget(S_guarda.corpo, S_guarda.meu))
+    sonda('guarda: zumbi selvagem → esperado true ou erro do visitante sem posto', () => S_Guard.isAttackableTarget(S_guarda.corpo, S_guarda.selvagem))
+    sonda('guarda: goblin selvagem', () => S_Guard.isAttackableTarget(S_guarda.corpo, S_guarda.gob))
+  }
 })

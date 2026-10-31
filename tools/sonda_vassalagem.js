@@ -104,5 +104,22 @@ ServerEvents.loaded(event => {
     let ex = S_TS.getExistenceFrom(o); ex.setName('Geld'); ex.setPermanentOwner(fake.getUuid())
     return jurar(fake, o, selo)
   })
+  // Visitante com entidade (no jogo o spawnVisitor já cria a entidade com textura sorteada)
+  sonda('visitante com entidade: reaplicar corrige o sufixo', () => {
+    let AEC = Java.loadClass('com.minecolonies.api.entity.citizen.AbstractEntityCitizen')
+    let v = null
+    let it = colony.getVisitorManager().getCivilianDataMap().values().iterator()
+    while (it.hasNext()) { let x = it.next(); if (String(x.getName()) === 'Grub') v = x }
+    let e = level.createEntity('minecolonies:visitor')
+    e.setPos(alvoPos.getX(), alvoPos.getY(), alvoPos.getZ())
+    level.addFreshEntity(e)
+    v.setEntity(e)
+    e.getEntityData().set(AEC.DATA_TEXTURE_SUFFIX, '_a')
+    e.setFemale(true)
+    let antes = String(e.getEntityData().get(AEC.DATA_TEXTURE_SUFFIX))
+    reaplicarVassalos(server)
+    let nome = e.getCustomName() ? e.getCustomName().getString() : null
+    return `antes=${antes} depois=${e.getEntityData().get(AEC.DATA_TEXTURE_SUFFIX)} femea=${e.isFemale()} nome=${nome} vidaMax=${e.getMaxHealth()} presente=${v.getEntity().isPresent()}`
+  })
   console.info('[sonda] fim')
 })

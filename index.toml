@@ -2602,15 +2602,11 @@ hash = "7af3784ab0f84ed61b40540ef127938f30c1785b1922c13d232360a6de776eb0"
 
 [[files]]
 file = "kubejs/client_scripts/soberania.js"
-hash = "a5b767eb78561a6e36b8821276ca1440d026a2bbdc452c88ac88b744f382f19d"
+hash = "23af0ade2d6ce1682fc35d0004c52edcfb389c5df1c899e978367ed4d9d4e2a1"
 
 [[files]]
 file = "kubejs/server_scripts/soberania.js"
 hash = "b950c613c1ae709e6bcb79705eb265640965333a090a39ee89b8a03b3f16b339"
-
-[[files]]
-file = "kubejs/server_scripts/vassalagem.js"
-hash = "3a9a3701c542acfa0d0205519d6ec25ceb4e68c75e126b68c31f40cc467364e5"
 
 [[files]]
 file = "kubejs/startup_scripts/soberania.js"
@@ -2838,7 +2834,7 @@ metafile = true
 
 [[files]]
 file = "mods/manascore.pw.toml"
-hash = "a2a5fda644987e017368bcc3bba3e3281fdedf88825d6645c21ad654593e3287"
+hash = "8378bc1942ba9e82c1fe402000bbe7f2236d7c0d2a1ff53cc12856c5dbdd2114"
 metafile = true
 
 [[files]]
@@ -2853,7 +2849,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "789b42a5ad95cae8c646595794ef4a4a3c36d586a471b7821c6bb174c00b4796"
+hash = "438338476e0f0fbdbe0ec182f410a4003c0c7ffc3d80c7a980c9bbb1f18eba31"
 metafile = true
 
 [[files]]
@@ -2962,6 +2958,11 @@ hash = "6e7ce9c2aee5bb72d2698eb89035c9b2458d20daa0782e1a03cfba7a6647621e"
 metafile = true
 
 [[files]]
+file = "mods/soberania-bridge.pw.toml"
+hash = "e46b3ef56599f15ec5b61f58f8242ce72a4dbf223b5c74cc259f32ef7a39306f"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "6ab228a1fa98348b7444c0715e4db592414d2102e441671ac5e79066596a912c"
 metafile = true
@@ -2998,7 +2999,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "de6a284d3055d9d00a16be172b254a6fe74d1e181ed34cee1332054c0c8f860f"
+hash = "057c3d5576514c89d1cbceba1eafa7a0a38b910987a7867c64fe0052d2068e9b"
 metafile = true
 
 [[files]]
@@ -3068,7 +3069,7 @@ metafile = true
 
 [[files]]
 file = "mods/tensura-reincarnated.pw.toml"
-hash = "07e0ab3461a1c1d75c6e6a876629cf450f9700662806fb0a42282cf1b364ca88"
+hash = "eefd26b250156eb883d965f6997975654329d11fba3908f693f11146f0fbb1fe"
 metafile = true
 
 [[files]]

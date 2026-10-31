@@ -1,6 +1,7 @@
 name = "Tensura: Reincarnated"
 filename = "tensura-neoforge-2.0.1.4.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/Br0kXPwc/versions/DfQPJq9I/tensura-neoforge-2.0.1.4.jar"

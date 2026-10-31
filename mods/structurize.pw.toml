@@ -1,6 +1,7 @@
 name = "Structurize"
 filename = "structurize-1.0.835-1.21.1-snapshot.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"

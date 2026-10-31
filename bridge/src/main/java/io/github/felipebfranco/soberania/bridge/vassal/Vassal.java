@@ -5,8 +5,8 @@ import net.minecraft.nbt.CompoundTag;
 import net.minecraft.resources.ResourceLocation;
 
 /**
- * A sworn vassal: what the monster was (type and full NBT, used for its appearance and to release it later)
- * and what it became (rank, extra health and damage).
+ * A sworn vassal: what the monster was (type and full NBT, used for its appearance and to release it later),
+ * what it became (rank, extra health and damage) and its Tensura soul (EP, magicules, aura, skills; see VassalSoul).
  */
 public record Vassal(
     UUID id,
@@ -21,8 +21,13 @@ public record Vassal(
     int extraDamage,
     ResourceLocation entityType,
     CompoundTag entityNbt,
-    long swornAt
+    long swornAt,
+    CompoundTag soul
 ) {
+    public Vassal withSoul(CompoundTag newSoul) {
+        return new Vassal(id, owner, colonyId, dimension, name, race, rank, ep, extraHealth, extraDamage, entityType, entityNbt, swornAt, newSoul);
+    }
+
     public CompoundTag save() {
         CompoundTag tag = new CompoundTag();
         tag.putUUID("id", id);
@@ -38,6 +43,7 @@ public record Vassal(
         tag.putString("type", entityType.toString());
         tag.put("nbt", entityNbt);
         tag.putLong("sworn", swornAt);
+        tag.put("soul", soul);
         return tag;
     }
 
@@ -55,6 +61,7 @@ public record Vassal(
             tag.getInt("damage"),
             ResourceLocation.parse(tag.getString("type")),
             tag.getCompound("nbt"),
-            tag.getLong("sworn"));
+            tag.getLong("sworn"),
+            tag.getCompound("soul"));
     }
 }

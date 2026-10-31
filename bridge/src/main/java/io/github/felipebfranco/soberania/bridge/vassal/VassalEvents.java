@@ -24,6 +24,7 @@ import net.minecraft.world.InteractionResult;
 import net.minecraft.world.entity.Entity;
 import net.minecraft.world.entity.LivingEntity;
 import net.neoforged.bus.api.SubscribeEvent;
+import net.neoforged.neoforge.event.entity.EntityJoinLevelEvent;
 import net.neoforged.neoforge.event.entity.player.PlayerEvent;
 import net.neoforged.neoforge.event.entity.player.PlayerInteractEvent;
 import net.neoforged.neoforge.event.tick.ServerTickEvent;
@@ -77,14 +78,26 @@ public final class VassalEvents {
             for (ICivilianData data : civilians) {
                 Vassal vassal = registry.get(VassalHolder.vassalIdOf(data));
                 if (vassal == null) continue;
-                data.getEntity().ifPresent(entity -> refresh(entity, vassal));
+                data.getEntity().ifPresent(entity -> refresh(registry, entity, vassal));
             }
         }
     }
 
-    private static void refresh(AbstractCivilianEntity entity, Vassal vassal) {
+    private static void refresh(VassalRegistry registry, AbstractCivilianEntity entity, Vassal vassal) {
         VassalBody.apply(entity, vassal);
+        if (!VassalSoul.applyIfNew(entity, vassal)) registry.updateSoul(vassal.id(), VassalSoul.capture(entity));
         if (ANNOUNCED.add(entity)) VassalAppearancePayload.sendToTracking(entity, vassal);
+    }
+
+    /** New citizen entities (hiring, respawn, chunk load) get body and soul right away instead of on the next refresh. */
+    @SubscribeEvent
+    public static void onJoinLevel(EntityJoinLevelEvent event) {
+        if (event.getLevel().isClientSide() || !(event.getEntity() instanceof AbstractCivilianEntity entity)) return;
+        MinecraftServer server = event.getLevel().getServer();
+        if (server == null) return;
+        VassalRegistry registry = VassalRegistry.get(server);
+        Vassal vassal = registry.get(VassalHolder.vassalIdOf(entity.getCivilianData()));
+        if (vassal != null) refresh(registry, entity, vassal);
     }
 
     /** For the KubeJS probe and debugging: the vassal linked to a civilian, if any. */

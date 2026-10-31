@@ -2959,7 +2959,7 @@ metafile = true
 
 [[files]]
 file = "mods/soberania-bridge.pw.toml"
-hash = "e46b3ef56599f15ec5b61f58f8242ce72a4dbf223b5c74cc259f32ef7a39306f"
+hash = "cb9595db23eba45774c11c3890c4bce45327997d78e24824f264a87547744ab8"
 metafile = true
 
 [[files]]

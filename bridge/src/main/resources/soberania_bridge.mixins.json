@@ -4,6 +4,7 @@
   "package": "io.github.felipebfranco.soberania.bridge.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
+    "AbstractEntityAIGuardMixin",
     "CitizenDataMixin",
     "WalkAnimationStateAccessor"
   ],

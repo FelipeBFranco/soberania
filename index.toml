@@ -2958,6 +2958,11 @@ hash = "6e7ce9c2aee5bb72d2698eb89035c9b2458d20daa0782e1a03cfba7a6647621e"
 metafile = true
 
 [[files]]
+file = "mods/soberania-bridge.pw.toml"
+hash = "e46b3ef56599f15ec5b61f58f8242ce72a4dbf223b5c74cc259f32ef7a39306f"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "6ab228a1fa98348b7444c0715e4db592414d2102e441671ac5e79066596a912c"
 metafile = true

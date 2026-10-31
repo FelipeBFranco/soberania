@@ -1,0 +1,8 @@
+name = "Soberania Bridge"
+filename = "soberania_bridge-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/FelipeBFranco/soberania/releases/download/bridge-v0.1.0/soberania_bridge-0.1.0.jar"
+hash-format = "sha256"
+hash = "ebcdf4509a066000f73ea622c92905bdb6eb73890dae2541b365c56f53fdfd52"

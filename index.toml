@@ -3181,19 +3181,3 @@ metafile = true
 file = "mods/yungs-cave-biomes.pw.toml"
 hash = "5a334201feff0fb2f76d486399f47d0ce5b5818c284fea895706c92bb2119470"
 metafile = true
-
-[[files]]
-file = "tools/ftbquests_lang.py"
-hash = "3ac97de6b07a0684044e8ea45dc36710c49c193eb87220db9556c854e012d5d2"
-
-[[files]]
-file = "tools/gerar_dadiva.py"
-hash = "4f985e039930b7e923d5d06b3669a78acc13ac120e40c8b8e73e4368699e1391"
-
-[[files]]
-file = "tools/gerar_texturas_vassalo.py"
-hash = "233bc50a366ae06b5ac8410d960563507a572c05c86fa5bf526a07a251fb6372"
-
-[[files]]
-file = "tools/sonda_vassalagem.js"
-hash = "03945b93177c6576df16460f81150dd095118f62c72c5adea4da95bd43f9dd3a"
